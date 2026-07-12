@@ -1,0 +1,13 @@
+.DS_Store
+.ecdict/
+.playwright-cli/
+output/
+transcript/
+transcript-base/
+transcript-small/
+transcript-base/
+*.mp3
+!assets/audio/*.mp3
+范文-*
+小学五年级英语高分作文必背范文(2025版).md
+print.css

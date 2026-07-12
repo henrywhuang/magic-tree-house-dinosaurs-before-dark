@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#173f35">
+  <title>Magic Tree House · 勇闯恐龙谷精读营</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/images/cover.jpg">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <button class="icon-button menu-button" id="menuButton" aria-label="打开目录">☰</button>
+      <button class="brand" id="brandButton" aria-label="返回首页">
+        <span class="brand-mark">✦</span>
+        <span><b>Magic Tree House</b><small>Dinosaurs Before Dark</small></span>
+      </button>
+      <div class="progress-pill"><span id="progressLabel">学习进度 0%</span><i><b id="progressBar"></b></i></div>
+    </header>
+
+    <aside class="sidebar" id="sidebar">
+      <div class="side-head">
+        <span>阅读目录</span>
+        <button class="icon-button close-button" id="closeMenu" aria-label="关闭目录">×</button>
+      </div>
+      <button class="home-link active" data-view="home"><span>⌂</span> 故事首页</button>
+      <nav id="chapterNav" aria-label="章节目录"></nav>
+      <div class="side-note">
+        <span>🌱</span>
+        <p><b>Little steps, big adventures!</b><br>每天读一点，英语大进步。</p>
+      </div>
+    </aside>
+
+    <div class="scrim" id="scrim"></div>
+
+    <main class="main" id="main">
+      <section class="home-view" id="homeView">
+        <div class="hero-paper">
+          <div class="hero-copy">
+            <span class="eyebrow">MAGIC TREE HOUSE · BOOK 1</span>
+            <h1>Dinosaurs<br><em>Before Dark</em></h1>
+            <p class="cn-title">《勇闯恐龙谷》英文原著精读营</p>
+            <p class="hero-intro">Climb into the tree house, open a mysterious book, and travel with Jack and Annie to a world before time.</p>
+            <button class="primary-button" id="startButton">开始第一章 <span>→</span></button>
+          </div>
+          <figure class="book-cover"><img src="assets/images/cover.jpg" alt="Magic Tree House Collection 原版封面"></figure>
+          <div class="leaf leaf-one"></div><div class="leaf leaf-two"></div>
+        </div>
+
+        <section class="characters">
+          <div class="section-heading"><span>MEET THE ADVENTURERS</span><h2>认识故事主角</h2><p>他们是兄妹，却有完全不同的性格。</p></div>
+          <div class="character-grid">
+            <article class="character-card jack"><div class="avatar"><span>👦🏻</span></div><div><span class="role">THE CAREFUL THINKER</span><h3>Jack <small>/ 杰克</small></h3><p>男孩，安妮的哥哥。他谨慎、好学，喜欢记笔记，总想先搞清楚事情再行动。</p><blockquote>"“Wait,” said Jack."</blockquote></div></article>
+            <article class="character-card annie"><div class="avatar"><span>👧🏻</span></div><div><span class="role">THE BRAVE EXPLORER</span><h3>Annie <small>/ 安妮</small></h3><p>女孩，杰克的妹妹。她大胆、热情，相信直觉，乐于与每一种动物交朋友。</p><blockquote>"“Come on!” said Annie."</blockquote></div></article>
+          </div>
+        </section>
+        <section class="how-to"><h2>今天怎么读？</h2><div><article><b>1</b><span>🎧</span><h3>听原版音频</h3><p>选择合适语速，跟随真实录音阅读。</p></article><article><b>2</b><span>📖</span><h3>跟着高亮读</h3><p>当前句子与单词会随声音同步变化。</p></article><article><b>3</b><span>🎯</span><h3>完成章节练习</h3><p>读完即练，带着问题回原文找答案。</p></article></div></section>
+      </section>
+
+      <section class="reader-view hidden" id="readerView">
+        <div class="reader-topline">
+          <button class="back-button" id="backHome">← 返回首页</button>
+          <span id="chapterKicker">CHAPTER ONE</span>
+          <button class="exercise-button" id="exerciseButton">章节练习 →</button>
+        </div>
+        <article class="reading-page" id="readingPage">
+          <header><span class="chapter-number" id="chapterNumber">1</span><div><small id="chapterLabel">CHAPTER ONE</small><h1 id="chapterTitle">Into the Woods</h1></div></header>
+          <figure class="chapter-art"><img src="assets/images/prehistoric-adventure.png" alt="杰克和安妮在史前森林中发现树屋和恐龙的原创插图"><figcaption>Step into a world before time · 原创章节插图</figcaption></figure>
+          <div class="story-text" id="storyText" aria-live="polite"></div>
+          <div class="page-footer"><button id="prevPage">‹</button><span id="pageLabel">Page 1 / 1</span><button id="nextPage">›</button></div>
+        </article>
+      </section>
+
+      <section class="exercise-view hidden" id="exerciseView">
+        <button class="back-button" id="backToReading">← 返回原文</button>
+        <div class="exercise-sheet"><span class="eyebrow">CHECK YOUR UNDERSTANDING</span><h1 id="exerciseTitle">第一章 · 章节练习</h1><div id="exerciseContent"></div></div>
+      </section>
+    </main>
+
+    <div class="player hidden" id="player">
+      <button class="play-button" id="playButton" aria-label="播放">▶</button>
+      <div class="player-main"><div class="track-line"><b id="trackTitle">Chapter 1 · Into the Woods</b><span><i id="currentTime">0:00</i> / <i id="duration">0:00</i></span></div><input type="range" id="seek" min="0" max="1000" value="0" aria-label="播放进度"></div>
+      <div class="speed-group" role="group" aria-label="阅读语速"><button data-speed="0.75">慢节奏<small>0.75×</small></button><button class="active" data-speed="0.9">精读<small>0.9×</small></button><button data-speed="1">自然语速<small>1.0×</small></button></div>
+      <audio id="audio" preload="metadata"></audio>
+    </div>
+  </div>
+
+  <div class="word-card hidden" id="wordCard" role="dialog" aria-label="单词详解"><button class="word-close" id="wordClose">×</button><div class="word-head"><div><small>WORD CARD</small><h3 id="cardWord">word</h3><span id="cardPhonetic">/wɜːd/</span></div><button id="speakWord" aria-label="朗读单词">🔊</button></div><p id="cardMeaning">中文释义</p><small class="card-tip">点击页面其他单词可切换词卡</small></div>
+  <script src="data/words.js"></script>
+  <script src="app.js"></script>
+  <script>if('serviceWorker' in navigator) addEventListener('load',()=>navigator.serviceWorker.register('sw.js'))</script>
+</body>
+</html>
