@@ -87,7 +87,7 @@
     </div>
   </div>
 
-  <div class="word-card hidden" id="wordCard" role="dialog" aria-label="单词详解"><button class="word-close" id="wordClose">×</button><div class="word-head"><div><small>WORD CARD</small><h3 id="cardWord">word</h3><span id="cardPhonetic">/wɜːd/</span></div><button id="speakWord" aria-label="朗读单词">🔊</button></div><p id="cardMeaning">中文释义</p><small class="card-tip">点击页面其他单词可切换词卡</small></div>
+  <div class="word-card hidden" id="wordCard" role="dialog" aria-label="单词详解"><button class="word-close" id="wordClose">×</button><div class="word-head"><div><small>WORD CARD</small><h3 id="cardWord">word</h3><span id="cardPhonetic">/wɜːd/</span></div><button id="speakWord" type="button" aria-label="朗读单词" title="朗读单词">🔊</button></div><p id="cardMeaning">中文释义</p><small class="card-tip" id="pronunciationStatus" aria-live="polite">点击喇叭听发音</small></div>
   <script src="data/words.js"></script>
   <script src="app.js"></script>
   <script>if('serviceWorker' in navigator) addEventListener('load',()=>navigator.serviceWorker.register('sw.js'))</script>
