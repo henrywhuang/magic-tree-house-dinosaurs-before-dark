@@ -67,7 +67,7 @@
         </div>
         <article class="reading-page" id="readingPage">
           <header><span class="chapter-number" id="chapterNumber">1</span><div><small id="chapterLabel">CHAPTER ONE</small><h1 id="chapterTitle">Into the Woods</h1></div></header>
-          <figure class="chapter-art"><img src="assets/images/prehistoric-adventure.png" alt="杰克和安妮在史前森林中发现树屋和恐龙的原创插图"><figcaption>Step into a world before time · 原创章节插图</figcaption></figure>
+          <figure class="chapter-art"><img id="sceneImage" src="assets/images/prehistoric-adventure.png" alt="杰克和安妮的史前探险场景"><figcaption><span id="sceneTitle">第 1 个场景</span> · 原创剧情插图</figcaption></figure>
           <div class="story-text" id="storyText" aria-live="polite"></div>
           <div class="page-footer"><button id="prevPage">‹</button><span id="pageLabel">Page 1 / 1</span><button id="nextPage">›</button></div>
         </article>
@@ -87,7 +87,7 @@
     </div>
   </div>
 
-  <div class="word-card hidden" id="wordCard" role="dialog" aria-label="单词详解"><button class="word-close" id="wordClose">×</button><div class="word-head"><div><small>WORD CARD</small><h3 id="cardWord">word</h3><span id="cardPhonetic">/wɜːd/</span></div><button id="speakWord" type="button" aria-label="朗读单词" title="朗读单词">🔊</button></div><p id="cardMeaning">中文释义</p><small class="card-tip" id="pronunciationStatus" aria-live="polite">点击喇叭听发音</small></div>
+  <div class="word-card hidden" id="wordCard" role="dialog" aria-label="单词详解"><button class="word-close" id="wordClose">×</button><div class="word-head"><div><small>WORD CARD</small><h3 id="cardWord">word</h3><span id="cardPhonetic">/wɜːd/</span></div><button id="speakWord" type="button" aria-label="朗读单词" title="Qwen3-TTS 标准发音">🔊</button></div><p id="cardMeaning">中文释义</p><small class="card-tip" id="pronunciationStatus" aria-live="polite">点击喇叭听 Qwen3-TTS 标准发音</small></div>
   <script src="data/words.js"></script>
   <script src="app.js"></script>
   <script>if('serviceWorker' in navigator) addEventListener('load',()=>navigator.serviceWorker.register('sw.js'))</script>
