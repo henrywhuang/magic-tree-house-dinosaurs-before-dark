@@ -1,10 +1,7 @@
 {
-  "model": "Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice",
-  "speaker": "Aiden",
-  "language": "English",
-  "sampling": "temperature=0.15",
-  "instruct": "Read this English word clearly in a flat, neutral tone with no emotion.",
+  "voice": "macOS say -v Daniel (en_GB, British RP)",
+  "rate": 160,
   "format": "mp3/24kHz/mono/64kbps",
-  "source_word_count": 1414,
+  "post": "trim both ends + dynaudnorm",
   "count": 1414
 }

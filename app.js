@@ -41,11 +41,11 @@ function pronounceCurrentWord(event){
   const word=$('#cardWord').textContent.trim();if(!word)return;
   resumeBookAfterPronunciation=resumeBookAfterPronunciation||!audio.paused;if(!audio.paused)audio.pause();
   pronunciationAudio.pause();pronunciationAudio.currentTime=0;
-  pronunciationAudio.src=wordAudioPath(word);pronunciationStatus(`正在播放 ${word} 的 Qwen3-TTS 标准发音…`);
-  $('#speakWord').classList.add('speaking');pronunciationAudio.play().catch(()=>finishPronunciation('阿里 Qwen3-TTS 发音文件加载失败，请刷新后重试',true));
+  pronunciationAudio.src=wordAudioPath(word);pronunciationStatus(`正在播放 ${word} 的英式标准发音…`);
+  $('#speakWord').classList.add('speaking');pronunciationAudio.play().catch(()=>finishPronunciation('发音文件加载失败，请刷新后重试',true));
 }
-pronunciationAudio.onended=()=>finishPronunciation('阿里 Qwen3-TTS 发音已播放 · 可再次点击');
-pronunciationAudio.onerror=()=>finishPronunciation('阿里 Qwen3-TTS 发音文件加载失败，请刷新后重试',true);
+pronunciationAudio.onended=()=>finishPronunciation('英式发音已播放 · 可再次点击');
+pronunciationAudio.onerror=()=>finishPronunciation('发音文件加载失败，请刷新后重试',true);
 
 function renderNav(){
   const book=currentBook();
@@ -84,7 +84,7 @@ function tick(){
 }
 function findWord(t){let lo=0,hi=state.words.length-1,best=-1;while(lo<=hi){const m=(lo+hi)>>1;if(state.words[m].start<=t){best=m;lo=m+1}else hi=m-1}return best}
 function togglePlay(){if(audio.paused)audio.play();else audio.pause()}
-function showWordCard(target,lock=false){const word=(target.dataset.word||'').replace(/[^A-Za-z'-]/g,'');if(!word)return;const rect=target.getBoundingClientRect();const entry=(window.WORDS||{})[word.toLowerCase()]||{};$('#cardWord').textContent=word;els.card.dataset.wordIndex=target.dataset.index;$('#cardPhonetic').textContent=entry.phonetic||phoneticFallback(word);$('#cardMeaning').textContent=entry.meaning||'专有名词或变形词，请结合上下文理解';pronunciationStatus('点击喇叭听 Qwen3-TTS 标准发音');els.card.classList.remove('hidden');const left=Math.min(innerWidth-300,Math.max(12,rect.left));const top=Math.min(innerHeight-210,rect.bottom+12);els.card.style.left=`${left}px`;els.card.style.top=`${Math.max(10,top)}px`;if(lock)state.lockedWord=target}
+function showWordCard(target,lock=false){const word=(target.dataset.word||'').replace(/[^A-Za-z'-]/g,'');if(!word)return;const rect=target.getBoundingClientRect();const entry=(window.WORDS||{})[word.toLowerCase()]||{};$('#cardWord').textContent=word;els.card.dataset.wordIndex=target.dataset.index;$('#cardPhonetic').textContent=entry.phonetic||phoneticFallback(word);$('#cardMeaning').textContent=entry.meaning||'专有名词或变形词，请结合上下文理解';pronunciationStatus('点击喇叭听英式标准发音');els.card.classList.remove('hidden');const left=Math.min(innerWidth-300,Math.max(12,rect.left));const top=Math.min(innerHeight-210,rect.bottom+12);els.card.style.left=`${left}px`;els.card.style.top=`${Math.max(10,top)}px`;if(lock)state.lockedWord=target}
 function phoneticFallback(word){return `/ ${word.toLowerCase()} /`}
 function hideCard(){els.card.classList.add('hidden');state.lockedWord=null}
 async function loadQuestionBank(){
