@@ -7,7 +7,7 @@
   <title>Magic Tree House · 双册原著精读营</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/images/cover.jpg">
-  <link rel="stylesheet" href="styles.css?v=20260714-vocabfocus">
+  <link rel="stylesheet" href="styles.css?v=20260714-vocabphonics">
 </head>
 <body>
   <div class="app-shell">
@@ -63,6 +63,10 @@
               <img src="assets/images/book-02-scenes/chapter-02-scene-03.webp" alt="杰克和安妮在雾中发现古堡和黑马骑士">
               <div><span>BOOK 2 · 中世纪古堡</span><h3>The Knight at Dawn</h3><p>《古堡惊魂夜》</p><small>10 章 · 30 个剧情场景 · 原版有声书</small><button data-book-start="1">进入第二册 <b>→</b></button></div>
             </article>
+            <article class="book-entry book-three">
+              <img src="assets/images/cover.jpg" alt="《木乃伊之谜》古埃及金字塔历险">
+              <div><span>BOOK 3 · 古埃及</span><h3>Mummies in the Morning</h3><p>《木乃伊之谜》</p><small>10 章 · 30 个剧情场景 · 原版有声书</small><button data-book-start="2">进入第三册 <b>→</b></button></div>
+            </article>
           </div>
         </section>
 
@@ -103,7 +107,7 @@
         <button class="back-button" id="backFromVocabulary">← 返回原文</button>
         <div class="vocabulary-shell">
           <header class="vocabulary-header">
-            <div><span class="eyebrow">READ · UNDERSTAND · SPELL</span><h1>本章词汇学习</h1><p>Book 2 · Chapter 1 · The Dark Woods</p></div>
+            <div><span class="eyebrow">READ · UNDERSTAND · PHONICS · SPELL</span><h1>本章词汇学习</h1><p>Book 2 · Chapter 1 · The Dark Woods</p></div>
           </header>
           <div id="vocabularyContent" aria-live="polite"></div>
         </div>
@@ -147,7 +151,7 @@
     <small class="card-tip" id="pronunciationStatus" aria-live="polite">点击喇叭听美式标准发音</small>
   </div>
   <script src="data/words.js?v=20260714b"></script>
-  <script src="app.js?v=20260714-vocabfocus"></script>
+  <script src="app.js?v=20260714-vocabphonics"></script>
   <script>if('serviceWorker' in navigator) addEventListener('load',()=>navigator.serviceWorker.register('./sw.js',{updateViaCache:'none'}))</script>
 </body>
 </html>

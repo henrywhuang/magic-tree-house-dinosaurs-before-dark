@@ -2273,6 +2273,1123 @@
           ]
         }
       ]
+    },
+    {
+      "book": 3,
+      "book_title": "Mummies in the Morning",
+      "book_title_cn": "木乃伊之谜",
+      "chapters": [
+        {
+          "book": 3,
+          "chapter": 1,
+          "chapter_title": "Meow!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What kind of noise does Jack say he heard near the tree house?",
+              "options": {
+                "A": "A noise that sounded like someone coughing",
+                "B": "A noise that sounded like a bird singing",
+                "C": "A noise that sounded like the rope ladder creaking",
+                "D": "A noise that sounded like thunder far away"
+              },
+              "answer": "A",
+              "evidence": [
+                "“It sounded like someone coughing.”"
+              ],
+              "rationale": "Jack tells Annie the noise he heard sounded like someone coughing, which is why he thinks a person is nearby.",
+              "id": "B3C1Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Why does the black cat outside the window surprise Jack and Annie so much?",
+              "options": {
+                "A": "It is the first cat they have ever seen in the woods",
+                "B": "It looks exactly like the cat pictured in the Egypt book",
+                "C": "It is chasing the mysterious M person away",
+                "D": "It is holding the gold medallion in its mouth"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"It's the cat in the Egypt book,\" whispered Annie.",
+                "At the end of the parade was a sleek black cat."
+              ],
+              "rationale": "The cat matches the black cat shown in the Egypt book's pyramid picture, so its sudden appearance stuns them.",
+              "id": "B3C1Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "In the sentence “It was very sleek and dark, with bright yellow eyes and a wide gold collar,” what does the word “sleek” most nearly mean?",
+              "options": {
+                "A": "Smooth and glossy",
+                "B": "Fat and lazy",
+                "C": "Old and sick",
+                "D": "Loud and playful"
+              },
+              "answer": "A",
+              "evidence": [
+                "It was very sleek and dark, with bright yellow eyes and a wide gold collar."
+              ],
+              "rationale": "“Sleek” describes the cat’s smooth, glossy coat, matching the elegant look paired with its bright eyes and gold collar.",
+              "id": "B3C1Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about why Jack agrees to travel into the Egypt book?",
+              "options": {
+                "A": "He is afraid the M person will take the book away",
+                "B": "He especially loves pyramids and is drawn to them",
+                "C": "Annie promises to carry his heavy backpack",
+                "D": "He wants to escape the coughing noise in the bushes"
+              },
+              "answer": "B",
+              "evidence": [
+                "Pyramids were high on Jack's list of favorite things, after knights and dinosaurs—plant-eating dinosaurs, that is.",
+                "He didn't have to worry about being eaten by a pyramid."
+              ],
+              "rationale": "The text shows pyramids are among Jack’s favorite things and feel safe to him, so he agrees to go.",
+              "id": "B3C1Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which sentence best summarizes what happens in this chapter?",
+              "options": {
+                "A": "Jack and Annie return the medallion and bookmark to the mysterious M person",
+                "B": "Jack and Annie choose the Egypt book, and a strange black cat appears just as they wish to travel there",
+                "C": "Jack and Annie dry out the castle book and decide to visit knights again",
+                "D": "Jack and Annie explore the woods and never reach the tree house"
+              },
+              "answer": "B",
+              "evidence": [
+                "She held up a book about ancient Egypt.",
+                "A black cat was sitting on a branch right outside the window."
+              ],
+              "rationale": "The chapter centers on the two picking the Egypt book and the mysterious black cat appearing as the tree house begins to spin.",
+              "id": "B3C1Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 3,
+          "chapter": 2,
+          "chapter_title": "Oh, Man. Mummies!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Where is the tree house resting when Jack and Annie look out the window in this chapter?",
+              "options": {
+                "A": "On the top of a palm tree",
+                "B": "On the top of the great stone pyramid",
+                "C": "On a sand dune in the desert",
+                "D": "On the back of one of the oxen"
+              },
+              "answer": "A",
+              "evidence": [
+                "The tree house was perched on the top of a palm tree."
+              ],
+              "rationale": "The text states the tree house was perched on top of a palm tree among about a dozen palms.",
+              "id": "B3C2Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How do Jack and Annie end up following the black cat to a hole in the pyramid wall?",
+              "options": {
+                "A": "The cat leads them straight there before the parade even appears",
+                "B": "After the parade vanishes, they spot the cat slinking around a corner and chase it",
+                "C": "Jack reads directions to the hole in the Egypt book",
+                "D": "The oxen push them toward the pyramid wall"
+              },
+              "answer": "B",
+              "evidence": [
+                "The cat started to slink away.",
+                "They dashed around the corner just in time to see the cat disappear through a hole in the pyramid wall."
+              ],
+              "rationale": "Once the parade disappears, the children notice the real cat slink off and chase it around the corner to the hole.",
+              "id": "B3C2Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "Based on how Jack uses it, what does the word “mirage” mean?",
+              "options": {
+                "A": "A real building hidden in the sand",
+                "B": "Something that looks real but is only sunlight reflecting through heat",
+                "C": "A ghost that haunts the desert",
+                "D": "A kind of Egyptian funeral procession"
+              },
+              "answer": "B",
+              "evidence": [
+                "“It must have been a mirage.”",
+                "\"It looks like something's there. But it just turns out to be the sunlight reflecting through heat.\""
+              ],
+              "rationale": "Jack explains a mirage as something that seems to be there but is really sunlight reflecting through heat.",
+              "id": "B3C2Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about the black cat compared with the parade?",
+              "options": {
+                "A": "The cat is part of the mirage and disappears too",
+                "B": "The cat is real, unlike the parade that vanished",
+                "C": "The cat is a ghost that Annie fears",
+                "D": "The cat is one of the mourners in the funeral"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"He's no mirage,\" said Annie.",
+                "The strange parade had vanished."
+              ],
+              "rationale": "The parade vanishes like a mirage, but the cat remains standing and staring, so it is real.",
+              "id": "B3C2Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 3,
+              "stem": "Which statement best captures the main idea of this chapter?",
+              "options": {
+                "A": "Jack and Annie land in Egypt, watch a funeral parade vanish like a mirage, and follow the real cat into the pyramid",
+                "B": "Jack and Annie ride with the oxen to a royal funeral inside the pyramid",
+                "C": "Jack and Annie argue about ghosts and decide to return home to Frog Creek",
+                "D": "Jack takes so many notes that the parade waits for them to catch up"
+              },
+              "answer": "A",
+              "evidence": [
+                "The strange parade had vanished.",
+                "They dashed around the corner just in time to see the cat disappear through a hole in the pyramid wall."
+              ],
+              "rationale": "The chapter moves from arriving in Egypt, to the parade vanishing as a mirage, to chasing the real cat into the pyramid.",
+              "id": "B3C2Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 3,
+          "chapter": 3,
+          "chapter_title": "It's Alive!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "According to the Egypt book, what were pyramids mostly made of?",
+              "options": {
+                "A": "wooden beams and mud bricks",
+                "B": "nearly all solid stone",
+                "C": "sand packed into blocks",
+                "D": "gold and painted plaster"
+              },
+              "answer": "B",
+              "evidence": [
+                "nearly all solid stone, except for",
+                "the burial chambers deep inside."
+              ],
+              "rationale": "The caption Jack reads states that pyramids were nearly all solid stone.",
+              "id": "B3C3Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How do Jack and Annie act differently as they move into the pyramid?",
+              "options": {
+                "A": "Jack wants to rush ahead, while Annie keeps stopping to read.",
+                "B": "Jack keeps checking the book for directions, while Annie urges him to keep moving.",
+                "C": "Jack refuses to enter, while Annie stays outside in the sunlight.",
+                "D": "Jack looks for the cat, while Annie looks for a way back out."
+              },
+              "answer": "B",
+              "evidence": [
+                "“Wait,” said Jack. “I want to look at the book.”",
+                "“Go! Just go!” said Annie. She gave him a little push."
+              ],
+              "rationale": "Jack repeatedly pauses to study the book for the route, while Annie pushes him to hurry deeper inside.",
+              "id": "B3C3Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "The air deep inside felt “musty and stale.” What does this most likely mean?",
+              "options": {
+                "A": "fresh and cool like a breeze",
+                "B": "old, stuffy, and not fresh",
+                "C": "warm and full of sunlight",
+                "D": "sweet-smelling like flowers"
+              },
+              "answer": "B",
+              "evidence": [
+                "Soon the floor became flat. The air felt different—musty and stale."
+              ],
+              "rationale": "Air that is “musty and stale” deep in a sealed pyramid is old, stuffy, and not fresh.",
+              "id": "B3C3Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about how Jack and Annie know they are getting close to the burial chamber?",
+              "options": {
+                "A": "A guard tells them how much farther to go.",
+                "B": "They follow the way the floor slants up and then goes flat, just like the book’s picture.",
+                "C": "They see the mummy waiting at the doorway.",
+                "D": "The torches on the walls suddenly go out."
+              },
+              "answer": "B",
+              "evidence": [
+                "The hallway slants up. Then it gets flat. Then you come to the chamber.",
+                "Soon the floor became flat."
+              ],
+              "rationale": "Jack matches the shape of the floor to the book’s diagram, so when it slants up then flattens, they know the chamber is near.",
+              "id": "B3C3Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which choice best summarizes Chapter 3?",
+              "options": {
+                "A": "Jack and Annie leave the pyramid and return to the tree house before dark.",
+                "B": "Jack reads about mummies while Annie befriends a cat in the sunlight.",
+                "C": "Jack and Annie head deep into the pyramid toward the burial chamber, and a white figure suddenly flies at them.",
+                "D": "Jack and Annie search the desert for the entrance to a hidden pyramid."
+              },
+              "answer": "C",
+              "evidence": [
+                "Then he and Annie headed deeper into the pyramid.",
+                "Out of the shadows flew a white figure.",
+                "“It's alive!” Annie shouted."
+              ],
+              "rationale": "The chapter follows the children moving toward the burial chamber and ends with a white figure rushing at them.",
+              "id": "B3C3Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 3,
+          "chapter": 4,
+          "chapter_title": "Back from the Dead",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What object does Annie pick up from the floor after the white figure passes?",
+              "options": {
+                "A": "a burning torch",
+                "B": "a gold scepter with a dog's head",
+                "C": "Jack's notebook and pencil",
+                "D": "a piece of mummy cloth"
+              },
+              "answer": "B",
+              "evidence": [
+                "It was a gold stick about a foot long. A dog's head was carved on one end.",
+                "\"It looks like a scepter,\" said Jack."
+              ],
+              "rationale": "Annie lifts a gold stick with a dog's head carved on it, which Jack identifies as a scepter.",
+              "id": "B3C4Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How do Annie and Jack react differently to the white figure?",
+              "options": {
+                "A": "Annie wants to run away, while Jack wants to chase it.",
+                "B": "Annie believes it is a mummy and calls it back, while Jack insists it was a real person.",
+                "C": "Annie ignores it, while Jack writes down its description.",
+                "D": "Annie is frightened silent, while Jack shouts for help."
+              },
+              "answer": "B",
+              "evidence": [
+                "“Come back, mummy!” Annie called.",
+                "“That was no mummy,” said Jack. “It was a person. A real person.”"
+              ],
+              "rationale": "Annie calls after it as a mummy she wants to help, while Jack argues it was really a person.",
+              "id": "B3C4Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "Based on the book, who is a “tomb robber”?",
+              "options": {
+                "A": "a king or queen who carries a scepter",
+                "B": "a mummy that comes back from the dead",
+                "C": "a person who steals the treasure buried with mummies",
+                "D": "a guard who protects the pyramid"
+              },
+              "answer": "C",
+              "evidence": [
+                "Tomb robbers often stole the treasure buried with mummies.",
+                "\"Yeah, a robber who steals stuff from tombs,\" said Jack."
+              ],
+              "rationale": "The book and Jack both explain that a tomb robber is someone who steals the treasure from tombs.",
+              "id": "B3C4Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about the beautiful Egyptian lady at the end of the chapter?",
+              "options": {
+                "A": "She is a living queen who rules the pyramid.",
+                "B": "She is the tomb robber in disguise.",
+                "C": "She is not solid but a ghostly figure.",
+                "D": "She is a statue carved from gold."
+              },
+              "answer": "C",
+              "evidence": [
+                "The scepter passed right through the lady's hand.",
+                "She was made of air."
+              ],
+              "rationale": "The scepter passes right through her hand and she is “made of air,” showing she is a ghostly, not solid, figure.",
+              "id": "B3C4Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "Which statement best expresses a theme of Chapter 4?",
+              "options": {
+                "A": "Careful thinking can explain a scary event, yet the world still holds real mysteries.",
+                "B": "Stealing treasure from tombs always leads to punishment.",
+                "C": "Kings and queens are the only people allowed inside pyramids.",
+                "D": "It is dangerous to read books in dark places."
+              },
+              "answer": "A",
+              "evidence": [
+                "“Not a mummy,” he said. “Just a tomb robber.”",
+                "A wave of terror shot through him.",
+                "She was made of air."
+              ],
+              "rationale": "Jack reasons out that the first figure was only a robber, but then a truly unexplained ghostly lady appears, showing real mystery remains.",
+              "id": "B3C4Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 3,
+          "chapter": 5,
+          "chapter_title": "The Ghost-Queen",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Who is the ghost that appears to Jack and Annie?",
+              "options": {
+                "A": "A tomb robber who stole treasure",
+                "B": "Hutepi, a queen of the Nile",
+                "C": "The brother who hid the book",
+                "D": "A guard of the Underworld"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"I am Hutepi,\" she said. \"Queen of the Nile. Have you come to help me?\""
+              ],
+              "rationale": "The ghost names herself Hutepi and says she is the Queen of the Nile.",
+              "id": "B3C5Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Why is the ghost-queen unable to read the message her brother carved on the wall?",
+              "options": {
+                "A": "The message is written in a language she never learned.",
+                "B": "Tomb robbers scratched out most of the pictures.",
+                "C": "She cannot see things that are close to her eyes.",
+                "D": "The room is too dark for her to see the wall."
+              },
+              "answer": "C",
+              "evidence": [
+                "I cannot see clearly that which is close to my eyes. I have not been able to read his message for thousands of years."
+              ],
+              "rationale": "The queen explains she cannot see clearly up close, which is why the message has stayed unread for so long.",
+              "id": "B3C5Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "What are \"hieroglyphs,\" as Jack explains them in this chapter?",
+              "options": {
+                "A": "Magic spells spoken aloud",
+                "B": "An ancient Egyptian way of writing with pictures",
+                "C": "Statues built to guard a tomb",
+                "D": "The names of Egyptian queens"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"Hieroglyphs!\" said Jack, finally finding his voice. \"It's the ancient Egyptian way of writing. It's like writing with pictures.\""
+              ],
+              "rationale": "Jack defines hieroglyphs as the ancient Egyptian way of writing that is like writing with pictures.",
+              "id": "B3C5Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "Why can't the ghost-queen wear the glasses that Jack offers her?",
+              "options": {
+                "A": "The glasses are too small for her face.",
+                "B": "She is a ghost made of air and cannot hold them.",
+                "C": "She is afraid the glasses are cursed.",
+                "D": "Her eyes are already too old to be helped."
+              },
+              "answer": "B",
+              "evidence": [
+                "She backed away from him. \"I cannot wear your glasses, Jack,\" she said. \"As you can see, I am made of air.\""
+              ],
+              "rationale": "Because she is made of air, a ghost cannot physically wear solid glasses.",
+              "id": "B3C5Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which sentence best summarizes what happens in Chapter 5?",
+              "options": {
+                "A": "Jack and Annie fight off snakes and monsters inside a tomb.",
+                "B": "The ghost-queen teaches Jack how to speak ancient Egyptian.",
+                "C": "The ghost-queen asks the children to help her find her Book of the Dead, and Jack begins reading the wall's picture-writing.",
+                "D": "Annie decides the ghost is too frightening and leads Jack out of the pyramid."
+              },
+              "answer": "C",
+              "evidence": [
+                "\"Someone must find my Book of the Dead,\" she said. \"I need it to go on to the Next Life.\"",
+                "Then he stepped toward the wall and took a good long look."
+              ],
+              "rationale": "The chapter centers on the queen's request for help finding her Book of the Dead and Jack turning to read the carved message.",
+              "id": "B3C5Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 3,
+          "chapter": 6,
+          "chapter_title": "The Writing on the Wall",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "How many pictures are carved into the pyramid wall?",
+              "options": {
+                "A": "Two",
+                "B": "Three",
+                "C": "Four",
+                "D": "Five"
+              },
+              "answer": "C",
+              "evidence": [
+                "\"There are four pictures here,\" Jack told the ghost-queen."
+              ],
+              "rationale": "Jack tells the ghost-queen that there are four pictures carved on the wall.",
+              "id": "B3C6Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How do Jack and Annie help the ghost-queen understand the pictures she cannot see?",
+              "options": {
+                "A": "They read the ancient words out loud to her.",
+                "B": "They describe and draw each picture so she can name it.",
+                "C": "They carry the queen closer to the wall.",
+                "D": "They copy the pictures onto the floor with chalk."
+              },
+              "answer": "B",
+              "evidence": [
+                "\"Describe them to me, Jack. One at a time, please,\" she said.",
+                "\"Wait,\" said Jack. \"I'll draw it in my notebook. Big! So you can see it.\""
+              ],
+              "rationale": "The children describe each shape aloud, and Jack even draws one big in his notebook, so the queen can name them.",
+              "id": "B3C6Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "When Annie says the third picture is \"like a thing that holds flowers,\" she and Jack are describing something the queen calls a jug. What is a jug?",
+              "options": {
+                "A": "A container for holding water",
+                "B": "A folded piece of cloth",
+                "C": "A set of stone stairs",
+                "D": "A small wooden boat"
+              },
+              "answer": "A",
+              "evidence": [
+                "\"Or a thing that holds water,\" said Jack.",
+                "\"Like a jug?\" asked the ghost-queen."
+              ],
+              "rationale": "Jack says the shape is a thing that holds water, which the queen identifies as a jug.",
+              "id": "B3C6Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader tell about the ghost-queen from the moment she hears the second picture might be a boat?",
+              "options": {
+                "A": "She is disappointed that the children guessed wrong.",
+                "B": "She is bored and wants them to hurry.",
+                "C": "The word boat means something important to her.",
+                "D": "She has never heard the word boat before."
+              },
+              "answer": "C",
+              "evidence": [
+                "\"Boat?\" said the ghost-queen. She sounded excited.",
+                "The ghost-queen looked very happy. She smiled."
+              ],
+              "rationale": "Her excitement and happiness at the word boat suggest it matters to her and fits the message.",
+              "id": "B3C6Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "Which idea is best supported by how the children and the queen work through the writing on the wall?",
+              "options": {
+                "A": "Working together, people can solve a problem none could solve alone.",
+                "B": "Ancient writing is impossible for children to understand.",
+                "C": "It is safer to give up than to guess an answer.",
+                "D": "Pictures are always clearer than written words."
+              },
+              "answer": "A",
+              "evidence": [
+                "\"So that's all of them,\" said Annie. She pointed at each picture. \"Stairs. Boat. Jug. Folded cloth.\"",
+                "\"Come,\" she said. She held out her hand. \"Come to my burial chambers.\""
+              ],
+              "rationale": "The queen could not see the pictures and the children could not name them alone, but together they read all four and move forward.",
+              "id": "B3C6Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 3,
+          "chapter": 7,
+          "chapter_title": "The Scroll",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What did Jack and Annie find wrapped inside the folded cloth?",
+              "options": {
+                "A": "A gold plate",
+                "B": "An ancient-looking scroll",
+                "C": "A jeweled goblet",
+                "D": "A small wooden statue"
+              },
+              "answer": "B",
+              "evidence": [
+                "Jack reached into the jug and pulled out the folded cloth. It was wrapped around an ancient-looking scroll."
+              ],
+              "rationale": "The text states the folded cloth was wrapped around an ancient-looking scroll, so B is correct.",
+              "id": "B3C7Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Why does Annie insist that they follow the ghost-queen and not delay leaving the scroll?",
+              "options": {
+                "A": "She is afraid the pyramid will collapse on them",
+                "B": "She thinks the queen has waited thousands of years for her book",
+                "C": "She wants to explore the false passages first",
+                "D": "She is trying to find the way back outside"
+              },
+              "answer": "B",
+              "evidence": [
+                "“She’s waited thousands of years for her book. Don’t make her wait anymore.”"
+              ],
+              "rationale": "Annie's own words explain her reason: the queen has waited thousands of years, so B is correct.",
+              "id": "B3C7Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "The room is described as \"cold, drafty.\" What does drafty most likely mean here?",
+              "options": {
+                "A": "Filled with bright light",
+                "B": "Having currents of cold air moving through",
+                "C": "Crowded with furniture",
+                "D": "Completely sealed and airless"
+              },
+              "answer": "B",
+              "evidence": [
+                "They stepped into a cold, drafty room.",
+                "Cold air was coming through the open doorway."
+              ],
+              "rationale": "The nearby clue that cold air was coming through the doorway shows drafty means air currents move through the room.",
+              "id": "B3C7Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "How can the reader tell that Jack is frightened as he crosses toward the second room?",
+              "options": {
+                "A": "He drops the scroll on the floor",
+                "B": "His heart was pounding and he could barely breathe",
+                "C": "He calls out for Queen Hutepi",
+                "D": "He refuses to enter the pyramid at all"
+              },
+              "answer": "B",
+              "evidence": [
+                "Jack's heart was pounding.",
+                "Jack could barely breathe."
+              ],
+              "rationale": "The text shows Jack's fear through his physical reactions of a pounding heart and barely being able to breathe.",
+              "id": "B3C7Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which sentence best summarizes the main events of this chapter?",
+              "options": {
+                "A": "Jack and Annie play the musical instruments they find in the pyramid",
+                "B": "Following the ghost-queen, Jack and Annie find the Book of the Dead in a boat and carry it toward a glowing gold box",
+                "C": "Jack and Annie get lost in a false passage and the torches go out",
+                "D": "The ghost-queen tells Jack and Annie the history of ancient Egypt"
+              },
+              "answer": "B",
+              "evidence": [
+                "“The Book of the Dead!” whispered Annie. “We found it.”",
+                "They walked together across the room to the glowing gold box."
+              ],
+              "rationale": "The chapter centers on the children following the queen, finding the scroll, and approaching the glowing gold box.",
+              "id": "B3C7Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 3,
+          "chapter": 8,
+          "chapter_title": "The Mummy",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "According to the Egypt book Jack reads, what was the first step in making a mummy?",
+              "options": {
+                "A": "It was covered with oil",
+                "B": "It was wrapped tightly in bandages",
+                "C": "It was dried out with salt",
+                "D": "The brain was removed"
+              },
+              "answer": "C",
+              "evidence": [
+                "First it was dried out with salt."
+              ],
+              "rationale": "The book states the body was first dried out with salt, so C is correct.",
+              "id": "B3C8Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How do Jack and Annie react differently to the sight of the mummy?",
+              "options": {
+                "A": "Both of them are excited and want to stay",
+                "B": "Jack finds it interesting, while Annie is disgusted and runs out",
+                "C": "Both of them are terrified and leave together",
+                "D": "Jack is scared, while Annie wants to examine it closely"
+              },
+              "answer": "B",
+              "evidence": [
+                "“No,” said Jack. “It’s interesting.”",
+                "“Yuck! Stop!” cried Annie. “Good-bye!” She dashed out of the room."
+              ],
+              "rationale": "Jack says the mummy is interesting and stays, while Annie cries out in disgust and dashes out.",
+              "id": "B3C8Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "Jack says the passage is \"one of those false passages built to fool the tomb robbers.\" What does false passage mean here?",
+              "options": {
+                "A": "A hallway that leads safely outside",
+                "B": "A hidden room full of treasure",
+                "C": "A fake hallway made to trick and mislead people",
+                "D": "A staircase that only the queen can use"
+              },
+              "answer": "C",
+              "evidence": [
+                "“I think this is one of those false passages built to fool the tomb robbers,” said Jack.",
+                "“Yeah, it looks just like the other hallway,” said Jack."
+              ],
+              "rationale": "Jack explains the passage was built to fool tomb robbers and only looks like the real hallway.",
+              "id": "B3C8Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "Why does Jack first run in the wrong direction when he hears Annie calling for help?",
+              "options": {
+                "A": "He wants to leave the pyramid without her",
+                "B": "Her voice grew fainter, showing he was moving away from her",
+                "C": "He is following the ghost-queen instead",
+                "D": "He goes back to place the scroll by the mummy"
+              },
+              "answer": "B",
+              "evidence": [
+                "“Help, Jack!” Her cry seemed fainter.",
+                "He was running away from her voice."
+              ],
+              "rationale": "The clue that her cry seemed fainter tells Jack he was running away from her, so he turns back.",
+              "id": "B3C8Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "What lesson about the two children does the ending of this chapter best show?",
+              "options": {
+                "A": "Curiosity about mummies is always dangerous",
+                "B": "Jack cares about Annie and goes back to rescue her even when he is scared",
+                "C": "Tomb robbers are the real danger inside the pyramid",
+                "D": "It is better to explore a pyramid alone than together"
+              },
+              "answer": "B",
+              "evidence": [
+                "He went back toward the burial chambers.",
+                "“Jack!” Annie was running through the hallway toward him. She crashed into him."
+              ],
+              "rationale": "When Jack realizes Annie is lost, he turns back toward the burial chambers to find her, showing his care.",
+              "id": "B3C8Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 3,
+          "chapter": 9,
+          "chapter_title": "Follow the Leader",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What finally leads Jack and Annie out of the dark passage?",
+              "options": {
+                "A": "They push the wooden door until it opens.",
+                "B": "They follow the cat's meow through the hallway.",
+                "C": "They light a torch to see the way out.",
+                "D": "They dig a tunnel through the stone wall."
+              },
+              "answer": "B",
+              "evidence": [
+                "“Follow him!” cried Jack. “He’s going away from us.”",
+                "Jack and Annie kept following the sound, all the way through the winding hallway."
+              ],
+              "rationale": "Jack and Annie escape by following the cat's meow through the winding hallway to the exit.",
+              "id": "B3C9Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How does hearing the cat's meow change what Jack and Annie do?",
+              "options": {
+                "A": "It makes them stop pushing and give up hope.",
+                "B": "It makes them run back to the wooden door.",
+                "C": "It makes them stand still and wait to be rescued.",
+                "D": "It makes them move again and follow the sound."
+              },
+              "answer": "D",
+              "evidence": [
+                "They were trapped.",
+                "Jack and Annie started down the dark hallway, following the cat's meow."
+              ],
+              "rationale": "Just when they feel trapped, the meow gives them a direction, so they start moving again to follow it.",
+              "id": "B3C9Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "In “It wouldn't budge,” what does “budge” mean?",
+              "options": {
+                "A": "make a loud noise",
+                "B": "move even a little",
+                "C": "break into pieces",
+                "D": "lock up tightly"
+              },
+              "answer": "B",
+              "evidence": [
+                "They leaned against the wooden door and pushed.",
+                "It wouldn't budge."
+              ],
+              "rationale": "They push the door but it will not move at all, so “budge” means to move even slightly.",
+              "id": "B3C9Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can readers infer about how Jack feels while trapped in the dark?",
+              "options": {
+                "A": "He is calm and completely unafraid.",
+                "B": "He is frightened but tries to control it.",
+                "C": "He is excited to explore the dark tunnel.",
+                "D": "He is angry at Annie for the trouble."
+              },
+              "answer": "B",
+              "evidence": [
+                "\"Don't worry. Everything's going to be okay,\" said Jack. He was trying to stay calm.",
+                "His heart was pounding as he tried to see through the darkness."
+              ],
+              "rationale": "His pounding heart shows fear, while his effort to “stay calm” shows he is trying to control that fear.",
+              "id": "B3C9Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which choice best summarizes the chapter?",
+              "options": {
+                "A": "Jack and Annie open a stuck door on their own, then walk calmly home in the dark.",
+                "B": "Trapped in darkness, Jack and Annie follow the cat to safety, then ride the tree house home.",
+                "C": "The cat leads Jack and Annie deeper into the pyramid, where they decide to stay the night.",
+                "D": "Annie finds an exit while Jack stays behind to watch a boat glide across the sand."
+              },
+              "answer": "B",
+              "evidence": [
+                "They were trapped.",
+                "Jack and Annie kept following the sound, all the way through the winding hallway.",
+                "\"I wish we could go home,\" he said."
+              ],
+              "rationale": "The chapter's main sequence is being trapped, following the cat out, and then wishing the tree house home.",
+              "id": "B3C9Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 3,
+          "chapter": 10,
+          "chapter_title": "Another Clue",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What does Jack see shining on the wooden floor of the tree house?",
+              "options": {
+                "A": "The letter M",
+                "B": "A gold medallion",
+                "C": "A leather bookmark",
+                "D": "A tiny cat"
+              },
+              "answer": "A",
+              "evidence": [
+                "It was the letter M! It shimmered in the sunlight."
+              ],
+              "rationale": "When Jack catches the light just right, he sees the shining letter M on the floor.",
+              "id": "B3C10Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Why does finding the letter M matter to Jack and Annie?",
+              "options": {
+                "A": "It shows the tree house is about to disappear.",
+                "B": "It proves the tree house belongs to M.",
+                "C": "It tells them which book to read next.",
+                "D": "It warns them to leave the woods quickly."
+              },
+              "answer": "B",
+              "evidence": [
+                "This absolutely proved the tree house belonged to M. There was no doubt about it.",
+                "The person who seems to own all the books in the tree house?"
+              ],
+              "rationale": "The M is a clue that settles who owns the tree house, confirming it belongs to the mysterious M.",
+              "id": "B3C10Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In “It came into focus,” what does “focus” mean here?",
+              "options": {
+                "A": "became clear to see",
+                "B": "started to move",
+                "C": "grew very bright",
+                "D": "disappeared slowly"
+              },
+              "answer": "A",
+              "evidence": [
+                "He tipped his head a bit more. It came into focus.",
+                "It was the letter M!"
+              ],
+              "rationale": "After Jack tips his head, the shape becomes clear enough to recognize as the letter M.",
+              "id": "B3C10Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can readers infer about why Jack speaks loudly to the bushes?",
+              "options": {
+                "A": "He is lost and calling for his mother.",
+                "B": "He believes M is close and can hear him.",
+                "C": "He is frightened of an animal in the woods.",
+                "D": "He wants Annie to stop and listen to him."
+              },
+              "answer": "B",
+              "evidence": [
+                "\"I feel like M is nearby,\" Jack whispered.",
+                "\"I'm going to bring the medallion back soon,\" Jack said loudly. \"And the bookmark, too. Both of them. Tomorrow!\""
+              ],
+              "rationale": "Jack senses M is near, so he speaks loudly on purpose so that M might hear his promise.",
+              "id": "B3C10Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "Which statement best expresses a theme of this final chapter?",
+              "options": {
+                "A": "Solving one mystery can leave an even bigger mystery to explore.",
+                "B": "Friends should always keep their adventures a secret.",
+                "C": "It is safer to stay home than to explore new places.",
+                "D": "Hard work is always rewarded with a good lunch."
+              },
+              "answer": "A",
+              "evidence": [
+                "This absolutely proved the tree house belonged to M. There was no doubt about it.",
+                "Will we ever meet M? Jack wondered."
+              ],
+              "rationale": "The clue answers who owns the tree house, yet the unanswered question of who M is keeps the larger mystery open.",
+              "id": "B3C10Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
