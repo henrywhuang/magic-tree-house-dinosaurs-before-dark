@@ -1,7 +1,10 @@
 {
-  "voice": "macOS say -v Alex (en_US, American)",
-  "rate": 160,
+  "model": "Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice",
+  "speaker": "Aiden",
+  "language": "English",
+  "sampling": "temperature=0.15",
+  "instruct": "Read this English word clearly in a flat, neutral tone with no emotion.",
   "format": "mp3/24kHz/mono/64kbps",
-  "post": "trim both ends + dynaudnorm",
-  "count": 1414
+  "source_word_count": 1386,
+  "count": 1421
 }

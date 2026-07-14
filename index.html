@@ -80,7 +80,10 @@
         <div class="reader-topline">
           <button class="back-button" id="backHome">← 返回首页</button>
           <span id="chapterKicker">BOOK 1 · CHAPTER ONE</span>
-          <button class="exercise-button" id="exerciseButton">章节练习 →</button>
+          <div class="reader-actions">
+            <button class="vocabulary-button hidden" id="vocabularyButton">词汇学习 <b>DEMO</b></button>
+            <button class="exercise-button" id="exerciseButton">章节练习 →</button>
+          </div>
         </div>
         <p class="current-book-label" id="currentBookLabel">BOOK 1 · 《勇闯恐龙谷》</p>
         <article class="reading-page" id="readingPage">
@@ -94,6 +97,17 @@
       <section class="exercise-view hidden" id="exerciseView">
         <button class="back-button" id="backToReading">← 返回原文</button>
         <div class="exercise-sheet"><span class="eyebrow">CHECK YOUR UNDERSTANDING</span><h1 id="exerciseTitle">第一章 · 章节练习</h1><div id="exerciseContent" aria-live="polite"></div></div>
+      </section>
+
+      <section class="vocabulary-view hidden" id="vocabularyView">
+        <button class="back-button" id="backFromVocabulary">← 返回原文</button>
+        <div class="vocabulary-shell">
+          <header class="vocabulary-header">
+            <div><span class="eyebrow">READ · UNDERSTAND · SPELL</span><h1>本章词汇学习</h1><p>Book 2 · Chapter 1 · The Dark Woods</p></div>
+            <span class="demo-badge">DEMO</span>
+          </header>
+          <div id="vocabularyContent" aria-live="polite"></div>
+        </div>
       </section>
 
       <section class="debug-view hidden" id="debugView">
@@ -121,9 +135,20 @@
     </div>
   </div>
 
-  <div class="word-card hidden" id="wordCard" role="dialog" aria-label="单词详解"><button class="word-close" id="wordClose">×</button><div class="word-head"><div><small>WORD CARD</small><h3 id="cardWord">word</h3><span id="cardPhonetic">/wɜːd/</span></div><button id="speakWord" type="button" aria-label="朗读单词" title="美式标准发音">🔊</button></div><p id="cardMeaning">中文释义</p><small class="card-tip" id="pronunciationStatus" aria-live="polite">点击喇叭听美式标准发音</small></div>
+  <div class="word-card hidden" id="wordCard" role="dialog" aria-label="单词详解">
+    <button class="word-close" id="wordClose">×</button>
+    <div class="word-head"><div><small id="cardTier">WORD CARD</small><h3 id="cardWord">word</h3><span id="cardPhonetic">/wɜːd/</span></div><button id="speakWord" type="button" aria-label="朗读单词" title="美式标准发音">🔊</button></div>
+    <div class="word-card-meta"><span id="cardPartOfSpeech"></span><span id="cardSourceForm"></span></div>
+    <p id="cardMeaning">中文释义</p>
+    <div class="word-card-details hidden" id="cardDetails">
+      <p><b>常见词形</b><span id="cardForms"></span></p>
+      <button class="sentence-audio-button" id="speakSentence" type="button"><span>▶</span><b>原文例句</b><small>点击播放完整句子</small></button>
+      <blockquote id="cardSentence"></blockquote>
+    </div>
+    <small class="card-tip" id="pronunciationStatus" aria-live="polite">点击喇叭听美式标准发音</small>
+  </div>
   <script src="data/words.js?v=20260714b"></script>
-  <script src="app.js"></script>
+  <script src="app.js?v=20260714vocabdemo"></script>
   <script>if('serviceWorker' in navigator) addEventListener('load',()=>navigator.serviceWorker.register('./sw.js',{updateViaCache:'none'}))</script>
 </body>
 </html>

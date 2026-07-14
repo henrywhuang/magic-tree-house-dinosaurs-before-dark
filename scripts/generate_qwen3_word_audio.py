@@ -28,7 +28,7 @@ from qwen_tts import Qwen3TTSModel
 
 ROOT = Path(__file__).resolve().parents[1]
 WORDS_JS = ROOT / "data" / "words.js"
-CHAPTER_PATTERNS = ("chapter-*.json", "book-02-chapter-*.json")
+CHAPTER_PATTERNS = ("chapter-*.json", "book-02-chapter-*.json", "vocabulary-*.json")
 OUTPUT_DIR = ROOT / "assets" / "audio" / "words"
 MODEL_ID = "Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice"
 LOCAL_MODEL = ROOT / ".models" / "Qwen3-TTS-12Hz-0.6B-CustomVoice"
@@ -146,7 +146,8 @@ def main() -> None:
     parser.add_argument("--overwrite", action="store_true")
     args = parser.parse_args()
 
-    words = [w.lower() for w in args.words] if args.words else load_words()
+    source_words = load_words()
+    words = [w.lower() for w in args.words] if args.words else source_words
     pending = [w for w in words if args.overwrite or not output_path(w).exists()]
     if args.limit:
         pending = pending[: args.limit]
@@ -189,7 +190,7 @@ def main() -> None:
         "sampling": (f"temperature={args.temperature}" if args.temperature else "greedy(temperature=0)"),
         "instruct": args.instruct,
         "format": "mp3/24kHz/mono/64kbps",
-        "source_word_count": len(words),
+        "source_word_count": len(source_words),
         "count": len(list(OUTPUT_DIR.glob("*.mp3"))),
     }
     (OUTPUT_DIR / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
