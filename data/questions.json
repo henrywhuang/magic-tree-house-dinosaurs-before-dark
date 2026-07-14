@@ -1,0 +1,2278 @@
+{
+  "version": 1,
+  "audience": "小学五年级、英语水平较好的非母语学习者",
+  "standards_basis": [
+    "CCSS RL.5.1",
+    "RL.5.2",
+    "RL.5.3",
+    "RL.5.4",
+    "RL.5.5",
+    "RL.5.6",
+    "L.5.4a"
+  ],
+  "books": [
+    {
+      "book": 1,
+      "book_title": "Dinosaurs Before Dark",
+      "book_title_cn": "勇闯恐龙谷",
+      "chapters": [
+        {
+          "book": 1,
+          "chapter": 1,
+          "chapter_title": "Into the Woods",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Why does Jack finally leave the road and enter the woods?",
+              "options": {
+                "A": "He wants to race Annie before sunset.",
+                "B": "Annie calls for him to come quickly.",
+                "C": "He sees a monster beside the road.",
+                "D": "Annie asks him to carry her books."
+              },
+              "answer": "B",
+              "evidence": [
+                "\"Jack! Jack!\" Annie shouted. \"Come here! Quick!\"",
+                "Jack left the road and headed into the woods."
+              ],
+              "rationale": "Jack enters the woods after Annie urgently calls him to come to her.",
+              "id": "B1C1Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How does Annie’s shout about books affect Jack’s decision?",
+              "options": {
+                "A": "It makes him wait below for Annie.",
+                "B": "It makes him tell Annie to leave.",
+                "C": "It makes him search for the owner.",
+                "D": "It makes him start climbing the ladder."
+              },
+              "answer": "D",
+              "evidence": [
+                "“It’s filled with books!” said Annie.",
+                "Oh, man! Jack thought. He loved books.",
+                "He gripped the sides of the rope ladder and started up."
+              ],
+              "rationale": "Because Jack loves books, Annie’s news changes his mind and leads him to climb.",
+              "id": "B1C1Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In “tucked between two branches,” what does “tucked” mean?",
+              "options": {
+                "A": "fitted into a small space",
+                "B": "hidden beneath the ground",
+                "C": "tied to a long rope",
+                "D": "painted with bright colors"
+              },
+              "answer": "A",
+              "evidence": [
+                "At the top of the tree was a tree house, tucked between two branches."
+              ],
+              "rationale": "The tree house is fitted into the space formed by two high branches.",
+              "id": "B1C1Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can readers infer from Jack’s repeated warnings to Annie?",
+              "options": {
+                "A": "He is eager to explore unknown places.",
+                "B": "He is annoyed by being outdoors with Annie.",
+                "C": "He is cautious about risks and rules.",
+                "D": "He is afraid to climb any ladder."
+              },
+              "answer": "C",
+              "evidence": [
+                "\"Annie, it's almost dark! We have to go home!\"",
+                "“No! We don’t know who it belongs to,” said Jack."
+              ],
+              "rationale": "Jack watches the time and worries about entering someone else’s tree house, showing caution about safety and rules.",
+              "id": "B1C1Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which choice best summarizes the chapter?",
+              "options": {
+                "A": "Annie hunts for a monster in the woods, while Jack races home alone before dark.",
+                "B": "Annie finds and climbs into a tree house, and news of its books draws Jack up too.",
+                "C": "Jack finds a tree house by himself, calls Annie, and waits with her for its owner.",
+                "D": "Annie notices a rope ladder, but she and Jack stay below the oak tree until sunset."
+              },
+              "answer": "B",
+              "evidence": [
+                "Annie raced alone into the woods.",
+                "At the top of the tree was a tree house, tucked between two branches.",
+                "He gripped the sides of the rope ladder and started up."
+              ],
+              "rationale": "The summary includes the central sequence: Annie discovers and enters the tree house, then Jack follows because it contains books.",
+              "id": "B1C1Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 1,
+          "chapter": 2,
+          "chapter_title": "The Monster",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What does Jack see in the distance from the tree house?",
+              "options": {
+                "A": "the library, the school, and the park",
+                "B": "a castle, a river, and a bridge",
+                "C": "a mountain, a farm, and a lake",
+                "D": "the road, a store, and a station"
+              },
+              "answer": "A",
+              "evidence": [
+                "In the distance he could see the Frog Creek library and the elementary school and the park."
+              ],
+              "rationale": "The narration directly names the library, elementary school, and park as Jack’s distant view.",
+              "id": "B1C2Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Why does Jack open the dinosaur book despite his warning?",
+              "options": {
+                "A": "He plans to remove its blue bookmark.",
+                "B": "He wants to prove that Annie is wrong.",
+                "C": "His interest in the book overcomes his concern.",
+                "D": "Its owner asks him to study the picture."
+              },
+              "answer": "C",
+              "evidence": [
+                "\"No, we'd better not,\" said Jack. \"We don't know who these books belong to.\"",
+                "But even as he said this, Jack was opening the dinosaur book to the place where the bookmark was. He couldn't help himself."
+              ],
+              "rationale": "Jack’s curiosity about the dinosaur book is stronger than his concern about touching someone else’s books.",
+              "id": "B1C2Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "L.5.4a",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In “Jack and Annie crouched on the floor,” what does “crouched” mean?",
+              "options": {
+                "A": "jumped quickly through an opening",
+                "B": "stood firmly beside a window",
+                "C": "ran quietly around the room",
+                "D": "bent low close to the floor"
+              },
+              "answer": "D",
+              "evidence": [
+                "“Get down!” cried Annie.",
+                "Jack and Annie crouched on the floor."
+              ],
+              "rationale": "Annie says to get down, so crouching means bending low near the floor.",
+              "id": "B1C2Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can readers infer about Annie as the creature approaches?",
+              "options": {
+                "A": "She feels curious and tries to touch it.",
+                "B": "She feels alarmed and tries to avoid it.",
+                "C": "She feels amused and keeps reading aloud.",
+                "D": "She feels calm and watches from the window."
+              },
+              "answer": "B",
+              "evidence": [
+                "\"Ahhh!\" screamed Annie.",
+                "“Get down!” cried Annie."
+              ],
+              "rationale": "Annie’s scream and her order to get down show that she is alarmed and wants to avoid the approaching creature.",
+              "id": "B1C2Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 2,
+              "stem": "Which message is best supported by the chapter?",
+              "options": {
+                "A": "Careful choices protect people from surprising events.",
+                "B": "Shared interests make family members agree with each other.",
+                "C": "Curiosity can lead to surprising and unfamiliar experiences.",
+                "D": "Familiar places are more valuable than new discoveries."
+              },
+              "answer": "C",
+              "evidence": [
+                "He couldn't help himself.",
+                "\"Wow,\" whispered Jack. \"I wish we could go to the time of Pteranodons.\"",
+                "The tree house started to spin."
+              ],
+              "rationale": "Jack’s curiosity leads him to open the book and make a wish, followed by the Pteranodon’s appearance and the tree house spinning.",
+              "id": "B1C2Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 1,
+          "chapter": 3,
+          "chapter_title": "Where Is Here?",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "According to the book, when did the flying reptile vanish?",
+              "options": {
+                "A": "65 million years ago",
+                "B": "65 thousand years ago",
+                "C": "five hundred years ago",
+                "D": "during Jack’s own time"
+              },
+              "answer": "A",
+              "evidence": [
+                "It vanished 65 million years ago with the dinosaurs."
+              ],
+              "rationale": "The book explicitly states that the flying reptile vanished 65 million years ago.",
+              "id": "B1C3Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How do Annie and Jack respond differently to the Pteranodon?",
+              "options": {
+                "A": "Annie doubts it is real, while Jack welcomes it.",
+                "B": "Annie trusts it, while Jack remains doubtful and cautious.",
+                "C": "Annie studies its history, while Jack calls to it.",
+                "D": "Annie hides from it, while Jack climbs down first."
+              },
+              "answer": "B",
+              "evidence": [
+                "“None of this can be real.”",
+                "\"Jack,\" said Annie. \"He's nice.\"",
+                "\"Let's go down to him.\""
+              ],
+              "rationale": "Jack questions whether the situation is real, but Annie decides the Pteranodon is nice and wants to approach it.",
+              "id": "B1C3Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "L.5.4a",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "In “She stepped boldly up to the ancient creature,” what does “boldly” mean?",
+              "options": {
+                "A": "with careful hesitation",
+                "B": "with sudden anger",
+                "C": "with brave confidence",
+                "D": "with quiet sadness"
+              },
+              "answer": "C",
+              "evidence": [
+                "But Annie kept going.",
+                "She stepped boldly up to the ancient creature."
+              ],
+              "rationale": "Annie keeps going despite Jack’s warnings and approaches the creature with brave confidence.",
+              "id": "B1C3Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can readers infer about how Jack handles confusing situations?",
+              "options": {
+                "A": "He reviews events and looks for information.",
+                "B": "He ignores facts and follows Annie immediately.",
+                "C": "He invents a story and treats it as true.",
+                "D": "He waits silently for the problem to disappear."
+              },
+              "answer": "A",
+              "evidence": [
+                "“Yeah. And then we saw a Pteranodon in the Frog Creek woods,” said Jack.",
+                "\"But maybe the book can tell us.\""
+              ],
+              "rationale": "Jack reconstructs what happened and then checks the book, showing that he uses events and information to understand confusion.",
+              "id": "B1C3Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.5",
+              "skill": "Structural role",
+              "dok": 2,
+              "stem": "How does Annie’s decision to climb down shape the chapter’s ending?",
+              "options": {
+                "A": "It resolves the problem by returning them to Frog Creek.",
+                "B": "It pauses the action to explain more dinosaur history.",
+                "C": "It repeats their discussion without changing the situation.",
+                "D": "It moves the action from watching the creature to approaching it."
+              },
+              "answer": "D",
+              "evidence": [
+                "Annie started down the rope ladder.",
+                "She stepped boldly up to the ancient creature."
+              ],
+              "rationale": "Annie’s choice shifts the action from observing the Pteranodon in the tree house to a direct encounter on the ground.",
+              "id": "B1C3Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 1,
+          "chapter": 4,
+          "chapter_title": "Henry",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What does Jack discover when he touches the Pteranodon's neck?",
+              "options": {
+                "A": "Its skin has hard scales.",
+                "B": "Its neck feels very cold.",
+                "C": "Its skin has thin fuzz.",
+                "D": "Its neck is covered in feathers."
+              },
+              "answer": "C",
+              "evidence": [
+                "A thin layer of fuzz covered the Pteranodon's skin."
+              ],
+              "rationale": "Jack feels and observes the thin fuzz covering the creature's skin.",
+              "id": "B1C4Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Why does Jack decide to climb down from the tree house?",
+              "options": {
+                "A": "He wants to study the Pteranodon like a scientist.",
+                "B": "He wants to teach Annie how to climb safely.",
+                "C": "He wants to lead the Pteranodon into the woods.",
+                "D": "He wants to search the ground for his notebook."
+              },
+              "answer": "A",
+              "evidence": [
+                "It would be good to examine a Pteranodon. He could take notes like a scientist."
+              ],
+              "rationale": "Jack goes down because examining the creature and recording observations appeals to him.",
+              "id": "B1C4Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary/phrase in context",
+              "dok": 1,
+              "stem": "In this sentence, what does “fixed his eyes on Annie” mean?",
+              "options": {
+                "A": "He closed his eyes beside Annie.",
+                "B": "He stared directly at Annie.",
+                "C": "He moved his eyes away from Annie.",
+                "D": "He rubbed his eyes against Annie."
+              },
+              "answer": "B",
+              "evidence": [
+                "The creature fixed his eyes on Annie. His long jaws were opening and closing like a giant pair of scissors."
+              ],
+              "rationale": "The phrase describes the creature looking directly and steadily at Annie while she speaks to him.",
+              "id": "B1C4Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about how Jack studies the Pteranodon?",
+              "options": {
+                "A": "He trusts Annie's feelings instead of examining facts.",
+                "B": "He loses interest after touching the creature once.",
+                "C": "He decides the creature behaves exactly like a dog.",
+                "D": "He uses careful observations to form his ideas."
+              },
+              "answer": "D",
+              "evidence": [
+                "Jack stepped forward. He reached out very cautiously.",
+                "Jack reached into his backpack and pulled out a pencil and a notebook. He wrote: fuzzy skin",
+                "Jack wrote in his notebook: Small brain?"
+              ],
+              "rationale": "Jack approaches cautiously, records what he observes, and marks an uncertain idea with a question mark.",
+              "id": "B1C4Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which choice best summarizes Chapter 4?",
+              "options": {
+                "A": "Annie runs from the Pteranodon, so Jack studies the rope ladder and calls for help.",
+                "B": "Jack names the Pteranodon Henry, teaches it several words, and sends it toward a hill.",
+                "C": "Annie befriends a Pteranodon, Jack examines it, and then they spot a huge dinosaur nearby.",
+                "D": "Jack reads about dinosaurs in the tree house while Annie searches the woods for her dog."
+              },
+              "answer": "C",
+              "evidence": [
+                "Annie touched the Pteranodon's crest. She stroked his neck. She was talking to him.",
+                "Jack reached into his backpack and pulled out a pencil and a notebook.",
+                "Annie was pointing toward the hill. On top stood a huge dinosaur!"
+              ],
+              "rationale": "The choice includes the chapter's central actions in order without adding unsupported events.",
+              "id": "B1C4Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 1,
+          "chapter": 5,
+          "chapter_title": "Gold in the Grass",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What does Jack learn from the book about the Triceratops?",
+              "options": {
+                "A": "It eats only plants.",
+                "B": "It hunts other dinosaurs.",
+                "C": "It lives high in trees.",
+                "D": "It weighs less than a dog."
+              },
+              "answer": "A",
+              "evidence": [
+                "This plant-eating dinosaur weighed over 12,000 pounds.",
+                "Jack slammed the book shut. \"Just plants. No meat.\""
+              ],
+              "rationale": "The book identifies the Triceratops as a plant eater, and Jack confirms that it eats no meat.",
+              "id": "B1C5Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How does Annie persuade Jack to approach the Triceratops?",
+              "options": {
+                "A": "She says Henry will protect them from danger.",
+                "B": "She promises the dinosaur will obey her commands.",
+                "C": "She reminds him that scientists already studied it.",
+                "D": "She reminds him that this is a rare chance to take notes."
+              },
+              "answer": "D",
+              "evidence": [
+                "“Don't you want to take notes about him?” asked Annie. “We're probably the first people in the whole world to ever see a real live Triceratops.\"",
+                "Jack sighed. Annie was right."
+              ],
+              "rationale": "Annie appeals to Jack's wish to record a rare scientific observation, and he agrees with her.",
+              "id": "B1C5Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary/phrase in context",
+              "dok": 2,
+              "stem": "What does “in full view” mean in this part of the chapter?",
+              "options": {
+                "A": "hidden safely behind the bush",
+                "B": "visible where the dinosaur could see her",
+                "C": "close enough for Jack to hear her",
+                "D": "far beyond the dinosaur's sight"
+              },
+              "answer": "B",
+              "evidence": [
+                "She fell into the grass in full view of the Triceratops!",
+                "Too late. The big dinosaur had spotted Annie."
+              ],
+              "rationale": "The next sentence shows that Annie is visible because the Triceratops immediately spots her.",
+              "id": "B1C5Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about this Triceratops's behavior?",
+              "options": {
+                "A": "It is waiting for Jack to feed it.",
+                "B": "It is preparing to chase Annie.",
+                "C": "It is calm and does not threaten the children.",
+                "D": "It is frightened by the flowers on the hill."
+              },
+              "answer": "C",
+              "evidence": [
+                "The Triceratops gazed calmly down at Annie.",
+                "Then he turned and loped down the side of the hill."
+              ],
+              "rationale": "The dinosaur looks calmly at Annie and then moves away instead of attacking or chasing her.",
+              "id": "B1C5Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "Which message is best supported by the events in Chapter 5?",
+              "options": {
+                "A": "Learning about something can make it less frightening.",
+                "B": "People should take risks before learning what is safe.",
+                "C": "Animals become friendly only after people name them.",
+                "D": "Finding valuable objects matters more than gaining knowledge."
+              },
+              "answer": "A",
+              "evidence": [
+                "“Does he eat people?” whispered Annie.",
+                "Jack slammed the book shut. \"Just plants. No meat.\"",
+                "Annie started down the ladder, and Jack followed her."
+              ],
+              "rationale": "After the children learn that the Triceratops eats plants, they feel safer approaching and observing it.",
+              "id": "B1C5Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 1,
+          "chapter": 6,
+          "chapter_title": "Dinosaur Valley",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What makes the duck-billed dinosaur grow quiet near the nest?",
+              "options": {
+                "A": "Jack opens his dinosaur book.",
+                "B": "Annie gives her the flower.",
+                "C": "The children bow and pretend to chew.",
+                "D": "The dinosaur babies leave their nests."
+              },
+              "answer": "C",
+              "evidence": [
+                "Jack and Annie both bowed their heads and pretended to chew. Soon the dinosaur grew quiet."
+              ],
+              "rationale": "The dinosaur becomes quiet soon after Jack and Annie bow their heads and pretend to chew.",
+              "id": "B1C6Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Why does the duck-billed dinosaur bellow and follow Annie?",
+              "options": {
+                "A": "She wants Annie to open the dinosaur book.",
+                "B": "She is protecting the babies near Annie.",
+                "C": "She wants Annie to find the gold medallion.",
+                "D": "She is trying to lead Annie to the tree house."
+              },
+              "answer": "B",
+              "evidence": [
+                "Still bellowing, the duck-billed dinosaur followed her.",
+                "You can’t just go running to a nest of babies. There’s always a mother nearby.",
+                "\"I'm sorry I made you worry about your babies,\" she said."
+              ],
+              "rationale": "The dinosaur acts because Annie has approached the nest and made the mother worry about her babies.",
+              "id": "B1C6Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary/phrase in context",
+              "dok": 1,
+              "stem": "What does “Annie froze” mean as she crawls away?",
+              "options": {
+                "A": "Annie suddenly stopped moving.",
+                "B": "Annie became cold and shaky.",
+                "C": "Annie quickly stood and ran.",
+                "D": "Annie quietly began to chew."
+              },
+              "answer": "A",
+              "evidence": [
+                "Still bellowing, the duck-billed dinosaur followed her. Annie froze. \"Keep going,\" Jack said. Annie started crawling again."
+              ],
+              "rationale": "Jack tells Annie to keep going, and she starts crawling again, showing that she had stopped moving.",
+              "id": "B1C6Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Jack when danger or uncertainty appears?",
+              "options": {
+                "A": "He depends on Annie to make every decision.",
+                "B": "He quickly forgets information that he has read.",
+                "C": "He avoids using books when he needs an answer.",
+                "D": "He uses remembered and written information to respond."
+              },
+              "answer": "D",
+              "evidence": [
+                "“Yes,” said Jack. “I read that’s what you do if a mean dog comes at you.”",
+                "Jack took out the dinosaur book. He flipped through the pages. He found a picture of some duck-billed dinosaurs."
+              ],
+              "rationale": "Jack applies advice he remembers reading and later checks his book to understand the dinosaurs' behavior.",
+              "id": "B1C6Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.5",
+              "skill": "Structural role",
+              "dok": 2,
+              "stem": "How does the Tyrannosaurus rex's appearance affect the chapter's action?",
+              "options": {
+                "A": "It resolves the danger by returning the babies to their nests.",
+                "B": "It explains the mother's fear and introduces a greater danger.",
+                "C": "It begins the children's plan to study the gold medallion.",
+                "D": "It ends the conflict by guiding the children home."
+              },
+              "answer": "B",
+              "evidence": [
+                "The dinosaur charged down the hill. She seemed afraid of something.",
+                "An enormous monster was coming across the plain.",
+                "“Tyrannosaurus rex!” whispered Jack."
+              ],
+              "rationale": "The final reveal explains why the Anatosaurus fled and complicates the story with a more dangerous dinosaur.",
+              "id": "B1C6Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 1,
+          "chapter": 7,
+          "chapter_title": "Ready, Set, Go!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What happens when Jack first wishes to return to Frog Creek?",
+              "options": {
+                "A": "The tree house begins to spin.",
+                "B": "Nothing happens in the tree house.",
+                "C": "The dinosaur book opens by itself.",
+                "D": "The Tyrannosaurus returns at once."
+              },
+              "answer": "B",
+              "evidence": [
+                "He took a deep breath. \"I wish we could go back to Frog Creek!\" Nothing happened."
+              ],
+              "rationale": "Jack makes the wish, but the tree house does not respond.",
+              "id": "B1C7Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character motivation",
+              "dok": 2,
+              "stem": "Why does Jack return to the hill despite the danger?",
+              "options": {
+                "A": "He wants to watch the dinosaurs guard their nests.",
+                "B": "He hopes to lead the Tyrannosaurus away from Annie.",
+                "C": "He needs to find a safer path through the valley.",
+                "D": "He must recover a borrowed book and his notes."
+              },
+              "answer": "D",
+              "evidence": [
+                "The book doesn't belong to us. Plus my notebook with all my notes is in my pack."
+              ],
+              "rationale": "Jack risks returning because the borrowed book and his notebook are still inside his pack.",
+              "id": "B1C7Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Phrase meaning in context",
+              "dok": 1,
+              "stem": "What does \"Coast clear\" mean in this scene?",
+              "options": {
+                "A": "The danger seems gone for now.",
+                "B": "The path to the hill is marked.",
+                "C": "The weather has become bright again.",
+                "D": "The dinosaurs have left the valley."
+              },
+              "answer": "A",
+              "evidence": [
+                "The Tyrannosaurus was wandering off.",
+                "After a long moment, they peeked out the window again. \"Coast clear,\" said Jack."
+              ],
+              "rationale": "Jack uses the phrase after the Tyrannosaurus wanders away, so he means no danger is visible nearby.",
+              "id": "B1C7Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Jack at the chapter's end?",
+              "options": {
+                "A": "He can safely wait beside the nests.",
+                "B": "He has forgotten where the tree house is.",
+                "C": "He is caught in a dangerous position.",
+                "D": "He has frightened the Tyrannosaurus away."
+              },
+              "answer": "C",
+              "evidence": [
+                "All the Anatosauruses were bellowing at him!",
+                "The Tyrannosaurus rex was back! It was standing between Jack and the tree house!"
+              ],
+              "rationale": "The Anatosauruses are alarmed behind Jack while the Tyrannosaurus blocks his way to safety.",
+              "id": "B1C7Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summarizing central events",
+              "dok": 2,
+              "stem": "Which sentence best summarizes Chapter 7?",
+              "options": {
+                "A": "Jack and Annie hide in the tree house until all the dinosaurs leave, then walk safely back to Frog Creek.",
+                "B": "Jack studies the guarding Anatosauruses, fills his notebook with observations, and returns to Annie without facing danger.",
+                "C": "Annie runs down the hill for Jack's pack, but the guarding Anatosauruses chase her away from their nests.",
+                "D": "Jack and Annie escape to the tree house, but Jack's trip for his pack leaves a Tyrannosaurus blocking his return."
+              },
+              "answer": "D",
+              "evidence": [
+                "They scrambled up the rope ladder and tumbled into the tree house.",
+                "He ran to his backpack. He scooped it up. He grabbed the dinosaur book.",
+                "The Tyrannosaurus rex was back! It was standing between Jack and the tree house!"
+              ],
+              "rationale": "The summary includes the escape, Jack's reason for leaving safety, and the new danger that ends the chapter.",
+              "id": "B1C7Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 1,
+          "chapter": 8,
+          "chapter_title": "A Giant Shadow",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What information does Jack find in the dinosaur book?",
+              "options": {
+                "A": "A Tyrannosaurus cannot see a person who stands still.",
+                "B": "Anatosauruses can protect a person from a meat-eater.",
+                "C": "A Tyrannosaurus could eat a human in one bite.",
+                "D": "A Pteranodon can carry a human through the air."
+              },
+              "answer": "C",
+              "evidence": [
+                "If it were alive today, it could eat a human in one bite."
+              ],
+              "rationale": "The book states that a Tyrannosaurus could eat a human with one bite.",
+              "id": "B1C8Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Event relationship",
+              "dok": 2,
+              "stem": "Why does waiting seem safer than Jack's other choices?",
+              "options": {
+                "A": "Hiding might cause a stampede, and the Tyrannosaurus might outrun him.",
+                "B": "Climbing might attract Annie, and running might upset the Pteranodon.",
+                "C": "Reading might make noise, and the Anatosauruses might find his book.",
+                "D": "Calling for help might fail, and the tree house might disappear."
+              },
+              "answer": "A",
+              "evidence": [
+                "He couldn't hide on the other side of the hill. The Anatosauruses might stampede.",
+                "He couldn't run to the tree house. The Tyrannosaurus might run faster.",
+                "Maybe he should just wait for the monster to leave."
+              ],
+              "rationale": "Jack considers waiting because hiding could start a stampede and running might let the Tyrannosaurus catch him.",
+              "id": "B1C8Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Phrase meaning in context",
+              "dok": 1,
+              "stem": "What does \"Something caught Jack's eye\" mean?",
+              "options": {
+                "A": "Something hurt Jack's eye.",
+                "B": "Something blocked Jack's view.",
+                "C": "Something made Jack close his eyes.",
+                "D": "Something drew Jack's attention."
+              },
+              "answer": "D",
+              "evidence": [
+                "Something caught Jack's eye. Annie was coming down the rope ladder!"
+              ],
+              "rationale": "Annie's unexpected movement draws Jack's attention toward the rope ladder.",
+              "id": "B1C8Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer Annie is trying to do?",
+              "options": {
+                "A": "Teach the Pteranodon to copy her arm movements.",
+                "B": "Get the Pteranodon to help Jack reach safety.",
+                "C": "Warn the Anatosauruses to leave their nests.",
+                "D": "Show Jack how to climb the magnolia tree."
+              },
+              "answer": "B",
+              "evidence": [
+                "She was flapping her arms. She pointed at Jack, at the sky, at the tree house.",
+                "The Pteranodon was gliding overhead. The giant creature sailed toward the top of the hill. He was heading toward Jack."
+              ],
+              "rationale": "Annie points from Jack to the sky and tree house, and the Pteranodon then flies toward him.",
+              "id": "B1C8Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Determining theme",
+              "dok": 3,
+              "stem": "Which theme is best supported by Chapter 8?",
+              "options": {
+                "A": "Good plans require knowing every fact before acting.",
+                "B": "Danger disappears when people wait long enough.",
+                "C": "Helping someone may require courage and creative action.",
+                "D": "Books provide the answer to every difficult problem."
+              },
+              "answer": "C",
+              "evidence": [
+                "Annie was coming down the rope ladder!",
+                "She was flapping her arms. She pointed at Jack, at the sky, at the tree house.",
+                "The Pteranodon was gliding overhead. The giant creature sailed toward the top of the hill. He was heading toward Jack."
+              ],
+              "rationale": "Annie leaves safety and creatively signals the Pteranodon, which responds by flying toward Jack.",
+              "id": "B1C8Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 1,
+          "chapter": 9,
+          "chapter_title": "The Amazing Ride",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "How does Jack escape the Tyrannosaurus on the hill?",
+              "options": {
+                "A": "He rides away on the Pteranodon.",
+                "B": "He hides among the dinosaur nests.",
+                "C": "He runs across the open plain.",
+                "D": "He climbs into the magnolia tree."
+              },
+              "answer": "A",
+              "evidence": [
+                "Jack put his book in his pack. Then he climbed onto the Pteranodon's back.",
+                "The creature moved forward. He spread his wings—and lifted off the ground!"
+              ],
+              "rationale": "Jack climbs onto the Pteranodon, which lifts him away from the approaching Tyrannosaurus.",
+              "id": "B1C9Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character response to events",
+              "dok": 2,
+              "stem": "How does the steady flight change Jack's response to the ride?",
+              "options": {
+                "A": "He becomes worried that Annie cannot see him.",
+                "B": "He changes from unsteady fear to joyful excitement.",
+                "C": "He becomes eager to return to the Tyrannosaurus.",
+                "D": "He changes from curiosity to disappointment with Henry."
+              },
+              "answer": "B",
+              "evidence": [
+                "Jack nearly fell off as they teetered this way and that.",
+                "The Pteranodon steadied himself and rose into the sky.",
+                "Jack whooped and laughed. He couldn't believe it!"
+              ],
+              "rationale": "Once the Pteranodon steadies, Jack stops fearing a fall and begins laughing with excitement.",
+              "id": "B1C9Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Figurative language in context",
+              "dok": 2,
+              "stem": "What does \"shook like a leaf in the wind\" emphasize?",
+              "options": {
+                "A": "The tree house made a soft rustling sound.",
+                "B": "The oak tree bent slowly toward the ground.",
+                "C": "The books floated gently around the tree house.",
+                "D": "The tree house moved violently and without control."
+              },
+              "answer": "D",
+              "evidence": [
+                "The dinosaur slammed against the oak tree. The tree house shook like a leaf in the wind."
+              ],
+              "rationale": "The simile compares the tree house to a windblown leaf to stress its strong, uncontrolled shaking.",
+              "id": "B1C9Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Jack after he lands?",
+              "options": {
+                "A": "He is too confused to understand Annie's warning.",
+                "B": "He feels strong enough to face the dinosaur alone.",
+                "C": "He is physically shaken but reacts quickly to danger.",
+                "D": "He wants another flight before entering the tree house."
+              },
+              "answer": "C",
+              "evidence": [
+                "His legs were wobbly. He felt a bit dizzy.",
+                "The Tyrannosaurus was heading straight toward him! Jack bolted to the ladder."
+              ],
+              "rationale": "Although the ride leaves Jack wobbly and dizzy, he immediately races to the ladder when danger returns.",
+              "id": "B1C9Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.6",
+              "skill": "Point of view and its effect",
+              "dok": 3,
+              "stem": "How does the narration's focus on Jack affect the chapter?",
+              "options": {
+                "A": "Readers share Jack's uncertainty, fear, and wonder during the escape.",
+                "B": "Readers learn what the Pteranodon thinks about carrying Jack.",
+                "C": "Readers understand Annie's plan before Jack sees the Pteranodon.",
+                "D": "Readers know why the Tyrannosaurus follows Jack to the tree."
+              },
+              "answer": "A",
+              "evidence": [
+                "What was Jack supposed to do? Climb on? But I'm too heavy, thought Jack.",
+                "Jack felt like a bird. The wind was rushing through his hair. The air smelled sweet and fresh."
+              ],
+              "rationale": "The narration reveals Jack's private doubts and sensations, letting readers experience both his fear and amazement.",
+              "id": "B1C9Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 1,
+          "chapter": 10,
+          "chapter_title": "Home Before Dark",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Why do Jack and Annie decide to keep their trip secret?",
+              "options": {
+                "A": "They promised the owner to protect the tree house.",
+                "B": "They worry their parents will take the medallion.",
+                "C": "They want to surprise their teacher the next day.",
+                "D": "They believe other people will not accept their story."
+              },
+              "answer": "D",
+              "evidence": [
+                "No one’s going to believe our story",
+                "So let's not tell anyone"
+              ],
+              "rationale": "They agree to stay silent because they expect everyone to dismiss the story.",
+              "id": "B1C10Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character response to an object",
+              "dok": 2,
+              "stem": "How does the gold medallion affect Jack's belief about the trip?",
+              "options": {
+                "A": "It makes him think Annie invented the adventure.",
+                "B": "It convinces him that the trip was a dream.",
+                "C": "It gives him proof that the trip truly happened.",
+                "D": "It shows him how the tree house was built."
+              },
+              "answer": "C",
+              "evidence": [
+                "Jack sighed. \"I think I'm starting not to believe it myself,\" he said.",
+                "He felt the engraving of the letter M. It made his fingers tingle.",
+                "But he knew for sure that their trip in the magic tree house had been real."
+              ],
+              "rationale": "Touching the medallion changes Jack's growing doubt into certainty that the adventure was real.",
+              "id": "B1C10Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Phrase meaning in context",
+              "dok": 2,
+              "stem": "What does \"seem more and more like a dream\" mean here?",
+              "options": {
+                "A": "The dinosaur trip feels less real in their familiar world.",
+                "B": "The children grow sleepier as they walk toward home.",
+                "C": "The neighborhood begins to look strange and magical.",
+                "D": "The children remember new details from the dinosaur trip."
+              },
+              "answer": "A",
+              "evidence": [
+                "As they walked past all the houses on their street, the trip to dinosaur time did seem more and more like a dream.",
+                "Only this world and this time seemed real."
+              ],
+              "rationale": "Their ordinary surroundings make the distant dinosaur adventure feel less believable.",
+              "id": "B1C10Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Jack at the end?",
+              "options": {
+                "A": "He plans to return the medallion to his teacher.",
+                "B": "He is eager to explore the magic tree house again.",
+                "C": "He wants to forget everything about the trip.",
+                "D": "He is afraid to enter the woods without an adult."
+              },
+              "answer": "B",
+              "evidence": [
+                "“Tomorrow,” Jack said softly, “we’ll go back to the woods.”",
+                "\"And we'll see what happens next,\" said Jack."
+              ],
+              "rationale": "Jack plans to revisit the woods and discover what happens next, showing excitement for another adventure.",
+              "id": "B1C10Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summarizing central events",
+              "dok": 2,
+              "stem": "Which sentence best summarizes Chapter 10?",
+              "options": {
+                "A": "They return after dark, tell Mom about the dinosaurs, and decide the tree house is too dangerous.",
+                "B": "They return to Frog Creek, learn who owns the tree house, and give the gold medallion to Mom.",
+                "C": "They return home, hide the dinosaur book, decide the trip was a dream, and avoid the woods.",
+                "D": "They return with no time passed, keep the trip secret, use the medallion as proof, and plan to return."
+              },
+              "answer": "D",
+              "evidence": [
+                "No time had passed since they'd left Frog Creek.",
+                "“We’d better not tell anyone,” said Jack.",
+                "But he knew for sure that their trip in the magic tree house had been real.",
+                "“Tomorrow,” Jack said softly, “we’ll go back to the woods.”"
+              ],
+              "rationale": "The summary includes their unchanged return time, secrecy, proof of the trip, and decision to revisit the tree house.",
+              "id": "B1C10Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "book": 2,
+      "book_title": "The Knight at Dawn",
+      "book_title_cn": "古堡惊魂夜",
+      "chapters": [
+        {
+          "book": 2,
+          "chapter": 1,
+          "chapter_title": "The Dark Woods",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Why does Jack write only facts in his notebook?",
+              "options": {
+                "A": "He wants to hide the medallion from Annie.",
+                "B": "He is separating what they know from guesses.",
+                "C": "He plans to show the list to his teacher.",
+                "D": "He has forgotten the dinosaur adventure."
+              },
+              "answer": "B",
+              "evidence": [
+                "We don’t know for sure if there is a magic person",
+                "I’m just writing the facts. The stuff we know for sure."
+              ],
+              "rationale": "Jack records only details he can confirm and leaves Annie’s idea about a magic person as an unproven guess.",
+              "id": "B2C1Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character contrast",
+              "dok": 2,
+              "stem": "How do Jack and Annie view returning to the tree house?",
+              "options": {
+                "A": "Both want to wait until their parents wake.",
+                "B": "Both believe the magic person will be friendly.",
+                "C": "Jack wants to go alone, but Annie refuses.",
+                "D": "Annie is eager to investigate, while Jack worries about danger."
+              },
+              "answer": "D",
+              "evidence": [
+                "Let’s go back to the tree house right now",
+                "I don’t think we should go there"
+              ],
+              "rationale": "Annie pushes for immediate action, while Jack imagines risks and needs persuasion.",
+              "id": "B2C1Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "L.5.4a",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "What does “crept downstairs” most likely mean?",
+              "options": {
+                "A": "moved quietly and carefully",
+                "B": "ran loudly and quickly",
+                "C": "fell backward suddenly",
+                "D": "waited beside the stairs"
+              },
+              "answer": "A",
+              "evidence": [
+                "He crept downstairs.",
+                "Be quiet."
+              ],
+              "rationale": "Jack is trying not to wake his parents, so he moves quietly and carefully.",
+              "id": "B2C1Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Jack in the dark woods?",
+              "options": {
+                "A": "He enjoys Annie’s jokes more than the mystery.",
+                "B": "He no longer cares who owns the tree house.",
+                "C": "He feels afraid but continues because Annie needs him.",
+                "D": "He is certain the woods contain no danger."
+              },
+              "answer": "C",
+              "evidence": [
+                "The dark woods were a little scary.",
+                "Still holding the flashlight, she began to climb.",
+                "Annie! Come back!"
+              ],
+              "rationale": "Jack is frightened and cautious, yet he follows Annie and keeps trying to protect her.",
+              "id": "B2C1Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which choice best summarizes Chapter 1?",
+              "options": {
+                "A": "Jack tells his parents about the medallion and waits for daylight.",
+                "B": "Jack records the mystery, follows Annie into the woods, and reaches the tree house after her.",
+                "C": "Annie loses her flashlight, so Jack returns home to find another one.",
+                "D": "Jack proves who owns the tree house before he and Annie leave home."
+              },
+              "answer": "B",
+              "evidence": [
+                "He looked at the list he’d made before going to bed.",
+                "Jack and Annie slipped out the door",
+                "But Annie was gone."
+              ],
+              "rationale": "The summary includes Jack’s investigation, the trip through the woods, and Annie climbing into the tree house first.",
+              "id": "B2C1Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 2,
+          "chapter": 2,
+          "chapter_title": "Leaving Again",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What causes the tree house to begin spinning?",
+              "options": {
+                "A": "Jack opens the Pennsylvania book.",
+                "B": "The knight rides beneath the tree.",
+                "C": "Annie wishes to visit the castle.",
+                "D": "Dawn begins to break outside."
+              },
+              "answer": "C",
+              "evidence": [
+                "We wish we could go there",
+                "The tree house started to spin."
+              ],
+              "rationale": "The magic begins immediately after Annie points to the castle picture and makes the wish.",
+              "id": "B2C2Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character motivation",
+              "dok": 2,
+              "stem": "Why does Jack climb down instead of returning home?",
+              "options": {
+                "A": "He will not leave Annie, and he also wants a quick look.",
+                "B": "He needs to return the flashlight to the knight.",
+                "C": "He believes the castle is safer than Frog Creek.",
+                "D": "He wants to hide the Pennsylvania book outside."
+              },
+              "answer": "A",
+              "evidence": [
+                "He couldn’t leave without her.",
+                "Besides, he sort of wanted to take a peek himself."
+              ],
+              "rationale": "Concern for Annie and his own curiosity both motivate Jack to follow her.",
+              "id": "B2C2Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "What does “loomed out of the fog” suggest about the castle?",
+              "options": {
+                "A": "It disappeared behind the trees.",
+                "B": "It moved quickly toward them.",
+                "C": "It looked warm and welcoming.",
+                "D": "It appeared large and shadowy."
+              },
+              "answer": "D",
+              "evidence": [
+                "A huge castle loomed out of the fog."
+              ],
+              "rationale": "The words “huge” and “fog” make the castle seem large, dark, and suddenly visible.",
+              "id": "B2C2Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Annie after they arrive?",
+              "options": {
+                "A": "She regrets making the wish immediately.",
+                "B": "She values adventure more than careful planning.",
+                "C": "She wants Jack to explore without her.",
+                "D": "She is more interested in Frog Creek than the castle."
+              },
+              "answer": "B",
+              "evidence": [
+                "Let’s stay! I want to visit the castle!",
+                "I’m going to take a peek. A teeny peek."
+              ],
+              "rationale": "Annie chooses immediate exploration even when Jack asks to return home and plan first.",
+              "id": "B2C2Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "Which message is best supported by Chapter 2?",
+              "options": {
+                "A": "Every careful plan prevents an unexpected problem.",
+                "B": "People should avoid places they have read about.",
+                "C": "Curiosity can pull people toward unfamiliar experiences.",
+                "D": "Family members always make the same choices."
+              },
+              "answer": "C",
+              "evidence": [
+                "Then he thought about all the books in the tree house.",
+                "Besides, he sort of wanted to take a peek himself."
+              ],
+              "rationale": "Both children’s curiosity leads them away from home and toward the unfamiliar castle.",
+              "id": "B2C2Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 2,
+          "chapter": 3,
+          "chapter_title": "Across the Bridge",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "According to the book, why does a moat surround the castle?",
+              "options": {
+                "A": "It helps protect the castle from enemies.",
+                "B": "It provides water for the windmill.",
+                "C": "It gives the knight a place to train.",
+                "D": "It separates the feast from the courtyard."
+              },
+              "answer": "A",
+              "evidence": [
+                "The moat was filled with water, to help protect the castle from enemies."
+              ],
+              "rationale": "The caption directly explains the moat’s defensive purpose.",
+              "id": "B2C3Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character contrast",
+              "dok": 2,
+              "stem": "How do Jack and Annie explore the castle grounds differently?",
+              "options": {
+                "A": "Jack follows sounds, while Annie draws a map.",
+                "B": "Jack talks to guards, while Annie studies the book.",
+                "C": "Jack studies information, while Annie focuses on the real sights.",
+                "D": "Jack enters the castle, while Annie stays by the tree."
+              },
+              "answer": "C",
+              "evidence": [
+                "Wait. I’ll look it up",
+                "Look at the real one, Jack. Not the one in the book."
+              ],
+              "rationale": "Jack repeatedly uses the guidebook, while Annie wants direct experience of the real castle.",
+              "id": "B2C3Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "What does “a piercing shriek” most likely describe?",
+              "options": {
+                "A": "a low and gentle song",
+                "B": "a sharp, high cry",
+                "C": "a steady drumbeat",
+                "D": "a quiet whisper"
+              },
+              "answer": "B",
+              "evidence": [
+                "A piercing shriek split the air.",
+                "It sounded like it came from that little house over there!"
+              ],
+              "rationale": "A shriek that “split the air” is a sudden, sharp, high sound.",
+              "id": "B2C3Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Jack’s learning style?",
+              "options": {
+                "A": "He trusts guesses more than recorded facts.",
+                "B": "He remembers information without checking it.",
+                "C": "He avoids writing about unfamiliar things.",
+                "D": "He connects book information with what he observes."
+              },
+              "answer": "D",
+              "evidence": [
+                "Jack studied the bridge in the picture.",
+                "Jack pulled out his notebook. He wanted to take notes"
+              ],
+              "rationale": "Jack reads, observes the matching real features, and records questions and facts.",
+              "id": "B2C3Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.5",
+              "skill": "Story structure",
+              "dok": 2,
+              "stem": "How does Annie’s final action shape the chapter?",
+              "options": {
+                "A": "It shifts the story from observation to entering the castle.",
+                "B": "It resolves the mystery of the tree house owner.",
+                "C": "It returns the children safely to Frog Creek.",
+                "D": "It ends their interest in the castle feast."
+              },
+              "answer": "A",
+              "evidence": [
+                "He saw Annie dashing across the real drawbridge.",
+                "Then she vanished through the gate leading to the castle."
+              ],
+              "rationale": "Annie’s dash through the gate moves the plot from studying the grounds to entering a dangerous new setting.",
+              "id": "B2C3Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 2,
+          "chapter": 4,
+          "chapter_title": "Into the Castle",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Where does Jack first find Annie inside the courtyard?",
+              "options": {
+                "A": "beside the stable doors",
+                "B": "under a feast table",
+                "C": "near the giant fireplace",
+                "D": "behind the courtyard well"
+              },
+              "answer": "D",
+              "evidence": [
+                "She was hiding behind a well in the center of the courtyard."
+              ],
+              "rationale": "Jack sees Annie hiding behind the well after the horses enter the stable.",
+              "id": "B2C4Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character motivation",
+              "dok": 2,
+              "stem": "Why do Jack and Annie enter the bright room?",
+              "options": {
+                "A": "They are searching for a dry hiding place.",
+                "B": "They want to see the feast and find the music.",
+                "C": "They are following the knight’s black horse.",
+                "D": "They need to ask the guard for directions."
+              },
+              "answer": "B",
+              "evidence": [
+                "I’m going to find the music!",
+                "The feast in the Great Hall!"
+              ],
+              "rationale": "The sounds lead them into the castle, where they discover the feast described in the book.",
+              "id": "B2C4Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "What does Jack’s staring “in awe” show?",
+              "options": {
+                "A": "He is bored by the feast.",
+                "B": "He is angry with the musicians.",
+                "C": "He is amazed by what he sees.",
+                "D": "He is confused about where to look."
+              },
+              "answer": "C",
+              "evidence": [
+                "He held his breath as he stared in awe.",
+                "A giant fireplace blazed at one end of the noisy room."
+              ],
+              "rationale": "The grand, unfamiliar feast amazes Jack and holds his attention.",
+              "id": "B2C4Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about the Great Hall feast?",
+              "options": {
+                "A": "It is lively, crowded, and unfamiliar to the children.",
+                "B": "It is a quiet meal only for castle guards.",
+                "C": "It has ended before Jack and Annie arrive.",
+                "D": "It looks much like dinner at the children’s home."
+              },
+              "answer": "A",
+              "evidence": [
+                "Laughter and music came from a bright room",
+                "Men and women dressed in capes and furs sat at long, crowded wooden tables."
+              ],
+              "rationale": "Music, performers, unusual food, clothing, and crowded tables make the feast energetic and unfamiliar.",
+              "id": "B2C4Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which choice best summarizes Chapter 4?",
+              "options": {
+                "A": "Jack crosses the moat, meets the knight, and returns to the tree house.",
+                "B": "Annie hides in the stable while Jack studies the castle book outside.",
+                "C": "The children join the feast and quietly eat beside the castle guests.",
+                "D": "Jack follows Annie inside, they observe the feast, and a man discovers them."
+              },
+              "answer": "D",
+              "evidence": [
+                "Then they slipped through the entrance of the castle.",
+                "They stood at the doorway and peeked in.",
+                "Who art thou?"
+              ],
+              "rationale": "The central sequence is Jack finding Annie, both entering and observing the feast, and then being challenged.",
+              "id": "B2C4Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 2,
+          "chapter": 5,
+          "chapter_title": "Trapped",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What is the purpose of the armory?",
+              "options": {
+                "A": "to prepare food for the feast",
+                "B": "to store armor and weapons",
+                "C": "to house the knight’s horse",
+                "D": "to hold prisoners overnight"
+              },
+              "answer": "B",
+              "evidence": [
+                "It’s called the armory",
+                "It’s where armor and weapons are stored."
+              ],
+              "rationale": "Jack reads that an armory is the castle room used to store armor and weapons.",
+              "id": "B2C5Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Cause and result",
+              "dok": 2,
+              "stem": "How does Jack’s decision to try the helmet affect events?",
+              "options": {
+                "A": "It helps the children look like castle guards.",
+                "B": "It reveals a secret door behind the shelf.",
+                "C": "It scares away the people in the hallway.",
+                "D": "It makes him fall noisily and leads to his capture."
+              },
+              "answer": "D",
+              "evidence": [
+                "He tried to lift a helmet from a shelf.",
+                "Suddenly he lost his balance and went crashing into other pieces of armor.",
+                "Someone grabbed him by the arm."
+              ],
+              "rationale": "The heavy helmet causes Jack to crash into armor, alerting the approaching men who seize him.",
+              "id": "B2C5Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "What does “clattered to the floor” mean?",
+              "options": {
+                "A": "fell with a loud metallic noise",
+                "B": "floated slowly through the room",
+                "C": "vanished without making a sound",
+                "D": "locked together in a neat row"
+              },
+              "answer": "A",
+              "evidence": [
+                "Metal plates and weapons clattered to the floor.",
+                "He heard deep voices."
+              ],
+              "rationale": "Falling metal plates and weapons would make a loud series of hard, ringing sounds.",
+              "id": "B2C5Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Jack in the armory?",
+              "options": {
+                "A": "He is focused only on finding an exit.",
+                "B": "He expects the armor to protect Annie.",
+                "C": "His curiosity distracts him from immediate danger.",
+                "D": "He knows exactly how to wear a heavy helmet."
+              },
+              "answer": "C",
+              "evidence": [
+                "Voices came from the hallway.",
+                "I’ve got to check on something first.",
+                "He tried to lift a helmet from a shelf."
+              ],
+              "rationale": "Even with people approaching, Jack pauses to test the helmet, and that curiosity creates trouble.",
+              "id": "B2C5Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "Which message is best supported by Chapter 5?",
+              "options": {
+                "A": "Heavy objects are always more useful than light ones.",
+                "B": "Ignoring an urgent warning can make danger worse.",
+                "C": "A good hiding place removes every possible risk.",
+                "D": "Learning about history prevents all mistakes."
+              },
+              "answer": "B",
+              "evidence": [
+                "They’re getting closer!",
+                "It’ll take just a second",
+                "Someone grabbed him by the arm."
+              ],
+              "rationale": "Jack ignores Annie’s urgent warning, and the short delay leads directly to being discovered and caught.",
+              "id": "B2C5Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 2,
+          "chapter": 6,
+          "chapter_title": "Ta-da!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What makes the guards stop and kneel?",
+              "options": {
+                "A": "Jack promises to leave the castle.",
+                "B": "The dungeon torch falls into water.",
+                "C": "Annie pretends her flashlight is a magic wand.",
+                "D": "The duke calls them back to the feast."
+              },
+              "answer": "C",
+              "evidence": [
+                "My magic wand!",
+                "One by one, the guards knelt down on the wet floor."
+              ],
+              "rationale": "The guards do not understand the flashlight and obey Annie because they believe it is magic.",
+              "id": "B2C6Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Problem and response",
+              "dok": 2,
+              "stem": "How does Annie turn the guards’ misunderstanding into an escape?",
+              "options": {
+                "A": "She acts as if the flashlight has dangerous magic.",
+                "B": "She gives the flashlight to the squinty guard.",
+                "C": "She tells the guards that Jack is a duke.",
+                "D": "She uses the light to find a tunnel immediately."
+              },
+              "answer": "A",
+              "evidence": [
+                "The guards froze. They stared at the shiny flashlight",
+                "Get down. Or I’ll wipe you out!"
+              ],
+              "rationale": "Annie recognizes the guards’ fear and performs confidently so they believe her modern flashlight is powerful magic.",
+              "id": "B2C6Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "What does “a cold, clammy room” most likely mean?",
+              "options": {
+                "A": "a bright room filled with smoke",
+                "B": "a dry room warmed by a fire",
+                "C": "a crowded room beside the feast",
+                "D": "a chilly room that feels damp"
+              },
+              "answer": "D",
+              "evidence": [
+                "a cold, clammy room",
+                "Water dripped from the ceiling, making puddles"
+              ],
+              "rationale": "The dripping water and puddles show that “clammy” means unpleasantly damp.",
+              "id": "B2C6Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Annie in the dungeon?",
+              "options": {
+                "A": "She expects Jack to solve every problem.",
+                "B": "She is quick-thinking and performs confidently under pressure.",
+                "C": "She believes the flashlight truly has magic.",
+                "D": "She is too frightened to speak to the guards."
+              },
+              "answer": "B",
+              "evidence": [
+                "Annie was quietly opening it.",
+                "Annie fiercely pointed her light",
+                "Come on, Annie whispered to Jack. Let’s go now."
+              ],
+              "rationale": "Annie secretly prepares the flashlight, acts convincingly, and recognizes the right moment to escape.",
+              "id": "B2C6Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.5",
+              "skill": "Story structure",
+              "dok": 2,
+              "stem": "How does the flashlight episode change the chapter’s action?",
+              "options": {
+                "A": "It explains why the children entered the castle.",
+                "B": "It introduces the knight before the feast begins.",
+                "C": "It reverses the children’s situation from capture to escape.",
+                "D": "It resolves the mystery of the letter M."
+              },
+              "answer": "C",
+              "evidence": [
+                "Come on, let’s chain the two of ’em",
+                "In one quick leap, Jack followed Annie out of the terrible dungeon."
+              ],
+              "rationale": "The children begin trapped and threatened, but Annie’s performance gives them control and an open path out.",
+              "id": "B2C6Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 2,
+          "chapter": 7,
+          "chapter_title": "A Secret Passage",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "How do the children locate the trapdoor?",
+              "options": {
+                "A": "They count five floor stones from the hallway door.",
+                "B": "They follow the sound of water below the room.",
+                "C": "They move every barrel in the storeroom.",
+                "D": "They wait for a guard to open it."
+              },
+              "answer": "A",
+              "evidence": [
+                "The trapdoor in the picture was five stones from the door",
+                "He stamped on the fifth stone. It was loose!"
+              ],
+              "rationale": "Jack matches the map to the room and finds the loose fifth stone.",
+              "id": "B2C7Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Problem solving",
+              "dok": 2,
+              "stem": "How does Jack use the castle book to solve their problem?",
+              "options": {
+                "A": "He reads how to repair the dying flashlight.",
+                "B": "He learns where the guards keep their horses.",
+                "C": "He uses a map to find a hidden escape route.",
+                "D": "He discovers a spell that opens the stone floor."
+              },
+              "answer": "C",
+              "evidence": [
+                "Here’s a map of the castle",
+                "There’s a trapdoor."
+              ],
+              "rationale": "The map identifies the storeroom, trapdoor, and secret passage that offer a way out.",
+              "id": "B2C7Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "What does “precipice” mean in this chapter?",
+              "options": {
+                "A": "a locked room below the castle",
+                "B": "a steep edge above a drop",
+                "C": "a bridge crossing the moat",
+                "D": "a narrow shelf for armor"
+              },
+              "answer": "B",
+              "evidence": [
+                "I can’t touch the ground.",
+                "Jack felt his fingers slipping. Then down he fell"
+              ],
+              "rationale": "Jack hangs beyond the tunnel door with no ground beneath him, showing that a precipice is a steep drop.",
+              "id": "B2C7Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Jack during the escape?",
+              "options": {
+                "A": "He refuses to use information when he feels afraid.",
+                "B": "He depends on guards to show him the route.",
+                "C": "He knows the passage is safe before entering.",
+                "D": "He is resourceful but sometimes moves before knowing the risk."
+              },
+              "answer": "D",
+              "evidence": [
+                "Jack looked at the picture carefully.",
+                "I don’t know. We’ll find out.",
+                "I’m going to have to go feet first"
+              ],
+              "rationale": "Jack uses the map effectively, but he enters the unknown passage and exits before understanding what a precipice is.",
+              "id": "B2C7Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which choice best summarizes Chapter 7?",
+              "options": {
+                "A": "The children hide, use a map to find a secret passage, and Jack falls from its far end.",
+                "B": "The guards guide the children through a tunnel and safely across the moat.",
+                "C": "Annie repairs the flashlight while Jack waits in the storeroom.",
+                "D": "The children return to the feast and discover the knight’s identity."
+              },
+              "answer": "A",
+              "evidence": [
+                "Jack and Annie jumped behind the door",
+                "There’s a trapdoor.",
+                "Then down he fell through the darkness."
+              ],
+              "rationale": "The summary includes hiding from pursuit, discovering the passage, and the cliff-hanger fall.",
+              "id": "B2C7Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 2,
+          "chapter": 8,
+          "chapter_title": "The Knight",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Why does the flashlight stop working?",
+              "options": {
+                "A": "Jack drops it from the secret passage.",
+                "B": "Annie leaves it in the dungeon.",
+                "C": "The knight takes it from the backpack.",
+                "D": "Its batteries are dead after getting wet."
+              },
+              "answer": "D",
+              "evidence": [
+                "Jack reached into his wet backpack and pulled out the flashlight.",
+                "The batteries were dead."
+              ],
+              "rationale": "The flashlight is soaked in Jack’s backpack, and its dead batteries leave them without light.",
+              "id": "B2C8Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Setting and problem",
+              "dok": 2,
+              "stem": "How does the thick mist make the children’s problem worse?",
+              "options": {
+                "A": "It makes the moat rise over the grass.",
+                "B": "It hides the landmarks they need to find the tree house.",
+                "C": "It causes the knight’s horse to run away.",
+                "D": "It keeps their clothes from drying."
+              },
+              "answer": "B",
+              "evidence": [
+                "It was so misty he couldn’t see the castle.",
+                "Where was the drawbridge? The windmill? The hawk house? The grove of trees? The tree house?"
+              ],
+              "rationale": "The mist removes every visible landmark, so they cannot tell which direction leads back to the tree house.",
+              "id": "B2C8Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Figurative language",
+              "dok": 2,
+              "stem": "What does “swallowed up by the darkness” mean?",
+              "options": {
+                "A": "broken into small pieces",
+                "B": "pulled under the moat water",
+                "C": "completely hidden from sight",
+                "D": "carried away by the wind"
+              },
+              "answer": "C",
+              "evidence": [
+                "Everything had been swallowed up by the thick, soupy darkness."
+              ],
+              "rationale": "The darkness has not literally eaten anything; it has hidden all the landmarks from view.",
+              "id": "B2C8Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "Why does Jack believe a crocodile may be following him?",
+              "options": {
+                "A": "He hears splashes behind him and cannot see through the dark water.",
+                "B": "Annie tells him she can see a crocodile near the edge.",
+                "C": "The castle book floats past with a warning picture.",
+                "D": "A guard shouts that crocodiles have escaped."
+              },
+              "answer": "A",
+              "evidence": [
+                "Another splash. Behind.",
+                "He couldn’t see anything through his water-streaked glasses."
+              ],
+              "rationale": "The unseen splashes and his earlier knowledge about the moat lead Jack to imagine a crocodile.",
+              "id": "B2C8Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "Which message is best supported by Chapter 8?",
+              "options": {
+                "A": "Fear always proves that the worst idea is true.",
+                "B": "Working together can help people through frightening situations.",
+                "C": "Modern tools solve every problem in an unfamiliar place.",
+                "D": "People should wait alone when they become lost."
+              },
+              "answer": "B",
+              "evidence": [
+                "Take my hand!",
+                "Jack grabbed her hand. She pulled him to the edge of the moat."
+              ],
+              "rationale": "Jack and Annie call to each other, join hands, and reach the bank together despite fear and poor visibility.",
+              "id": "B2C8Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 2,
+          "chapter": 9,
+          "chapter_title": "Under the Moon",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "How does the knight help Jack and Annie?",
+              "options": {
+                "A": "He carries them across the drawbridge.",
+                "B": "He rides them back to the tree house.",
+                "C": "He gives them a dry castle book.",
+                "D": "He repairs Annie’s flashlight."
+              },
+              "answer": "B",
+              "evidence": [
+                "The knight lifted him up, too, and put him on the horse",
+                "The knight guided the horse toward the trees."
+              ],
+              "rationale": "The knight puts both children on his horse and delivers them to the rope ladder.",
+              "id": "B2C9Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character contrast",
+              "dok": 2,
+              "stem": "How do Annie and Jack first respond differently to the knight?",
+              "options": {
+                "A": "Annie hides, while Jack asks the knight for help.",
+                "B": "Annie studies his armor, while Jack takes notes.",
+                "C": "Annie wants to return to the castle, while Jack refuses.",
+                "D": "Annie trusts his gesture, while Jack questions her."
+              },
+              "answer": "D",
+              "evidence": [
+                "He wants to help us",
+                "How do you know?"
+              ],
+              "rationale": "Annie reads the knight’s gesture as help, while Jack remains unsure and asks for evidence.",
+              "id": "B2C9Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "What does “Jack froze” mean at the chapter’s beginning?",
+              "options": {
+                "A": "He stopped moving because he was startled.",
+                "B": "He became covered with ice.",
+                "C": "He ran toward the horse immediately.",
+                "D": "He fell asleep beside the moat."
+              },
+              "answer": "A",
+              "evidence": [
+                "Jack froze.",
+                "Where are you going? said Jack."
+              ],
+              "rationale": "Jack pauses in surprise and uncertainty when the mysterious knight reaches toward them.",
+              "id": "B2C9Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "How does Jack’s feeling change during the ride?",
+              "options": {
+                "A": "He changes from excitement to anger at Annie.",
+                "B": "He changes from trust to fear of the knight.",
+                "C": "He changes from hesitation to feeling brave and powerful.",
+                "D": "He changes from curiosity to boredom with the castle."
+              },
+              "answer": "C",
+              "evidence": [
+                "Jack moved slowly toward the knight.",
+                "He felt very brave and very powerful."
+              ],
+              "rationale": "Jack approaches cautiously, but the moonlit ride fills him with courage and wonder.",
+              "id": "B2C9Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.6",
+              "skill": "Point of view",
+              "dok": 3,
+              "stem": "How does the narration’s focus on Jack affect the chapter?",
+              "options": {
+                "A": "Readers learn exactly what the silent knight is thinking.",
+                "B": "Readers share Jack’s doubts and wonder during the ride.",
+                "C": "Readers know which book Annie holds before she does.",
+                "D": "Readers understand why the horse follows every path."
+              },
+              "answer": "B",
+              "evidence": [
+                "How do you know? said Jack.",
+                "He felt as if he could ride forever on this horse"
+              ],
+              "rationale": "Jack’s questions and private feelings let readers experience his movement from uncertainty to wonder.",
+              "id": "B2C9Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 2,
+          "chapter": 10,
+          "chapter_title": "One Mystery Solved",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What new fact does the matching letter M reveal?",
+              "options": {
+                "A": "The knight built the castle and the tree house.",
+                "B": "Annie dropped the bookmark in the castle.",
+                "C": "One person owned the books and visited dinosaur time.",
+                "D": "The medallion can make the tree house move."
+              },
+              "answer": "C",
+              "evidence": [
+                "It was the same M.",
+                "The person who had dropped the gold medallion in the time of the dinosaurs was the same person who owned all the books"
+              ],
+              "rationale": "The identical M connects the ancient bookmark to the medallion from dinosaur time and therefore to one owner.",
+              "id": "B2C10Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Evidence relationship",
+              "dok": 2,
+              "stem": "How does the bookmark change Jack’s investigation?",
+              "options": {
+                "A": "It connects two clues and answers part of the mystery.",
+                "B": "It proves the knight owns Jack’s notebook.",
+                "C": "It tells Jack how to return to the castle.",
+                "D": "It shows that Annie imagined the whole trip."
+              },
+              "answer": "A",
+              "evidence": [
+                "For the first time Jack noticed a letter on the bookmark.",
+                "At least that was one mystery solved."
+              ],
+              "rationale": "The matching mark links two objects from different journeys and gives Jack a supported new conclusion.",
+              "id": "B2C10Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "What does “in a daze” most likely mean?",
+              "options": {
+                "A": "with careful excitement",
+                "B": "with loud disappointment",
+                "C": "with complete confidence",
+                "D": "with a confused, stunned feeling"
+              },
+              "answer": "D",
+              "evidence": [
+                "In a daze, Jack opened his pack.",
+                "That was close"
+              ],
+              "rationale": "After the dangerous trip and sudden return, Jack acts while still stunned and processing what happened.",
+              "id": "B2C10Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Jack from his final actions?",
+              "options": {
+                "A": "He cares more about sleep than the mystery.",
+                "B": "He values evidence and wants to record new conclusions.",
+                "C": "He plans to throw away the objects from the trips.",
+                "D": "He no longer believes the tree house is magic."
+              },
+              "answer": "B",
+              "evidence": [
+                "Jack held the bookmark close to his lamp and studied it.",
+                "He turned to the least wet page in his notebook and started to write down this new fact."
+              ],
+              "rationale": "Jack examines the physical clues, draws a limited conclusion, and records the result as a fact.",
+              "id": "B2C10Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which choice best summarizes Chapter 10?",
+              "options": {
+                "A": "The children return to the castle, find the knight, and ask about the M.",
+                "B": "The children wake their parents, explain both trips, and show them the bookmark.",
+                "C": "The children return home, and Jack links the bookmark to the medallion before falling asleep.",
+                "D": "Jack loses his notebook, so Annie records the tree house mystery for him."
+              },
+              "answer": "C",
+              "evidence": [
+                "We’re home!",
+                "It was the same M.",
+                "But before he could draw the M, his eyes closed."
+              ],
+              "rationale": "The chapter centers on their safe return and Jack’s discovery that the two M-marked objects share an owner.",
+              "id": "B2C10Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

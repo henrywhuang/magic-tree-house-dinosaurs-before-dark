@@ -9,6 +9,8 @@ transcript/
 transcript-base/
 transcript-small/
 transcript-base/
+transcript-book-02/
+scripts/__pycache__/
 *.mp3
 !assets/audio/*.mp3
 !assets/audio/words/*.mp3
@@ -16,3 +18,12 @@ transcript-base/
 小学五年级英语高分作文必背范文(2025版).md
 print.css
 截图-*.png
+*.pdf_by_PaddleOCR-VL-1.6.json
+*.docx
+Word版-第02至10册/
+work_book1/
+神奇树屋第1册_五年级英语阅读理解_美国标准版.json
+神奇树屋第1册_五年级英语阅读理解_美国标准版.md
+scripts/build_book_02.py
+scripts/convert_books_02_10_to_docx.py
+scripts/rebuild_story_from_reference.py

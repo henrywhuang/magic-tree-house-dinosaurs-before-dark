@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grade 5 Literary Item Writer"
+  short_description: "Write text-dependent four-option literary reading items"
+  default_prompt: "Use $grade5-literary-item-writer to create evidence-based multiple-choice questions and answer rationales."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grade 5 Multilingual Reading Standards"
+  short_description: "Align grade 5 ELL literary reading tasks to U.S. standards"
+  default_prompt: "Use $grade5-multilingual-reading-standards to select standards and learner-appropriate reading targets."

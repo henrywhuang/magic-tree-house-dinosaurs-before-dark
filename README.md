@@ -1,4 +1,11 @@
-# Magic Tree House · Book 1 精读 H5
+# Magic Tree House · 双册原著精读营
+
+面向英语水平较好的五年级非母语学习者，包含：
+
+- 《勇闯恐龙谷》和《古堡惊魂夜》共 20 章完整正文、音频与剧情插图。
+- 每章 5 道互动阅读理解题，共 100 题；支持即时反馈、原文证据、成绩与进度保存。
+- 依据美国五年级文学阅读标准整理的 3 个项目 Skills。
+- 目录底部 `Developer Debug`，可查看 Skills 全文、全部题目标签及 20 章数据健康度。
 
 本地启动：
 
@@ -8,15 +15,12 @@ python3 -m http.server 8080
 
 然后打开 `http://localhost:8080` 。不要直接双击 `index.html`，否则浏览器会拦截章节 JSON 和离线缓存。
 
-## 素材说明
+## 主要数据
 
-- `assets/audio/`：用户提供的第 1–10 轨原版音频，对应第一册 10 章。
+- `assets/audio/`：两册共 20 章原版音频。
 - `assets/audio/words/`：H5 单词卡点读音频；使用阿里开源 `Qwen3-TTS-12Hz-0.6B-CustomVoice`、英文音色 `Aiden` 本地批量生成（24 kHz 单声道 MP3）。
-- `assets/images/cover.jpg`：从原版音频元数据中提取的封面。
-- `assets/images/prehistoric-adventure.png`：为 H5 原创生成的章节氛围插图，不是原书内页插图。
-- `data/`：逐词时间戳、分页与文本数据。
-
-练习区已实现入口与结构，但当前目录未提供《勇闯恐龙谷》正文 Word/PDF 及练习题原稿，因此页面会如实显示“待导入”。
+- `data/`：逐词时间戳、三场景分页正文与统一题库 `questions.json`。
+- `project-skills/`：标准、测评蓝图与具体命题规范。
 
 ## 重新生成单词点读音频
 

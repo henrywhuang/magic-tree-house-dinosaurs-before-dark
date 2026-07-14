@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grade 5 Literary Assessment Blueprint"
+  short_description: "Plan balanced five-item chapter reading assessments"
+  default_prompt: "Use $grade5-literary-assessment-blueprint to map chapter evidence to a balanced five-item assessment."
