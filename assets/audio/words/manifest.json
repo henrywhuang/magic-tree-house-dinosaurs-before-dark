@@ -1,5 +1,5 @@
 {
-  "voice": "macOS say -v Daniel (en_GB, British RP)",
+  "voice": "macOS say -v Alex (en_US, American)",
   "rate": 160,
   "format": "mp3/24kHz/mono/64kbps",
   "post": "trim both ends + dynaudnorm",
