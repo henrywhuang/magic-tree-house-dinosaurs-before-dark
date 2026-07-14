@@ -22,11 +22,9 @@ const state={book:0,chapter:0,page:0,pages:[],scenes:[],words:[],view:'home',loc
 const $=s=>document.querySelector(s); const audio=$('#audio');
 const els={home:$('#homeView'),reader:$('#readerView'),exercise:$('#exerciseView'),debug:$('#debugView'),player:$('#player'),nav:$('#chapterNav'),sidebar:$('#sidebar'),scrim:$('#scrim'),story:$('#storyText'),card:$('#wordCard')};
 let chapterRequestId=0;
-let currentUtterance=null,resumeBookAfterSpeech=false,englishVoices=[];
+let resumeBookAfterPronunciation=false;
 const pronunciationAudio=new Audio();
 pronunciationAudio.preload='auto';
-let pronunciationEndTime=0;
-let pronunciationMode='idle',pronunciationFallbackItem=null;
 
 function currentBook(){return BOOKS[state.book]}
 function completionKey(chapter=state.chapter,book=state.book){return `${book}-${chapter}`}
@@ -35,45 +33,19 @@ function audioPath(i=state.chapter,bookIndex=state.book){return BOOKS[bookIndex]
 function dataPath(i=state.chapter,bookIndex=state.book){return BOOKS[bookIndex].data(i)}
 function audioStart(){return Number.isFinite(state.words[0]?.start)?state.words[0].start:(currentBook().audioStarts[state.chapter]||0)}
 
-function loadEnglishVoices(){if(!('speechSynthesis' in window))return;englishVoices=speechSynthesis.getVoices().filter(v=>/^en([-_]|$)/i.test(v.lang));}
 function pronunciationStatus(text,isError=false){const el=$('#pronunciationStatus');el.textContent=text;el.classList.toggle('error',isError)}
-function finishPronunciation(message,isError=false){pronunciationAudio.pause();pronunciationMode='idle';$('#speakWord').classList.remove('speaking');currentUtterance=null;pronunciationStatus(message,isError);if(resumeBookAfterSpeech&&audio.src&&audio.paused)audio.play().catch(()=>{});resumeBookAfterSpeech=false}
-function speakWithSystemVoice(word){
-  if(!('speechSynthesis' in window)||!('SpeechSynthesisUtterance' in window)){finishPronunciation('当前浏览器无法播放发音',true);return}
-  speechSynthesis.cancel();loadEnglishVoices();
-  const utterance=new SpeechSynthesisUtterance(word);currentUtterance=utterance;
-  utterance.lang='en-US';utterance.rate=.78;utterance.pitch=1;utterance.volume=1;
-  utterance.voice=englishVoices.find(v=>/samantha|ava|serena|daniel|google us english/i.test(v.name))||englishVoices.find(v=>/^en-US/i.test(v.lang))||englishVoices[0]||null;
-  utterance.onstart=()=>{$('#speakWord').classList.add('speaking');pronunciationStatus(`正在朗读 ${word}…`)};
-  utterance.onend=()=>finishPronunciation('发音已播放 · 可再次点击');
-  utterance.onerror=e=>{if(e.error!=='canceled'&&e.error!=='interrupted')finishPronunciation('系统发音启动失败，请检查设备静音设置',true)};
-  pronunciationStatus(`正在启动 ${word} 的备用发音…`);
-  setTimeout(()=>speechSynthesis.speak(utterance),60);
-}
+function finishPronunciation(message,isError=false){pronunciationAudio.pause();$('#speakWord').classList.remove('speaking');pronunciationStatus(message,isError);if(resumeBookAfterPronunciation&&audio.src&&audio.paused)audio.play().catch(()=>{});resumeBookAfterPronunciation=false}
 function wordAudioPath(word){return `assets/audio/words/${encodeURIComponent(word.toLowerCase())}.mp3`}
-function playBookWordFallback(word,item){
-  if(!item||!Number.isFinite(item.start)||!Number.isFinite(item.end)){speakWithSystemVoice(word);return}
-  pronunciationMode='book';pronunciationFallbackItem=item;
-  const start=Math.max(0,item.start-.08);pronunciationEndTime=Math.max(item.end+.14,start+.32);
-  pronunciationAudio.src=audioPath();
-  const seekAndPlay=()=>{pronunciationAudio.currentTime=start;pronunciationAudio.play().catch(()=>speakWithSystemVoice(word))};
-  if(pronunciationAudio.readyState>=1)seekAndPlay();else pronunciationAudio.addEventListener('loadedmetadata',seekAndPlay,{once:true});
-  pronunciationStatus(`AI 发音加载失败，正在播放 ${word} 的原版发音…`);
-}
 function pronounceCurrentWord(event){
   event.preventDefault();event.stopPropagation();
   const word=$('#cardWord').textContent.trim();if(!word)return;
-  resumeBookAfterSpeech=resumeBookAfterSpeech||!audio.paused;if(!audio.paused)audio.pause();
-  pronunciationAudio.pause();if('speechSynthesis' in window)speechSynthesis.cancel();
-  const item=state.words[Number(els.card.dataset.wordIndex)];
-  pronunciationMode='qwen';pronunciationFallbackItem=item;pronunciationEndTime=0;
+  resumeBookAfterPronunciation=resumeBookAfterPronunciation||!audio.paused;if(!audio.paused)audio.pause();
+  pronunciationAudio.pause();pronunciationAudio.currentTime=0;
   pronunciationAudio.src=wordAudioPath(word);pronunciationStatus(`正在播放 ${word} 的 Qwen3-TTS 标准发音…`);
-  $('#speakWord').classList.add('speaking');pronunciationAudio.play().catch(()=>playBookWordFallback(word,item));
+  $('#speakWord').classList.add('speaking');pronunciationAudio.play().catch(()=>finishPronunciation('阿里 Qwen3-TTS 发音文件加载失败，请刷新后重试',true));
 }
-pronunciationAudio.ontimeupdate=()=>{if(pronunciationMode==='book'&&pronunciationEndTime&&pronunciationAudio.currentTime>=pronunciationEndTime)finishPronunciation('原版发音已播放 · 可再次点击')};
-pronunciationAudio.onended=()=>finishPronunciation(pronunciationMode==='qwen'?'Qwen3-TTS 发音已播放 · 可再次点击':'原版发音已播放 · 可再次点击');
-pronunciationAudio.onerror=()=>{const word=$('#cardWord').textContent.trim();if(!word)return;if(pronunciationMode==='qwen')playBookWordFallback(word,pronunciationFallbackItem);else speakWithSystemVoice(word)};
-loadEnglishVoices();if('speechSynthesis' in window)speechSynthesis.addEventListener?.('voiceschanged',loadEnglishVoices);
+pronunciationAudio.onended=()=>finishPronunciation('阿里 Qwen3-TTS 发音已播放 · 可再次点击');
+pronunciationAudio.onerror=()=>finishPronunciation('阿里 Qwen3-TTS 发音文件加载失败，请刷新后重试',true);
 
 function renderNav(){
   const book=currentBook();
