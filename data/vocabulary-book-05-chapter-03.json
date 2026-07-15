@@ -1,0 +1,441 @@
+{
+  "book": 5,
+  "chapter": 3,
+  "title": "E-hy!",
+  "words": [
+    {
+      "id": "pouch",
+      "word": "pouch",
+      "forms": [
+        "pouch"
+      ],
+      "tier": "core",
+      "phonetic": "/pautʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "小袋；小包",
+      "wordForms": "原文词形：pouch",
+      "sentence": "The mouse peeked out of her pouch.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-03/pouch.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "小袋；小包",
+        "刀；剑",
+        "[人名] 尼思"
+      ]
+    },
+    {
+      "id": "grove",
+      "word": "grove",
+      "forms": [
+        "grove"
+      ],
+      "tier": "core",
+      "phonetic": "/grәuv/",
+      "partOfSpeech": "n.",
+      "meaning": "小树林",
+      "wordForms": "原文词形：grove",
+      "sentence": "The tree was in a grove of trees on the side of a mountain.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-03/grove.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "小树林",
+        "杂乱一团；混乱",
+        "喘息；悸动"
+      ]
+    },
+    {
+      "id": "pants",
+      "word": "pants",
+      "forms": [
+        "pants"
+      ],
+      "tier": "core",
+      "phonetic": "/pænts/",
+      "partOfSpeech": "n.",
+      "meaning": "喘息；悸动",
+      "wordForms": "原文词形：pants",
+      "sentence": "They wore black pants and shirts.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-03/pants.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "喘息；悸动",
+        "衬衫；内衣",
+        "小袋；小包"
+      ]
+    },
+    {
+      "id": "shirts",
+      "word": "shirts",
+      "forms": [
+        "shirts"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃә:t/",
+      "partOfSpeech": "n.",
+      "meaning": "衬衫；内衣",
+      "wordForms": "原文词形：shirts",
+      "sentence": "They wore black pants and shirts.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-03/shirts.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "衬衫；内衣",
+        "肩上的披巾；头巾",
+        "小树林"
+      ]
+    },
+    {
+      "id": "scarves",
+      "word": "scarves",
+      "forms": [
+        "scarves"
+      ],
+      "tier": "core",
+      "phonetic": "/skɑ:vz/",
+      "partOfSpeech": "",
+      "meaning": "肩上的披巾；头巾",
+      "wordForms": "原文词形：scarves",
+      "sentence": "They had black scarves around their heads.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-03/scarves.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "肩上的披巾；头巾",
+        "小袋；小包",
+        "树干；干线"
+      ]
+    },
+    {
+      "id": "swords",
+      "word": "swords",
+      "forms": [
+        "swords"
+      ],
+      "tier": "core",
+      "phonetic": "/sɒ:d/",
+      "partOfSpeech": "n.",
+      "meaning": "刀；剑",
+      "wordForms": "原文词形：swords",
+      "sentence": "And swords strapped to their backs.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-03/swords.mp3",
+      "phonics": [
+        {
+          "letters": "sw",
+          "sound": "/sw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "刀；剑",
+        "小袋；小包",
+        "肩上的披巾；头巾"
+      ]
+    },
+    {
+      "id": "enemy",
+      "word": "enemy",
+      "forms": [
+        "enemy"
+      ],
+      "tier": "core",
+      "phonetic": "/'enimi/",
+      "partOfSpeech": "n.",
+      "meaning": "敌人；仇敌",
+      "wordForms": "原文词形：enemy",
+      "sentence": "They might think we're some kind of enemy,\" said Jack quietly.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-03/enemy.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "敌人；仇敌",
+        "小袋；小包",
+        "喘息；悸动"
+      ]
+    },
+    {
+      "id": "japan",
+      "word": "Japan",
+      "forms": [
+        "Japan"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dʒә'pæn/",
+      "partOfSpeech": "n.",
+      "meaning": "日本",
+      "wordForms": "原文词形：Japan",
+      "sentence": "Historians believe that ninjas lived in Japan between the 14th and 17th centuries.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-03/japan.mp3"
+    },
+    {
+      "id": "trunk",
+      "word": "trunk",
+      "forms": [
+        "trunk"
+      ],
+      "tier": "core",
+      "phonetic": "/trʌŋk/",
+      "partOfSpeech": "n.",
+      "meaning": "树干；干线",
+      "wordForms": "原文词形：trunk",
+      "sentence": "But the tall ninja leaped at the tree trunk.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-03/trunk.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "树干；干线",
+        "敌人；仇敌",
+        "喘息；悸动"
+      ]
+    },
+    {
+      "id": "huddled",
+      "word": "huddled",
+      "forms": [
+        "huddled"
+      ],
+      "tier": "core",
+      "phonetic": "/'hʌdl/",
+      "partOfSpeech": "n.",
+      "meaning": "杂乱一团；混乱",
+      "wordForms": "原文词形：huddled",
+      "sentence": "Jack and Annie huddled in a corner.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-03/huddled.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "杂乱一团；混乱",
+        "喘息；悸动",
+        "小袋；小包"
+      ]
+    },
+    {
+      "id": "neither",
+      "word": "Neither",
+      "forms": [
+        "Neither"
+      ],
+      "tier": "core",
+      "phonetic": "/'naiðә/",
+      "partOfSpeech": "adv.",
+      "meaning": "[人名] 尼思",
+      "wordForms": "原文词形：Neither",
+      "sentence": "Neither one made a sound.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-03/neither.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ei",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "[人名] 尼思",
+        "肩上的披巾；头巾",
+        "刀；剑"
+      ]
+    }
+  ]
+}

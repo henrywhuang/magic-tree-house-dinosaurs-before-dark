@@ -28,7 +28,7 @@ from qwen_tts import Qwen3TTSModel
 
 ROOT = Path(__file__).resolve().parents[1]
 WORDS_JS = ROOT / "data" / "words.js"
-CHAPTER_PATTERNS = ("chapter-*.json", "book-02-chapter-*.json", "vocabulary-*.json")
+CHAPTER_PATTERNS = ("chapter-*.json", "book-*-chapter-*.json", "vocabulary-*.json")
 OUTPUT_DIR = ROOT / "assets" / "audio" / "words"
 MODEL_ID = "Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice"
 LOCAL_MODEL = ROOT / ".models" / "Qwen3-TTS-12Hz-0.6B-CustomVoice"
@@ -46,6 +46,21 @@ def load_words() -> list[str]:
     data = json.loads(match.group(1))
     words = {w.lower() for w in data if re.fullmatch(r"[a-z]+(?:['-][a-z]+)*", w)}
     for pattern in CHAPTER_PATTERNS:
+        for chapter_path in sorted((ROOT / "data").glob(pattern)):
+            chapter = json.loads(chapter_path.read_text(encoding="utf-8"))
+            for item in chapter.get("words", []):
+                word = re.sub(r"[^A-Za-z'-]", "", item.get("word", "")).lower()
+                if re.fullmatch(r"[a-z]+(?:['-][a-z]+)*", word):
+                    words.add(word)
+    return sorted(words)
+
+
+def load_book_words(book: int) -> list[str]:
+    """Load only one book's story and vocabulary words for incremental builds."""
+    words: set[str] = set()
+    chapter_pattern = "chapter-*.json" if book == 1 else f"book-{book:02d}-chapter-*.json"
+    patterns = (chapter_pattern, f"vocabulary-book-{book:02d}-chapter-*.json")
+    for pattern in patterns:
         for chapter_path in sorted((ROOT / "data").glob(pattern)):
             chapter = json.loads(chapter_path.read_text(encoding="utf-8"))
             for item in chapter.get("words", []):
@@ -137,6 +152,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=0, help="Only generate first N pending words")
     parser.add_argument("--words", nargs="*", help="Generate only these words")
+    parser.add_argument("--book", type=int, choices=range(1, 11), help="Generate pending words for one book only")
     parser.add_argument("--batch-size", type=int, default=8)
     parser.add_argument("--device", default="auto", choices=["auto", "mps", "cpu", "cuda:0"])
     parser.add_argument("--speaker", default=SPEAKER)
@@ -146,7 +162,7 @@ def main() -> None:
     parser.add_argument("--overwrite", action="store_true")
     args = parser.parse_args()
 
-    source_words = load_words()
+    source_words = load_book_words(args.book) if args.book else load_words()
     words = [w.lower() for w in args.words] if args.words else source_words
     pending = [w for w in words if args.overwrite or not output_path(w).exists()]
     if args.limit:

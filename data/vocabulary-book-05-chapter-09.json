@@ -1,0 +1,446 @@
+{
+  "book": 5,
+  "chapter": 9,
+  "title": "Mouse-walk",
+  "words": [
+    {
+      "id": "mouse",
+      "word": "mouse",
+      "forms": [
+        "mouse"
+      ],
+      "tier": "core",
+      "phonetic": "/maus/",
+      "partOfSpeech": "n.",
+      "meaning": "老鼠；胆小羞怯的人",
+      "wordForms": "原文词形：mouse",
+      "sentence": "The mouse vanished into the tall grass on the other side of the stream.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-09/mouse.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "老鼠；胆小羞怯的人",
+        "键盘输入模拟",
+        "帮忙；帮助者"
+      ]
+    },
+    {
+      "id": "cross",
+      "word": "cross",
+      "forms": [
+        "cross"
+      ],
+      "tier": "core",
+      "phonetic": "/krɒs/",
+      "partOfSpeech": "n.",
+      "meaning": "阴极射线示波器",
+      "wordForms": "原文词形：cross",
+      "sentence": "“We have to try to cross it,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-09/cross.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "阴极射线示波器",
+        "光；光亮",
+        "吱吱声；侥幸"
+      ]
+    },
+    {
+      "id": "second",
+      "word": "second",
+      "forms": [
+        "second"
+      ],
+      "tier": "core",
+      "phonetic": "/'sekәnd/",
+      "partOfSpeech": "n.",
+      "meaning": "秒；瞬间",
+      "wordForms": "原文词形：second",
+      "sentence": "It'll crack in a second.\"\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-09/second.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "秒；瞬间",
+        "快速的；紧的",
+        "老鼠；胆小羞怯的人"
+      ]
+    },
+    {
+      "id": "teeny",
+      "word": "teeny",
+      "forms": [
+        "teeny"
+      ],
+      "tier": "core",
+      "phonetic": "/'ti:ni/",
+      "partOfSpeech": "adj.",
+      "meaning": "极小的；小小的",
+      "wordForms": "原文词形：teeny",
+      "sentence": "\"Just be teeny and light and fast.\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-09/teeny.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "极小的；小小的",
+        "吱吱声；侥幸",
+        "键盘输入模拟"
+      ]
+    },
+    {
+      "id": "light",
+      "word": "light",
+      "forms": [
+        "light"
+      ],
+      "tier": "core",
+      "phonetic": "/lait/",
+      "partOfSpeech": "n.",
+      "meaning": "光；光亮",
+      "wordForms": "原文词形：light",
+      "sentence": "\"Just be teeny and light and fast.\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-09/light.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "光；光亮",
+        "极小的；小小的",
+        "老鼠；胆小羞怯的人"
+      ]
+    },
+    {
+      "id": "fast",
+      "word": "fast",
+      "forms": [
+        "fast"
+      ],
+      "tier": "core",
+      "phonetic": "/fɑ:st/",
+      "partOfSpeech": "adj.",
+      "meaning": "快速的；紧的",
+      "wordForms": "原文词形：fast",
+      "sentence": "\"Just be teeny and light and fast.\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-09/fast.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "快速的；紧的",
+        "月光照耀的",
+        "老鼠；胆小羞怯的人"
+      ]
+    },
+    {
+      "id": "squeak",
+      "word": "squeak",
+      "forms": [
+        "squeak"
+      ],
+      "tier": "core",
+      "phonetic": "/skwi:k/",
+      "partOfSpeech": "n.",
+      "meaning": "吱吱声；侥幸",
+      "wordForms": "原文词形：squeak",
+      "sentence": "Say 'squeak,'\" said Annie.\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-09/squeak.mp3",
+      "phonics": [
+        {
+          "letters": "squ",
+          "sound": "/skw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "吱吱声；侥幸",
+        "月光照耀的",
+        "老鼠；胆小羞怯的人"
+      ]
+    },
+    {
+      "id": "moonlit",
+      "word": "moonlit",
+      "forms": [
+        "moonlit"
+      ],
+      "tier": "core",
+      "phonetic": "/'mu:nlit/",
+      "partOfSpeech": "adj.",
+      "meaning": "月光照耀的",
+      "wordForms": "原文词形：moonlit",
+      "sentence": "The tree house was outlined against the moonlit sky.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-09/moonlit.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "月光照耀的",
+        "秒；瞬间",
+        "老鼠；胆小羞怯的人"
+      ]
+    },
+    {
+      "id": "helper",
+      "word": "helper",
+      "forms": [
+        "helper"
+      ],
+      "tier": "core",
+      "phonetic": "/'helpә/",
+      "partOfSpeech": "n.",
+      "meaning": "帮忙；帮助者",
+      "wordForms": "原文词形：helper",
+      "sentence": "Take good care of your little helper,\" he said, handing the mouse to Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-09/helper.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "帮忙；帮助者",
+        "快速的；紧的",
+        "极小的；小小的"
+      ]
+    },
+    {
+      "id": "kissed",
+      "word": "kissed",
+      "forms": [
+        "kissed"
+      ],
+      "tier": "core",
+      "phonetic": "/kis/",
+      "partOfSpeech": "n.",
+      "meaning": "键盘输入模拟",
+      "wordForms": "原文词形：kissed",
+      "sentence": "Annie kissed the mouse's tiny head.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-09/kissed.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "键盘输入模拟",
+        "吱吱声；侥幸",
+        "极小的；小小的"
+      ]
+    },
+    {
+      "id": "own",
+      "word": "own",
+      "forms": [
+        "own"
+      ],
+      "tier": "recognition",
+      "phonetic": "/әun/",
+      "partOfSpeech": "n.",
+      "meaning": "自己的",
+      "wordForms": "原文词形：own",
+      "sentence": "Butyou must find the way on your own.\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-09/own.mp3"
+    }
+  ]
+}

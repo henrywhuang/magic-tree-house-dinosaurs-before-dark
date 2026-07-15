@@ -1,0 +1,426 @@
+{
+  "book": 5,
+  "chapter": 7,
+  "title": "To the East",
+  "words": [
+    {
+      "id": "east",
+      "word": "east",
+      "forms": [
+        "east"
+      ],
+      "tier": "core",
+      "phonetic": "/i:st/",
+      "partOfSpeech": "n.",
+      "meaning": "东方；东",
+      "wordForms": "原文词形：east",
+      "sentence": "\"Well, I guess the tall ninja was pointing to the east,\" she said.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-07/east.mp3",
+      "phonics": [
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "东方；东",
+        "月光",
+        "更多"
+      ]
+    },
+    {
+      "id": "way",
+      "word": "way",
+      "forms": [
+        "way"
+      ],
+      "tier": "recognition",
+      "phonetic": "/wei/",
+      "partOfSpeech": "n.",
+      "meaning": "路；路线",
+      "wordForms": "原文词形：way",
+      "sentence": "\"I guess that's the way we go.\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-07/way.mp3"
+    },
+    {
+      "id": "stuff",
+      "word": "stuff",
+      "forms": [
+        "stuff"
+      ],
+      "tier": "core",
+      "phonetic": "/stʌf/",
+      "partOfSpeech": "n.",
+      "meaning": "原料；要素",
+      "wordForms": "原文词形：stuff",
+      "sentence": "“I need to write some stuff down.”",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-07/stuff.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "原料；要素",
+        "棍；棒",
+        "东方；东"
+      ]
+    },
+    {
+      "id": "moonlight",
+      "word": "moonlight",
+      "forms": [
+        "moonlight"
+      ],
+      "tier": "core",
+      "phonetic": "/'mu:nlait/",
+      "partOfSpeech": "n.",
+      "meaning": "月光",
+      "wordForms": "原文词形：moonlight",
+      "sentence": "In the moonlight, he wrote:1.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-07/moonlight.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "月光",
+        "自然；大自然",
+        "原料；要素"
+      ]
+    },
+    {
+      "id": "nature",
+      "word": "nature",
+      "forms": [
+        "nature"
+      ],
+      "tier": "core",
+      "phonetic": "/'neitʃә/",
+      "partOfSpeech": "n.",
+      "meaning": "自然；大自然",
+      "wordForms": "原文词形：nature",
+      "sentence": "use nature2.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-07/nature.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ture",
+          "sound": "/tʃər/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "自然；大自然",
+        "月光",
+        "棍；棒"
+      ]
+    },
+    {
+      "id": "head",
+      "word": "head",
+      "forms": [
+        "head"
+      ],
+      "tier": "core",
+      "phonetic": "/hed/",
+      "partOfSpeech": "n.",
+      "meaning": "头；头脑",
+      "wordForms": "原文词形：head",
+      "sentence": "She had pulled her sweatshirt hood over her head and tied the strings tightly.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-07/head.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "头；头脑",
+        "棍；棒",
+        "更多"
+      ]
+    },
+    {
+      "id": "more",
+      "word": "more",
+      "forms": [
+        "more"
+      ],
+      "tier": "core",
+      "phonetic": "/mɒ:/",
+      "partOfSpeech": "n.",
+      "meaning": "更多",
+      "wordForms": "原文词形：more",
+      "sentence": "And more trees.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-07/more.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "更多",
+        "原料；要素",
+        "自然；大自然"
+      ]
+    },
+    {
+      "id": "direction",
+      "word": "direction",
+      "forms": [
+        "direction"
+      ],
+      "tier": "core",
+      "phonetic": "/di'rekʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "方向；指导",
+      "wordForms": "原文词形：direction",
+      "sentence": "Were they still going in the right direction?",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-07/direction.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tion",
+          "sound": "/ʃən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "方向；指导",
+        "棍；棒",
+        "竹子"
+      ]
+    },
+    {
+      "id": "stick",
+      "word": "stick",
+      "forms": [
+        "stick"
+      ],
+      "tier": "core",
+      "phonetic": "/stik/",
+      "partOfSpeech": "n.",
+      "meaning": "棍；棒",
+      "wordForms": "原文词形：stick",
+      "sentence": "First we need a stick,\" he said.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-07/stick.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "棍；棒",
+        "原料；要素",
+        "更多"
+      ]
+    },
+    {
+      "id": "space",
+      "word": "space",
+      "forms": [
+        "space"
+      ],
+      "tier": "core",
+      "phonetic": "/speis/",
+      "partOfSpeech": "n.",
+      "meaning": "位置；空间",
+      "wordForms": "原文词形：space",
+      "sentence": "Great, now we just need a space with moonlight,\" said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-07/space.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "位置；空间",
+        "方向；指导",
+        "头；头脑"
+      ]
+    },
+    {
+      "id": "bamboo",
+      "word": "bamboo",
+      "forms": [
+        "bamboo"
+      ],
+      "tier": "core",
+      "phonetic": "/bæm'bu:/",
+      "partOfSpeech": "n.",
+      "meaning": "竹子",
+      "wordForms": "原文词形：bamboo",
+      "sentence": "It was a picture of warriors wearing bamboo armor.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-07/bamboo.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "竹子",
+        "头；头脑",
+        "自然；大自然"
+      ]
+    }
+  ]
+}

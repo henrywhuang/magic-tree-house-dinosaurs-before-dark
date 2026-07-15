@@ -1,0 +1,408 @@
+{
+  "book": 5,
+  "chapter": 6,
+  "title": "Shadow Warrior",
+  "words": [
+    {
+      "id": "mat",
+      "word": "mat",
+      "forms": [
+        "mat"
+      ],
+      "tier": "recognition",
+      "phonetic": "/mæt/",
+      "partOfSpeech": "n.",
+      "meaning": "垫；丛",
+      "wordForms": "原文词形：mat",
+      "sentence": "In the flickering light, Jack saw a dark figure sitting on a woven mat.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-06/mat.mp3"
+    },
+    {
+      "id": "floor",
+      "word": "floor",
+      "forms": [
+        "floor"
+      ],
+      "tier": "core",
+      "phonetic": "/flɒ:/",
+      "partOfSpeech": "n.",
+      "meaning": "地板；楼层",
+      "wordForms": "原文词形：floor",
+      "sentence": "Jack and Annie sat on the cold, hard floor.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-06/floor.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "地板；楼层",
+        "孤独的；单独的",
+        "实践；练习"
+      ]
+    },
+    {
+      "id": "why",
+      "word": "Why",
+      "forms": [
+        "Why"
+      ],
+      "tier": "recognition",
+      "phonetic": "/hwai/",
+      "partOfSpeech": "adv.",
+      "meaning": "为什么",
+      "wordForms": "原文词形：Why",
+      "sentence": "Why are you here?\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-06/why.mp3"
+    },
+    {
+      "id": "samurai",
+      "word": "samurai",
+      "forms": [
+        "samurai"
+      ],
+      "tier": "core",
+      "phonetic": "/'sæmurai/",
+      "partOfSpeech": "n.",
+      "meaning": "武士",
+      "wordForms": "原文词形：samurai",
+      "sentence": "“The samurai are close.”",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-06/samurai.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "武士",
+        "家庭；家人",
+        "地板；楼层"
+      ]
+    },
+    {
+      "id": "japanese",
+      "word": "Japanese",
+      "forms": [
+        "Japanese"
+      ],
+      "tier": "core",
+      "phonetic": "/.dʒæpә'ni:z/",
+      "partOfSpeech": "n.",
+      "meaning": "日本人；日语",
+      "wordForms": "原文词形：Japanese",
+      "sentence": "He knew that the samurai were fierce Japanese fighters.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-06/japanese.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "日本人；日语",
+        "地板；楼层",
+        "武士"
+      ]
+    },
+    {
+      "id": "fighters",
+      "word": "fighters",
+      "forms": [
+        "fighters"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈfaɪtəz/",
+      "partOfSpeech": "n.",
+      "meaning": "斗士；战士",
+      "wordForms": "原文词形：fighters",
+      "sentence": "He knew that the samurai were fierce Japanese fighters.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-06/fighters.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ers",
+          "sound": "/ərz/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "斗士；战士",
+        "武士",
+        "家庭；家人"
+      ]
+    },
+    {
+      "id": "family",
+      "word": "family",
+      "forms": [
+        "family"
+      ],
+      "tier": "core",
+      "phonetic": "/'fæmәli/",
+      "partOfSpeech": "n.",
+      "meaning": "家庭；家人",
+      "wordForms": "原文词形：family",
+      "sentence": "“Yes, our family is at war with them,” said the master.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-06/family.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "家庭；家人",
+        "仁慈；宽恕",
+        "实践；练习"
+      ]
+    },
+    {
+      "id": "alone",
+      "word": "Alone",
+      "forms": [
+        "Alone"
+      ],
+      "tier": "core",
+      "phonetic": "/ә'lәun/",
+      "partOfSpeech": "adj.",
+      "meaning": "孤独的；单独的",
+      "wordForms": "原文词形：Alone",
+      "sentence": "Alone?\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-06/alone.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "孤独的；单独的",
+        "武士",
+        "地板；楼层"
+      ]
+    },
+    {
+      "id": "mercy",
+      "word": "mercy",
+      "forms": [
+        "mercy"
+      ],
+      "tier": "core",
+      "phonetic": "/'mә:si/",
+      "partOfSpeech": "n.",
+      "meaning": "仁慈；宽恕",
+      "wordForms": "原文词形：mercy",
+      "sentence": "They will show you no mercy.”\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-06/mercy.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "仁慈；宽恕",
+        "地板；楼层",
+        "斗士；战士"
+      ]
+    },
+    {
+      "id": "practice",
+      "word": "practice",
+      "forms": [
+        "practice"
+      ],
+      "tier": "core",
+      "phonetic": "/'præktis/",
+      "partOfSpeech": "n.",
+      "meaning": "实践；练习",
+      "wordForms": "原文词形：practice",
+      "sentence": "You can practice it yourselves now,” said the master.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-06/practice.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ct",
+          "sound": "/ct/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "实践；练习",
+        "斗士；战士",
+        "家庭；家人"
+      ]
+    }
+  ]
+}

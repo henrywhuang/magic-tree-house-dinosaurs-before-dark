@@ -1,0 +1,470 @@
+{
+  "book": 5,
+  "chapter": 2,
+  "title": "The Open Book",
+  "words": [
+    {
+      "id": "piece",
+      "word": "piece",
+      "forms": [
+        "piece"
+      ],
+      "tier": "core",
+      "phonetic": "/pi:s/",
+      "partOfSpeech": "n.",
+      "meaning": "块；片",
+      "wordForms": "原文词形：piece",
+      "sentence": "Jack showed Annie the piece of paper.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-02/piece.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "块；片",
+        "也许；大概",
+        "铲子；勺子"
+      ]
+    },
+    {
+      "id": "thin",
+      "word": "thin",
+      "forms": [
+        "thin"
+      ],
+      "tier": "core",
+      "phonetic": "/θin/",
+      "partOfSpeech": "adj.",
+      "meaning": "薄的；细的",
+      "wordForms": "原文词形：thin",
+      "sentence": "It said:help me-Under a Spell Find 4 thin“Oh no,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-02/thin.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "薄的；细的",
+        "匆促；冲进",
+        "铲子；勺子"
+      ]
+    },
+    {
+      "id": "maybe",
+      "word": "Maybe",
+      "forms": [
+        "Maybe"
+      ],
+      "tier": "core",
+      "phonetic": "/'meibi:/",
+      "partOfSpeech": "adv.",
+      "meaning": "也许；大概",
+      "wordForms": "原文词形：Maybe",
+      "sentence": "“Maybe she was trying to write things,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-02/maybe.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "也许；大概",
+        "园领长袖运动衫",
+        "背骨；脊柱"
+      ]
+    },
+    {
+      "id": "only",
+      "word": "only",
+      "forms": [
+        "only"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'әunli/",
+      "partOfSpeech": "prep.",
+      "meaning": "在...之上",
+      "wordForms": "原文词形：only",
+      "sentence": "That's the only open book,\" she said.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-02/only.mp3"
+    },
+    {
+      "id": "spine",
+      "word": "spine",
+      "forms": [
+        "spine"
+      ],
+      "tier": "core",
+      "phonetic": "/spain/",
+      "partOfSpeech": "n.",
+      "meaning": "背骨；脊柱",
+      "wordForms": "原文词形：spine",
+      "sentence": "He felt a shiver go down his spine.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-02/spine.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "背骨；脊柱",
+        "烦恼；麻烦",
+        "日本武士"
+      ]
+    },
+    {
+      "id": "rushing",
+      "word": "rushing",
+      "forms": [
+        "rushing"
+      ],
+      "tier": "core",
+      "phonetic": "/'rʌʃiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "匆促；冲进",
+      "wordForms": "原文词形：rushing",
+      "sentence": "Near a wide, rushing stream.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-02/rushing.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "匆促；冲进",
+        "铲子；勺子",
+        "日本武士"
+      ]
+    },
+    {
+      "id": "ninjas",
+      "word": "Ninjas",
+      "forms": [
+        "Ninjas"
+      ],
+      "tier": "core",
+      "phonetic": "/'nindʒә/",
+      "partOfSpeech": "n.",
+      "meaning": "日本武士",
+      "wordForms": "原文词形：Ninjas",
+      "sentence": "“Ninjas, I think,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-02/ninjas.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "日本武士",
+        "也许；大概",
+        "分；分钟"
+      ]
+    },
+    {
+      "id": "now",
+      "word": "Now",
+      "forms": [
+        "Now"
+      ],
+      "tier": "recognition",
+      "phonetic": "/nau/",
+      "partOfSpeech": "adv.",
+      "meaning": "现在；刚才",
+      "wordForms": "原文词形：Now",
+      "sentence": "“Now?”",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-02/now.mp3"
+    },
+    {
+      "id": "trouble",
+      "word": "trouble",
+      "forms": [
+        "trouble"
+      ],
+      "tier": "core",
+      "phonetic": "/'trʌbl/",
+      "partOfSpeech": "n.",
+      "meaning": "烦恼；麻烦",
+      "wordForms": "原文词形：trouble",
+      "sentence": "Yes, Morgan's in trouble!",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-02/trouble.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "烦恼；麻烦",
+        "园领长袖运动衫",
+        "薄的；细的"
+      ]
+    },
+    {
+      "id": "minute",
+      "word": "minute",
+      "forms": [
+        "minute"
+      ],
+      "tier": "core",
+      "phonetic": "/'minit. mai'nju:t/",
+      "partOfSpeech": "n.",
+      "meaning": "分；分钟",
+      "wordForms": "原文词形：minute",
+      "sentence": "\"Every minute counts!\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-02/minute.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "分；分钟",
+        "铲子；勺子",
+        "匆促；冲进"
+      ]
+    },
+    {
+      "id": "scooped",
+      "word": "scooped",
+      "forms": [
+        "scooped"
+      ],
+      "tier": "core",
+      "phonetic": "/sku:pt/",
+      "partOfSpeech": "n.",
+      "meaning": "铲子；勺子",
+      "wordForms": "原文词形：scooped",
+      "sentence": "She scooped up the mouse.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-02/scooped.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "铲子；勺子",
+        "匆促；冲进",
+        "薄的；细的"
+      ]
+    },
+    {
+      "id": "sweatshirt",
+      "word": "sweatshirt",
+      "forms": [
+        "sweatshirt"
+      ],
+      "tier": "core",
+      "phonetic": "",
+      "partOfSpeech": "n.",
+      "meaning": "园领长袖运动衫",
+      "wordForms": "原文词形：sweatshirt",
+      "sentence": "Then she put it in the pouch of her sweatshirt.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-02/sweatshirt.mp3",
+      "phonics": [
+        {
+          "letters": "sw",
+          "sound": "/sw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "园领长袖运动衫",
+        "薄的；细的",
+        "铲子；勺子"
+      ]
+    }
+  ]
+}

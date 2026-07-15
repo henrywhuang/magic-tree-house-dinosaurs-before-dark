@@ -1,0 +1,450 @@
+{
+  "book": 5,
+  "chapter": 4,
+  "title": "Captured",
+  "words": [
+    {
+      "id": "iron",
+      "word": "iron",
+      "forms": [
+        "iron"
+      ],
+      "tier": "core",
+      "phonetic": "/'aiәn/",
+      "partOfSpeech": "n.",
+      "meaning": "铁；熨斗",
+      "wordForms": "原文词形：iron",
+      "sentence": "The ninjas pulled iron bands off their hands.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-04/iron.mp3",
+      "phonics": [
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "铁；熨斗",
+        "点头；打盹",
+        "水流；小河"
+      ]
+    },
+    {
+      "id": "spikes",
+      "word": "spikes",
+      "forms": [
+        "spikes"
+      ],
+      "tier": "core",
+      "phonetic": "/spik/",
+      "partOfSpeech": "n.",
+      "meaning": "<美俚><贬>美籍西班牙人；在美国讲西班牙语的人",
+      "wordForms": "原文词形：spikes",
+      "sentence": "The bands had spikes like claws on them.\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-04/spikes.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "<美俚><贬>美籍西班牙人；在美国讲西班牙语的人",
+        "笔记；记录",
+        "点头；打盹"
+      ]
+    },
+    {
+      "id": "claws",
+      "word": "claws",
+      "forms": [
+        "claws"
+      ],
+      "tier": "core",
+      "phonetic": "/klɔ:z/",
+      "partOfSpeech": "n.",
+      "meaning": "爪；螯",
+      "wordForms": "原文词形：claws",
+      "sentence": "The bands had spikes like claws on them.\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-04/claws.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "aw",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "爪；螯",
+        "蜘蛛；设圈套者",
+        "<美俚><贬>美籍西班牙人；在美国讲西班牙语的人"
+      ]
+    },
+    {
+      "id": "note",
+      "word": "note",
+      "forms": [
+        "note"
+      ],
+      "tier": "core",
+      "phonetic": "/nәut/",
+      "partOfSpeech": "n.",
+      "meaning": "笔记；记录",
+      "wordForms": "原文词形：note",
+      "sentence": "She held up Morgan's note.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-04/note.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "笔记；记录",
+        "蜘蛛；设圈套者",
+        "网；蛛丝"
+      ]
+    },
+    {
+      "id": "nodded",
+      "word": "nodded",
+      "forms": [
+        "nodded"
+      ],
+      "tier": "core",
+      "phonetic": "/nɒd/",
+      "partOfSpeech": "n.",
+      "meaning": "点头；打盹",
+      "wordForms": "原文词形：nodded",
+      "sentence": "Finally the short ninja nodded once.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-04/nodded.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "点头；打盹",
+        "水流；小河",
+        "蜘蛛；设圈套者"
+      ]
+    },
+    {
+      "id": "us",
+      "word": "us",
+      "forms": [
+        "us"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ʌs/",
+      "partOfSpeech": "pron.",
+      "meaning": "我们",
+      "wordForms": "原文词形：us",
+      "sentence": "You can help us?\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-04/us.mp3"
+    },
+    {
+      "id": "captured",
+      "word": "captured",
+      "forms": [
+        "captured"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈkæptʃəd/",
+      "partOfSpeech": "n.",
+      "meaning": "抓取；战利品",
+      "wordForms": "原文词形：captured",
+      "sentence": "Were they being captured?\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-04/captured.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pt",
+          "sound": "/pt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "抓取；战利品",
+        "<美俚><贬>美籍西班牙人；在美国讲西班牙语的人",
+        "水流；小河"
+      ]
+    },
+    {
+      "id": "spiders",
+      "word": "spiders",
+      "forms": [
+        "spiders"
+      ],
+      "tier": "core",
+      "phonetic": "/'spaidә/",
+      "partOfSpeech": "n.",
+      "meaning": "蜘蛛；设圈套者",
+      "wordForms": "原文词形：spiders",
+      "sentence": "They were like spiders dropping from webs.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-04/spiders.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ers",
+          "sound": "/ərz/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "蜘蛛；设圈套者",
+        "水流；小河",
+        "网；蛛丝"
+      ]
+    },
+    {
+      "id": "webs",
+      "word": "webs",
+      "forms": [
+        "webs"
+      ],
+      "tier": "core",
+      "phonetic": "/web/",
+      "partOfSpeech": "n.",
+      "meaning": "网；蛛丝",
+      "wordForms": "原文词形：webs",
+      "sentence": "They were like spiders dropping from webs.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-04/webs.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "网；蛛丝",
+        "抓取；战利品",
+        "笔记；记录"
+      ]
+    },
+    {
+      "id": "game",
+      "word": "game",
+      "forms": [
+        "game"
+      ],
+      "tier": "recognition",
+      "phonetic": "/geim/",
+      "partOfSpeech": "n.",
+      "meaning": "比赛；玩耍",
+      "wordForms": "原文词形：game",
+      "sentence": "This isn't a game!”",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-04/game.mp3"
+    },
+    {
+      "id": "always",
+      "word": "always",
+      "forms": [
+        "always"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɒ:lweiz/",
+      "partOfSpeech": "adv.",
+      "meaning": "永远；总是",
+      "wordForms": "原文词形：always",
+      "sentence": "\"Why does this always happen?\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-04/always.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "永远；总是",
+        "蜘蛛；设圈套者",
+        "爪；螯"
+      ]
+    },
+    {
+      "id": "stream",
+      "word": "stream",
+      "forms": [
+        "stream"
+      ],
+      "tier": "core",
+      "phonetic": "/stri:m/",
+      "partOfSpeech": "n.",
+      "meaning": "水流；小河",
+      "wordForms": "原文词形：stream",
+      "sentence": "The ninjas stopped near the rushing water of the wide stream.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-04/stream.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "水流；小河",
+        "铁；熨斗",
+        "抓取；战利品"
+      ]
+    }
+  ]
+}

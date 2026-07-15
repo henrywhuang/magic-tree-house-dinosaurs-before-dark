@@ -1,0 +1,354 @@
+{
+  "book": 5,
+  "chapter": 5,
+  "title": "Flames in the Mist",
+  "words": [
+    {
+      "id": "full",
+      "word": "full",
+      "forms": [
+        "full"
+      ],
+      "tier": "core",
+      "phonetic": "/ful/",
+      "partOfSpeech": "n.",
+      "meaning": "全部；完整",
+      "wordForms": "原文词形：full",
+      "sentence": "A full moon was rising in the sky.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-05/full.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "全部；完整",
+        "洞；穴",
+        "山；山脉"
+      ]
+    },
+    {
+      "id": "sky",
+      "word": "sky",
+      "forms": [
+        "sky"
+      ],
+      "tier": "recognition",
+      "phonetic": "/skai/",
+      "partOfSpeech": "n.",
+      "meaning": "天空；天色",
+      "wordForms": "原文词形：sky",
+      "sentence": "A full moon was rising in the sky.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-05/sky.mp3"
+    },
+    {
+      "id": "mountain",
+      "word": "mountain",
+      "forms": [
+        "mountain"
+      ],
+      "tier": "core",
+      "phonetic": "/'mauntin/",
+      "partOfSpeech": "n.",
+      "meaning": "山；山脉",
+      "wordForms": "原文词形：mountain",
+      "sentence": "Dark rocks dotted the side of the mountain.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-05/mountain.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "山；山脉",
+        "喘息；悸动",
+        "桅；桅杆"
+      ]
+    },
+    {
+      "id": "panted",
+      "word": "panted",
+      "forms": [
+        "panted"
+      ],
+      "tier": "core",
+      "phonetic": "/pæntid/",
+      "partOfSpeech": "n.",
+      "meaning": "喘息；悸动",
+      "wordForms": "原文词形：panted",
+      "sentence": "They panted as they climbed the rocky hillside.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-05/panted.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "喘息；悸动",
+        "山；山脉",
+        "桅；桅杆"
+      ]
+    },
+    {
+      "id": "sneakers",
+      "word": "sneakers",
+      "forms": [
+        "sneakers"
+      ],
+      "tier": "core",
+      "phonetic": "/'sni:kә/",
+      "partOfSpeech": "n.",
+      "meaning": "鬼鬼祟祟做事的人；卑鄙者",
+      "wordForms": "原文词形：sneakers",
+      "sentence": "Their wet sneakers made squishy sounds.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-05/sneakers.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ers",
+          "sound": "/ərz/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "鬼鬼祟祟做事的人；卑鄙者",
+        "洞；穴",
+        "全部；完整"
+      ]
+    },
+    {
+      "id": "flaming",
+      "word": "flaming",
+      "forms": [
+        "flaming"
+      ],
+      "tier": "core",
+      "phonetic": "/'fleimiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "谎；假话",
+      "wordForms": "原文词形：flaming",
+      "sentence": "Jack saw torches flaming in the mist.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-05/flaming.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "谎；假话",
+        "鬼鬼祟祟做事的人；卑鄙者",
+        "全部；完整"
+      ]
+    },
+    {
+      "id": "pine",
+      "word": "pine",
+      "forms": [
+        "pine"
+      ],
+      "tier": "core",
+      "phonetic": "/pain/",
+      "partOfSpeech": "n.",
+      "meaning": "松树；松木",
+      "wordForms": "原文词形：pine",
+      "sentence": "They came to a pine forest.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-05/pine.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "松树；松木",
+        "鬼鬼祟祟做事的人；卑鄙者",
+        "山；山脉"
+      ]
+    },
+    {
+      "id": "cave",
+      "word": "cave",
+      "forms": [
+        "cave"
+      ],
+      "tier": "core",
+      "phonetic": "/keiv/",
+      "partOfSpeech": "n.",
+      "meaning": "洞；穴",
+      "wordForms": "原文词形：cave",
+      "sentence": "He turned the pages until he came to a picture of a cave.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-05/cave.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "洞；穴",
+        "鬼鬼祟祟做事的人；卑鄙者",
+        "喘息；悸动"
+      ]
+    },
+    {
+      "id": "master",
+      "word": "master",
+      "forms": [
+        "master"
+      ],
+      "tier": "core",
+      "phonetic": "/'mɑ:stә. 'mæstә/",
+      "partOfSpeech": "n.",
+      "meaning": "桅；桅杆",
+      "wordForms": "原文词形：master",
+      "sentence": "He read:Ninjas took orders from a ninja master.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-05/master.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "桅；桅杆",
+        "松树；松木",
+        "山；山脉"
+      ]
+    }
+  ]
+}

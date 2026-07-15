@@ -1,0 +1,451 @@
+{
+  "book": 5,
+  "chapter": 10,
+  "title": "'Night, Peanut",
+  "words": [
+    {
+      "id": "moonstone",
+      "word": "moonstone",
+      "forms": [
+        "moonstone"
+      ],
+      "tier": "core",
+      "phonetic": "/'mu:nstәun/",
+      "partOfSpeech": "n.",
+      "meaning": "月长石",
+      "wordForms": "原文词形：moonstone",
+      "sentence": "He stared at the moonstone in his hand.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-10/moonstone.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "月长石",
+        "夜；夜晚",
+        "赤热；光辉"
+      ]
+    },
+    {
+      "id": "smooth",
+      "word": "smooth",
+      "forms": [
+        "smooth"
+      ],
+      "tier": "core",
+      "phonetic": "/smu:ð/",
+      "partOfSpeech": "adj.",
+      "meaning": "平滑的；平稳的",
+      "wordForms": "原文词形：smooth",
+      "sentence": "It was clear and smooth.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-10/smooth.mp3",
+      "phonics": [
+        {
+          "letters": "sm",
+          "sound": "/sm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "平滑的；平稳的",
+        "月长石",
+        "再一次；又"
+      ]
+    },
+    {
+      "id": "glow",
+      "word": "glow",
+      "forms": [
+        "glow"
+      ],
+      "tier": "core",
+      "phonetic": "/glәu/",
+      "partOfSpeech": "n.",
+      "meaning": "赤热；光辉",
+      "wordForms": "原文词形：glow",
+      "sentence": "It almost seemed to glow.\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-10/glow.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "赤热；光辉",
+        "晚安；再见",
+        "再一次；又"
+      ]
+    },
+    {
+      "id": "dinner",
+      "word": "dinner",
+      "forms": [
+        "dinner"
+      ],
+      "tier": "core",
+      "phonetic": "/'dinә/",
+      "partOfSpeech": "n.",
+      "meaning": "[人名] 丁",
+      "wordForms": "原文词形：dinner",
+      "sentence": "Time for dinner.\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-10/dinner.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "[人名] 丁",
+        "再一次；又",
+        "平滑的；平稳的"
+      ]
+    },
+    {
+      "id": "again",
+      "word": "again",
+      "forms": [
+        "again"
+      ],
+      "tier": "core",
+      "phonetic": "/ә'gein/",
+      "partOfSpeech": "adv.",
+      "meaning": "再一次；又",
+      "wordForms": "原文词形：again",
+      "sentence": "He looked at the moonstone again.\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-10/again.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "再一次；又",
+        "平滑的；平稳的",
+        "月长石"
+      ]
+    },
+    {
+      "id": "pocket",
+      "word": "pocket",
+      "forms": [
+        "pocket"
+      ],
+      "tier": "core",
+      "phonetic": "/'pɒkit/",
+      "partOfSpeech": "n.",
+      "meaning": "口袋；钱袋",
+      "wordForms": "原文词形：pocket",
+      "sentence": "He put the moonstone in his pocket.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-10/pocket.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "口袋；钱袋",
+        "赤热；光辉",
+        "睡眠；静止"
+      ]
+    },
+    {
+      "id": "bed",
+      "word": "bed",
+      "forms": [
+        "bed"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bed/",
+      "partOfSpeech": "n.",
+      "meaning": "床；睡眠处",
+      "wordForms": "原文词形：bed",
+      "sentence": "I'm making a bed,\" she said.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-10/bed.mp3"
+    },
+    {
+      "id": "sleep",
+      "word": "sleep",
+      "forms": [
+        "sleep"
+      ],
+      "tier": "core",
+      "phonetic": "/sli:p/",
+      "partOfSpeech": "n.",
+      "meaning": "睡眠；静止",
+      "wordForms": "原文词形：sleep",
+      "sentence": "You know, for Peanut to sleep in.”",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-10/sleep.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "睡眠；静止",
+        "赤热；光辉",
+        "[人名] 丁"
+      ]
+    },
+    {
+      "id": "night",
+      "word": "Night",
+      "forms": [
+        "Night"
+      ],
+      "tier": "core",
+      "phonetic": "/nait/",
+      "partOfSpeech": "n.",
+      "meaning": "夜；夜晚",
+      "wordForms": "原文词形：Night",
+      "sentence": "“‘Night, Peanut,” she said softly.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-10/night.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "夜；夜晚",
+        "再一次；又",
+        "赤热；光辉"
+      ]
+    },
+    {
+      "id": "goodnight",
+      "word": "goodnight",
+      "forms": [
+        "goodnight"
+      ],
+      "tier": "core",
+      "phonetic": "",
+      "partOfSpeech": "int.",
+      "meaning": "晚安；再见",
+      "wordForms": "原文词形：goodnight",
+      "sentence": "Kiss it goodnight, Jack,\" she said.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-10/goodnight.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "晚安；再见",
+        "[人名] 丁",
+        "月长石"
+      ]
+    },
+    {
+      "id": "bumped",
+      "word": "bumped",
+      "forms": [
+        "bumped"
+      ],
+      "tier": "core",
+      "phonetic": "/bʌmpt/",
+      "partOfSpeech": "n.",
+      "meaning": "撞击；肿块",
+      "wordForms": "原文词形：bumped",
+      "sentence": "Her hand bumped his.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-10/bumped.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "撞击；肿块",
+        "平滑的；平稳的",
+        "赤热；光辉"
+      ]
+    }
+  ]
+}

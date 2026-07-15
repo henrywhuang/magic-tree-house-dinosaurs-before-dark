@@ -1,0 +1,366 @@
+{
+  "book": 5,
+  "chapter": 8,
+  "title": "Dragon Water",
+  "words": [
+    {
+      "id": "pressed",
+      "word": "pressed",
+      "forms": [
+        "pressed"
+      ],
+      "tier": "core",
+      "phonetic": "/prest/",
+      "partOfSpeech": "n.",
+      "meaning": "主席；总统",
+      "wordForms": "原文词形：pressed",
+      "sentence": "Jack pressed against the rock.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-08/pressed.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "主席；总统",
+        "权利；右边",
+        "左边的；左倾的"
+      ]
+    },
+    {
+      "id": "against",
+      "word": "against",
+      "forms": [
+        "against"
+      ],
+      "tier": "core",
+      "phonetic": "/ә'geinst/",
+      "partOfSpeech": "prep.",
+      "meaning": "反对；对着",
+      "wordForms": "原文词形：against",
+      "sentence": "Jack pressed against the rock.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-08/against.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "反对；对着",
+        "左边的；左倾的",
+        "杂草；野草"
+      ]
+    },
+    {
+      "id": "right",
+      "word": "right",
+      "forms": [
+        "right"
+      ],
+      "tier": "core",
+      "phonetic": "/rait/",
+      "partOfSpeech": "n.",
+      "meaning": "权利；右边",
+      "wordForms": "原文词形：right",
+      "sentence": "He looked to the right.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-08/right.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "权利；右边",
+        "淹死",
+        "杂草；野草"
+      ]
+    },
+    {
+      "id": "left",
+      "word": "left",
+      "forms": [
+        "left"
+      ],
+      "tier": "core",
+      "phonetic": "/left/",
+      "partOfSpeech": "adj.",
+      "meaning": "左边的；左倾的",
+      "wordForms": "原文词形：left",
+      "sentence": "He looked to the left.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-08/left.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ft",
+          "sound": "/ft/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "左边的；左倾的",
+        "主席；总统",
+        "安静；闲适"
+      ]
+    },
+    {
+      "id": "quiet",
+      "word": "quiet",
+      "forms": [
+        "quiet"
+      ],
+      "tier": "core",
+      "phonetic": "/'kwaiәt/",
+      "partOfSpeech": "n.",
+      "meaning": "安静；闲适",
+      "wordForms": "原文词形：quiet",
+      "sentence": "As quiet as the rock.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-08/quiet.mp3",
+      "phonics": [
+        {
+          "letters": "qu",
+          "sound": "/kw/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "安静；闲适",
+        "漩涡；涡动",
+        "淹死"
+      ]
+    },
+    {
+      "id": "swirled",
+      "word": "swirled",
+      "forms": [
+        "swirled"
+      ],
+      "tier": "core",
+      "phonetic": "/swɜ:ld/",
+      "partOfSpeech": "n.",
+      "meaning": "漩涡；涡动",
+      "wordForms": "原文词形：swirled",
+      "sentence": "The icy water swirled up to his knees.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-08/swirled.mp3",
+      "phonics": [
+        {
+          "letters": "sw",
+          "sound": "/sw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "漩涡；涡动",
+        "安静；闲适",
+        "头巾；兜帽"
+      ]
+    },
+    {
+      "id": "weeds",
+      "word": "weeds",
+      "forms": [
+        "weeds"
+      ],
+      "tier": "core",
+      "phonetic": "/wi:dz/",
+      "partOfSpeech": "n.",
+      "meaning": "杂草；野草",
+      "wordForms": "原文词形：weeds",
+      "sentence": "Jack grabbed some weeds.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-08/weeds.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "杂草；野草",
+        "权利；右边",
+        "主席；总统"
+      ]
+    },
+    {
+      "id": "drown",
+      "word": "drown",
+      "forms": [
+        "drown"
+      ],
+      "tier": "core",
+      "phonetic": "/draun/",
+      "partOfSpeech": "v.",
+      "meaning": "淹死",
+      "wordForms": "原文词形：drown",
+      "sentence": "\"We'll drown if we try.\"",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-08/drown.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "淹死",
+        "反对；对着",
+        "漩涡；涡动"
+      ]
+    },
+    {
+      "id": "hood",
+      "word": "hood",
+      "forms": [
+        "hood"
+      ],
+      "tier": "core",
+      "phonetic": "/hud/",
+      "partOfSpeech": "n.",
+      "meaning": "头巾；兜帽",
+      "wordForms": "原文词形：hood",
+      "sentence": "He pulled off the hood of his sweatshirt.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-08/hood.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "头巾；兜帽",
+        "杂草；野草",
+        "反对；对着"
+      ]
+    }
+  ]
+}

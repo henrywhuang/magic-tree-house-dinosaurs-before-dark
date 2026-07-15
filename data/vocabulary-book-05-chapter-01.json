@@ -1,0 +1,429 @@
+{
+  "book": 5,
+  "chapter": 1,
+  "title": "Back into the Woods",
+  "words": [
+    {
+      "id": "walking",
+      "word": "walking",
+      "forms": [
+        "walking"
+      ],
+      "tier": "core",
+      "phonetic": "/'wɒ:kiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "走；散步",
+      "wordForms": "原文词形：walking",
+      "sentence": "Jack and Annie were walking home from the library.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-01/walking.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "走；散步",
+        "蟋蟀；板球",
+        "消散；分散"
+      ]
+    },
+    {
+      "id": "library",
+      "word": "library",
+      "forms": [
+        "library"
+      ],
+      "tier": "core",
+      "phonetic": "/'laibrәri/",
+      "partOfSpeech": "n.",
+      "meaning": "图书馆；藏书",
+      "wordForms": "原文词形：library",
+      "sentence": "Jack and Annie were walking home from the library.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-01/library.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "图书馆；藏书",
+        "可爱的；聪明的",
+        "坚硬的；硬的"
+      ]
+    },
+    {
+      "id": "weeks",
+      "word": "Weeks",
+      "forms": [
+        "Weeks"
+      ],
+      "tier": "core",
+      "phonetic": "/wi:ks/",
+      "partOfSpeech": "n.",
+      "meaning": "星期；周",
+      "wordForms": "原文词形：Weeks",
+      "sentence": "Weeks had passed.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-01/weeks.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "星期；周",
+        "图书馆；藏书",
+        "走；散步"
+      ]
+    },
+    {
+      "id": "nor",
+      "word": "Nor",
+      "forms": [
+        "Nor"
+      ],
+      "tier": "recognition",
+      "phonetic": "/nɒ:/",
+      "partOfSpeech": "conj.",
+      "meaning": "也不；也没有",
+      "wordForms": "原文词形：Nor",
+      "sentence": "Nor had there been one signof her magic tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-01/nor.mp3"
+    },
+    {
+      "id": "kidding",
+      "word": "kidding",
+      "forms": [
+        "kidding"
+      ],
+      "tier": "core",
+      "phonetic": "/kid/",
+      "partOfSpeech": "n.",
+      "meaning": "小山羊；小山羊肉",
+      "wordForms": "原文词形：kidding",
+      "sentence": "“She better not be kidding,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-01/kidding.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "小山羊；小山羊肉",
+        "蟋蟀；板球",
+        "坚硬的；硬的"
+      ]
+    },
+    {
+      "id": "crickets",
+      "word": "Crickets",
+      "forms": [
+        "Crickets"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈkrikits/",
+      "partOfSpeech": "n.",
+      "meaning": "蟋蟀；板球",
+      "wordForms": "原文词形：Crickets",
+      "sentence": "Crickets chirped loudly.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-01/crickets.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蟋蟀；板球",
+        "消散；分散",
+        "走；散步"
+      ]
+    },
+    {
+      "id": "hard",
+      "word": "hard",
+      "forms": [
+        "hard"
+      ],
+      "tier": "core",
+      "phonetic": "/hɑ:d/",
+      "partOfSpeech": "adj.",
+      "meaning": "坚硬的；硬的",
+      "wordForms": "原文词形：hard",
+      "sentence": "It was hard to see through the shadows.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-01/hard.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "坚硬的；硬的",
+        "消散；分散",
+        "平原；草原"
+      ]
+    },
+    {
+      "id": "scattered",
+      "word": "scattered",
+      "forms": [
+        "scattered"
+      ],
+      "tier": "core",
+      "phonetic": "/'skætәd/",
+      "partOfSpeech": "n.",
+      "meaning": "消散；分散",
+      "wordForms": "原文词形：scattered",
+      "sentence": "Books were scattered everywhere.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-01/scattered.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "消散；分散",
+        "蟋蟀；板球",
+        "平原；草原"
+      ]
+    },
+    {
+      "id": "cute",
+      "word": "cute",
+      "forms": [
+        "cute"
+      ],
+      "tier": "core",
+      "phonetic": "/kju:t/",
+      "partOfSpeech": "adj.",
+      "meaning": "可爱的；聪明的",
+      "wordForms": "原文词形：cute",
+      "sentence": "Oh, it's so cute,\" Annie said.",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-01/cute.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "可爱的；聪明的",
+        "小山羊；小山羊肉",
+        "蟋蟀；板球"
+      ]
+    },
+    {
+      "id": "plain",
+      "word": "plain",
+      "forms": [
+        "plain"
+      ],
+      "tier": "core",
+      "phonetic": "/plein/",
+      "partOfSpeech": "n.",
+      "meaning": "平原；草原",
+      "wordForms": "原文词形：plain",
+      "sentence": "It’s a plain old mouse that crawled in, that’s all.”",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-01/plain.mp3",
+      "phonics": [
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "平原；草原",
+        "小山羊；小山羊肉",
+        "走；散步"
+      ]
+    },
+    {
+      "id": "old",
+      "word": "old",
+      "forms": [
+        "old"
+      ],
+      "tier": "recognition",
+      "phonetic": "/әuld/",
+      "partOfSpeech": "n.",
+      "meaning": "以前；往昔",
+      "wordForms": "原文词形：old",
+      "sentence": "It’s a plain old mouse that crawled in, that’s all.”",
+      "sentenceAudio": "assets/audio/sentences/book-05-chapter-01/old.mp3"
+    }
+  ]
+}

@@ -58,7 +58,7 @@ function audioStart(){return Number.isFinite(state.words[0]?.start)?state.words[
 function hasVocabulary(bookIndex=state.book,chapterIndex=state.chapter){return bookIndex>=0&&bookIndex<BOOKS.length&&chapterIndex>=0&&chapterIndex<BOOKS[bookIndex].chapters.length}
 
 function pronunciationStatus(text,isError=false){const el=$('#pronunciationStatus');el.textContent=text;el.classList.toggle('error',isError)}
-function wordAudioPath(word){return `assets/audio/words/${encodeURIComponent(word.toLowerCase())}.mp3`}
+function wordAudioPath(word){const key=String(word||'').toLowerCase().replace(/[^a-z'-]/g,'');return key?`assets/audio/words/${encodeURIComponent(key)}.mp3`:''}
 function clearTTS(){pronunciationAudio.pause();pronunciationAudio.currentTime=0;activeTTS?.button?.classList.remove('speaking');activeTTS=null}
 function finishTTS(isError=false){const current=activeTTS;if(!current)return;pronunciationAudio.pause();current.button?.classList.remove('speaking');if(current.showStatus)pronunciationStatus(isError?'音频加载失败，请刷新后重试':current.endMessage,isError);activeTTS=null}
 function playTTS(path,button,{startMessage='正在播放…',endMessage='播放完毕 · 可再次点击',showStatus=false}={}){
