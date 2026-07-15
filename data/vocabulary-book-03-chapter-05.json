@@ -1,0 +1,531 @@
+{
+  "book": 3,
+  "chapter": 5,
+  "title": "The Ghost-Queen",
+  "words": [
+    {
+      "id": "hieroglyphs",
+      "word": "hieroglyphs",
+      "forms": [
+        "hieroglyphs"
+      ],
+      "tier": "core",
+      "phonetic": "/hˌaɪroʊɡlˈɪfs/",
+      "partOfSpeech": "n.",
+      "meaning": "象形文字",
+      "wordForms": "原文词形：hieroglyphs",
+      "sentence": "\"But perhaps you will describe the hieroglyphs on this wall,\" said the ghost-queen.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/hieroglyphs.mp3",
+      "phonics": [
+        {
+          "letters": "hi",
+          "sound": "/hi/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ogl",
+          "sound": "/ogl/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ph",
+          "sound": "/f/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "象形文字",
+        "眯着眼睛",
+        "有毒的"
+      ]
+    },
+    {
+      "id": "poisonous",
+      "word": "poisonous",
+      "forms": [
+        "poisonous"
+      ],
+      "tier": "core",
+      "phonetic": "/pˈɔɪzənəs/",
+      "partOfSpeech": "adj.",
+      "meaning": "有毒的",
+      "wordForms": "原文词形：poisonous",
+      "sentence": "“Poisonous snakes,” said the ghost-queen.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/poisonous.mp3",
+      "phonics": [
+        {
+          "letters": "poi",
+          "sound": "/poi/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "有毒的",
+        "象形文字",
+        "冥界"
+      ]
+    },
+    {
+      "id": "underworld",
+      "word": "underworld",
+      "forms": [
+        "underworld"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈʌndɚwˌɝld/",
+      "partOfSpeech": "n.",
+      "meaning": "冥界",
+      "wordForms": "原文词形：underworld",
+      "sentence": "\"It will tell me the magic spells I need to getthrough the Underworld,\" said the ghost-queen.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/underworld.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "冥界",
+        "女王",
+        "鬼魂"
+      ]
+    },
+    {
+      "id": "hollow",
+      "word": "hollow",
+      "forms": [
+        "hollow"
+      ],
+      "tier": "core",
+      "phonetic": "/hˈɑloʊ/",
+      "partOfSpeech": "n.",
+      "meaning": "空洞的；低沉的",
+      "wordForms": "原文词形：hollow",
+      "sentence": "She spoke in a hollow, echoing voice.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/hollow.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ll",
+          "sound": "/ll/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "空洞的；低沉的",
+        "恐惧；惊骇",
+        "描述；说明"
+      ]
+    },
+    {
+      "id": "horror",
+      "word": "horror",
+      "forms": [
+        "horror"
+      ],
+      "tier": "core",
+      "phonetic": "/hˈɔrɚ/",
+      "partOfSpeech": "n.",
+      "meaning": "恐惧；惊骇",
+      "wordForms": "原文词形：horror",
+      "sentence": "Jack could only stare in horror.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/horror.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "恐惧；惊骇",
+        "描述；说明",
+        "偷走；窃取"
+      ]
+    },
+    {
+      "id": "describe",
+      "word": "describe",
+      "forms": [
+        "describe"
+      ],
+      "tier": "core",
+      "phonetic": "/dɪskrˈaɪb/",
+      "partOfSpeech": "n.",
+      "meaning": "描述；说明",
+      "wordForms": "原文词形：describe",
+      "sentence": "\"But perhaps you will describe the hieroglyphs on this wall,\" said the ghost-queen.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/describe.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "scr",
+          "sound": "/scr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "描述；说明",
+        "恐惧；惊骇",
+        "偷走；窃取"
+      ]
+    },
+    {
+      "id": "queen",
+      "word": "queen",
+      "forms": [
+        "queen"
+      ],
+      "tier": "core",
+      "phonetic": "/kwˈin/",
+      "partOfSpeech": "n.",
+      "meaning": "女王",
+      "wordForms": "原文词形：queen",
+      "sentence": "\"Queen of the Nile.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/queen.mp3",
+      "phonics": [
+        {
+          "letters": "qu",
+          "sound": "/kw/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "女王",
+        "冥界",
+        "鬼魂"
+      ]
+    },
+    {
+      "id": "steal",
+      "word": "steal",
+      "forms": [
+        "steal"
+      ],
+      "tier": "core",
+      "phonetic": "/stˈil/",
+      "partOfSpeech": "adj.",
+      "meaning": "偷走；窃取",
+      "wordForms": "原文词形：steal",
+      "sentence": "“My brother hid the Book of the Dead so tomb robbers would not steal it,” said the ghost-queen.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/steal.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "偷走；窃取",
+        "恐惧；惊骇",
+        "描述；说明"
+      ]
+    },
+    {
+      "id": "ghost",
+      "word": "ghost",
+      "forms": [
+        "ghost"
+      ],
+      "tier": "core",
+      "phonetic": "/ɡˈoʊst/",
+      "partOfSpeech": "n.",
+      "meaning": "鬼魂",
+      "wordForms": "原文词形：ghost",
+      "sentence": "\"A ghost,\" Annie whispered.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/ghost.mp3",
+      "phonics": [
+        {
+          "letters": "gh",
+          "sound": "/gh/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "鬼魂",
+        "冥界",
+        "女王"
+      ]
+    },
+    {
+      "id": "thousands",
+      "word": "thousands",
+      "forms": [
+        "thousands"
+      ],
+      "tier": "core",
+      "phonetic": "/θˈaʊzəndz/",
+      "partOfSpeech": "n.",
+      "meaning": "数千",
+      "wordForms": "原文词形：thousands",
+      "sentence": "I have not been able toread his message for thousands of years.\"",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/thousands.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nds",
+          "sound": "/nds/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "数千",
+        "冥界",
+        "女王"
+      ]
+    },
+    {
+      "id": "squinted",
+      "word": "squinted",
+      "forms": [
+        "squinted"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ˈskwɪntɪd/",
+      "partOfSpeech": "v.",
+      "meaning": "眯着眼睛",
+      "wordForms": "原文词形：squinted",
+      "sentence": "She squinted at the wall.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/squinted.mp3"
+    },
+    {
+      "id": "finally",
+      "word": "finally",
+      "forms": [
+        "finally"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fˈaɪnəli/",
+      "partOfSpeech": "adv.",
+      "meaning": "最后",
+      "wordForms": "原文词形：finally",
+      "sentence": "said Jack, finally finding his voice.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/finally.mp3"
+    },
+    {
+      "id": "finding",
+      "word": "finding",
+      "forms": [
+        "finding"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fˈaɪndɪŋ/",
+      "partOfSpeech": "ver.",
+      "meaning": "发现",
+      "wordForms": "原文词形：finding",
+      "sentence": "said Jack, finally finding his voice.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/finding.mp3"
+    },
+    {
+      "id": "journey",
+      "word": "journey",
+      "forms": [
+        "journey"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dʒˈɝni/",
+      "partOfSpeech": "nou.",
+      "meaning": "旅行",
+      "wordForms": "原文词形：journey",
+      "sentence": "“Before I journey on to the Next Life, I must pass through the horrors of the Underworld.”",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/journey.mp3"
+    },
+    {
+      "id": "perhaps",
+      "word": "perhaps",
+      "forms": [
+        "perhaps"
+      ],
+      "tier": "recognition",
+      "phonetic": "/pɚhˈæps/",
+      "partOfSpeech": "nou.",
+      "meaning": "也许",
+      "wordForms": "原文词形：perhaps",
+      "sentence": "\"But perhaps you will describe the hieroglyphs on this wall,\" said the ghost-queen.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/perhaps.mp3"
+    },
+    {
+      "id": "someone",
+      "word": "someone",
+      "forms": [
+        "someone"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'sʌmwʌn/",
+      "partOfSpeech": "n.",
+      "meaning": "有人；某人",
+      "wordForms": "原文词形：someone",
+      "sentence": "“Someone must find my Book of the Dead,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/someone.mp3"
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "book": 3,
+  "chapter": 8,
+  "title": "The Mummy",
+  "words": [
+    {
+      "id": "imagination",
+      "word": "imagination",
+      "forms": [
+        "imagination"
+      ],
+      "tier": "core",
+      "phonetic": "/ˌɪmˌædʒənˈeɪʃən/",
+      "partOfSpeech": "n.",
+      "meaning": "想象力",
+      "wordForms": "原文词形：imagination",
+      "sentence": "Was it just his imagination?",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/imagination.mp3",
+      "phonics": [
+        {
+          "letters": "im",
+          "sound": "/im/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ag",
+          "sound": "/ag/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tion",
+          "sound": "/ʃən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "想象力",
+        "压扁了",
+        "较微弱"
+      ]
+    },
+    {
+      "id": "removed",
+      "word": "removed",
+      "forms": [
+        "removed"
+      ],
+      "tier": "core",
+      "phonetic": "/rimˈuvd/",
+      "partOfSpeech": "v.",
+      "meaning": "拿下；移开",
+      "wordForms": "原文词形：removed",
+      "sentence": "The brain was removed by---“Yuck!",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/removed.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "拿下；移开",
+        "绷带（复数）",
+        "自始至终"
+      ]
+    },
+    {
+      "id": "bandages",
+      "word": "bandages",
+      "forms": [
+        "bandages"
+      ],
+      "tier": "core",
+      "phonetic": "/bˈændədʒəz/",
+      "partOfSpeech": "n.",
+      "meaning": "绷带（复数）",
+      "wordForms": "原文词形：bandages",
+      "sentence": "Bandages were still wrapped around the mummy's skull, but most of the bandages had fallen away from the face.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/bandages.mp3",
+      "phonics": [
+        {
+          "letters": "ba",
+          "sound": "/ba/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "绷带（复数）",
+        "拿下；移开",
+        "他自己；他亲自"
+      ]
+    },
+    {
+      "id": "sigh",
+      "word": "sigh",
+      "forms": [
+        "sigh"
+      ],
+      "tier": "core",
+      "phonetic": "/sˈaɪ/",
+      "partOfSpeech": "n.",
+      "meaning": "叹",
+      "wordForms": "原文词形：sigh",
+      "sentence": "Or did a deep sigh seem to shudder throughout the room?",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/sigh.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "igh",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "叹",
+        "皱",
+        "哭"
+      ]
+    },
+    {
+      "id": "throughout",
+      "word": "throughout",
+      "forms": [
+        "throughout"
+      ],
+      "tier": "core",
+      "phonetic": "/θruˈaʊt/",
+      "partOfSpeech": "n.",
+      "meaning": "自始至终",
+      "wordForms": "原文词形：throughout",
+      "sentence": "Or did a deep sigh seem to shudder throughout the room?",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/throughout.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ough",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "自始至终",
+        "想象力",
+        "拿下；移开"
+      ]
+    },
+    {
+      "id": "furniture",
+      "word": "furniture",
+      "forms": [
+        "furniture"
+      ],
+      "tier": "core",
+      "phonetic": "/fˈɝnɪtʃɚ/",
+      "partOfSpeech": "n.",
+      "meaning": "家具",
+      "wordForms": "原文词形：furniture",
+      "sentence": "He looked around at the furniture, the musical instruments, and the boat.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/furniture.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ture",
+          "sound": "/tʃər/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "家具",
+        "干枯",
+        "音乐"
+      ]
+    },
+    {
+      "id": "squashed",
+      "word": "squashed",
+      "forms": [
+        "squashed"
+      ],
+      "tier": "core",
+      "phonetic": "/skwˈɑʃt/",
+      "partOfSpeech": "v.",
+      "meaning": "压扁了",
+      "wordForms": "原文词形：squashed",
+      "sentence": "It had broken teeth, little wrinkled ears, and a squashed nose.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/squashed.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "qu",
+          "sound": "/kw/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "压扁了",
+        "想象力",
+        "较微弱"
+      ]
+    },
+    {
+      "id": "withered",
+      "word": "withered",
+      "forms": [
+        "withered"
+      ],
+      "tier": "core",
+      "phonetic": "/wˈɪðɚd/",
+      "partOfSpeech": "v.",
+      "meaning": "干枯",
+      "wordForms": "原文词形：withered",
+      "sentence": "Its flesh had withered.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/withered.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "干枯",
+        "家具",
+        "音乐"
+      ]
+    },
+    {
+      "id": "wrinkled",
+      "word": "wrinkled",
+      "forms": [
+        "wrinkled"
+      ],
+      "tier": "core",
+      "phonetic": "/rˈɪŋkəld/",
+      "partOfSpeech": "v.",
+      "meaning": "皱",
+      "wordForms": "原文词形：wrinkled",
+      "sentence": "It had broken teeth, little wrinkled ears, and a squashed nose.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/wrinkled.mp3",
+      "phonics": [
+        {
+          "letters": "wr",
+          "sound": "/wr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nkl",
+          "sound": "/nkl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "皱",
+        "叹",
+        "哭"
+      ]
+    },
+    {
+      "id": "cry",
+      "word": "cry",
+      "forms": [
+        "cry"
+      ],
+      "tier": "core",
+      "phonetic": "/krˈaɪ/",
+      "partOfSpeech": "adj.",
+      "meaning": "哭",
+      "wordForms": "原文词形：cry",
+      "sentence": "came a cry.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/cry.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/cr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "哭",
+        "叹",
+        "皱"
+      ]
+    },
+    {
+      "id": "fainter",
+      "word": "fainter",
+      "forms": [
+        "fainter"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fˈeɪntɚ/",
+      "partOfSpeech": "n.",
+      "meaning": "较微弱",
+      "wordForms": "原文词形：fainter",
+      "sentence": "Her cry seemed fainter.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/fainter.mp3"
+    },
+    {
+      "id": "himself",
+      "word": "himself",
+      "forms": [
+        "himself"
+      ],
+      "tier": "recognition",
+      "phonetic": "/him'self/",
+      "partOfSpeech": "n.",
+      "meaning": "他自己；他亲自",
+      "wordForms": "原文词形：himself",
+      "sentence": "He found himself at the top of some stairs.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/himself.mp3"
+    },
+    {
+      "id": "musical",
+      "word": "musical",
+      "forms": [
+        "musical"
+      ],
+      "tier": "recognition",
+      "phonetic": "/mjˈuzɪkəl/",
+      "partOfSpeech": "adj.",
+      "meaning": "音乐",
+      "wordForms": "原文词形：musical",
+      "sentence": "He looked around at the furniture, the musical instruments, and the boat.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/musical.mp3"
+    },
+    {
+      "id": "protect",
+      "word": "protect",
+      "forms": [
+        "protect"
+      ],
+      "tier": "recognition",
+      "phonetic": "/prətˈɛkt/",
+      "partOfSpeech": "n.",
+      "meaning": "保护",
+      "wordForms": "原文词形：protect",
+      "sentence": "He read aloud:Ancient Egyptians tried to protect the body so it would last forever.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/protect.mp3"
+    },
+    {
+      "id": "reading",
+      "word": "reading",
+      "forms": [
+        "reading"
+      ],
+      "tier": "recognition",
+      "phonetic": "/rˈidɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "阅读",
+      "wordForms": "原文词形：reading",
+      "sentence": "He kept reading:Next it was covered with oil.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/reading.mp3"
+    },
+    {
+      "id": "rotting",
+      "word": "rotting",
+      "forms": [
+        "rotting"
+      ],
+      "tier": "recognition",
+      "phonetic": "/rˈɑtɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "腐烂",
+      "wordForms": "原文词形：rotting",
+      "sentence": "The rotting bandages on the mummy's body were coming off.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-08/rotting.mp3"
+    }
+  ]
+}

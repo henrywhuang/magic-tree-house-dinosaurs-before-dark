@@ -1,0 +1,521 @@
+{
+  "book": 2,
+  "chapter": 8,
+  "title": "The Knight",
+  "words": [
+    {
+      "id": "embankment",
+      "word": "embankment",
+      "forms": [
+        "embankment"
+      ],
+      "tier": "core",
+      "phonetic": "/im'bæŋkmәnt/",
+      "partOfSpeech": "n.",
+      "meaning": "堤岸；斜坡",
+      "wordForms": "原文词形：embankment",
+      "sentence": "They crawled over an embankment onto the wet grass.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/embankment.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mb",
+          "sound": "/mb/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nkm",
+          "sound": "/nkm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "堤岸；斜坡",
+        "厚的；粗壮的",
+        "喋喋不休"
+      ]
+    },
+    {
+      "id": "clothes",
+      "word": "clothes",
+      "forms": [
+        "clothes"
+      ],
+      "tier": "core",
+      "phonetic": "/klәuðz/",
+      "partOfSpeech": "n.",
+      "meaning": "衣服",
+      "wordForms": "原文词形：clothes",
+      "sentence": "With his backpack, his shoes, and his heavy clothes, he could barely stay afloat.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/clothes.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/cl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "衣服",
+        "边缘",
+        "游泳"
+      ]
+    },
+    {
+      "id": "shoes",
+      "word": "shoes",
+      "forms": [
+        "shoes"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃˈuz/",
+      "partOfSpeech": "n.",
+      "meaning": "鞋",
+      "wordForms": "原文词形：shoes",
+      "sentence": "With his backpack, his shoes, and his heavy clothes, he could barely stay afloat.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/shoes.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鞋",
+        "衣服",
+        "边缘"
+      ]
+    },
+    {
+      "id": "thick",
+      "word": "thick",
+      "forms": [
+        "thick"
+      ],
+      "tier": "core",
+      "phonetic": "/θik/",
+      "partOfSpeech": "adj.",
+      "meaning": "厚的；粗壮的",
+      "wordForms": "原文词形：thick",
+      "sentence": "Everything had been swallowed up by the thick, soupy darkness.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/thick.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "厚的；粗壮的",
+        "堤岸；斜坡",
+        "喋喋不休"
+      ]
+    },
+    {
+      "id": "edge",
+      "word": "edge",
+      "forms": [
+        "edge"
+      ],
+      "tier": "core",
+      "phonetic": "/edʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "边缘",
+      "wordForms": "原文词形：edge",
+      "sentence": "Near the edge!”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/edge.mp3",
+      "phonics": [
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "边缘",
+        "衣服",
+        "游泳"
+      ]
+    },
+    {
+      "id": "swim",
+      "word": "swim",
+      "forms": [
+        "swim"
+      ],
+      "tier": "core",
+      "phonetic": "/swˈɪm/",
+      "partOfSpeech": "n.",
+      "meaning": "游泳",
+      "wordForms": "原文词形：swim",
+      "sentence": "Just swim!”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/swim.mp3",
+      "phonics": [
+        {
+          "letters": "sw",
+          "sound": "/sw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "游泳",
+        "衣服",
+        "边缘"
+      ]
+    },
+    {
+      "id": "slithering",
+      "word": "slithering",
+      "forms": [
+        "slithering"
+      ],
+      "tier": "core",
+      "phonetic": "/slˈɪðɚɪŋ/",
+      "partOfSpeech": "ver.",
+      "meaning": "滑行",
+      "wordForms": "原文词形：slithering",
+      "sentence": "He imagined a crocodile slithering after him.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/slithering.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "滑行",
+        "衣服",
+        "边缘"
+      ]
+    },
+    {
+      "id": "moonlight",
+      "word": "moonlight",
+      "forms": [
+        "moonlight"
+      ],
+      "tier": "core",
+      "phonetic": "/mˈunlˌaɪt/",
+      "partOfSpeech": "nou.",
+      "meaning": "月光",
+      "wordForms": "原文词形：moonlight",
+      "sentence": "His armor shone in the moonlight.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/moonlight.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nl",
+          "sound": "/nl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "igh",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "月光",
+        "衣服",
+        "边缘"
+      ]
+    },
+    {
+      "id": "swallowed",
+      "word": "swallowed",
+      "forms": [
+        "swallowed"
+      ],
+      "tier": "core",
+      "phonetic": "/swˈɑloʊd/",
+      "partOfSpeech": "ver.",
+      "meaning": "吞下",
+      "wordForms": "原文词形：swallowed",
+      "sentence": "Everything had been swallowed up by the thick, soupy darkness.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/swallowed.mp3",
+      "phonics": [
+        {
+          "letters": "sw",
+          "sound": "/sw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ll",
+          "sound": "/ll/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "吞下",
+        "衣服",
+        "边缘"
+      ]
+    },
+    {
+      "id": "chattering",
+      "word": "chattering",
+      "forms": [
+        "chattering"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃˈætɚɪŋ/",
+      "partOfSpeech": "ver.",
+      "meaning": "喋喋不休",
+      "wordForms": "原文词形：chattering",
+      "sentence": "His teeth were chattering.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/chattering.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tt",
+          "sound": "/tt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "喋喋不休",
+        "直线；直",
+        "堤岸；斜坡"
+      ]
+    },
+    {
+      "id": "imagined",
+      "word": "imagined",
+      "forms": [
+        "imagined"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ˌɪmˈædʒənd/",
+      "partOfSpeech": "ver.",
+      "meaning": "想象的",
+      "wordForms": "原文词形：imagined",
+      "sentence": "He imagined a crocodile slithering after him.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/imagined.mp3"
+    },
+    {
+      "id": "straight",
+      "word": "straight",
+      "forms": [
+        "straight"
+      ],
+      "tier": "recognition",
+      "phonetic": "/streit/",
+      "partOfSpeech": "n.",
+      "meaning": "直线；直",
+      "wordForms": "原文词形：straight",
+      "sentence": "A visor hid his face, but he seemed to be staring straight at Jack and Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/straight.mp3"
+    },
+    {
+      "id": "wet",
+      "word": "wet",
+      "forms": [
+        "wet"
+      ],
+      "tier": "recognition",
+      "phonetic": "/wˈɛt/",
+      "partOfSpeech": "n.",
+      "meaning": "湿的",
+      "wordForms": "原文词形：wet",
+      "sentence": "Jack’s hand touched a wet, live thing.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/wet.mp3"
+    },
+    {
+      "id": "crocodile",
+      "word": "crocodile",
+      "forms": [
+        "crocodile"
+      ],
+      "tier": "recognition",
+      "phonetic": "/krˈɑkədˌaɪl/",
+      "partOfSpeech": "nou.",
+      "meaning": "鳄鱼",
+      "wordForms": "原文词形：crocodile",
+      "sentence": "He imagined a crocodile slithering after him.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/crocodile.mp3"
+    },
+    {
+      "id": "calling",
+      "word": "calling",
+      "forms": [
+        "calling"
+      ],
+      "tier": "recognition",
+      "phonetic": "/kˈɔlɪŋ/",
+      "partOfSpeech": "ver.",
+      "meaning": "呼叫",
+      "wordForms": "原文词形：calling",
+      "sentence": "Annie was calling from above.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/calling.mp3"
+    },
+    {
+      "id": "coughed",
+      "word": "coughed",
+      "forms": [
+        "coughed"
+      ],
+      "tier": "recognition",
+      "phonetic": "/kˈɔft/",
+      "partOfSpeech": "ver.",
+      "meaning": "咳嗽",
+      "wordForms": "原文词形：coughed",
+      "sentence": "He coughed and flailed his arms.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/coughed.mp3"
+    }
+  ]
+}

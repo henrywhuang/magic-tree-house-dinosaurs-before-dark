@@ -1,0 +1,516 @@
+{
+  "book": 3,
+  "chapter": 9,
+  "title": "Follow the Leader",
+  "words": [
+    {
+      "id": "eventually",
+      "word": "eventually",
+      "forms": [
+        "eventually"
+      ],
+      "tier": "core",
+      "phonetic": "/ɪvˈɛntʃəwəli/",
+      "partOfSpeech": "adv.",
+      "meaning": "最终；终于",
+      "wordForms": "原文词形：eventually",
+      "sentence": "“Maybe we’ll eventually come to...",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/eventually.mp3",
+      "phonics": [
+        {
+          "letters": "ev",
+          "sound": "/ev/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ent",
+          "sound": "/ent/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ll",
+          "sound": "/ll/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "最终；终于",
+        "闪闪发光的",
+        "拐角；角落"
+      ]
+    },
+    {
+      "id": "shimmering",
+      "word": "shimmering",
+      "forms": [
+        "shimmering"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃˈɪmɚɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "闪闪发光的",
+      "wordForms": "原文词形：shimmering",
+      "sentence": "Then the cat disappeared in the shimmering waves of heat.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/shimmering.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mm",
+          "sound": "/mm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "闪闪发光的",
+        "最终；终于",
+        "拐角；角落"
+      ]
+    },
+    {
+      "id": "budge",
+      "word": "budge",
+      "forms": [
+        "budge"
+      ],
+      "tier": "core",
+      "phonetic": "/bˈʌdʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "挪动；使移动",
+      "wordForms": "原文词形：budge",
+      "sentence": "It wouldn't budge.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/budge.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dge",
+          "sound": "/dʒ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "挪动；使移动",
+        "假的；错误的",
+        "向前的；早的"
+      ]
+    },
+    {
+      "id": "false",
+      "word": "false",
+      "forms": [
+        "false"
+      ],
+      "tier": "core",
+      "phonetic": "/fˈɔls/",
+      "partOfSpeech": "n.",
+      "meaning": "假的；错误的",
+      "wordForms": "原文词形：false",
+      "sentence": "\"Howdid we get out of the false passage?\"",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/false.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ls",
+          "sound": "/ls/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "假的；错误的",
+        "挪动；使移动",
+        "向前的；早的"
+      ]
+    },
+    {
+      "id": "corner",
+      "word": "corner",
+      "forms": [
+        "corner"
+      ],
+      "tier": "core",
+      "phonetic": "/kˈɔrnɚ/",
+      "partOfSpeech": "n.",
+      "meaning": "拐角；角落",
+      "wordForms": "原文词形：corner",
+      "sentence": "Jack went around a corner.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/corner.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "拐角；角落",
+        "最终；终于",
+        "闪闪发光的"
+      ]
+    },
+    {
+      "id": "bounding",
+      "word": "bounding",
+      "forms": [
+        "bounding"
+      ],
+      "tier": "core",
+      "phonetic": "/bˈaʊndɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "边界",
+      "wordForms": "原文词形：bounding",
+      "sentence": "The cat was bounding away, over the sand.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/bounding.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "边界",
+        "推动",
+        "航行"
+      ]
+    },
+    {
+      "id": "rumbling",
+      "word": "rumbling",
+      "forms": [
+        "rumbling"
+      ],
+      "tier": "core",
+      "phonetic": "/rˈʌmbəlɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "隆隆声",
+      "wordForms": "原文词形：rumbling",
+      "sentence": "Suddenly he heard a rumbling sound.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/rumbling.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mbl",
+          "sound": "/mbl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "隆隆声",
+        "边界",
+        "皱起眉头"
+      ]
+    },
+    {
+      "id": "forward",
+      "word": "forward",
+      "forms": [
+        "forward"
+      ],
+      "tier": "core",
+      "phonetic": "/'fɒ:wәd/",
+      "partOfSpeech": "adj.",
+      "meaning": "向前的；早的",
+      "wordForms": "原文词形：forward",
+      "sentence": "They rushed forward—out into the bright sunlight.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/forward.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "向前的；早的",
+        "挪动；使移动",
+        "假的；错误的"
+      ]
+    },
+    {
+      "id": "frowned",
+      "word": "frowned",
+      "forms": [
+        "frowned"
+      ],
+      "tier": "core",
+      "phonetic": "/frˈaʊnd/",
+      "partOfSpeech": "v.",
+      "meaning": "皱起眉头",
+      "wordForms": "原文词形：frowned",
+      "sentence": "Jack frowned.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/frowned.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "皱起眉头",
+        "分；分钟",
+        "最终；终于"
+      ]
+    },
+    {
+      "id": "pushing",
+      "word": "pushing",
+      "forms": [
+        "pushing"
+      ],
+      "tier": "core",
+      "phonetic": "/pˈʊʃɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "推动",
+      "wordForms": "原文词形：pushing",
+      "sentence": "Jack and Annie stopped pushing.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/pushing.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "推动",
+        "边界",
+        "航行"
+      ]
+    },
+    {
+      "id": "sailing",
+      "word": "sailing",
+      "forms": [
+        "sailing"
+      ],
+      "tier": "recognition",
+      "phonetic": "/sˈeɪlɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "航行",
+      "wordForms": "原文词形：sailing",
+      "sentence": "It was gliding over the sand like a boat sailing over the sea.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/sailing.mp3"
+    },
+    {
+      "id": "silence",
+      "word": "silence",
+      "forms": [
+        "silence"
+      ],
+      "tier": "recognition",
+      "phonetic": "/sˈaɪləns/",
+      "partOfSpeech": "n.",
+      "meaning": "沉默",
+      "wordForms": "原文词形：silence",
+      "sentence": "They stood together at the top of the stairs, listening to the silence.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/silence.mp3"
+    },
+    {
+      "id": "trapped",
+      "word": "trapped",
+      "forms": [
+        "trapped"
+      ],
+      "tier": "recognition",
+      "phonetic": "/trˈæpt/",
+      "partOfSpeech": "v.",
+      "meaning": "被困",
+      "wordForms": "原文词形：trapped",
+      "sentence": "They were trapped.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/trapped.mp3"
+    },
+    {
+      "id": "choice",
+      "word": "choice",
+      "forms": [
+        "choice"
+      ],
+      "tier": "recognition",
+      "phonetic": "/tʃˈɔɪs/",
+      "partOfSpeech": "n.",
+      "meaning": "选择",
+      "wordForms": "原文词形：choice",
+      "sentence": "Jack wasn't sure about that, but they had no choice.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/choice.mp3"
+    },
+    {
+      "id": "leaned",
+      "word": "leaned",
+      "forms": [
+        "leaned"
+      ],
+      "tier": "recognition",
+      "phonetic": "/lˈind/",
+      "partOfSpeech": "v.",
+      "meaning": "lean的过去式和过去分词",
+      "wordForms": "原文词形：leaned",
+      "sentence": "They leaned against the wooden door and pushed.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/leaned.mp3"
+    },
+    {
+      "id": "minute",
+      "word": "minute",
+      "forms": [
+        "minute"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'minit. mai'nju:t/",
+      "partOfSpeech": "n.",
+      "meaning": "分；分钟",
+      "wordForms": "原文词形：minute",
+      "sentence": "just rest a minute,\" said Jack, panting.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/minute.mp3"
+    }
+  ]
+}

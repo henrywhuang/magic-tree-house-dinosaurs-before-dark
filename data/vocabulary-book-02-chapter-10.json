@@ -1,0 +1,531 @@
+{
+  "book": 2,
+  "chapter": 10,
+  "title": "One Mystery Solved",
+  "words": [
+    {
+      "id": "mystery",
+      "word": "mystery",
+      "forms": [
+        "mystery"
+      ],
+      "tier": "core",
+      "phonetic": "/'mistәri/",
+      "partOfSpeech": "adj.",
+      "meaning": "奥秘；谜",
+      "wordForms": "原文词形：mystery",
+      "sentence": "At least that was one mystery solved.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/mystery.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "奥秘；谜",
+        "解决；解答",
+        "令人惊异的"
+      ]
+    },
+    {
+      "id": "solved",
+      "word": "solved",
+      "forms": [
+        "solved"
+      ],
+      "tier": "core",
+      "phonetic": "/sˈɑlvd/",
+      "partOfSpeech": "v.",
+      "meaning": "解决；解答",
+      "wordForms": "原文词形：solved",
+      "sentence": "At least that was one mystery solved.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/solved.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lv",
+          "sound": "/lv/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "解决；解答",
+        "令人惊异的",
+        "奥秘；谜"
+      ]
+    },
+    {
+      "id": "streetlights",
+      "word": "streetlights",
+      "forms": [
+        "streetlights"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈstri:tlaits/",
+      "partOfSpeech": "n.",
+      "meaning": "街灯",
+      "wordForms": "原文词形：streetlights",
+      "sentence": "In the distance, streetlights glowed near their house.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/streetlights.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "tl",
+          "sound": "/tl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "igh",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ts",
+          "sound": "/ts/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "街灯",
+        "抽屉",
+        "楼下"
+      ]
+    },
+    {
+      "id": "drawer",
+      "word": "drawer",
+      "forms": [
+        "drawer"
+      ],
+      "tier": "core",
+      "phonetic": "/'drɒ:ә/",
+      "partOfSpeech": "n.",
+      "meaning": "抽屉",
+      "wordForms": "原文词形：drawer",
+      "sentence": "Jack opened the drawer next to his bed.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/drawer.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "aw",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "抽屉",
+        "街灯",
+        "楼下"
+      ]
+    },
+    {
+      "id": "downstairs",
+      "word": "downstairs",
+      "forms": [
+        "downstairs"
+      ],
+      "tier": "core",
+      "phonetic": "/dˈaʊnstˈɛrz/",
+      "partOfSpeech": "nou.",
+      "meaning": "楼下",
+      "wordForms": "原文词形：downstairs",
+      "sentence": "“They’re not downstairs yet,” whispered Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/downstairs.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nst",
+          "sound": "/nst/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "air",
+          "sound": "/er/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "楼下",
+        "街灯",
+        "抽屉"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "word": "bathroom",
+      "forms": [
+        "bathroom"
+      ],
+      "tier": "core",
+      "phonetic": "/bˈæθrˌum/",
+      "partOfSpeech": "nou.",
+      "meaning": "浴室",
+      "wordForms": "原文词形：bathroom",
+      "sentence": "There was no sign of their mom or dad, but Jack could hear water running in the bathroom.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/bathroom.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "浴室",
+        "街灯",
+        "抽屉"
+      ]
+    },
+    {
+      "id": "upstairs",
+      "word": "upstairs",
+      "forms": [
+        "upstairs"
+      ],
+      "tier": "core",
+      "phonetic": "/əpstˈɛrz/",
+      "partOfSpeech": "nou.",
+      "meaning": "楼上",
+      "wordForms": "原文词形：upstairs",
+      "sentence": "There was a light on in their upstairs window.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/upstairs.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pst",
+          "sound": "/pst/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "air",
+          "sound": "/er/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "楼上",
+        "街灯",
+        "抽屉"
+      ]
+    },
+    {
+      "id": "amazing",
+      "word": "amazing",
+      "forms": [
+        "amazing"
+      ],
+      "tier": "core",
+      "phonetic": "/ә'meiziŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "令人惊异的",
+      "wordForms": "原文词形：amazing",
+      "sentence": "Now this was an amazing new fact.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/amazing.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "令人惊异的",
+        "解决；解答",
+        "奥秘；谜"
+      ]
+    },
+    {
+      "id": "barking",
+      "word": "barking",
+      "forms": [
+        "barking"
+      ],
+      "tier": "core",
+      "phonetic": "/bˈɑrkɪŋ/",
+      "partOfSpeech": "ver.",
+      "meaning": "叫声",
+      "wordForms": "原文词形：barking",
+      "sentence": "“I think that’s Henry barking!”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/barking.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "叫声",
+        "街灯",
+        "抽屉"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "word": "bedroom",
+      "forms": [
+        "bedroom"
+      ],
+      "tier": "core",
+      "phonetic": "/bˈɛdrˌum/",
+      "partOfSpeech": "nou.",
+      "meaning": "卧室",
+      "wordForms": "原文词形：bedroom",
+      "sentence": "Annie stopped at her bedroom door.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/bedroom.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "卧室",
+        "街灯",
+        "抽屉"
+      ]
+    },
+    {
+      "id": "dreamed",
+      "word": "dreamed",
+      "forms": [
+        "dreamed"
+      ],
+      "tier": "recognition",
+      "phonetic": "/drˈimd/",
+      "partOfSpeech": "ver.",
+      "meaning": "梦见",
+      "wordForms": "原文词形：dreamed",
+      "sentence": "Jack dreamed they were with the knight again.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/dreamed.mp3"
+    },
+    {
+      "id": "noticed",
+      "word": "noticed",
+      "forms": [
+        "noticed"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'nəʊtɪst/",
+      "partOfSpeech": "v.",
+      "meaning": "注意（ notice的过去式和过去分词 ）；觉察",
+      "wordForms": "原文词形：noticed",
+      "sentence": "For the first time Jack noticed a letter on the bookmark.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/noticed.mp3"
+    },
+    {
+      "id": "pajamas",
+      "word": "pajamas",
+      "forms": [
+        "pajamas"
+      ],
+      "tier": "recognition",
+      "phonetic": "/pədʒˈɑməz/",
+      "partOfSpeech": "nou.",
+      "meaning": "睡衣",
+      "wordForms": "原文词形：pajamas",
+      "sentence": "He took off his damp clothes and pulled on his dry, soft pajamas.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/pajamas.mp3"
+    },
+    {
+      "id": "reached",
+      "word": "reached",
+      "forms": [
+        "reached"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ri:tʃt/",
+      "partOfSpeech": "v.",
+      "meaning": "到达( reach的过去式和过去分词 )；联络",
+      "wordForms": "原文词形：reached",
+      "sentence": "They reached the ground and took off running between the gray-black trees.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/reached.mp3"
+    },
+    {
+      "id": "slipped",
+      "word": "slipped",
+      "forms": [
+        "slipped"
+      ],
+      "tier": "recognition",
+      "phonetic": "/slˈɪpt/",
+      "partOfSpeech": "v.",
+      "meaning": "打滑的",
+      "wordForms": "原文词形：slipped",
+      "sentence": "They opened the front door carefully and slipped inside their house.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/slipped.mp3"
+    },
+    {
+      "id": "studied",
+      "word": "studied",
+      "forms": [
+        "studied"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'stʌdid/",
+      "partOfSpeech": "v.",
+      "meaning": "有计划的；慎重的",
+      "wordForms": "原文词形：studied",
+      "sentence": "Jack held the bookmark close to his lamp and studied it.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/studied.mp3"
+    }
+  ]
+}

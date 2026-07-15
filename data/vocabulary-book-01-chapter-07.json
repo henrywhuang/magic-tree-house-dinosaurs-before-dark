@@ -1,0 +1,526 @@
+{
+  "book": 1,
+  "chapter": 7,
+  "title": "Ready, Set, Go!",
+  "words": [
+    {
+      "id": "scooped",
+      "word": "scooped",
+      "forms": [
+        "scooped"
+      ],
+      "tier": "core",
+      "phonetic": "/sku:pt/",
+      "partOfSpeech": "v.",
+      "meaning": "迅速抱起；舀起",
+      "wordForms": "原文词形：scooped",
+      "sentence": "He scooped it up.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/scooped.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sc/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "迅速抱起；舀起",
+        "漫游的；徘徊的",
+        "气促；呼吸困难"
+      ]
+    },
+    {
+      "id": "leaped",
+      "word": "leaped",
+      "forms": [
+        "leaped"
+      ],
+      "tier": "core",
+      "phonetic": "/lˈɛpt/",
+      "partOfSpeech": "v.",
+      "meaning": "跳跃",
+      "wordForms": "原文词形：leaped",
+      "sentence": "Annie leaped to the window.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/leaped.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "跳跃",
+        "鸭子",
+        "虚线"
+      ]
+    },
+    {
+      "id": "stopped",
+      "word": "stopped",
+      "forms": [
+        "stopped"
+      ],
+      "tier": "core",
+      "phonetic": "/stɔpt/",
+      "partOfSpeech": "v.",
+      "meaning": "停止；停下来（stop的过去式和过去分词）",
+      "wordForms": "原文词形：stopped",
+      "sentence": "But then the monster stopped and turned around.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/stopped.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pp",
+          "sound": "/pp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "停止；停下来（stop的过去式和过去分词）",
+        "可怕的；令人恐惧的",
+        "迅速抱起；舀起"
+      ]
+    },
+    {
+      "id": "heads",
+      "word": "heads",
+      "forms": [
+        "heads"
+      ],
+      "tier": "core",
+      "phonetic": "/hedz/",
+      "partOfSpeech": "adj.",
+      "meaning": "正面朝上的",
+      "wordForms": "原文词形：heads",
+      "sentence": "The two of them ducked their heads.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/heads.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ds",
+          "sound": "/ds/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "正面朝上的",
+        "呼吸；气息",
+        "攫取；捕获"
+      ]
+    },
+    {
+      "id": "breath",
+      "word": "breath",
+      "forms": [
+        "breath"
+      ],
+      "tier": "core",
+      "phonetic": "/breθ/",
+      "partOfSpeech": "n.",
+      "meaning": "呼吸；气息",
+      "wordForms": "原文词形：breath",
+      "sentence": "He took a deep breath.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/breath.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "呼吸；气息",
+        "正面朝上的",
+        "攫取；捕获"
+      ]
+    },
+    {
+      "id": "duck",
+      "word": "duck",
+      "forms": [
+        "duck"
+      ],
+      "tier": "core",
+      "phonetic": "/dʌk/",
+      "partOfSpeech": "n.",
+      "meaning": "鸭子",
+      "wordForms": "原文词形：duck",
+      "sentence": "“Duck!”",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/duck.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "鸭子",
+        "跳跃",
+        "虚线"
+      ]
+    },
+    {
+      "id": "anatosauruses",
+      "word": "anatosauruses",
+      "forms": [
+        "anatosauruses"
+      ],
+      "tier": "core",
+      "phonetic": "/əˌnætəˈsɔːrəsɪz/",
+      "partOfSpeech": "n.",
+      "meaning": "解剖龙",
+      "wordForms": "原文词形：anatosauruses",
+      "sentence": "All the Anatosauruses were bellowing at him!",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/anatosauruses.mp3",
+      "phonics": [
+        {
+          "letters": "an",
+          "sound": "/an/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "at",
+          "sound": "/at/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "os",
+          "sound": "/os/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "au",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ru",
+          "sound": "/ru/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "se",
+          "sound": "/se/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "解剖龙",
+        "小山顶",
+        "很快地"
+      ]
+    },
+    {
+      "id": "wandering",
+      "word": "wandering",
+      "forms": [
+        "wandering"
+      ],
+      "tier": "core",
+      "phonetic": "/'wɒndәriŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "漫游的；徘徊的",
+      "wordForms": "原文词形：wandering",
+      "sentence": "The Tyrannosaurus was wandering off.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/wandering.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "漫游的；徘徊的",
+        "迅速抱起；舀起",
+        "气促；呼吸困难"
+      ]
+    },
+    {
+      "id": "remember",
+      "word": "remember",
+      "forms": [
+        "remember"
+      ],
+      "tier": "core",
+      "phonetic": "/ri'membә/",
+      "partOfSpeech": "v.",
+      "meaning": "记得；回忆起",
+      "wordForms": "原文词形：remember",
+      "sentence": "Remember?\"",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/remember.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mb",
+          "sound": "/mb/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "记得；回忆起",
+        "迅速抱起；舀起",
+        "正面朝上的"
+      ]
+    },
+    {
+      "id": "terrible",
+      "word": "terrible",
+      "forms": [
+        "terrible"
+      ],
+      "tier": "core",
+      "phonetic": "/'terәbl/",
+      "partOfSpeech": "adj.",
+      "meaning": "可怕的；令人恐惧的",
+      "wordForms": "原文词形：terrible",
+      "sentence": "Jack heard a terrible tuba sound!",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/terrible.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "可怕的；令人恐惧的",
+        "迅速抱起；舀起",
+        "漫游的；徘徊的"
+      ]
+    },
+    {
+      "id": "grabbed",
+      "word": "grabbed",
+      "forms": [
+        "grabbed"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ɡrˈæbd/",
+      "partOfSpeech": "v.",
+      "meaning": "攫取；捕获",
+      "wordForms": "原文词形：grabbed",
+      "sentence": "He grabbed the dinosaur book.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/grabbed.mp3"
+    },
+    {
+      "id": "hilltop",
+      "word": "hilltop",
+      "forms": [
+        "hilltop"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'hiltɒp/",
+      "partOfSpeech": "n.",
+      "meaning": "小山顶",
+      "wordForms": "原文词形：hilltop",
+      "sentence": "He raced up to the hilltop.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/hilltop.mp3"
+    },
+    {
+      "id": "panting",
+      "word": "panting",
+      "forms": [
+        "panting"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'pæntiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "气促；呼吸困难",
+      "wordForms": "原文词形：panting",
+      "sentence": "she said, panting.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/panting.mp3"
+    },
+    {
+      "id": "picture",
+      "word": "picture",
+      "forms": [
+        "picture"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'piktʃә/",
+      "partOfSpeech": "n.",
+      "meaning": "图画；照片",
+      "wordForms": "原文词形：picture",
+      "sentence": "\"You were looking at a picture in the dinosaur book.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/picture.mp3"
+    },
+    {
+      "id": "quickly",
+      "word": "quickly",
+      "forms": [
+        "quickly"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'kwikli/",
+      "partOfSpeech": "adv.",
+      "meaning": "很快地",
+      "wordForms": "原文词形：quickly",
+      "sentence": "He climbed quickly down the ladder and leaped to the ground.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/quickly.mp3"
+    },
+    {
+      "id": "dashed",
+      "word": "dashed",
+      "forms": [
+        "dashed"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dæʃt/",
+      "partOfSpeech": "v.",
+      "meaning": "虚线",
+      "wordForms": "原文词形：dashed",
+      "sentence": "Jack and Annie dashed down the hill together.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/dashed.mp3"
+    }
+  ]
+}

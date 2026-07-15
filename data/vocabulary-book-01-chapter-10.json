@@ -1,0 +1,516 @@
+{
+  "book": 1,
+  "chapter": 10,
+  "title": "Home Before Dark",
+  "words": [
+    {
+      "id": "shrugged",
+      "word": "shrugged",
+      "forms": [
+        "shrugged"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃ'rʌɡd/",
+      "partOfSpeech": "v.",
+      "meaning": "耸肩",
+      "wordForms": "原文词形：shrugged",
+      "sentence": "Annie shrugged.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/shrugged.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gg",
+          "sound": "/gg/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "耸肩",
+        "紧握；扣住",
+        "明天；未来"
+      ]
+    },
+    {
+      "id": "clasped",
+      "word": "clasped",
+      "forms": [
+        "clasped"
+      ],
+      "tier": "core",
+      "phonetic": "/klɑ:spt/",
+      "partOfSpeech": "v.",
+      "meaning": "紧握；扣住",
+      "wordForms": "原文词形：clasped",
+      "sentence": "He clasped the gold medallion.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/clasped.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/cl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "紧握；扣住",
+        "明天；未来",
+        "歌唱；歌声"
+      ]
+    },
+    {
+      "id": "dazed",
+      "word": "dazed",
+      "forms": [
+        "dazed"
+      ],
+      "tier": "core",
+      "phonetic": "/'deizd/",
+      "partOfSpeech": "v.",
+      "meaning": "发懵的；茫然的",
+      "wordForms": "原文词形：dazed",
+      "sentence": "Jack still felt dazed.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/dazed.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "发懵的；茫然的",
+        "金的；含金的",
+        "紧握；扣住"
+      ]
+    },
+    {
+      "id": "tomorrow",
+      "word": "tomorrow",
+      "forms": [
+        "tomorrow"
+      ],
+      "tier": "core",
+      "phonetic": "/tә'mɒ:rәu/",
+      "partOfSpeech": "n.",
+      "meaning": "明天；未来",
+      "wordForms": "原文词形：tomorrow",
+      "sentence": "“Tomorrow,” Jack said softly, “we’ll go back to the woods.”",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/tomorrow.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "明天；未来",
+        "紧握；扣住",
+        "歌唱；歌声"
+      ]
+    },
+    {
+      "id": "singing",
+      "word": "singing",
+      "forms": [
+        "singing"
+      ],
+      "tier": "core",
+      "phonetic": "/'siŋiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "歌唱；歌声",
+      "wordForms": "原文词形：singing",
+      "sentence": "Jack heard a bird singing.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/singing.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "歌唱；歌声",
+        "紧握；扣住",
+        "明天；未来"
+      ]
+    },
+    {
+      "id": "golden",
+      "word": "golden",
+      "forms": [
+        "golden"
+      ],
+      "tier": "core",
+      "phonetic": "/'gәuldn/",
+      "partOfSpeech": "adj.",
+      "meaning": "金的；含金的",
+      "wordForms": "原文词形：golden",
+      "sentence": "The woods were lit with a golden late-afternoon light.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/golden.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "金的；含金的",
+        "紧握；扣住",
+        "发懵的；茫然的"
+      ]
+    },
+    {
+      "id": "passed",
+      "word": "passed",
+      "forms": [
+        "passed"
+      ],
+      "tier": "core",
+      "phonetic": "/pɑ:st/",
+      "partOfSpeech": "v.",
+      "meaning": "已被传递的；已经通过的",
+      "wordForms": "原文词形：passed",
+      "sentence": "No time had passed since they'd left Frog Creek.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/passed.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ss",
+          "sound": "/ss/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "已被传递的；已经通过的",
+        "发懵的；茫然的",
+        "forget的过去式和过去分词"
+      ]
+    },
+    {
+      "id": "street",
+      "word": "street",
+      "forms": [
+        "street"
+      ],
+      "tier": "core",
+      "phonetic": "/stri:t/",
+      "partOfSpeech": "n.",
+      "meaning": "街道；马路",
+      "wordForms": "原文词形：street",
+      "sentence": "As they walked past all the houses on their street, the trip to dinosaur time did seem more and more like a dream.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/street.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "街道；马路",
+        "紧握；扣住",
+        "明天；未来"
+      ]
+    },
+    {
+      "id": "shoulders",
+      "word": "shoulders",
+      "forms": [
+        "shoulders"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃˈoʊldɚz/",
+      "partOfSpeech": "n.",
+      "meaning": "肩部；肩膀（shoulder的复数）",
+      "wordForms": "原文词形：shoulders",
+      "sentence": "Jack slung his backpack over his shoulders.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/shoulders.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "肩部；肩膀（shoulder的复数）",
+        "forget的过去式和过去分词",
+        "笑( laugh的过去式和过去分词 )；发笑"
+      ]
+    },
+    {
+      "id": "starting",
+      "word": "starting",
+      "forms": [
+        "starting"
+      ],
+      "tier": "core",
+      "phonetic": "/'stɑ:tiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "开端；开始",
+      "wordForms": "原文词形：starting",
+      "sentence": "\"I think I'm starting not to believe it myself,\" he said.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/starting.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "开端；开始",
+        "紧握；扣住",
+        "明天；未来"
+      ]
+    },
+    {
+      "id": "explain",
+      "word": "explain",
+      "forms": [
+        "explain"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ik'splein/",
+      "partOfSpeech": "v.",
+      "meaning": "解释；说明",
+      "wordForms": "原文词形：explain",
+      "sentence": "He couldn't explain what had happened today.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/explain.mp3"
+    },
+    {
+      "id": "laughed",
+      "word": "laughed",
+      "forms": [
+        "laughed"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'lɑ:ft/",
+      "partOfSpeech": "v.",
+      "meaning": "笑( laugh的过去式和过去分词 )；发笑",
+      "wordForms": "原文词形：laughed",
+      "sentence": "Jack laughed.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/laughed.mp3"
+    },
+    {
+      "id": "running",
+      "word": "running",
+      "forms": [
+        "running"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'rʌniŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "赛跑；流出",
+      "wordForms": "原文词形：running",
+      "sentence": "And they took off together, running for home.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/running.mp3"
+    },
+    {
+      "id": "teacher",
+      "word": "teacher",
+      "forms": [
+        "teacher"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'ti:tʃә/",
+      "partOfSpeech": "n.",
+      "meaning": "教师；老师",
+      "wordForms": "原文词形：teacher",
+      "sentence": "\"My teacher won't believe it,\" said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/teacher.mp3"
+    },
+    {
+      "id": "forgot",
+      "word": "forgot",
+      "forms": [
+        "forgot"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fә'gɒt/",
+      "partOfSpeech": "n.",
+      "meaning": "forget的过去式和过去分词",
+      "wordForms": "原文词形：forgot",
+      "sentence": "“I almost forgot about this.”",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/forgot.mp3"
+    },
+    {
+      "id": "ground",
+      "word": "ground",
+      "forms": [
+        "ground"
+      ],
+      "tier": "recognition",
+      "phonetic": "/graund/",
+      "partOfSpeech": "n.",
+      "meaning": "土地；战场",
+      "wordForms": "原文词形：ground",
+      "sentence": "Seconds later they hopped onto the ground and started walking out of the woods.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/ground.mp3"
+    }
+  ]
+}

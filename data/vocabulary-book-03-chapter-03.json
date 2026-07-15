@@ -1,0 +1,526 @@
+{
+  "book": 3,
+  "chapter": 3,
+  "title": "It's Alive!",
+  "words": [
+    {
+      "id": "chamber",
+      "word": "chamber",
+      "forms": [
+        "chamber"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃˈeɪmbɚ/",
+      "partOfSpeech": "n.",
+      "meaning": "房间；墓室",
+      "wordForms": "原文词形：chamber",
+      "sentence": "\"The burial chamber is in the middle of the pyramid.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/chamber.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mb",
+          "sound": "/mb/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "房间；墓室",
+        "埋葬；葬礼",
+        "部分；章节"
+      ]
+    },
+    {
+      "id": "burial",
+      "word": "burial",
+      "forms": [
+        "burial"
+      ],
+      "tier": "core",
+      "phonetic": "/bˈɛriəl/",
+      "partOfSpeech": "adj.",
+      "meaning": "埋葬；葬礼",
+      "wordForms": "原文词形：burial",
+      "sentence": "They werenearly all solid stone, except forthe burial chambers deep inside.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/burial.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "埋葬；葬礼",
+        "房间；墓室",
+        "部分；章节"
+      ]
+    },
+    {
+      "id": "section",
+      "word": "section",
+      "forms": [
+        "section"
+      ],
+      "tier": "core",
+      "phonetic": "/sˈɛkʃən/",
+      "partOfSpeech": "n.",
+      "meaning": "部分；章节",
+      "wordForms": "原文词形：section",
+      "sentence": "He pulled out the Egypt book and turned to the section on pyramids.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/section.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tion",
+          "sound": "/ʃən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "部分；章节",
+        "房间；墓室",
+        "埋葬；葬礼"
+      ]
+    },
+    {
+      "id": "alive",
+      "word": "alive",
+      "forms": [
+        "alive"
+      ],
+      "tier": "core",
+      "phonetic": "/ә'laiv/",
+      "partOfSpeech": "adj.",
+      "meaning": "活着的",
+      "wordForms": "原文词形：alive",
+      "sentence": "“It's alive!”",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/alive.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "活着的",
+        "天花板",
+        "石头"
+      ]
+    },
+    {
+      "id": "stone",
+      "word": "stone",
+      "forms": [
+        "stone"
+      ],
+      "tier": "core",
+      "phonetic": "/stˈoʊn/",
+      "partOfSpeech": "n.",
+      "meaning": "石头",
+      "wordForms": "原文词形：stone",
+      "sentence": "They werenearly all solid stone, except forthe burial chambers deep inside.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/stone.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "石头",
+        "旋风",
+        "燃烧"
+      ]
+    },
+    {
+      "id": "swooshed",
+      "word": "swooshed",
+      "forms": [
+        "swooshed"
+      ],
+      "tier": "core",
+      "phonetic": "/swˈuʃt/",
+      "partOfSpeech": "v.",
+      "meaning": "旋风",
+      "wordForms": "原文词形：swooshed",
+      "sentence": "It swooshed toward them!",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/swooshed.mp3",
+      "phonics": [
+        {
+          "letters": "sw",
+          "sound": "/sw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "旋风",
+        "石头",
+        "燃烧"
+      ]
+    },
+    {
+      "id": "burning",
+      "word": "burning",
+      "forms": [
+        "burning"
+      ],
+      "tier": "core",
+      "phonetic": "/bˈɝnɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "燃烧",
+      "wordForms": "原文词形：burning",
+      "sentence": "Burning torches lit the walls.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/burning.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "燃烧",
+        "石头",
+        "旋风"
+      ]
+    },
+    {
+      "id": "ceiling",
+      "word": "ceiling",
+      "forms": [
+        "ceiling"
+      ],
+      "tier": "core",
+      "phonetic": "/sˈilɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "天花板",
+      "wordForms": "原文词形：ceiling",
+      "sentence": "Floor, ceiling, walls—everything was stone.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/ceiling.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "天花板",
+        "活着的",
+        "石头"
+      ]
+    },
+    {
+      "id": "farther",
+      "word": "farther",
+      "forms": [
+        "farther"
+      ],
+      "tier": "core",
+      "phonetic": "/'fɑ:ðә/",
+      "partOfSpeech": "adj.",
+      "meaning": "更远的；进一步的",
+      "wordForms": "原文词形：farther",
+      "sentence": "“We have to go farther inside,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/farther.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "更远的；进一步的",
+        "住宅；房子的总称",
+        "房间；墓室"
+      ]
+    },
+    {
+      "id": "became",
+      "word": "became",
+      "forms": [
+        "became"
+      ],
+      "tier": "core",
+      "phonetic": "/bɪkˈeɪm/",
+      "partOfSpeech": "ver.",
+      "meaning": "成为",
+      "wordForms": "原文词形：became",
+      "sentence": "Soon the floor became flat.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/became.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "成为",
+        "石头",
+        "旋风"
+      ]
+    },
+    {
+      "id": "deeper",
+      "word": "deeper",
+      "forms": [
+        "deeper"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dˈipɚ/",
+      "partOfSpeech": "adj.",
+      "meaning": "更深",
+      "wordForms": "原文词形：deeper",
+      "sentence": "Then he and Annie headed deeper into the pyramid.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/deeper.mp3"
+    },
+    {
+      "id": "except",
+      "word": "except",
+      "forms": [
+        "except"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ɪksˈɛpt/",
+      "partOfSpeech": "ver.",
+      "meaning": "除了",
+      "wordForms": "原文词形：except",
+      "sentence": "They werenearly all solid stone, except forthe burial chambers deep inside.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/except.mp3"
+    },
+    {
+      "id": "figure",
+      "word": "figure",
+      "forms": [
+        "figure"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fˈɪɡjɚ/",
+      "partOfSpeech": "n.",
+      "meaning": "人影；身影",
+      "wordForms": "原文词形：figure",
+      "sentence": "Out of the shadows flew a white figure.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/figure.mp3"
+    },
+    {
+      "id": "houses",
+      "word": "houses",
+      "forms": [
+        "houses"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'hauziz/",
+      "partOfSpeech": "n.",
+      "meaning": "住宅；房子的总称",
+      "wordForms": "原文词形：houses",
+      "sentence": "He read the caption aloud:Pyramids were sometimes calledHouses of the Dead.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/houses.mp3"
+    },
+    {
+      "id": "loomed",
+      "word": "loomed",
+      "forms": [
+        "loomed"
+      ],
+      "tier": "recognition",
+      "phonetic": "/lˈumd/",
+      "partOfSpeech": "ver.",
+      "meaning": "若隐若现",
+      "wordForms": "原文词形：loomed",
+      "sentence": "Dark shadows loomed.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/loomed.mp3"
+    },
+    {
+      "id": "middle",
+      "word": "middle",
+      "forms": [
+        "middle"
+      ],
+      "tier": "recognition",
+      "phonetic": "/mˈɪdəl/",
+      "partOfSpeech": "nou.",
+      "meaning": "中间",
+      "wordForms": "原文词形：middle",
+      "sentence": "\"The burial chamber is in the middle of the pyramid.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/middle.mp3"
+    }
+  ]
+}

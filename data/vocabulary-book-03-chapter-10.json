@@ -1,0 +1,531 @@
+{
+  "book": 3,
+  "chapter": 10,
+  "title": "Another Clue",
+  "words": [
+    {
+      "id": "tingled",
+      "word": "tingled",
+      "forms": [
+        "tingled"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈtɪŋɡəld/",
+      "partOfSpeech": "v.",
+      "meaning": "感到麻酥酥；刺痛",
+      "wordForms": "原文词形：tingled",
+      "sentence": "His skin tingled.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/tingled.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "感到麻酥酥；刺痛",
+        "三明治（复数）",
+        "说话的；多嘴的"
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "word": "sandwiches",
+      "forms": [
+        "sandwiches"
+      ],
+      "tier": "core",
+      "phonetic": "/sˈændwɪtʃɪz/",
+      "partOfSpeech": "n.",
+      "meaning": "三明治（复数）",
+      "wordForms": "原文词形：sandwiches",
+      "sentence": "\"I hope it's peanut butter and jelly sandwiches,\" he said.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/sandwiches.mp3",
+      "phonics": [
+        {
+          "letters": "sa",
+          "sound": "/sa/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ndw",
+          "sound": "/ndw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "三明治（复数）",
+        "说话的；多嘴的",
+        "精选的；采摘的"
+      ]
+    },
+    {
+      "id": "peanut",
+      "word": "peanut",
+      "forms": [
+        "peanut"
+      ],
+      "tier": "core",
+      "phonetic": "/pˈinət/",
+      "partOfSpeech": "n.",
+      "meaning": "花生",
+      "wordForms": "原文词形：peanut",
+      "sentence": "\"I hope it's peanut butter and jelly sandwiches,\" he said.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/peanut.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "花生",
+        "厨房",
+        "灼灼"
+      ]
+    },
+    {
+      "id": "jelly",
+      "word": "jelly",
+      "forms": [
+        "jelly"
+      ],
+      "tier": "core",
+      "phonetic": "/dʒˈɛli/",
+      "partOfSpeech": "adv.",
+      "meaning": "果酱；果冻",
+      "wordForms": "原文词形：jelly",
+      "sentence": "\"I hope it's peanut butter and jelly sandwiches,\" he said.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/jelly.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ll",
+          "sound": "/ll/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "果酱；果冻",
+        "信；字母",
+        "三明治（复数）"
+      ]
+    },
+    {
+      "id": "forgotten",
+      "word": "forgotten",
+      "forms": [
+        "forgotten"
+      ],
+      "tier": "core",
+      "phonetic": "/fɚɡˈɑtən/",
+      "partOfSpeech": "n.",
+      "meaning": "忘记了",
+      "wordForms": "原文词形：forgotten",
+      "sentence": "Jack had almost forgotten about M.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/forgotten.mp3",
+      "phonics": [
+        {
+          "letters": "for",
+          "sound": "/for/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tt",
+          "sound": "/tt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "忘记了",
+        "更整洁",
+        "证明了"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "word": "kitchen",
+      "forms": [
+        "kitchen"
+      ],
+      "tier": "core",
+      "phonetic": "/kˈɪtʃən/",
+      "partOfSpeech": "n.",
+      "meaning": "厨房",
+      "wordForms": "原文词形：kitchen",
+      "sentence": "They ran into their kitchen.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/kitchen.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tch",
+          "sound": "/tʃ/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "厨房",
+        "花生",
+        "灼灼"
+      ]
+    },
+    {
+      "id": "shining",
+      "word": "shining",
+      "forms": [
+        "shining"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃˈaɪnɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "灼灼",
+      "wordForms": "原文词形：shining",
+      "sentence": "Something was shining on the floor.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/shining.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "灼灼",
+        "花生",
+        "厨房"
+      ]
+    },
+    {
+      "id": "talking",
+      "word": "talking",
+      "forms": [
+        "talking"
+      ],
+      "tier": "core",
+      "phonetic": "/'tɒ:kiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "说话的；多嘴的",
+      "wordForms": "原文词形：talking",
+      "sentence": "\"Who are you talking to?\"",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/talking.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lk",
+          "sound": "/lk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "说话的；多嘴的",
+        "三明治（复数）",
+        "精选的；采摘的"
+      ]
+    },
+    {
+      "id": "touched",
+      "word": "touched",
+      "forms": [
+        "touched"
+      ],
+      "tier": "core",
+      "phonetic": "/tʌtʃt/",
+      "partOfSpeech": "v.",
+      "meaning": "精神不太正常的；受感动的",
+      "wordForms": "原文词形：touched",
+      "sentence": "Jack touched the M with his finger.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/touched.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "精神不太正常的；受感动的",
+        "感到麻酥酥；刺痛",
+        "三明治（复数）"
+      ]
+    },
+    {
+      "id": "danced",
+      "word": "danced",
+      "forms": [
+        "danced"
+      ],
+      "tier": "core",
+      "phonetic": "/dˈænst/",
+      "partOfSpeech": "v.",
+      "meaning": "跳舞",
+      "wordForms": "原文词形：danced",
+      "sentence": "Shadows danced on the walls and ceiling.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/danced.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nc",
+          "sound": "/nc/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "跳舞",
+        "花生",
+        "厨房"
+      ]
+    },
+    {
+      "id": "letter",
+      "word": "letter",
+      "forms": [
+        "letter"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'letә/",
+      "partOfSpeech": "n.",
+      "meaning": "信；字母",
+      "wordForms": "原文词形：letter",
+      "sentence": "It was the letter M!",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/letter.mp3"
+    },
+    {
+      "id": "loudly",
+      "word": "loudly",
+      "forms": [
+        "loudly"
+      ],
+      "tier": "recognition",
+      "phonetic": "/lˈaʊdli/",
+      "partOfSpeech": "adv.",
+      "meaning": "高声",
+      "wordForms": "原文词形：loudly",
+      "sentence": "“I’m going to bring the medallion back soon,” Jack said loudly.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/loudly.mp3"
+    },
+    {
+      "id": "neater",
+      "word": "neater",
+      "forms": [
+        "neater"
+      ],
+      "tier": "recognition",
+      "phonetic": "/nˈitɚ/",
+      "partOfSpeech": "n.",
+      "meaning": "更整洁",
+      "wordForms": "原文词形：neater",
+      "sentence": "“We’d better make it neater in case M comes back.”",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/neater.mp3"
+    },
+    {
+      "id": "picked",
+      "word": "picked",
+      "forms": [
+        "picked"
+      ],
+      "tier": "recognition",
+      "phonetic": "/pikt/",
+      "partOfSpeech": "v.",
+      "meaning": "精选的；采摘的",
+      "wordForms": "原文词形：picked",
+      "sentence": "The wind picked up.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/picked.mp3"
+    },
+    {
+      "id": "proved",
+      "word": "proved",
+      "forms": [
+        "proved"
+      ],
+      "tier": "recognition",
+      "phonetic": "/prˈuvd/",
+      "partOfSpeech": "ver.",
+      "meaning": "证明了",
+      "wordForms": "原文词形：proved",
+      "sentence": "This absolutely proved the tree house belonged toM.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/proved.mp3"
+    },
+    {
+      "id": "wooden",
+      "word": "wooden",
+      "forms": [
+        "wooden"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'wudn/",
+      "partOfSpeech": "adj.",
+      "meaning": "木制的；呆笨的",
+      "wordForms": "原文词形：wooden",
+      "sentence": "She was pointing at the wooden floor.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/wooden.mp3"
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "book": 2,
+  "chapter": 6,
+  "title": "Ta-da!",
+  "words": [
+    {
+      "id": "mustache",
+      "word": "mustache",
+      "forms": [
+        "mustache"
+      ],
+      "tier": "core",
+      "phonetic": "/'mʌstæʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "胡子；八字胡",
+      "wordForms": "原文词形：mustache",
+      "sentence": "And one with a very long mustache held on to Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/mustache.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "胡子；八字胡",
+        "守卫者；警戒",
+        "（门窗等的）门"
+      ]
+    },
+    {
+      "id": "dungeon",
+      "word": "dungeon",
+      "forms": [
+        "dungeon"
+      ],
+      "tier": "core",
+      "phonetic": "/'dʌndʒәn/",
+      "partOfSpeech": "n.",
+      "meaning": "地牢",
+      "wordForms": "原文词形：dungeon",
+      "sentence": "“The dungeon!”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/dungeon.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "地牢",
+        "逮捕",
+        "楼梯"
+      ]
+    },
+    {
+      "id": "marched",
+      "word": "marched",
+      "forms": [
+        "marched"
+      ],
+      "tier": "core",
+      "phonetic": "/'mɑ:tʃt/",
+      "partOfSpeech": "v.",
+      "meaning": "列队行进",
+      "wordForms": "原文词形：marched",
+      "sentence": "The guards marched Jack and Annie out of the armory.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/marched.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "列队行进",
+        "眯着眼的",
+        "火炬之光"
+      ]
+    },
+    {
+      "id": "squinty",
+      "word": "squinty",
+      "forms": [
+        "squinty"
+      ],
+      "tier": "core",
+      "phonetic": "/'skwinti/",
+      "partOfSpeech": "adj.",
+      "meaning": "眯着眼的",
+      "wordForms": "原文词形：squinty",
+      "sentence": "One with very squinty eyes held the torch.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/squinty.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "qu",
+          "sound": "/kw/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "眯着眼的",
+        "列队行进",
+        "火炬之光"
+      ]
+    },
+    {
+      "id": "arrest",
+      "word": "arrest",
+      "forms": [
+        "arrest"
+      ],
+      "tier": "core",
+      "phonetic": "/ә'rest/",
+      "partOfSpeech": "n.",
+      "meaning": "逮捕",
+      "wordForms": "原文词形：arrest",
+      "sentence": "“Arrest them!”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/arrest.mp3",
+      "phonics": [
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "逮捕",
+        "地牢",
+        "楼梯"
+      ]
+    },
+    {
+      "id": "guard",
+      "word": "guard",
+      "forms": [
+        "guard"
+      ],
+      "tier": "core",
+      "phonetic": "/gɑ:d/",
+      "partOfSpeech": "n.",
+      "meaning": "守卫者；警戒",
+      "wordForms": "原文词形：guard",
+      "sentence": "said a guard, giving him a push.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/guard.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "守卫者；警戒",
+        "胡子；八字胡",
+        "（门窗等的）门"
+      ]
+    },
+    {
+      "id": "foreigners",
+      "word": "foreigners",
+      "forms": [
+        "foreigners"
+      ],
+      "tier": "core",
+      "phonetic": "/fˈɔrənɚz/",
+      "partOfSpeech": "nou.",
+      "meaning": "外国人",
+      "wordForms": "原文词形：foreigners",
+      "sentence": "Foreigners?",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/foreigners.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ore",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gn",
+          "sound": "/gn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "外国人",
+        "埃及人",
+        "溅射的"
+      ]
+    },
+    {
+      "id": "torchlight",
+      "word": "torchlight",
+      "forms": [
+        "torchlight"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈtɔːrtʃlaɪt/",
+      "partOfSpeech": "nou.",
+      "meaning": "火炬之光",
+      "wordForms": "原文词形：torchlight",
+      "sentence": "In the torchlight, Jack saw three huge men standing over him.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/torchlight.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "igh",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "火炬之光",
+        "列队行进",
+        "眯着眼的"
+      ]
+    },
+    {
+      "id": "creepiest",
+      "word": "creepiest",
+      "forms": [
+        "creepiest"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈkriːpiəst/",
+      "partOfSpeech": "adj.",
+      "meaning": "最令人毛骨悚然的",
+      "wordForms": "原文词形：creepiest",
+      "sentence": "It was the creepiest place Jack had ever seen.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/creepiest.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/cr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "最令人毛骨悚然的",
+        "（门窗等的）门",
+        "胡子；八字胡"
+      ]
+    },
+    {
+      "id": "egyptians",
+      "word": "egyptians",
+      "forms": [
+        "egyptians"
+      ],
+      "tier": "core",
+      "phonetic": "/ɪdʒˈɪpʃənz/",
+      "partOfSpeech": "n.",
+      "meaning": "埃及人",
+      "wordForms": "原文词形：egyptians",
+      "sentence": "Egyptians?",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/egyptians.mp3",
+      "phonics": [
+        {
+          "letters": "eg",
+          "sound": "/eg/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pt",
+          "sound": "/pt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ns",
+          "sound": "/ns/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "埃及人",
+        "外国人",
+        "溅射的"
+      ]
+    },
+    {
+      "id": "sputtered",
+      "word": "sputtered",
+      "forms": [
+        "sputtered"
+      ],
+      "tier": "recognition",
+      "phonetic": "/spˈʌtɚd/",
+      "partOfSpeech": "ver.",
+      "meaning": "溅射的",
+      "wordForms": "原文词形：sputtered",
+      "sentence": "It fell into a dirty puddle on the floor, sputtered, and went out.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/sputtered.mp3"
+    },
+    {
+      "id": "staircase",
+      "word": "staircase",
+      "forms": [
+        "staircase"
+      ],
+      "tier": "recognition",
+      "phonetic": "/stˈɛrkˌeɪs/",
+      "partOfSpeech": "nou.",
+      "meaning": "楼梯",
+      "wordForms": "原文词形：staircase",
+      "sentence": "They marched down a narrow, winding staircase.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/staircase.mp3"
+    },
+    {
+      "id": "fiercely",
+      "word": "fiercely",
+      "forms": [
+        "fiercely"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fˈɪrsli/",
+      "partOfSpeech": "adv.",
+      "meaning": "猛烈地",
+      "wordForms": "原文词形：fiercely",
+      "sentence": "Annie fiercely pointed her light at Squinty, then at Mustache, and then at Red.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/fiercely.mp3"
+    },
+    {
+      "id": "persians",
+      "word": "persians",
+      "forms": [
+        "persians"
+      ],
+      "tier": "recognition",
+      "phonetic": "/pˈɝʒənz/",
+      "partOfSpeech": "n.",
+      "meaning": "波斯人",
+      "wordForms": "原文词形：persians",
+      "sentence": "Persians?”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/persians.mp3"
+    },
+    {
+      "id": "switched",
+      "word": "switched",
+      "forms": [
+        "switched"
+      ],
+      "tier": "recognition",
+      "phonetic": "/swˈɪtʃt/",
+      "partOfSpeech": "ver.",
+      "meaning": "切换",
+      "wordForms": "原文词形：switched",
+      "sentence": "Annie switched on the light.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/switched.mp3"
+    },
+    {
+      "id": "bar",
+      "word": "bar",
+      "forms": [
+        "bar"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bɑ:/",
+      "partOfSpeech": "n.",
+      "meaning": "（门窗等的）门",
+      "wordForms": "原文词形：bar",
+      "sentence": "At the bottom of the stairs was a big iron door with a bar across it.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/bar.mp3"
+    }
+  ]
+}

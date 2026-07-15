@@ -1,0 +1,521 @@
+{
+  "book": 2,
+  "chapter": 2,
+  "title": "Leaving Again",
+  "words": [
+    {
+      "id": "knight",
+      "word": "knight",
+      "forms": [
+        "knight"
+      ],
+      "tier": "core",
+      "phonetic": "/nait/",
+      "partOfSpeech": "n.",
+      "meaning": "骑士",
+      "wordForms": "原文词形：knight",
+      "sentence": "There was a picture of a knight on a black horse.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/knight.mp3",
+      "phonics": [
+        {
+          "letters": "kn",
+          "sound": "/kn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "igh",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "骑士",
+        "疏散",
+        "情况"
+      ]
+    },
+    {
+      "id": "leave",
+      "word": "leave",
+      "forms": [
+        "leave"
+      ],
+      "tier": "core",
+      "phonetic": "/li:v/",
+      "partOfSpeech": "n.",
+      "meaning": "许可；告别",
+      "wordForms": "原文词形：leave",
+      "sentence": "He couldn’t leave without her.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/leave.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "许可；告别",
+        "挤过；挤压",
+        "马的嘶鸣声"
+      ]
+    },
+    {
+      "id": "fog",
+      "word": "fog",
+      "forms": [
+        "fog"
+      ],
+      "tier": "core",
+      "phonetic": "/fɒg/",
+      "partOfSpeech": "n.",
+      "meaning": "雾",
+      "wordForms": "原文词形：fog",
+      "sentence": "A huge castle loomed out of the fog.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/fog.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "雾",
+        "马",
+        "骑士"
+      ]
+    },
+    {
+      "id": "leaves",
+      "word": "leaves",
+      "forms": [
+        "leaves"
+      ],
+      "tier": "core",
+      "phonetic": "/li:vz/",
+      "partOfSpeech": "n.",
+      "meaning": "树叶（leaf 的复数）",
+      "wordForms": "原文词形：leaves",
+      "sentence": "The leaves began to tremble.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/leaves.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "树叶（leaf 的复数）",
+        "许可；告别",
+        "挤过；挤压"
+      ]
+    },
+    {
+      "id": "horse",
+      "word": "horse",
+      "forms": [
+        "horse"
+      ],
+      "tier": "core",
+      "phonetic": "/hɒ:s/",
+      "partOfSpeech": "n.",
+      "meaning": "马",
+      "wordForms": "原文词形：horse",
+      "sentence": "There was a picture of a knight on a black horse.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/horse.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "马",
+        "雾",
+        "骑士"
+      ]
+    },
+    {
+      "id": "squeezed",
+      "word": "squeezed",
+      "forms": [
+        "squeezed"
+      ],
+      "tier": "core",
+      "phonetic": "/skwˈizd/",
+      "partOfSpeech": "v.",
+      "meaning": "挤过；挤压",
+      "wordForms": "原文词形：squeezed",
+      "sentence": "Jack squeezed his eyes shut.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/squeezed.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "qu",
+          "sound": "/kw/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "挤过；挤压",
+        "许可；告别",
+        "马的嘶鸣声"
+      ]
+    },
+    {
+      "id": "whinny",
+      "word": "whinny",
+      "forms": [
+        "whinny"
+      ],
+      "tier": "core",
+      "phonetic": "/'hwini/",
+      "partOfSpeech": "adj.",
+      "meaning": "马的嘶鸣声",
+      "wordForms": "原文词形：whinny",
+      "sentence": "The sound of a horse’s whinny came from below.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/whinny.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nn",
+          "sound": "/nn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "马的嘶鸣声",
+        "许可；告别",
+        "挤过；挤压"
+      ]
+    },
+    {
+      "id": "incredible",
+      "word": "incredible",
+      "forms": [
+        "incredible"
+      ],
+      "tier": "core",
+      "phonetic": "/ˌɪnkrˈɛdəbəl/",
+      "partOfSpeech": "adj.",
+      "meaning": "极好的",
+      "wordForms": "原文词形：incredible",
+      "sentence": "“Oh, man,” said Jack, “that’s incredible.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/incredible.mp3",
+      "phonics": [
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ncr",
+          "sound": "/ncr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "极好的",
+        "颤抖着",
+        "骑士"
+      ]
+    },
+    {
+      "id": "scattered",
+      "word": "scattered",
+      "forms": [
+        "scattered"
+      ],
+      "tier": "core",
+      "phonetic": "/skˈætɚd/",
+      "partOfSpeech": "ver.",
+      "meaning": "疏散",
+      "wordForms": "原文词形：scattered",
+      "sentence": "Annie shined her flashlight on the books scattered about the floor.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/scattered.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sc/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tt",
+          "sound": "/tt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "疏散",
+        "骑士",
+        "情况"
+      ]
+    },
+    {
+      "id": "shuddered",
+      "word": "shuddered",
+      "forms": [
+        "shuddered"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃˈʌdɚd/",
+      "partOfSpeech": "ver.",
+      "meaning": "颤抖着",
+      "wordForms": "原文词形：shuddered",
+      "sentence": "Jack shuddered.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/shuddered.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dd",
+          "sound": "/dd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "颤抖着",
+        "极好的",
+        "骑士"
+      ]
+    },
+    {
+      "id": "situation",
+      "word": "situation",
+      "forms": [
+        "situation"
+      ],
+      "tier": "recognition",
+      "phonetic": "/sˌɪtʃuˈeɪʃən/",
+      "partOfSpeech": "nou.",
+      "meaning": "情况",
+      "wordForms": "原文词形：situation",
+      "sentence": "We need to examine the situation,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/situation.mp3"
+    },
+    {
+      "id": "favorite",
+      "word": "favorite",
+      "forms": [
+        "favorite"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fˈeɪvɚɪt/",
+      "partOfSpeech": "nou.",
+      "meaning": "最喜欢的",
+      "wordForms": "原文词形：favorite",
+      "sentence": "“There’s my favorite,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/favorite.mp3"
+    },
+    {
+      "id": "shivered",
+      "word": "shivered",
+      "forms": [
+        "shivered"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ʃˈɪvɚd/",
+      "partOfSpeech": "ver.",
+      "meaning": "发抖",
+      "wordForms": "原文词形：shivered",
+      "sentence": "He shivered.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/shivered.mp3"
+    },
+    {
+      "id": "thinking",
+      "word": "thinking",
+      "forms": [
+        "thinking"
+      ],
+      "tier": "recognition",
+      "phonetic": "/θˈɪŋkɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "思维",
+      "wordForms": "原文词形：thinking",
+      "sentence": "“I know what you’re thinking.”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/thinking.mp3"
+    },
+    {
+      "id": "besides",
+      "word": "besides",
+      "forms": [
+        "besides"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bɪsˈaɪdz/",
+      "partOfSpeech": "adv.",
+      "meaning": "除了",
+      "wordForms": "原文词形：besides",
+      "sentence": "Besides, he sort of wanted to take a peek himself.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/besides.mp3"
+    },
+    {
+      "id": "brought",
+      "word": "brought",
+      "forms": [
+        "brought"
+      ],
+      "tier": "recognition",
+      "phonetic": "/brˈɔt/",
+      "partOfSpeech": "ver.",
+      "meaning": "带来",
+      "wordForms": "原文词形：brought",
+      "sentence": "That was the picture that had brought them home.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/brought.mp3"
+    }
+  ]
+}

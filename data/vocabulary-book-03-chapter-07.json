@@ -1,0 +1,521 @@
+{
+  "book": 3,
+  "chapter": 7,
+  "title": "The Scroll",
+  "words": [
+    {
+      "id": "instruments",
+      "word": "instruments",
+      "forms": [
+        "instruments"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈɪnstrəmənts/",
+      "partOfSpeech": "n.",
+      "meaning": "乐器；器具",
+      "wordForms": "原文词形：instruments",
+      "sentence": "On one side was a pile of tables, chairs, and musical instruments.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/instruments.mp3",
+      "phonics": [
+        {
+          "letters": "inst",
+          "sound": "/inst/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nts",
+          "sound": "/nts/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "乐器；器具",
+        "黏土；陶土",
+        "镶满宝石的"
+      ]
+    },
+    {
+      "id": "statues",
+      "word": "statues",
+      "forms": [
+        "statues"
+      ],
+      "tier": "core",
+      "phonetic": "/stˈætʃˌuz/",
+      "partOfSpeech": "n.",
+      "meaning": "雕像（复数）",
+      "wordForms": "原文词形：statues",
+      "sentence": "The boat was filled with many things—gold plates, painted cups, jeweled goblets, woven baskets, jewelry with blue stones, and small wooden statues.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/statues.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "雕像（复数）",
+        "乐器；器具",
+        "黏土；陶土"
+      ]
+    },
+    {
+      "id": "scroll",
+      "word": "scroll",
+      "forms": [
+        "scroll"
+      ],
+      "tier": "core",
+      "phonetic": "/skrˈoʊl/",
+      "partOfSpeech": "n.",
+      "meaning": "卷轴",
+      "wordForms": "原文词形：scroll",
+      "sentence": "It was wrapped around an ancient-looking scroll.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/scroll.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/scr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ll",
+          "sound": "/ll/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "卷轴",
+        "餐巾",
+        "篮子"
+      ]
+    },
+    {
+      "id": "clay",
+      "word": "clay",
+      "forms": [
+        "clay"
+      ],
+      "tier": "core",
+      "phonetic": "/klˈeɪ/",
+      "partOfSpeech": "adj.",
+      "meaning": "黏土；陶土",
+      "wordForms": "原文词形：clay",
+      "sentence": "He reached into the boat and lifted out a clay jug.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/clay.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/cl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "黏土；陶土",
+        "乐器；器具",
+        "镶满宝石的"
+      ]
+    },
+    {
+      "id": "napkin",
+      "word": "napkin",
+      "forms": [
+        "napkin"
+      ],
+      "tier": "core",
+      "phonetic": "/nˈæpkɪn/",
+      "partOfSpeech": "n.",
+      "meaning": "餐巾",
+      "wordForms": "原文词形：napkin",
+      "sentence": "\"It feels like a big napkin,\" he said.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/napkin.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pk",
+          "sound": "/pk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "餐巾",
+        "卷轴",
+        "篮子"
+      ]
+    },
+    {
+      "id": "slowly",
+      "word": "slowly",
+      "forms": [
+        "slowly"
+      ],
+      "tier": "core",
+      "phonetic": "/'slәuli/",
+      "partOfSpeech": "adv.",
+      "meaning": "慢慢地；迟缓地",
+      "wordForms": "原文词形：slowly",
+      "sentence": "It opened slowly.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/slowly.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "慢慢地；迟缓地",
+        "雕像（复数）",
+        "乐器；器具"
+      ]
+    },
+    {
+      "id": "wrapped",
+      "word": "wrapped",
+      "forms": [
+        "wrapped"
+      ],
+      "tier": "core",
+      "phonetic": "/rˈæpt/",
+      "partOfSpeech": "v.",
+      "meaning": "包裹着的",
+      "wordForms": "原文词形：wrapped",
+      "sentence": "It was wrapped around an ancient-looking scroll.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/wrapped.mp3",
+      "phonics": [
+        {
+          "letters": "wr",
+          "sound": "/wr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pp",
+          "sound": "/pp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "包裹着的",
+        "嘎吱作响",
+        "乐器；器具"
+      ]
+    },
+    {
+      "id": "wonderful",
+      "word": "wonderful",
+      "forms": [
+        "wonderful"
+      ],
+      "tier": "core",
+      "phonetic": "/wˈʌndɚfəl/",
+      "partOfSpeech": "adj.",
+      "meaning": "精彩的",
+      "wordForms": "原文词形：wonderful",
+      "sentence": "It was covered withwonderful hieroglyphs.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/wonderful.mp3",
+      "phonics": [
+        {
+          "letters": "wo",
+          "sound": "/wo/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "精彩的",
+        "展开的",
+        "发光的"
+      ]
+    },
+    {
+      "id": "unrolled",
+      "word": "unrolled",
+      "forms": [
+        "unrolled"
+      ],
+      "tier": "core",
+      "phonetic": "/ˌənrˈoʊld/",
+      "partOfSpeech": "v.",
+      "meaning": "展开的",
+      "wordForms": "原文词形：unrolled",
+      "sentence": "Jack slowly unrolled the scroll.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/unrolled.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nr",
+          "sound": "/nr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ll",
+          "sound": "/ll/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "展开的",
+        "精彩的",
+        "发光的"
+      ]
+    },
+    {
+      "id": "jug",
+      "word": "jug",
+      "forms": [
+        "jug"
+      ],
+      "tier": "core",
+      "phonetic": "/dʒˈʌɡ/",
+      "partOfSpeech": "n.",
+      "meaning": "壶",
+      "wordForms": "原文词形：jug",
+      "sentence": "He reached into the boat and lifted out a clay jug.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/jug.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "壶",
+        "卷轴",
+        "餐巾"
+      ]
+    },
+    {
+      "id": "baskets",
+      "word": "baskets",
+      "forms": [
+        "baskets"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bˈæskəts/",
+      "partOfSpeech": "n.",
+      "meaning": "篮子",
+      "wordForms": "原文词形：baskets",
+      "sentence": "The boat was filled with many things—gold plates, painted cups, jeweled goblets, woven baskets, jewelry with blue stones, and small wooden statues.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/baskets.mp3"
+    },
+    {
+      "id": "breathe",
+      "word": "breathe",
+      "forms": [
+        "breathe"
+      ],
+      "tier": "recognition",
+      "phonetic": "/brˈið/",
+      "partOfSpeech": "n.",
+      "meaning": "呼吸",
+      "wordForms": "原文词形：breathe",
+      "sentence": "Jack could barely breathe.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/breathe.mp3"
+    },
+    {
+      "id": "creaked",
+      "word": "creaked",
+      "forms": [
+        "creaked"
+      ],
+      "tier": "recognition",
+      "phonetic": "/krˈikt/",
+      "partOfSpeech": "v.",
+      "meaning": "嘎吱作响",
+      "wordForms": "原文词形：creaked",
+      "sentence": "A door on the other side of the chamber creaked open.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/creaked.mp3"
+    },
+    {
+      "id": "glowing",
+      "word": "glowing",
+      "forms": [
+        "glowing"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ɡlˈoʊɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "发光的",
+      "wordForms": "原文词形：glowing",
+      "sentence": "They walked together across the room to the glowing gold box.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/glowing.mp3"
+    },
+    {
+      "id": "goblets",
+      "word": "goblets",
+      "forms": [
+        "goblets"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ˈɡɑːbləts/",
+      "partOfSpeech": "n.",
+      "meaning": "高脚杯",
+      "wordForms": "原文词形：goblets",
+      "sentence": "The boat was filled with many things—gold plates, painted cups, jeweled goblets, woven baskets, jewelry with blue stones, and small wooden statues.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/goblets.mp3"
+    },
+    {
+      "id": "jeweled",
+      "word": "jeweled",
+      "forms": [
+        "jeweled"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ˈdʒuːəld/",
+      "partOfSpeech": "ver.",
+      "meaning": "镶满宝石的",
+      "wordForms": "原文词形：jeweled",
+      "sentence": "The boat was filled with many things—gold plates, painted cups, jeweled goblets, woven baskets, jewelry with blue stones, and small wooden statues.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/jeweled.mp3"
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "book": 3,
+  "chapter": 2,
+  "title": "Oh, Man. Mummies!",
+  "words": [
+    {
+      "id": "funeral",
+      "word": "funeral",
+      "forms": [
+        "funeral"
+      ],
+      "tier": "core",
+      "phonetic": "/fjˈunɚəl/",
+      "partOfSpeech": "adj.",
+      "meaning": "葬礼；送葬仪式",
+      "wordForms": "原文词形：funeral",
+      "sentence": "He read the words under the picture:When a royal person died, a grand funeral procession took place.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/funeral.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "葬礼；送葬仪式",
+        "高耸的；激烈的",
+        "拉车的牛（复数）"
+      ]
+    },
+    {
+      "id": "coffin",
+      "word": "coffin",
+      "forms": [
+        "coffin"
+      ],
+      "tier": "core",
+      "phonetic": "/kˈɔfɪn/",
+      "partOfSpeech": "n.",
+      "meaning": "棺材",
+      "wordForms": "原文词形：coffin",
+      "sentence": "Family, servants, and other mourners followed the coffin.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/coffin.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ff",
+          "sound": "/ff/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "棺材",
+        "沙漠",
+        "游行"
+      ]
+    },
+    {
+      "id": "desert",
+      "word": "desert",
+      "forms": [
+        "desert"
+      ],
+      "tier": "core",
+      "phonetic": "/dˈɛzɚt/",
+      "partOfSpeech": "n.",
+      "meaning": "沙漠",
+      "wordForms": "原文词形：desert",
+      "sentence": "They were in a patch of green surrounded by a desert.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/desert.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "沙漠",
+        "棺材",
+        "游行"
+      ]
+    },
+    {
+      "id": "mirage",
+      "word": "mirage",
+      "forms": [
+        "mirage"
+      ],
+      "tier": "core",
+      "phonetic": "/mɚˈɑʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "海市蜃楼",
+      "wordForms": "原文词形：mirage",
+      "sentence": "“It must have been a mirage.”",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/mirage.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "海市蜃楼",
+        "木乃伊",
+        "棕榈树"
+      ]
+    },
+    {
+      "id": "mummy",
+      "word": "mummy",
+      "forms": [
+        "mummy"
+      ],
+      "tier": "core",
+      "phonetic": "/mˈʌmi/",
+      "partOfSpeech": "adj.",
+      "meaning": "木乃伊",
+      "wordForms": "原文词形：mummy",
+      "sentence": "Jack wrote:coffin called sarcophagus\"We'd better hurry,\" said Annie, \"if we want to see the mummy.\"",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/mummy.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mm",
+          "sound": "/mm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "木乃伊",
+        "棕榈树",
+        "哀悼者"
+      ]
+    },
+    {
+      "id": "oxen",
+      "word": "oxen",
+      "forms": [
+        "oxen"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈɑksən/",
+      "partOfSpeech": "n.",
+      "meaning": "拉车的牛（复数）",
+      "wordForms": "原文词形：oxen",
+      "sentence": "It was pulled on a sled by four oxen.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/oxen.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "x",
+          "sound": "/ks/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "拉车的牛（复数）",
+        "葬礼；送葬仪式",
+        "高耸的；激烈的"
+      ]
+    },
+    {
+      "id": "palm",
+      "word": "palm",
+      "forms": [
+        "palm"
+      ],
+      "tier": "core",
+      "phonetic": "/pˈɑm/",
+      "partOfSpeech": "n.",
+      "meaning": "棕榈树",
+      "wordForms": "原文词形：palm",
+      "sentence": "The tree house was perched on the top of a palm tree.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/palm.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lm",
+          "sound": "/lm/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "棕榈树",
+        "木乃伊",
+        "哀悼者"
+      ]
+    },
+    {
+      "id": "procession",
+      "word": "procession",
+      "forms": [
+        "procession"
+      ],
+      "tier": "core",
+      "phonetic": "/prəsˈɛʃən/",
+      "partOfSpeech": "n.",
+      "meaning": "游行",
+      "wordForms": "原文词形：procession",
+      "sentence": "He read the words under the picture:When a royal person died, a grand funeral procession took place.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/procession.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sion",
+          "sound": "/ʒən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "游行",
+        "棺材",
+        "沙漠"
+      ]
+    },
+    {
+      "id": "reflecting",
+      "word": "reflecting",
+      "forms": [
+        "reflecting"
+      ],
+      "tier": "core",
+      "phonetic": "/rɪflˈɛktɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "反映",
+      "wordForms": "原文词形：reflecting",
+      "sentence": "But it just turns out to be the sunlight reflecting through heat.\"",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/reflecting.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ct",
+          "sound": "/ct/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "反映",
+        "棺材",
+        "沙漠"
+      ]
+    },
+    {
+      "id": "surrounded",
+      "word": "surrounded",
+      "forms": [
+        "surrounded"
+      ],
+      "tier": "core",
+      "phonetic": "/sɚˈaʊndɪd/",
+      "partOfSpeech": "v.",
+      "meaning": "包围",
+      "wordForms": "原文词形：surrounded",
+      "sentence": "They were in a patch of green surrounded by a desert.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/surrounded.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "包围",
+        "棺材",
+        "沙漠"
+      ]
+    },
+    {
+      "id": "sarcophagus",
+      "word": "sarcophagus",
+      "forms": [
+        "sarcophagus"
+      ],
+      "tier": "recognition",
+      "phonetic": "/sɑrkˈɑfəɡəs/",
+      "partOfSpeech": "n.",
+      "meaning": "石棺",
+      "wordForms": "原文词形：sarcophagus",
+      "sentence": "The coffin was called a sarcophagus.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/sarcophagus.mp3"
+    },
+    {
+      "id": "mourners",
+      "word": "mourners",
+      "forms": [
+        "mourners"
+      ],
+      "tier": "recognition",
+      "phonetic": "/mˈɔrnɚz/",
+      "partOfSpeech": "n.",
+      "meaning": "哀悼者",
+      "wordForms": "原文词形：mourners",
+      "sentence": "Family, servants, and other mourners followed the coffin.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/mourners.mp3"
+    },
+    {
+      "id": "servants",
+      "word": "servants",
+      "forms": [
+        "servants"
+      ],
+      "tier": "recognition",
+      "phonetic": "/sˈɝvənts/",
+      "partOfSpeech": "nou.",
+      "meaning": "仆人",
+      "wordForms": "原文词形：servants",
+      "sentence": "Family, servants, and other mourners followed the coffin.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/servants.mp3"
+    },
+    {
+      "id": "towering",
+      "word": "towering",
+      "forms": [
+        "towering"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'tauәriŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "高耸的；激烈的",
+      "wordForms": "原文词形：towering",
+      "sentence": "But the great stone pyramid was still there, towering above them.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/towering.mp3"
+    },
+    {
+      "id": "box",
+      "word": "box",
+      "forms": [
+        "box"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bˈɑks/",
+      "partOfSpeech": "nou.",
+      "meaning": "盒子",
+      "wordForms": "原文词形：box",
+      "sentence": "\"The box is called a sar...",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/box.mp3"
+    },
+    {
+      "id": "exactly",
+      "word": "exactly",
+      "forms": [
+        "exactly"
+      ],
+      "tier": "recognition",
+      "phonetic": "/i^'zæktli/",
+      "partOfSpeech": "adv.",
+      "meaning": "完全一样的",
+      "wordForms": "原文词形：exactly",
+      "sentence": "It looked exactly like the parade in the Egypt book.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-02/exactly.mp3"
+    }
+  ]
+}

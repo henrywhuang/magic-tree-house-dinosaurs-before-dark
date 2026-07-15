@@ -1,0 +1,506 @@
+{
+  "book": 1,
+  "chapter": 9,
+  "title": "The Amazing Ride",
+  "words": [
+    {
+      "id": "steadied",
+      "word": "steadied",
+      "forms": [
+        "steadied"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈstedid/",
+      "partOfSpeech": "v.",
+      "meaning": "使站稳；扶稳",
+      "wordForms": "原文词形：steadied",
+      "sentence": "The Pteranodon steadied himself and rose into the sky.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/steadied.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "使站稳；扶稳",
+        "重的；巨大的",
+        "闪光；遮雨板"
+      ]
+    },
+    {
+      "id": "teetered",
+      "word": "teetered",
+      "forms": [
+        "teetered"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈti:təd/",
+      "partOfSpeech": "v.",
+      "meaning": "摇摇欲坠",
+      "wordForms": "原文词形：teetered",
+      "sentence": "Jack nearly fell off as they teetered this way and that.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/teetered.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "摇摇欲坠",
+        "骑；乘车",
+        "人；动物"
+      ]
+    },
+    {
+      "id": "circled",
+      "word": "circled",
+      "forms": [
+        "circled"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈsə:kld/",
+      "partOfSpeech": "v.",
+      "meaning": "盘旋；绕圈",
+      "wordForms": "原文词形：circled",
+      "sentence": "He circled above all the duck-billed dinosaurs and all the nests filled with babies.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/circled.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "cl",
+          "sound": "/cl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "盘旋；绕圈",
+        "相片；照片",
+        "乐趣；玩笑"
+      ]
+    },
+    {
+      "id": "bright",
+      "word": "bright",
+      "forms": [
+        "bright"
+      ],
+      "tier": "core",
+      "phonetic": "/brait/",
+      "partOfSpeech": "adj.",
+      "meaning": "明亮的；聪明的",
+      "wordForms": "原文词形：bright",
+      "sentence": "He stared at Jack with his bright, alert eyes.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/bright.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "igh",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "明亮的；聪明的",
+        "紧紧地；坚固地",
+        "使站稳；扶稳"
+      ]
+    },
+    {
+      "id": "lifted",
+      "word": "lifted",
+      "forms": [
+        "lifted"
+      ],
+      "tier": "core",
+      "phonetic": "/lˈɪftəd/",
+      "partOfSpeech": "v.",
+      "meaning": "提升的",
+      "wordForms": "原文词形：lifted",
+      "sentence": "He spread his wings—and lifted off the ground!",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/lifted.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ft",
+          "sound": "/ft/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "提升的",
+        "灌木丛",
+        "摇摇欲坠"
+      ]
+    },
+    {
+      "id": "riding",
+      "word": "riding",
+      "forms": [
+        "riding"
+      ],
+      "tier": "core",
+      "phonetic": "/'raidiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "骑；乘车",
+      "wordForms": "原文词形：riding",
+      "sentence": "He was riding on the back of an ancient flying reptile!",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/riding.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "骑；乘车",
+        "摇摇欲坠",
+        "人；动物"
+      ]
+    },
+    {
+      "id": "tightly",
+      "word": "tightly",
+      "forms": [
+        "tightly"
+      ],
+      "tier": "core",
+      "phonetic": "/'taitli/",
+      "partOfSpeech": "adv.",
+      "meaning": "紧紧地；坚固地",
+      "wordForms": "原文词形：tightly",
+      "sentence": "He held on tightly.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/tightly.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "igh",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "tl",
+          "sound": "/tl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "紧紧地；坚固地",
+        "明亮的；聪明的",
+        "使站稳；扶稳"
+      ]
+    },
+    {
+      "id": "heavy",
+      "word": "heavy",
+      "forms": [
+        "heavy"
+      ],
+      "tier": "core",
+      "phonetic": "/'hevi/",
+      "partOfSpeech": "adj.",
+      "meaning": "重的；巨大的",
+      "wordForms": "原文词形：heavy",
+      "sentence": "But I'm too heavy, thought Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/heavy.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "重的；巨大的",
+        "使站稳；扶稳",
+        "闪光；遮雨板"
+      ]
+    },
+    {
+      "id": "plain",
+      "word": "plain",
+      "forms": [
+        "plain"
+      ],
+      "tier": "core",
+      "phonetic": "/plein/",
+      "partOfSpeech": "n.",
+      "meaning": "平原",
+      "wordForms": "原文词形：plain",
+      "sentence": "Then the Pteranodon soared out over the plain—over the Triceratops, who was grazing in the high grass.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/plain.mp3",
+      "phonics": [
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "平原",
+        "提升的",
+        "灌木丛"
+      ]
+    },
+    {
+      "id": "bushes",
+      "word": "bushes",
+      "forms": [
+        "bushes"
+      ],
+      "tier": "core",
+      "phonetic": "/buʃiz/",
+      "partOfSpeech": "n.",
+      "meaning": "灌木丛",
+      "wordForms": "原文词形：bushes",
+      "sentence": "The Pteranodon sailed over the stream and over the ferns and bushes.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/bushes.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "灌木丛",
+        "提升的",
+        "摇摇欲坠"
+      ]
+    },
+    {
+      "id": "photograph",
+      "word": "photograph",
+      "forms": [
+        "photograph"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'fәutәgrɑ:f/",
+      "partOfSpeech": "n.",
+      "meaning": "相片；照片",
+      "wordForms": "原文词形：photograph",
+      "sentence": "He found the photograph of the Frog Creek woods.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/photograph.mp3"
+    },
+    {
+      "id": "fun",
+      "word": "fun",
+      "forms": [
+        "fun"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fʌn/",
+      "partOfSpeech": "n.",
+      "meaning": "乐趣；玩笑",
+      "wordForms": "原文词形：fun",
+      "sentence": "\"That was really fun.\"",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/fun.mp3"
+    },
+    {
+      "id": "chomping",
+      "word": "chomping",
+      "forms": [
+        "chomping"
+      ],
+      "tier": "recognition",
+      "phonetic": "/tʃɔmpɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "切齿；格格地咬牙",
+      "wordForms": "原文词形：chomping",
+      "sentence": "The Tyrannosaurus was staringup at him and chomping the air.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/chomping.mp3"
+    },
+    {
+      "id": "creature",
+      "word": "creature",
+      "forms": [
+        "creature"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'kri:tʃә/",
+      "partOfSpeech": "n.",
+      "meaning": "人；动物",
+      "wordForms": "原文词形：creature",
+      "sentence": "The creature moved forward.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/creature.mp3"
+    },
+    {
+      "id": "flashing",
+      "word": "flashing",
+      "forms": [
+        "flashing"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'flæʃiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "闪光；遮雨板",
+      "wordForms": "原文词形：flashing",
+      "sentence": "Its giant teeth were flashing in the sunlight.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/flashing.mp3"
+    },
+    {
+      "id": "screamed",
+      "word": "screamed",
+      "forms": [
+        "screamed"
+      ],
+      "tier": "recognition",
+      "phonetic": "/sk'ri:md/",
+      "partOfSpeech": "v.",
+      "meaning": "（因伤痛、害怕、激动等）尖叫 ~发出尖叫声( scream的过去",
+      "wordForms": "原文词形：screamed",
+      "sentence": "screamed Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/screamed.mp3"
+    }
+  ]
+}

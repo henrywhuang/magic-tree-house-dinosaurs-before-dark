@@ -1,0 +1,546 @@
+{
+  "book": 3,
+  "chapter": 1,
+  "title": "Meow!",
+  "words": [
+    {
+      "id": "soaked",
+      "word": "soaked",
+      "forms": [
+        "soaked"
+      ],
+      "tier": "core",
+      "phonetic": "/sˈoʊkt/",
+      "partOfSpeech": "v.",
+      "meaning": "湿透的；浸湿的",
+      "wordForms": "原文词形：soaked",
+      "sentence": "The book hadgotten soaked in a castle moat, but today it lookedfine.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/soaked.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "湿透的；浸湿的",
+        "凝视；注视",
+        "队伍；游行"
+      ]
+    },
+    {
+      "id": "pyramid",
+      "word": "pyramid",
+      "forms": [
+        "pyramid"
+      ],
+      "tier": "core",
+      "phonetic": "/pˈɪrəmɪd/",
+      "partOfSpeech": "n.",
+      "meaning": "金字塔",
+      "wordForms": "原文词形：pyramid",
+      "sentence": "There was a picture of a pyramid.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/pyramid.mp3",
+      "phonics": [
+        {
+          "letters": "py",
+          "sound": "/py/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "金字塔",
+        "紧张地",
+        "吹口哨"
+      ]
+    },
+    {
+      "id": "gazed",
+      "word": "gazed",
+      "forms": [
+        "gazed"
+      ],
+      "tier": "core",
+      "phonetic": "/ɡeizd/",
+      "partOfSpeech": "v.",
+      "meaning": "凝视；注视",
+      "wordForms": "原文词形：gazed",
+      "sentence": "Jack and his seven-year-old sister gazed up at a very tall oak tree.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/gazed.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "凝视；注视",
+        "队伍；游行",
+        "橡树；橡木"
+      ]
+    },
+    {
+      "id": "parade",
+      "word": "parade",
+      "forms": [
+        "parade"
+      ],
+      "tier": "core",
+      "phonetic": "/pɚˈeɪd/",
+      "partOfSpeech": "n.",
+      "meaning": "队伍；游行",
+      "wordForms": "原文词形：parade",
+      "sentence": "Going toward the pyramid was a long parade.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/parade.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "队伍；游行",
+        "凝视；注视",
+        "橡树；橡木"
+      ]
+    },
+    {
+      "id": "adventure",
+      "word": "adventure",
+      "forms": [
+        "adventure"
+      ],
+      "tier": "core",
+      "phonetic": "/ædvˈɛntʃɚ/",
+      "partOfSpeech": "nou.",
+      "meaning": "冒险",
+      "wordForms": "原文词形：adventure",
+      "sentence": "Maybe M wanted the gold medallion back—the one Jack had found on their dinosaur adventure.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/adventure.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dv",
+          "sound": "/dv/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ture",
+          "sound": "/tʃər/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "冒险",
+        "家乡",
+        "观看"
+      ]
+    },
+    {
+      "id": "nervously",
+      "word": "nervously",
+      "forms": [
+        "nervously"
+      ],
+      "tier": "core",
+      "phonetic": "/nˈɝvəsli/",
+      "partOfSpeech": "adv.",
+      "meaning": "紧张地",
+      "wordForms": "原文词形：nervously",
+      "sentence": "“Put that away,” Jack said nervously.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/nervously.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "紧张地",
+        "金字塔",
+        "吹口哨"
+      ]
+    },
+    {
+      "id": "strangest",
+      "word": "strangest",
+      "forms": [
+        "strangest"
+      ],
+      "tier": "core",
+      "phonetic": "/strˈeɪndʒɪst/",
+      "partOfSpeech": "adj.",
+      "meaning": "最奇怪的",
+      "wordForms": "原文词形：strangest",
+      "sentence": "It was the strangest cat Jack had ever seen.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/strangest.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "最奇怪的",
+        "金字塔",
+        "凝视；注视"
+      ]
+    },
+    {
+      "id": "hometown",
+      "word": "hometown",
+      "forms": [
+        "hometown"
+      ],
+      "tier": "core",
+      "phonetic": "/hˈoʊmtˌaʊn/",
+      "partOfSpeech": "nou.",
+      "meaning": "家乡",
+      "wordForms": "原文词形：hometown",
+      "sentence": "Annie found the book with the picture of their hometown in it: Frog Creek, Pennsylvania.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/hometown.mp3",
+      "phonics": [
+        {
+          "letters": "ho",
+          "sound": "/ho/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "家乡",
+        "冒险",
+        "观看"
+      ]
+    },
+    {
+      "id": "watching",
+      "word": "watching",
+      "forms": [
+        "watching"
+      ],
+      "tier": "core",
+      "phonetic": "/wˈɑtʃɪŋ/",
+      "partOfSpeech": "ver.",
+      "meaning": "观看",
+      "wordForms": "原文词形：watching",
+      "sentence": "Was the mysterious M person watching him now?",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/watching.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tch",
+          "sound": "/tʃ/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "观看",
+        "冒险",
+        "家乡"
+      ]
+    },
+    {
+      "id": "whistled",
+      "word": "whistled",
+      "forms": [
+        "whistled"
+      ],
+      "tier": "core",
+      "phonetic": "/wˈɪsəld/",
+      "partOfSpeech": "ver.",
+      "meaning": "吹口哨",
+      "wordForms": "原文词形：whistled",
+      "sentence": "The wind whistled louder.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/whistled.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "stl",
+          "sound": "/stl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "吹口哨",
+        "金字塔",
+        "紧张地"
+      ]
+    },
+    {
+      "id": "oak",
+      "word": "oak",
+      "forms": [
+        "oak"
+      ],
+      "tier": "recognition",
+      "phonetic": "/әuk/",
+      "partOfSpeech": "n.",
+      "meaning": "橡树；橡木",
+      "wordForms": "原文词形：oak",
+      "sentence": "Jack and his seven-year-old sister gazed up at a very tall oak tree.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/oak.mp3"
+    },
+    {
+      "id": "yesterday",
+      "word": "yesterday",
+      "forms": [
+        "yesterday"
+      ],
+      "tier": "recognition",
+      "phonetic": "/jˈɛstɚdˌeɪ/",
+      "partOfSpeech": "adj.",
+      "meaning": "昨天",
+      "wordForms": "原文词形：yesterday",
+      "sentence": "“The tree house looks the same as it did yesterday.”",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/yesterday.mp3"
+    },
+    {
+      "id": "castles",
+      "word": "castles",
+      "forms": [
+        "castles"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ˈkɑ:slz/",
+      "partOfSpeech": "n.",
+      "meaning": "城堡；堡垒( castle的名词复数 )",
+      "wordForms": "原文词形：castles",
+      "sentence": "Annie picked up the book about castles.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/castles.mp3"
+    },
+    {
+      "id": "cleared",
+      "word": "cleared",
+      "forms": [
+        "cleared"
+      ],
+      "tier": "recognition",
+      "phonetic": "/klˈɪrd/",
+      "partOfSpeech": "ver.",
+      "meaning": "已清除",
+      "wordForms": "原文词形：cleared",
+      "sentence": "He cleared his throat and said, \"I wish we could go to this place.\"",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/cleared.mp3"
+    },
+    {
+      "id": "leather",
+      "word": "leather",
+      "forms": [
+        "leather"
+      ],
+      "tier": "recognition",
+      "phonetic": "/lˈɛðɚ/",
+      "partOfSpeech": "nou.",
+      "meaning": "皮革",
+      "wordForms": "原文词形：leather",
+      "sentence": "Maybe M wanted the leather bookmark back—the one from the castle book.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/leather.mp3"
+    },
+    {
+      "id": "pulling",
+      "word": "pulling",
+      "forms": [
+        "pulling"
+      ],
+      "tier": "recognition",
+      "phonetic": "/pˈʊlɪŋ/",
+      "partOfSpeech": "ver.",
+      "meaning": "拉",
+      "wordForms": "原文词形：pulling",
+      "sentence": "Four huge cows with horns were pulling a sled.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/pulling.mp3"
+    }
+  ]
+}

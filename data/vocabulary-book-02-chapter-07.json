@@ -1,0 +1,551 @@
+{
+  "book": 2,
+  "chapter": 7,
+  "title": "A Secret Passage",
+  "words": [
+    {
+      "id": "clinging",
+      "word": "clinging",
+      "forms": [
+        "clinging"
+      ],
+      "tier": "core",
+      "phonetic": "/'kliŋiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "紧紧抓住",
+      "wordForms": "原文词形：clinging",
+      "sentence": "Jack inched down, bit by bit, until he was hanging out the door, clinging to the ledge.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/clinging.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/cl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "紧紧抓住",
+        "悬崖；峭壁",
+        "储藏室"
+      ]
+    },
+    {
+      "id": "precipice",
+      "word": "precipice",
+      "forms": [
+        "precipice"
+      ],
+      "tier": "core",
+      "phonetic": "/'presipis/",
+      "partOfSpeech": "n.",
+      "meaning": "悬崖；峭壁",
+      "wordForms": "原文词形：precipice",
+      "sentence": "He read aloud:In this castle, a trapdoor led from the storeroom through a secret passage to a precipice over the moat.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/precipice.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ec",
+          "sound": "/ec/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ip",
+          "sound": "/ip/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "悬崖；峭壁",
+        "通道；走廊",
+        "隧道；地道"
+      ]
+    },
+    {
+      "id": "storeroom",
+      "word": "storeroom",
+      "forms": [
+        "storeroom"
+      ],
+      "tier": "core",
+      "phonetic": "/'stɒ:rum/",
+      "partOfSpeech": "n.",
+      "meaning": "储藏室",
+      "wordForms": "原文词形：storeroom",
+      "sentence": "It’s a storeroom.”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/storeroom.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ore",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "储藏室",
+        "活板门",
+        "秘密的"
+      ]
+    },
+    {
+      "id": "passage",
+      "word": "passage",
+      "forms": [
+        "passage"
+      ],
+      "tier": "core",
+      "phonetic": "/'pæsidʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "通道；走廊",
+      "wordForms": "原文词形：passage",
+      "sentence": "He read aloud:In this castle, a trapdoor led from the storeroom through a secret passage to a precipice over the moat.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/passage.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ss",
+          "sound": "/ss/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "通道；走廊",
+        "悬崖；峭壁",
+        "隧道；地道"
+      ]
+    },
+    {
+      "id": "trapdoor",
+      "word": "trapdoor",
+      "forms": [
+        "trapdoor"
+      ],
+      "tier": "core",
+      "phonetic": "/'træpdɒ:/",
+      "partOfSpeech": "n.",
+      "meaning": "活板门",
+      "wordForms": "原文词形：trapdoor",
+      "sentence": "“There’s a trapdoor.”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/trapdoor.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pd",
+          "sound": "/pd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "活板门",
+        "储藏室",
+        "秘密的"
+      ]
+    },
+    {
+      "id": "secret",
+      "word": "secret",
+      "forms": [
+        "secret"
+      ],
+      "tier": "core",
+      "phonetic": "/'si:krit/",
+      "partOfSpeech": "n.",
+      "meaning": "秘密的",
+      "wordForms": "原文词形：secret",
+      "sentence": "He read aloud:In this castle, a trapdoor led from the storeroom through a secret passage to a precipice over the moat.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/secret.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "cr",
+          "sound": "/cr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "秘密的",
+        "储藏室",
+        "活板门"
+      ]
+    },
+    {
+      "id": "barrels",
+      "word": "barrels",
+      "forms": [
+        "barrels"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈbærəlz/",
+      "partOfSpeech": "n.",
+      "meaning": "木桶（复数）",
+      "wordForms": "原文词形：barrels",
+      "sentence": "There were rows of sacks and wooden barrels.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/barrels.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ls",
+          "sound": "/ls/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "木桶（复数）",
+        "拍打水的声音",
+        "悬崖；峭壁"
+      ]
+    },
+    {
+      "id": "ledge",
+      "word": "ledge",
+      "forms": [
+        "ledge"
+      ],
+      "tier": "core",
+      "phonetic": "/ledʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "岩石突出部；窄台",
+      "wordForms": "原文词形：ledge",
+      "sentence": "Jack inched down, bit by bit, until he was hanging out the door, clinging to the ledge.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/ledge.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "岩石突出部；窄台",
+        "木桶（复数）",
+        "拍打水的声音"
+      ]
+    },
+    {
+      "id": "tunnel",
+      "word": "tunnel",
+      "forms": [
+        "tunnel"
+      ],
+      "tier": "core",
+      "phonetic": "/'tʌnl/",
+      "partOfSpeech": "n.",
+      "meaning": "隧道；地道",
+      "wordForms": "原文词形：tunnel",
+      "sentence": "There was a tunnel!",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/tunnel.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nn",
+          "sound": "/nn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "隧道；地道",
+        "悬崖；峭壁",
+        "通道；走廊"
+      ]
+    },
+    {
+      "id": "batteries",
+      "word": "batteries",
+      "forms": [
+        "batteries"
+      ],
+      "tier": "core",
+      "phonetic": "/bˈætɚiz/",
+      "partOfSpeech": "n.",
+      "meaning": "电池",
+      "wordForms": "原文词形：batteries",
+      "sentence": "Were the batteries going dead?",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/batteries.mp3",
+      "phonics": [
+        {
+          "letters": "ba",
+          "sound": "/ba/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "tt",
+          "sound": "/tt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "电池",
+        "第五",
+        "储藏室"
+      ]
+    },
+    {
+      "id": "fifth",
+      "word": "fifth",
+      "forms": [
+        "fifth"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fifθ/",
+      "partOfSpeech": "n.",
+      "meaning": "第五",
+      "wordForms": "原文词形：fifth",
+      "sentence": "He stamped on the fifth stone.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/fifth.mp3"
+    },
+    {
+      "id": "splash",
+      "word": "splash",
+      "forms": [
+        "splash"
+      ],
+      "tier": "recognition",
+      "phonetic": "/splæʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "拍打水的声音",
+      "wordForms": "原文词形：splash",
+      "sentence": "SPLASH!",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/splash.mp3"
+    },
+    {
+      "id": "completely",
+      "word": "completely",
+      "forms": [
+        "completely"
+      ],
+      "tier": "recognition",
+      "phonetic": "/kəmplˈitli/",
+      "partOfSpeech": "adv.",
+      "meaning": "完全地",
+      "wordForms": "原文词形：completely",
+      "sentence": "Jack was desperate to get out of the castle before the batteries died completely.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/completely.mp3"
+    },
+    {
+      "id": "underneath",
+      "word": "underneath",
+      "forms": [
+        "underneath"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ˌəndɚnˈiθ/",
+      "partOfSpeech": "nou.",
+      "meaning": "下",
+      "wordForms": "原文词形：underneath",
+      "sentence": "Underneath was a small wooden door.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/underneath.mp3"
+    },
+    {
+      "id": "desperate",
+      "word": "desperate",
+      "forms": [
+        "desperate"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dˈɛsprɪt/",
+      "partOfSpeech": "nou.",
+      "meaning": "绝望的",
+      "wordForms": "原文词形：desperate",
+      "sentence": "Jack was desperate to get out of the castle before the batteries died completely.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/desperate.mp3"
+    },
+    {
+      "id": "flickered",
+      "word": "flickered",
+      "forms": [
+        "flickered"
+      ],
+      "tier": "recognition",
+      "phonetic": "/flˈɪkɚd/",
+      "partOfSpeech": "ver.",
+      "meaning": "闪烁的",
+      "wordForms": "原文词形：flickered",
+      "sentence": "The flashlight dimly flickered across the stone walls.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/flickered.mp3"
+    }
+  ]
+}

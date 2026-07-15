@@ -1,0 +1,526 @@
+{
+  "book": 1,
+  "chapter": 5,
+  "title": "Gold in the Grass",
+  "words": [
+    {
+      "id": "triceratops",
+      "word": "triceratops",
+      "forms": [
+        "triceratops"
+      ],
+      "tier": "core",
+      "phonetic": "/traɪˈserətɒps/",
+      "partOfSpeech": "n.",
+      "meaning": "三角龙",
+      "wordForms": "原文词形：triceratops",
+      "sentence": "\"Triceratops!\"",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/triceratops.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ic",
+          "sound": "/ic/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "at",
+          "sound": "/at/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ps",
+          "sound": "/ps/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "三角龙",
+        "嘴；口",
+        "犀牛"
+      ]
+    },
+    {
+      "id": "scrambled",
+      "word": "scrambled",
+      "forms": [
+        "scrambled"
+      ],
+      "tier": "core",
+      "phonetic": "/skrˈæmbəld/",
+      "partOfSpeech": "v.",
+      "meaning": "匆忙爬；争先恐后",
+      "wordForms": "原文词形：scrambled",
+      "sentence": "Jack scrambled after her.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/scrambled.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/scr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mbl",
+          "sound": "/mbl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "匆忙爬；争先恐后",
+        "木兰；浅桃红色",
+        "鼻子；突出部分"
+      ]
+    },
+    {
+      "id": "medallion",
+      "word": "medallion",
+      "forms": [
+        "medallion"
+      ],
+      "tier": "core",
+      "phonetic": "/məˈdæliən/",
+      "partOfSpeech": "n.",
+      "meaning": "圆形大奖章；圆形饰品",
+      "wordForms": "原文词形：medallion",
+      "sentence": "It was a gold medallion.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/medallion.mp3",
+      "phonics": [
+        {
+          "letters": "med",
+          "sound": "/med/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ll",
+          "sound": "/ll/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "圆形大奖章；圆形饰品",
+        "闪闪发光的；光辉灿烂的",
+        "匆忙爬；争先恐后"
+      ]
+    },
+    {
+      "id": "tumbled",
+      "word": "tumbled",
+      "forms": [
+        "tumbled"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈtʌmbld/",
+      "partOfSpeech": "v.",
+      "meaning": "跌倒；翻滚",
+      "wordForms": "原文词形：tumbled",
+      "sentence": "Jack and Annie tumbled into the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/tumbled.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mbl",
+          "sound": "/mbl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "跌倒；翻滚",
+        "偷看；瞥见",
+        "轻推；碰了碰"
+      ]
+    },
+    {
+      "id": "magnolia",
+      "word": "magnolia",
+      "forms": [
+        "magnolia"
+      ],
+      "tier": "core",
+      "phonetic": "/mæg'nәuliә/",
+      "partOfSpeech": "n.",
+      "meaning": "木兰；浅桃红色",
+      "wordForms": "原文词形：magnolia",
+      "sentence": "He was eating the flowers off a magnolia tree.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/magnolia.mp3",
+      "phonics": [
+        {
+          "letters": "ma",
+          "sound": "/ma/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "gn",
+          "sound": "/gn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "木兰；浅桃红色",
+        "鼻子；突出部分",
+        "图注；说明文字"
+      ]
+    },
+    {
+      "id": "mouth",
+      "word": "mouth",
+      "forms": [
+        "mouth"
+      ],
+      "tier": "core",
+      "phonetic": "/mauθ/",
+      "partOfSpeech": "n.",
+      "meaning": "嘴；口",
+      "wordForms": "原文词形：mouth",
+      "sentence": "Half of a magnolia flower was sticking out of his mouth.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/mouth.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "嘴；口",
+        "三角龙",
+        "犀牛"
+      ]
+    },
+    {
+      "id": "nudged",
+      "word": "nudged",
+      "forms": [
+        "nudged"
+      ],
+      "tier": "core",
+      "phonetic": "/nʌdʒd/",
+      "partOfSpeech": "v.",
+      "meaning": "轻推；碰了碰",
+      "wordForms": "原文词形：nudged",
+      "sentence": "He wrote:Annie nudged him.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/nudged.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dge",
+          "sound": "/dʒ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "轻推；碰了碰",
+        "跌倒；翻滚",
+        "木兰；浅桃红色"
+      ]
+    },
+    {
+      "id": "nose",
+      "word": "nose",
+      "forms": [
+        "nose"
+      ],
+      "tier": "core",
+      "phonetic": "/nәuz/",
+      "partOfSpeech": "n.",
+      "meaning": "鼻子；突出部分",
+      "wordForms": "原文词形：nose",
+      "sentence": "It had two long horns above its eyes, and another one grew out from its nose.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/nose.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鼻子；突出部分",
+        "木兰；浅桃红色",
+        "图注；说明文字"
+      ]
+    },
+    {
+      "id": "caption",
+      "word": "caption",
+      "forms": [
+        "caption"
+      ],
+      "tier": "core",
+      "phonetic": "/'kæpʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "图注；说明文字",
+      "wordForms": "原文词形：caption",
+      "sentence": "He read the caption:The Triceratops lived in the late Cretaceous Period.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/caption.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tion",
+          "sound": "/ʃən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "图注；说明文字",
+        "木兰；浅桃红色",
+        "鼻子；突出部分"
+      ]
+    },
+    {
+      "id": "peeked",
+      "word": "peeked",
+      "forms": [
+        "peeked"
+      ],
+      "tier": "core",
+      "phonetic": "/pi:kt/",
+      "partOfSpeech": "v.",
+      "meaning": "偷看；瞥见",
+      "wordForms": "原文词形：peeked",
+      "sentence": "Then he and Annie peeked out at the Triceratops.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/peeked.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "偷看；瞥见",
+        "跌倒；翻滚",
+        "轻推；碰了碰"
+      ]
+    },
+    {
+      "id": "glittering",
+      "word": "glittering",
+      "forms": [
+        "glittering"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ɡlˈɪtɚɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "闪闪发光的；光辉灿烂的",
+      "wordForms": "原文词形：glittering",
+      "sentence": "As Jack started after Annie, he saw something glittering in the tall grass.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/glittering.mp3"
+    },
+    {
+      "id": "rhinoceros",
+      "word": "rhinoceros",
+      "forms": [
+        "rhinoceros"
+      ],
+      "tier": "recognition",
+      "phonetic": "/rai'nɒsәrәs/",
+      "partOfSpeech": "n.",
+      "meaning": "犀牛",
+      "wordForms": "原文词形：rhinoceros",
+      "sentence": "The dinosaur looked like a huge rhinoceros with three horns instead of one.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/rhinoceros.mp3"
+    },
+    {
+      "id": "carefully",
+      "word": "carefully",
+      "forms": [
+        "carefully"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'kєәfuli/",
+      "partOfSpeech": "adv.",
+      "meaning": "小心地；谨慎地",
+      "wordForms": "原文词形：carefully",
+      "sentence": "And he led the way slowly and carefully through the ferns.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/carefully.mp3"
+    },
+    {
+      "id": "engraved",
+      "word": "engraved",
+      "forms": [
+        "engraved"
+      ],
+      "tier": "recognition",
+      "phonetic": "/inˈɡreivd/",
+      "partOfSpeech": "v.",
+      "meaning": "在（硬物）上雕刻（字；画等）( engrave的过去式和过去分词",
+      "wordForms": "原文词形：engraved",
+      "sentence": "A letter was engraved on the medallion: a fancy M.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/engraved.mp3"
+    },
+    {
+      "id": "followed",
+      "word": "followed",
+      "forms": [
+        "followed"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fˈɑloʊd/",
+      "partOfSpeech": "v.",
+      "meaning": "跟随",
+      "wordForms": "原文词形：followed",
+      "sentence": "Annie started down the ladder, and Jack followed her.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/followed.mp3"
+    },
+    {
+      "id": "friendly",
+      "word": "friendly",
+      "forms": [
+        "friendly"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'frendli/",
+      "partOfSpeech": "adj.",
+      "meaning": "友好的；亲切的",
+      "wordForms": "原文词形：friendly",
+      "sentence": "The Pteranodon gave them a friendly look.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/friendly.mp3"
+    }
+  ]
+}

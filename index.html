@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#173f35">
-  <title>Magic Tree House · 双册原著精读营</title>
+  <title>Magic Tree House · 三册原著精读营</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/images/cover.jpg">
   <link rel="stylesheet" href="styles.css?v=20260714-vocabphonics">
@@ -15,7 +15,7 @@
       <button class="icon-button menu-button" id="menuButton" aria-label="打开目录">☰</button>
       <button class="brand" id="brandButton" aria-label="返回首页">
         <span class="brand-mark">✦</span>
-        <span><b>Magic Tree House</b><small id="brandSubtitle">双册原著精读营</small></span>
+        <span><b>Magic Tree House</b><small id="brandSubtitle">三册原著精读营</small></span>
       </button>
       <div class="progress-pill"><span id="progressLabel">学习进度 0%</span><i><b id="progressBar"></b></i></div>
     </header>
@@ -107,7 +107,7 @@
         <button class="back-button" id="backFromVocabulary">← 返回原文</button>
         <div class="vocabulary-shell">
           <header class="vocabulary-header">
-            <div><span class="eyebrow">READ · UNDERSTAND · PHONICS · SPELL</span><h1>本章词汇学习</h1><p>Book 2 · Chapter 1 · The Dark Woods</p></div>
+            <div><span class="eyebrow">READ · UNDERSTAND · PHONICS · SPELL</span><h1>本章词汇学习</h1><p id="vocabularyChapterMeta">Book 1 · Chapter 1 · Into the Woods</p></div>
           </header>
           <div id="vocabularyContent" aria-live="polite"></div>
         </div>
@@ -151,7 +151,7 @@
     <small class="card-tip" id="pronunciationStatus" aria-live="polite">点击喇叭听美式标准发音</small>
   </div>
   <script src="data/words.js?v=20260714b"></script>
-  <script src="app.js?v=20260714-vocabphonics"></script>
+  <script src="app.js?v=20260715-vocabulary-all"></script>
   <script>if('serviceWorker' in navigator) addEventListener('load',()=>navigator.serviceWorker.register('./sw.js',{updateViaCache:'none'}))</script>
 </body>
 </html>

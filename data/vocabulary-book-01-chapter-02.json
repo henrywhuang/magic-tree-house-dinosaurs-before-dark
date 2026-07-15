@@ -1,0 +1,546 @@
+{
+  "book": 1,
+  "chapter": 2,
+  "title": "The Monster",
+  "words": [
+    {
+      "id": "recognized",
+      "word": "recognized",
+      "forms": [
+        "recognized"
+      ],
+      "tier": "core",
+      "phonetic": "/rˈɛkəɡnˌaɪzd/",
+      "partOfSpeech": "v.",
+      "meaning": "认出；辨认出",
+      "wordForms": "原文词形：recognized",
+      "sentence": "He recognized it as a Pteranodon.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/recognized.mp3",
+      "phonics": [
+        {
+          "letters": "re",
+          "sound": "/re/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "co",
+          "sound": "/co/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "gn",
+          "sound": "/gn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "认出；辨认出",
+        "巨人；大力士",
+        "爬行动物；爬虫"
+      ]
+    },
+    {
+      "id": "pteranodon",
+      "word": "pteranodon",
+      "forms": [
+        "pteranodon"
+      ],
+      "tier": "core",
+      "phonetic": "/təˈrænədɒn/",
+      "partOfSpeech": "n.",
+      "meaning": "无齿翼龙",
+      "wordForms": "原文词形：pteranodon",
+      "sentence": "He recognized it as a Pteranodon.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/pteranodon.mp3",
+      "phonics": [
+        {
+          "letters": "pt",
+          "sound": "/pt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "an",
+          "sound": "/an/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "od",
+          "sound": "/od/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "无齿翼龙",
+        "旋转；自旋",
+        "各处；到处"
+      ]
+    },
+    {
+      "id": "reptile",
+      "word": "reptile",
+      "forms": [
+        "reptile"
+      ],
+      "tier": "core",
+      "phonetic": "/'reptail/",
+      "partOfSpeech": "n.",
+      "meaning": "爬行动物；爬虫",
+      "wordForms": "原文词形：reptile",
+      "sentence": "Jack turned to a picture of an ancient flying reptile.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/reptile.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pt",
+          "sound": "/pt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "爬行动物；爬虫",
+        "古代的；古老的",
+        "初步的；基本的"
+      ]
+    },
+    {
+      "id": "weird",
+      "word": "weird",
+      "forms": [
+        "weird"
+      ],
+      "tier": "core",
+      "phonetic": "/wiәd/",
+      "partOfSpeech": "adj.",
+      "meaning": "怪异的；超自然的",
+      "wordForms": "原文词形：weird",
+      "sentence": "It had a long, weird crest on the back of its head, a skinny beak, and huge bat-like wings!",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/weird.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "怪异的；超自然的",
+        "城堡；象棋中的车",
+        "爬行动物；爬虫"
+      ]
+    },
+    {
+      "id": "spin",
+      "word": "spin",
+      "forms": [
+        "spin"
+      ],
+      "tier": "core",
+      "phonetic": "/spˈɪn/",
+      "partOfSpeech": "n.",
+      "meaning": "旋转；自旋",
+      "wordForms": "原文词形：spin",
+      "sentence": "The tree house started to spin.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/spin.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "旋转；自旋",
+        "各处；到处",
+        "方向；指导"
+      ]
+    },
+    {
+      "id": "crawled",
+      "word": "crawled",
+      "forms": [
+        "crawled"
+      ],
+      "tier": "core",
+      "phonetic": "/krɔ:ld/",
+      "partOfSpeech": "v.",
+      "meaning": "爬行",
+      "wordForms": "原文词形：crawled",
+      "sentence": "Jack crawled into the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/crawled.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/cr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "aw",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "爬行",
+        "恐龙",
+        "书签"
+      ]
+    },
+    {
+      "id": "dinosaur",
+      "word": "dinosaur",
+      "forms": [
+        "dinosaur"
+      ],
+      "tier": "core",
+      "phonetic": "/'dainәsɒ:/",
+      "partOfSpeech": "n.",
+      "meaning": "恐龙",
+      "wordForms": "原文词形：dinosaur",
+      "sentence": "But even as he said this, Jack was opening the dinosaur book to the place where the bookmark was.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/dinosaur.mp3",
+      "phonics": [
+        {
+          "letters": "di",
+          "sound": "/di/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "au",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "恐龙",
+        "爬行",
+        "书签"
+      ]
+    },
+    {
+      "id": "ancient",
+      "word": "ancient",
+      "forms": [
+        "ancient"
+      ],
+      "tier": "core",
+      "phonetic": "/'einʃәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "古代的；古老的",
+      "wordForms": "原文词形：ancient",
+      "sentence": "Jack turned to a picture of an ancient flying reptile.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/ancient.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nc",
+          "sound": "/nc/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "古代的；古老的",
+        "爬行动物；爬虫",
+        "初步的；基本的"
+      ]
+    },
+    {
+      "id": "bookmark",
+      "word": "bookmark",
+      "forms": [
+        "bookmark"
+      ],
+      "tier": "core",
+      "phonetic": "/'bukmɑ:k/",
+      "partOfSpeech": "n.",
+      "meaning": "书签",
+      "wordForms": "原文词形：bookmark",
+      "sentence": "He turned to the page with the bookmark.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/bookmark.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "km",
+          "sound": "/km/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "书签",
+        "爬行",
+        "恐龙"
+      ]
+    },
+    {
+      "id": "castle",
+      "word": "castle",
+      "forms": [
+        "castle"
+      ],
+      "tier": "core",
+      "phonetic": "/'kæsl. 'kɑ:sl/",
+      "partOfSpeech": "n.",
+      "meaning": "城堡；象棋中的车",
+      "wordForms": "原文词形：castle",
+      "sentence": "She picked up a book with a castle on the cover.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/castle.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "stl",
+          "sound": "/stl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "城堡；象棋中的车",
+        "怪异的；超自然的",
+        "爬行动物；爬虫"
+      ]
+    },
+    {
+      "id": "giant",
+      "word": "giant",
+      "forms": [
+        "giant"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'dʒaiәnt/",
+      "partOfSpeech": "n.",
+      "meaning": "巨人；大力士",
+      "wordForms": "原文词形：giant",
+      "sentence": "A giant creature was gliding above the treetops!",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/giant.mp3"
+    },
+    {
+      "id": "elementary",
+      "word": "elementary",
+      "forms": [
+        "elementary"
+      ],
+      "tier": "recognition",
+      "phonetic": "/.eli'mentәri/",
+      "partOfSpeech": "adj.",
+      "meaning": "初步的；基本的",
+      "wordForms": "原文词形：elementary",
+      "sentence": "In the distance he could see the Frog Creek library and the elementary school and the park.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/elementary.mp3"
+    },
+    {
+      "id": "everywhere",
+      "word": "everywhere",
+      "forms": [
+        "everywhere"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'evrihwєә/",
+      "partOfSpeech": "adv.",
+      "meaning": "各处；到处",
+      "wordForms": "原文词形：everywhere",
+      "sentence": "Books were everywhere—very old books with dusty covers and new books with shiny, bright covers.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/everywhere.mp3"
+    },
+    {
+      "id": "direction",
+      "word": "direction",
+      "forms": [
+        "direction"
+      ],
+      "tier": "recognition",
+      "phonetic": "/di'rekʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "方向；指导",
+      "wordForms": "原文词形：direction",
+      "sentence": "Annie pointed in the other direction.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/direction.mp3"
+    },
+    {
+      "id": "backpack",
+      "word": "backpack",
+      "forms": [
+        "backpack"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'bækpæk/",
+      "partOfSpeech": "n.",
+      "meaning": "远足用的背包；双肩背包",
+      "wordForms": "原文词形：backpack",
+      "sentence": "He set his backpack down on the floor and grabbed the book from Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/backpack.mp3"
+    },
+    {
+      "id": "crouched",
+      "word": "crouched",
+      "forms": [
+        "crouched"
+      ],
+      "tier": "recognition",
+      "phonetic": "/krautʃt/",
+      "partOfSpeech": "v.",
+      "meaning": "屈膝；蹲伏( crouch的过去式和过去分词 )",
+      "wordForms": "原文词形：crouched",
+      "sentence": "Jack and Annie crouched on the floor.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/crouched.mp3"
+    }
+  ]
+}

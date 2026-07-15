@@ -1,0 +1,531 @@
+{
+  "book": 2,
+  "chapter": 9,
+  "title": "Under the Moon",
+  "words": [
+    {
+      "id": "dismounted",
+      "word": "dismounted",
+      "forms": [
+        "dismounted"
+      ],
+      "tier": "core",
+      "phonetic": "/dɪsˈmaʊntid/",
+      "partOfSpeech": "v.",
+      "meaning": "下马",
+      "wordForms": "原文词形：dismounted",
+      "sentence": "The knight dismounted.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/dismounted.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sm",
+          "sound": "/sm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "下马",
+        "马鞍",
+        "缰绳"
+      ]
+    },
+    {
+      "id": "cantered",
+      "word": "cantered",
+      "forms": [
+        "cantered"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈkæntəd/",
+      "partOfSpeech": "v.",
+      "meaning": "骑马慢跑",
+      "wordForms": "原文词形：cantered",
+      "sentence": "The black horse cantered beside the moonlit water of the moat.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/cantered.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "骑马慢跑",
+        "戴着手套的",
+        "拍打；猛拍"
+      ]
+    },
+    {
+      "id": "saddle",
+      "word": "saddle",
+      "forms": [
+        "saddle"
+      ],
+      "tier": "core",
+      "phonetic": "/'sædl/",
+      "partOfSpeech": "n.",
+      "meaning": "马鞍",
+      "wordForms": "原文词形：saddle",
+      "sentence": "Jack rocked back and forth in the saddle.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/saddle.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ddl",
+          "sound": "/ddl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "马鞍",
+        "下马",
+        "缰绳"
+      ]
+    },
+    {
+      "id": "gloved",
+      "word": "gloved",
+      "forms": [
+        "gloved"
+      ],
+      "tier": "core",
+      "phonetic": "/glʌvd/",
+      "partOfSpeech": "v.",
+      "meaning": "戴着手套的",
+      "wordForms": "原文词形：gloved",
+      "sentence": "The knight held out his gloved hand.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/gloved.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "戴着手套的",
+        "拍打；猛拍",
+        "骑马慢跑"
+      ]
+    },
+    {
+      "id": "reins",
+      "word": "reins",
+      "forms": [
+        "reins"
+      ],
+      "tier": "core",
+      "phonetic": "/reinz/",
+      "partOfSpeech": "n.",
+      "meaning": "缰绳",
+      "wordForms": "原文词形：reins",
+      "sentence": "He slapped the reins.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/reins.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ns",
+          "sound": "/ns/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "缰绳",
+        "下马",
+        "马鞍"
+      ]
+    },
+    {
+      "id": "slapped",
+      "word": "slapped",
+      "forms": [
+        "slapped"
+      ],
+      "tier": "core",
+      "phonetic": "/slæpt/",
+      "partOfSpeech": "v.",
+      "meaning": "拍打；猛拍",
+      "wordForms": "原文词形：slapped",
+      "sentence": "He slapped the reins.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/slapped.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pp",
+          "sound": "/pp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "拍打；猛拍",
+        "戴着手套的",
+        "骑马慢跑"
+      ]
+    },
+    {
+      "id": "bowed",
+      "word": "bowed",
+      "forms": [
+        "bowed"
+      ],
+      "tier": "core",
+      "phonetic": "/bәud/",
+      "partOfSpeech": "v.",
+      "meaning": "弯如弓的；低垂的",
+      "wordForms": "原文词形：bowed",
+      "sentence": "She bowed.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/bowed.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "弯如弓的；低垂的",
+        "凝视；盯着看",
+        "戴着手套的"
+      ]
+    },
+    {
+      "id": "blackness",
+      "word": "blackness",
+      "forms": [
+        "blackness"
+      ],
+      "tier": "core",
+      "phonetic": "/blˈæknəs/",
+      "partOfSpeech": "nou.",
+      "meaning": "黑",
+      "wordForms": "原文词形：blackness",
+      "sentence": "Jack shivered in his wet clothes as he kept staring at the blackness.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/blackness.mp3",
+      "phonics": [
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ss",
+          "sound": "/ss/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "黑",
+        "旁",
+        "下马"
+      ]
+    },
+    {
+      "id": "fumbling",
+      "word": "fumbling",
+      "forms": [
+        "fumbling"
+      ],
+      "tier": "core",
+      "phonetic": "/fˈʌmbəlɪŋ/",
+      "partOfSpeech": "ver.",
+      "meaning": "摸索",
+      "wordForms": "原文词形：fumbling",
+      "sentence": "Jack heard Annie fumbling in the darkness.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/fumbling.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mbl",
+          "sound": "/mbl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "摸索",
+        "下马",
+        "马鞍"
+      ]
+    },
+    {
+      "id": "powerful",
+      "word": "powerful",
+      "forms": [
+        "powerful"
+      ],
+      "tier": "core",
+      "phonetic": "/pˈaʊɚfəl/",
+      "partOfSpeech": "adj.",
+      "meaning": "强大的",
+      "wordForms": "原文词形：powerful",
+      "sentence": "He felt very brave and very powerful.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/powerful.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "强大的",
+        "尖叫着",
+        "月光下"
+      ]
+    },
+    {
+      "id": "shrieked",
+      "word": "shrieked",
+      "forms": [
+        "shrieked"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ʃrˈikt/",
+      "partOfSpeech": "ver.",
+      "meaning": "尖叫着",
+      "wordForms": "原文词形：shrieked",
+      "sentence": "A hawk shrieked in the darkness.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/shrieked.mp3"
+    },
+    {
+      "id": "forever",
+      "word": "forever",
+      "forms": [
+        "forever"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fɚˈɛvɚ/",
+      "partOfSpeech": "n.",
+      "meaning": "永远",
+      "wordForms": "原文词形：forever",
+      "sentence": "He felt as if he could ride forever on this horse, with this mysterious knight, over the ocean, over the world, over the moon.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/forever.mp3"
+    },
+    {
+      "id": "moonlit",
+      "word": "moonlit",
+      "forms": [
+        "moonlit"
+      ],
+      "tier": "recognition",
+      "phonetic": "/mˈunlˌɪt/",
+      "partOfSpeech": "adj.",
+      "meaning": "月光下",
+      "wordForms": "原文词形：moonlit",
+      "sentence": "The black horse cantered beside the moonlit water of the moat.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/moonlit.mp3"
+    },
+    {
+      "id": "staring",
+      "word": "staring",
+      "forms": [
+        "staring"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'stєәriŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "凝视；盯着看",
+      "wordForms": "原文词形：staring",
+      "sentence": "Jack shivered in his wet clothes as he kept staring at the blackness.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/staring.mp3"
+    },
+    {
+      "id": "stepped",
+      "word": "stepped",
+      "forms": [
+        "stepped"
+      ],
+      "tier": "recognition",
+      "phonetic": "/stept/",
+      "partOfSpeech": "v.",
+      "meaning": "踏；行走（step的过去式和过去分词）",
+      "wordForms": "原文词形：stepped",
+      "sentence": "Annie stepped toward the horse.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/stepped.mp3"
+    },
+    {
+      "id": "beside",
+      "word": "beside",
+      "forms": [
+        "beside"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bɪsˈaɪd/",
+      "partOfSpeech": "adv.",
+      "meaning": "旁",
+      "wordForms": "原文词形：beside",
+      "sentence": "The black horse cantered beside the moonlit water of the moat.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/beside.mp3"
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "book": 2,
+  "chapter": 4,
+  "title": "Into the Castle",
+  "words": [
+    {
+      "id": "cobblestones",
+      "word": "cobblestones",
+      "forms": [
+        "cobblestones"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈkɒblstəʊnz/",
+      "partOfSpeech": "n.",
+      "meaning": "鹅卵石路面",
+      "wordForms": "原文词形：cobblestones",
+      "sentence": "Two boys led horses that clopped over the gray cobblestones.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/cobblestones.mp3",
+      "phonics": [
+        {
+          "letters": "co",
+          "sound": "/co/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "bbl",
+          "sound": "/bbl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "est",
+          "sound": "/est/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "on",
+          "sound": "/on/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鹅卵石路面",
+        "走廊；过道",
+        "骨头（复数）"
+      ]
+    },
+    {
+      "id": "courtyard",
+      "word": "courtyard",
+      "forms": [
+        "courtyard"
+      ],
+      "tier": "core",
+      "phonetic": "/'kɒ:tjɑ:d/",
+      "partOfSpeech": "n.",
+      "meaning": "庭院",
+      "wordForms": "原文词形：courtyard",
+      "sentence": "He ran through the castle gate and into the courtyard.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/courtyard.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "rt",
+          "sound": "/rt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "庭院",
+        "托盘",
+        "音乐"
+      ]
+    },
+    {
+      "id": "dimly",
+      "word": "dimly",
+      "forms": [
+        "dimly"
+      ],
+      "tier": "core",
+      "phonetic": "/'dimli/",
+      "partOfSpeech": "adv.",
+      "meaning": "昏暗地",
+      "wordForms": "原文词形：dimly",
+      "sentence": "Then they ran as fast as they could down a dimly lit hallway.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/dimly.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ml",
+          "sound": "/ml/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "昏暗地",
+        "庭院",
+        "托盘"
+      ]
+    },
+    {
+      "id": "tray",
+      "word": "tray",
+      "forms": [
+        "tray"
+      ],
+      "tier": "core",
+      "phonetic": "/trei/",
+      "partOfSpeech": "adj.",
+      "meaning": "托盘",
+      "wordForms": "原文词形：tray",
+      "sentence": "A man carrying a tray of pies was standing a few feet away.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/tray.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "托盘",
+        "庭院",
+        "音乐"
+      ]
+    },
+    {
+      "id": "music",
+      "word": "music",
+      "forms": [
+        "music"
+      ],
+      "tier": "core",
+      "phonetic": "/'mju:zik/",
+      "partOfSpeech": "n.",
+      "meaning": "音乐",
+      "wordForms": "原文词形：music",
+      "sentence": "He heard the sounds of music, shouting, and laughter.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/music.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "音乐",
+        "庭院",
+        "托盘"
+      ]
+    },
+    {
+      "id": "waved",
+      "word": "waved",
+      "forms": [
+        "waved"
+      ],
+      "tier": "core",
+      "phonetic": "/wˈeɪvd/",
+      "partOfSpeech": "v.",
+      "meaning": "波浪形的；起伏的",
+      "wordForms": "原文词形：waved",
+      "sentence": "She waved at him.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/waved.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "波浪形的；起伏的",
+        "骨头（复数）",
+        "鹅卵石路面"
+      ]
+    },
+    {
+      "id": "hallway",
+      "word": "hallway",
+      "forms": [
+        "hallway"
+      ],
+      "tier": "core",
+      "phonetic": "/'hɔ:lwei/",
+      "partOfSpeech": "adj.",
+      "meaning": "走廊；过道",
+      "wordForms": "原文词形：hallway",
+      "sentence": "Then they ran as fast as they could down a dimly lit hallway.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/hallway.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "llw",
+          "sound": "/llw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "走廊；过道",
+        "鹅卵石路面",
+        "骨头（复数）"
+      ]
+    },
+    {
+      "id": "bones",
+      "word": "bones",
+      "forms": [
+        "bones"
+      ],
+      "tier": "core",
+      "phonetic": "/bˈoʊnz/",
+      "partOfSpeech": "n.",
+      "meaning": "骨头（复数）",
+      "wordForms": "原文词形：bones",
+      "sentence": "Dogs were fighting over bones under the tables.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/bones.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "骨头（复数）",
+        "鹅卵石路面",
+        "走廊；过道"
+      ]
+    },
+    {
+      "id": "drawbridge",
+      "word": "drawbridge",
+      "forms": [
+        "drawbridge"
+      ],
+      "tier": "core",
+      "phonetic": "/drˈɔbrˌɪdʒ/",
+      "partOfSpeech": "nou.",
+      "meaning": "吊桥",
+      "wordForms": "原文词形：drawbridge",
+      "sentence": "He threw his stuff into his pack and moved toward the drawbridge.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/drawbridge.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "aw",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dge",
+          "sound": "/dʒ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "吊桥",
+        "庭院",
+        "托盘"
+      ]
+    },
+    {
+      "id": "fireplace",
+      "word": "fireplace",
+      "forms": [
+        "fireplace"
+      ],
+      "tier": "core",
+      "phonetic": "/fˈaɪɚplˌeɪs/",
+      "partOfSpeech": "nou.",
+      "meaning": "壁炉",
+      "wordForms": "原文词形：fireplace",
+      "sentence": "A giant fireplace blazed at one end of the noisy room.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/fireplace.mp3",
+      "phonics": [
+        {
+          "letters": "fir",
+          "sound": "/fir/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "壁炉",
+        "庭院",
+        "托盘"
+      ]
+    },
+    {
+      "id": "balanced",
+      "word": "balanced",
+      "forms": [
+        "balanced"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bˈælənst/",
+      "partOfSpeech": "ver.",
+      "meaning": "均衡",
+      "wordForms": "原文词形：balanced",
+      "sentence": "Some balanced swords on their hands.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/balanced.mp3"
+    },
+    {
+      "id": "carrying",
+      "word": "carrying",
+      "forms": [
+        "carrying"
+      ],
+      "tier": "recognition",
+      "phonetic": "/kˈæriɪŋ/",
+      "partOfSpeech": "ver.",
+      "meaning": "携带",
+      "wordForms": "原文词形：carrying",
+      "sentence": "A man carrying a tray of pies was standing a few feet away.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/carrying.mp3"
+    },
+    {
+      "id": "darkness",
+      "word": "darkness",
+      "forms": [
+        "darkness"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dˈɑrknəs/",
+      "partOfSpeech": "nou.",
+      "meaning": "黑暗",
+      "wordForms": "原文词形：darkness",
+      "sentence": "Jack peered into the darkness.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/darkness.mp3"
+    },
+    {
+      "id": "entrance",
+      "word": "entrance",
+      "forms": [
+        "entrance"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ˈɛntrəns/",
+      "partOfSpeech": "nou.",
+      "meaning": "入口",
+      "wordForms": "原文词形：entrance",
+      "sentence": "Then they slipped through the entrance of the castle.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/entrance.mp3"
+    },
+    {
+      "id": "fighting",
+      "word": "fighting",
+      "forms": [
+        "fighting"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fˈaɪtɪŋ/",
+      "partOfSpeech": "ver.",
+      "meaning": "斗争",
+      "wordForms": "原文词形：fighting",
+      "sentence": "Dogs were fighting over bones under the tables.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/fighting.mp3"
+    },
+    {
+      "id": "strolled",
+      "word": "strolled",
+      "forms": [
+        "strolled"
+      ],
+      "tier": "recognition",
+      "phonetic": "/strˈoʊld/",
+      "partOfSpeech": "ver.",
+      "meaning": "漫步",
+      "wordForms": "原文词形：strolled",
+      "sentence": "People in bright clothes and funny hats strolled among the crowd.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/strolled.mp3"
+    }
+  ]
+}

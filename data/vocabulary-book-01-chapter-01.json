@@ -1,0 +1,541 @@
+{
+  "book": 1,
+  "chapter": 1,
+  "title": "Into the Woods",
+  "words": [
+    {
+      "id": "whispered",
+      "word": "whispered",
+      "forms": [
+        "whispered"
+      ],
+      "tier": "core",
+      "phonetic": "/'wɪspəd/",
+      "partOfSpeech": "v.",
+      "meaning": "低声说；耳语",
+      "wordForms": "原文词形：whispered",
+      "sentence": "\"Wow,\" Jack whispered.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/whispered.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "低声说；耳语",
+        "攀爬；向上爬",
+        "树枝（复数）"
+      ]
+    },
+    {
+      "id": "climbing",
+      "word": "climbing",
+      "forms": [
+        "climbing"
+      ],
+      "tier": "core",
+      "phonetic": "/'klaimiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "攀爬；向上爬",
+      "wordForms": "原文词形：climbing",
+      "sentence": "But Annie kept climbing.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/climbing.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/cl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mb",
+          "sound": "/mb/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "攀爬；向上爬",
+        "低声说；耳语",
+        "树枝（复数）"
+      ]
+    },
+    {
+      "id": "pretend",
+      "word": "pretend",
+      "forms": [
+        "pretend"
+      ],
+      "tier": "core",
+      "phonetic": "/pri'tend/",
+      "partOfSpeech": "v.",
+      "meaning": "假装；伪称",
+      "wordForms": "原文词形：pretend",
+      "sentence": "Annie loved pretend stuff.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/pretend.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "假装；伪称",
+        "怪物；恶人",
+        "梯；梯状物"
+      ]
+    },
+    {
+      "id": "branches",
+      "word": "branches",
+      "forms": [
+        "branches"
+      ],
+      "tier": "core",
+      "phonetic": "/brˈæntʃəz/",
+      "partOfSpeech": "n.",
+      "meaning": "树枝（复数）",
+      "wordForms": "原文词形：branches",
+      "sentence": "At the top of the tree was a tree house, tucked between two branches.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/branches.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "树枝（复数）",
+        "低声说；耳语",
+        "攀爬；向上爬"
+      ]
+    },
+    {
+      "id": "monster",
+      "word": "monster",
+      "forms": [
+        "monster"
+      ],
+      "tier": "core",
+      "phonetic": "/'mɒnstә/",
+      "partOfSpeech": "n.",
+      "meaning": "怪物；恶人",
+      "wordForms": "原文词形：monster",
+      "sentence": "A monster!\"",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/monster.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nst",
+          "sound": "/nst/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "怪物；恶人",
+        "假装；伪称",
+        "梯；梯状物"
+      ]
+    },
+    {
+      "id": "ladder",
+      "word": "ladder",
+      "forms": [
+        "ladder"
+      ],
+      "tier": "core",
+      "phonetic": "/'lædә/",
+      "partOfSpeech": "n.",
+      "meaning": "梯；梯状物",
+      "wordForms": "原文词形：ladder",
+      "sentence": "She pointed at a rope ladder.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/ladder.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dd",
+          "sound": "/dd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "梯；梯状物",
+        "假装；伪称",
+        "怪物；恶人"
+      ]
+    },
+    {
+      "id": "disappeared",
+      "word": "disappeared",
+      "forms": [
+        "disappeared"
+      ],
+      "tier": "core",
+      "phonetic": "/dˌɪsəpˈɪrd/",
+      "partOfSpeech": "v.",
+      "meaning": "消失的；消失了的",
+      "wordForms": "原文词形：disappeared",
+      "sentence": "Annie disappeared inside the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/disappeared.mp3",
+      "phonics": [
+        {
+          "letters": "di",
+          "sound": "/di/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pp",
+          "sound": "/pp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ear",
+          "sound": "/ɪr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "消失的；消失了的",
+        "眼镜；双筒望远镜",
+        "尖的；有尖顶的"
+      ]
+    },
+    {
+      "id": "spending",
+      "word": "spending",
+      "forms": [
+        "spending"
+      ],
+      "tier": "core",
+      "phonetic": "/'spendiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "经费；开销",
+      "wordForms": "原文词形：spending",
+      "sentence": "This is what he got for spending time with his seven-year-old sister.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/spending.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "经费；开销",
+        "假装；伪称",
+        "怪物；恶人"
+      ]
+    },
+    {
+      "id": "standing",
+      "word": "standing",
+      "forms": [
+        "standing"
+      ],
+      "tier": "core",
+      "phonetic": "/'stændiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "起立；持续",
+      "wordForms": "原文词形：standing",
+      "sentence": "Annie was standing under a tall oak tree.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/standing.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "起立；持续",
+        "假装；伪称",
+        "怪物；恶人"
+      ]
+    },
+    {
+      "id": "belongs",
+      "word": "belongs",
+      "forms": [
+        "belongs"
+      ],
+      "tier": "core",
+      "phonetic": "/biˈlɔŋz/",
+      "partOfSpeech": "v.",
+      "meaning": "属于( belong的第三人称单数 )；是…的成员",
+      "wordForms": "原文词形：belongs",
+      "sentence": "We don’t know who it belongs to,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/belongs.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "属于( belong的第三人称单数 )；是…的成员",
+        "呻吟( groan的过去式和过去分词 )；发牢骚",
+        "抓紧( grip的过去式和过去分词 )；吸引"
+      ]
+    },
+    {
+      "id": "glasses",
+      "word": "glasses",
+      "forms": [
+        "glasses"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'glɑ:siz/",
+      "partOfSpeech": "n.",
+      "meaning": "眼镜；双筒望远镜",
+      "wordForms": "原文词形：glasses",
+      "sentence": "Jack pushed his glasses into place.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/glasses.mp3"
+    },
+    {
+      "id": "gripped",
+      "word": "gripped",
+      "forms": [
+        "gripped"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ɡript/",
+      "partOfSpeech": "v.",
+      "meaning": "抓紧( grip的过去式和过去分词 )；吸引",
+      "wordForms": "原文词形：gripped",
+      "sentence": "He gripped the sides of the rope ladder and started up.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/gripped.mp3"
+    },
+    {
+      "id": "groaned",
+      "word": "groaned",
+      "forms": [
+        "groaned"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ɡrəund/",
+      "partOfSpeech": "v.",
+      "meaning": "呻吟( groan的过去式和过去分词 )；发牢骚",
+      "wordForms": "原文词形：groaned",
+      "sentence": "Jack groaned.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/groaned.mp3"
+    },
+    {
+      "id": "hanging",
+      "word": "hanging",
+      "forms": [
+        "hanging"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'hæŋiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "绞死；绞杀",
+      "wordForms": "原文词形：hanging",
+      "sentence": "It was hanging down from high in the tree.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/hanging.mp3"
+    },
+    {
+      "id": "highest",
+      "word": "highest",
+      "forms": [
+        "highest"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'haiist/",
+      "partOfSpeech": "n.",
+      "meaning": "最高",
+      "wordForms": "原文词形：highest",
+      "sentence": "\"That must be the highest tree house in the world,\" said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/highest.mp3"
+    },
+    {
+      "id": "pointed",
+      "word": "pointed",
+      "forms": [
+        "pointed"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'pɒintid/",
+      "partOfSpeech": "v.",
+      "meaning": "尖的；有尖顶的",
+      "wordForms": "原文词形：pointed",
+      "sentence": "She pointed at a rope ladder.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/pointed.mp3"
+    }
+  ]
+}

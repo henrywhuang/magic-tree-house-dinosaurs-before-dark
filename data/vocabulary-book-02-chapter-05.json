@@ -1,0 +1,511 @@
+{
+  "book": 2,
+  "chapter": 5,
+  "title": "Trapped",
+  "words": [
+    {
+      "id": "armory",
+      "word": "armory",
+      "forms": [
+        "armory"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɑ:mәri/",
+      "partOfSpeech": "adj.",
+      "meaning": "武器库",
+      "wordForms": "原文词形：armory",
+      "sentence": "“It’s called the armory,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/armory.mp3",
+      "phonics": [
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "武器库",
+        "挣扎着",
+        "绊倒了"
+      ]
+    },
+    {
+      "id": "echoed",
+      "word": "echoed",
+      "forms": [
+        "echoed"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈekəud/",
+      "partOfSpeech": "v.",
+      "meaning": "回响",
+      "wordForms": "原文词形：echoed",
+      "sentence": "Jack’s voice echoed inside the metal helmet.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/echoed.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "回响",
+        "武器",
+        "架子"
+      ]
+    },
+    {
+      "id": "weapons",
+      "word": "weapons",
+      "forms": [
+        "weapons"
+      ],
+      "tier": "core",
+      "phonetic": "/wˈɛpənz/",
+      "partOfSpeech": "n.",
+      "meaning": "武器",
+      "wordForms": "原文词形：weapons",
+      "sentence": "“It’s where armor and weapons are stored.”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/weapons.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ns",
+          "sound": "/ns/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "武器",
+        "回响",
+        "架子"
+      ]
+    },
+    {
+      "id": "sounded",
+      "word": "sounded",
+      "forms": [
+        "sounded"
+      ],
+      "tier": "core",
+      "phonetic": "/sˈaʊndɪd/",
+      "partOfSpeech": "v.",
+      "meaning": "听起来好像",
+      "wordForms": "原文词形：sounded",
+      "sentence": "Annie sounded far away.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/sounded.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "听起来好像",
+        "快的；迅速的",
+        "嘎嘎作响"
+      ]
+    },
+    {
+      "id": "quick",
+      "word": "quick",
+      "forms": [
+        "quick"
+      ],
+      "tier": "core",
+      "phonetic": "/kwik/",
+      "partOfSpeech": "adj.",
+      "meaning": "快的；迅速的",
+      "wordForms": "原文词形：quick",
+      "sentence": "Quick!”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/quick.mp3",
+      "phonics": [
+        {
+          "letters": "qu",
+          "sound": "/kw/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "快的；迅速的",
+        "听起来好像",
+        "呀（表示惊讶）"
+      ]
+    },
+    {
+      "id": "shelf",
+      "word": "shelf",
+      "forms": [
+        "shelf"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃelf/",
+      "partOfSpeech": "n.",
+      "meaning": "架子",
+      "wordForms": "原文词形：shelf",
+      "sentence": "He tried to lift a helmet from a shelf.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/shelf.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lf",
+          "sound": "/lf/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "架子",
+        "回响",
+        "武器"
+      ]
+    },
+    {
+      "id": "yikes",
+      "word": "yikes",
+      "forms": [
+        "yikes"
+      ],
+      "tier": "core",
+      "phonetic": "/jaiks/",
+      "partOfSpeech": "n.",
+      "meaning": "呀（表示惊讶）",
+      "wordForms": "原文词形：yikes",
+      "sentence": "“Yikes!”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/yikes.mp3",
+      "phonics": [
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "呀（表示惊讶）",
+        "护胸甲（复数）",
+        "快的；迅速的"
+      ]
+    },
+    {
+      "id": "plates",
+      "word": "plates",
+      "forms": [
+        "plates"
+      ],
+      "tier": "core",
+      "phonetic": "/plˈeɪts/",
+      "partOfSpeech": "n.",
+      "meaning": "盾片",
+      "wordForms": "原文词形：plates",
+      "sentence": "The light fell on shiny breastplates, leg plates, and arm plates.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/plates.mp3",
+      "phonics": [
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "盾片",
+        "回响",
+        "武器"
+      ]
+    },
+    {
+      "id": "torch",
+      "word": "torch",
+      "forms": [
+        "torch"
+      ],
+      "tier": "core",
+      "phonetic": "/tˈɔrtʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "火把",
+      "wordForms": "原文词形：torch",
+      "sentence": "He was staring into the fiery light of a torch.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/torch.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "火把",
+        "回响",
+        "武器"
+      ]
+    },
+    {
+      "id": "breastplates",
+      "word": "breastplates",
+      "forms": [
+        "breastplates"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈbrɛstpleɪts/",
+      "partOfSpeech": "n.",
+      "meaning": "护胸甲（复数）",
+      "wordForms": "原文词形：breastplates",
+      "sentence": "The light fell on shiny breastplates, leg plates, and arm plates.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/breastplates.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "stp",
+          "sound": "/stp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "la",
+          "sound": "/la/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "te",
+          "sound": "/te/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "护胸甲（复数）",
+        "呀（表示惊讶）",
+        "快的；迅速的"
+      ]
+    },
+    {
+      "id": "clattered",
+      "word": "clattered",
+      "forms": [
+        "clattered"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ˈklætərd/",
+      "partOfSpeech": "ver.",
+      "meaning": "嘎嘎作响",
+      "wordForms": "原文词形：clattered",
+      "sentence": "Metal plates and weapons clattered to the floor.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/clattered.mp3"
+    },
+    {
+      "id": "crossbows",
+      "word": "crossbows",
+      "forms": [
+        "crossbows"
+      ],
+      "tier": "recognition",
+      "phonetic": "/krˈɔsbˌoʊz/",
+      "partOfSpeech": "nou.",
+      "meaning": "弩",
+      "wordForms": "原文词形：crossbows",
+      "sentence": "Shields, spears, swords, crossbows, clubs, and battle-axes hung on the walls.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/crossbows.mp3"
+    },
+    {
+      "id": "struggled",
+      "word": "struggled",
+      "forms": [
+        "struggled"
+      ],
+      "tier": "recognition",
+      "phonetic": "/strˈʌɡəld/",
+      "partOfSpeech": "ver.",
+      "meaning": "挣扎着",
+      "wordForms": "原文词形：struggled",
+      "sentence": "He struggled to get the helmet off.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/struggled.mp3"
+    },
+    {
+      "id": "crashing",
+      "word": "crashing",
+      "forms": [
+        "crashing"
+      ],
+      "tier": "recognition",
+      "phonetic": "/krˈæʃɪŋ/",
+      "partOfSpeech": "ver.",
+      "meaning": "崩溃",
+      "wordForms": "原文词形：crashing",
+      "sentence": "Suddenly he lost his balance and went crashing into other pieces of armor.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/crashing.mp3"
+    },
+    {
+      "id": "stumbled",
+      "word": "stumbled",
+      "forms": [
+        "stumbled"
+      ],
+      "tier": "recognition",
+      "phonetic": "/stˈʌmbəld/",
+      "partOfSpeech": "ver.",
+      "meaning": "绊倒了",
+      "wordForms": "原文词形：stumbled",
+      "sentence": "Jack and Annie stumbled into a dark, cold room.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/stumbled.mp3"
+    },
+    {
+      "id": "balance",
+      "word": "balance",
+      "forms": [
+        "balance"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bˈæləns/",
+      "partOfSpeech": "nou.",
+      "meaning": "平衡",
+      "wordForms": "原文词形：balance",
+      "sentence": "Suddenly he lost his balance and went crashing into other pieces of armor.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/balance.mp3"
+    }
+  ]
+}

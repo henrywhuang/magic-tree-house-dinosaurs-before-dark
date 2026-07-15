@@ -1,0 +1,526 @@
+{
+  "book": 2,
+  "chapter": 3,
+  "title": "Across the Bridge",
+  "words": [
+    {
+      "id": "tournament",
+      "word": "tournament",
+      "forms": [
+        "tournament"
+      ],
+      "tier": "core",
+      "phonetic": "/'tә:nәmәnt/",
+      "partOfSpeech": "n.",
+      "meaning": "骑士比武大会",
+      "wordForms": "原文词形：tournament",
+      "sentence": "A tournament helmet could weigh up to forty pounds.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/tournament.mp3",
+      "phonics": [
+        {
+          "letters": "tou",
+          "sound": "/tou/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "rn",
+          "sound": "/rn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "骑士比武大会",
+        "鳄鱼（复数）",
+        "孔雀（复数）"
+      ]
+    },
+    {
+      "id": "crocodiles",
+      "word": "crocodiles",
+      "forms": [
+        "crocodiles"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈkrɔkədailz/",
+      "partOfSpeech": "n.",
+      "meaning": "鳄鱼（复数）",
+      "wordForms": "原文词形：crocodiles",
+      "sentence": "Some people believe crocodiles were kept in the moat.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/crocodiles.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/cr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oc",
+          "sound": "/oc/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "od",
+          "sound": "/od/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "il",
+          "sound": "/il/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鳄鱼（复数）",
+        "骑士比武大会",
+        "孔雀（复数）"
+      ]
+    },
+    {
+      "id": "peacocks",
+      "word": "peacocks",
+      "forms": [
+        "peacocks"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈpi:ˌkɔks/",
+      "partOfSpeech": "n.",
+      "meaning": "孔雀（复数）",
+      "wordForms": "原文词形：peacocks",
+      "sentence": "On the trays were peacocks with all their feathers, whole pigs, and pies.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/peacocks.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "孔雀（复数）",
+        "骑士比武大会",
+        "鳄鱼（复数）"
+      ]
+    },
+    {
+      "id": "windmill",
+      "word": "windmill",
+      "forms": [
+        "windmill"
+      ],
+      "tier": "core",
+      "phonetic": "/'windmil/",
+      "partOfSpeech": "n.",
+      "meaning": "风车",
+      "wordForms": "原文词形：windmill",
+      "sentence": "“A windmill!",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/windmill.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ndm",
+          "sound": "/ndm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ll",
+          "sound": "/ll/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "风车",
+        "头盔",
+        "盔甲"
+      ]
+    },
+    {
+      "id": "helmet",
+      "word": "helmet",
+      "forms": [
+        "helmet"
+      ],
+      "tier": "core",
+      "phonetic": "/'helmit/",
+      "partOfSpeech": "n.",
+      "meaning": "头盔",
+      "wordForms": "原文词形：helmet",
+      "sentence": "A tournament helmet could weigh up to forty pounds.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/helmet.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lm",
+          "sound": "/lm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "头盔",
+        "风车",
+        "盔甲"
+      ]
+    },
+    {
+      "id": "armor",
+      "word": "armor",
+      "forms": [
+        "armor"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɑ:mә/",
+      "partOfSpeech": "n.",
+      "meaning": "盔甲",
+      "wordForms": "原文词形：armor",
+      "sentence": "Knights wore armor when they traveled long and dangerous distances.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/armor.mp3",
+      "phonics": [
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "盔甲",
+        "风车",
+        "头盔"
+      ]
+    },
+    {
+      "id": "feast",
+      "word": "feast",
+      "forms": [
+        "feast"
+      ],
+      "tier": "core",
+      "phonetic": "/fi:st/",
+      "partOfSpeech": "n.",
+      "meaning": "宴会",
+      "wordForms": "原文词形：feast",
+      "sentence": "He read the words under the picture of the knight:This is a knight arriving for a castle feast.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/feast.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "宴会",
+        "风车",
+        "头盔"
+      ]
+    },
+    {
+      "id": "hawk",
+      "word": "hawk",
+      "forms": [
+        "hawk"
+      ],
+      "tier": "core",
+      "phonetic": "/hɒ:k/",
+      "partOfSpeech": "n.",
+      "meaning": "鹰",
+      "wordForms": "原文词形：hawk",
+      "sentence": "He turned the page and read:The hawk house was in the inner ward of the castle.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/hawk.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "aw",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鹰",
+        "听",
+        "桥"
+      ]
+    },
+    {
+      "id": "moat",
+      "word": "moat",
+      "forms": [
+        "moat"
+      ],
+      "tier": "core",
+      "phonetic": "/mәut/",
+      "partOfSpeech": "n.",
+      "meaning": "护城河",
+      "wordForms": "原文词形：moat",
+      "sentence": "He read:A drawbridge crossed the moat.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/moat.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "护城河",
+        "建筑物",
+        "危险的"
+      ]
+    },
+    {
+      "id": "listen",
+      "word": "listen",
+      "forms": [
+        "listen"
+      ],
+      "tier": "core",
+      "phonetic": "/'lisn/",
+      "partOfSpeech": "n.",
+      "meaning": "听",
+      "wordForms": "原文词形：listen",
+      "sentence": "“Listen!”",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/listen.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "听",
+        "鹰",
+        "桥"
+      ]
+    },
+    {
+      "id": "weigh",
+      "word": "weigh",
+      "forms": [
+        "weigh"
+      ],
+      "tier": "recognition",
+      "phonetic": "/wei/",
+      "partOfSpeech": "n.",
+      "meaning": "重量是……",
+      "wordForms": "原文词形：weigh",
+      "sentence": "A tournament helmet could weigh up to forty pounds.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/weigh.mp3"
+    },
+    {
+      "id": "bridge",
+      "word": "bridge",
+      "forms": [
+        "bridge"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bridʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "桥",
+      "wordForms": "原文词形：bridge",
+      "sentence": "“The knight’s riding toward that bridge, I think,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/bridge.mp3"
+    },
+    {
+      "id": "pounds",
+      "word": "pounds",
+      "forms": [
+        "pounds"
+      ],
+      "tier": "recognition",
+      "phonetic": "/paundz/",
+      "partOfSpeech": "n.",
+      "meaning": "磅；英镑",
+      "wordForms": "原文词形：pounds",
+      "sentence": "A tournament helmet could weigh up to forty pounds.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/pounds.mp3"
+    },
+    {
+      "id": "buildings",
+      "word": "buildings",
+      "forms": [
+        "buildings"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bˈɪldɪŋz/",
+      "partOfSpeech": "nou.",
+      "meaning": "建筑物",
+      "wordForms": "原文词形：buildings",
+      "sentence": "He found a picture that showed the whole castle and the buildings around it.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/buildings.mp3"
+    },
+    {
+      "id": "dangerous",
+      "word": "dangerous",
+      "forms": [
+        "dangerous"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dˈeɪndʒɚəs/",
+      "partOfSpeech": "adj.",
+      "meaning": "危险的",
+      "wordForms": "原文词形：dangerous",
+      "sentence": "Knights wore armor when they traveled long and dangerous distances.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/dangerous.mp3"
+    },
+    {
+      "id": "distances",
+      "word": "distances",
+      "forms": [
+        "distances"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dˈɪstənsəz/",
+      "partOfSpeech": "nou.",
+      "meaning": "距离",
+      "wordForms": "原文词形：distances",
+      "sentence": "Knights wore armor when they traveled long and dangerous distances.",
+      "sentenceAudio": "assets/audio/sentences/book-02-chapter-03/distances.mp3"
+    }
+  ]
+}

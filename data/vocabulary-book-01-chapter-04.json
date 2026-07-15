@@ -1,0 +1,521 @@
+{
+  "book": 1,
+  "chapter": 4,
+  "title": "Henry",
+  "words": [
+    {
+      "id": "cautiously",
+      "word": "cautiously",
+      "forms": [
+        "cautiously"
+      ],
+      "tier": "core",
+      "phonetic": "/'kɒ:ʃәsli/",
+      "partOfSpeech": "adv.",
+      "meaning": "小心翼翼地",
+      "wordForms": "原文词形：cautiously",
+      "sentence": "He reached out very cautiously.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/cautiously.mp3",
+      "phonics": [
+        {
+          "letters": "cau",
+          "sound": "/cau/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "小心翼翼地",
+        "倾斜；歪着",
+        "倒吸一口气"
+      ]
+    },
+    {
+      "id": "tilted",
+      "word": "tilted",
+      "forms": [
+        "tilted"
+      ],
+      "tier": "core",
+      "phonetic": "/tˈɪltɪd/",
+      "partOfSpeech": "v.",
+      "meaning": "倾斜；歪着",
+      "wordForms": "原文词形：tilted",
+      "sentence": "The Pteranodon tilted his head.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/tilted.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lt",
+          "sound": "/lt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "倾斜；歪着",
+        "小心翼翼地",
+        "倒吸一口气"
+      ]
+    },
+    {
+      "id": "gasped",
+      "word": "gasped",
+      "forms": [
+        "gasped"
+      ],
+      "tier": "core",
+      "phonetic": "/ɡɑ:spt/",
+      "partOfSpeech": "v.",
+      "meaning": "倒吸一口气",
+      "wordForms": "原文词形：gasped",
+      "sentence": "Jack gasped as Annie reached out her hand toward the Pteranodon.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/gasped.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "倒吸一口气",
+        "小心翼翼地",
+        "倾斜；歪着"
+      ]
+    },
+    {
+      "id": "mutant",
+      "word": "mutant",
+      "forms": [
+        "mutant"
+      ],
+      "tier": "core",
+      "phonetic": "/'mju:tәnt/",
+      "partOfSpeech": "n.",
+      "meaning": "变异的生物",
+      "wordForms": "原文词形：mutant",
+      "sentence": "\"Maybe he's amutant,\" he said.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/mutant.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "变异的生物",
+        "小心翼翼地",
+        "倾斜；歪着"
+      ]
+    },
+    {
+      "id": "pencil",
+      "word": "pencil",
+      "forms": [
+        "pencil"
+      ],
+      "tier": "core",
+      "phonetic": "/'pensl/",
+      "partOfSpeech": "n.",
+      "meaning": "铅笔；色笔",
+      "wordForms": "原文词形：pencil",
+      "sentence": "Jack reached into his backpack and pulled out a pencil and a notebook.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/pencil.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nc",
+          "sound": "/nc/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "铅笔；色笔",
+        "小心翼翼地",
+        "倾斜；歪着"
+      ]
+    },
+    {
+      "id": "bony",
+      "word": "bony",
+      "forms": [
+        "bony"
+      ],
+      "tier": "core",
+      "phonetic": "/'bәuni/",
+      "partOfSpeech": "adj.",
+      "meaning": "骨瘦的；骨头突出的",
+      "wordForms": "原文词形：bony",
+      "sentence": "The bony crest on top of his head was longer than Jack's arm.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/bony.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "骨瘦的；骨头突出的",
+        "write的过去式",
+        "聪明的；漂亮的"
+      ]
+    },
+    {
+      "id": "fuzz",
+      "word": "fuzz",
+      "forms": [
+        "fuzz"
+      ],
+      "tier": "core",
+      "phonetic": "/fʌz/",
+      "partOfSpeech": "n.",
+      "meaning": "细绒毛",
+      "wordForms": "原文词形：fuzz",
+      "sentence": "A thin layer of fuzz covered the Pteranodon's skin.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/fuzz.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "zz",
+          "sound": "/zz/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "细绒毛",
+        "有趣的",
+        "科学家"
+      ]
+    },
+    {
+      "id": "smart",
+      "word": "smart",
+      "forms": [
+        "smart"
+      ],
+      "tier": "core",
+      "phonetic": "/smɑ:t/",
+      "partOfSpeech": "adj.",
+      "meaning": "聪明的；漂亮的",
+      "wordForms": "原文词形：smart",
+      "sentence": "\"I wonder how smart he is,\" Jack said.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/smart.mp3",
+      "phonics": [
+        {
+          "letters": "sm",
+          "sound": "/sm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "聪明的；漂亮的",
+        "警觉的；灵敏的",
+        "笔记本；手册"
+      ]
+    },
+    {
+      "id": "wrote",
+      "word": "wrote",
+      "forms": [
+        "wrote"
+      ],
+      "tier": "core",
+      "phonetic": "/rәut/",
+      "partOfSpeech": "n.",
+      "meaning": "write的过去式",
+      "wordForms": "原文词形：wrote",
+      "sentence": "He wrote:\"What are you doing?\"",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/wrote.mp3",
+      "phonics": [
+        {
+          "letters": "wr",
+          "sound": "/wr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "write的过去式",
+        "骨瘦的；骨头突出的",
+        "聪明的；漂亮的"
+      ]
+    },
+    {
+      "id": "notebook",
+      "word": "notebook",
+      "forms": [
+        "notebook"
+      ],
+      "tier": "core",
+      "phonetic": "/'nәutbuk/",
+      "partOfSpeech": "n.",
+      "meaning": "笔记本；手册",
+      "wordForms": "原文词形：notebook",
+      "sentence": "Jack reached into his backpack and pulled out a pencil and a notebook.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/notebook.mp3",
+      "phonics": [
+        {
+          "letters": "no",
+          "sound": "/no/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "笔记本；手册",
+        "pl. 剪刀",
+        "小心翼翼地"
+      ]
+    },
+    {
+      "id": "alert",
+      "word": "alert",
+      "forms": [
+        "alert"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ә'lә:t/",
+      "partOfSpeech": "adj.",
+      "meaning": "警觉的；灵敏的",
+      "wordForms": "原文词形：alert",
+      "sentence": "His eyes were bright and alert.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/alert.mp3"
+    },
+    {
+      "id": "interesting",
+      "word": "interesting",
+      "forms": [
+        "interesting"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'intristiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "有趣的",
+      "wordForms": "原文词形：interesting",
+      "sentence": "Interesting, Jack thought.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/interesting.mp3"
+    },
+    {
+      "id": "scientist",
+      "word": "scientist",
+      "forms": [
+        "scientist"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'saiәntist/",
+      "partOfSpeech": "n.",
+      "meaning": "科学家",
+      "wordForms": "原文词形：scientist",
+      "sentence": "He could take notes like a scientist.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/scientist.mp3"
+    },
+    {
+      "id": "scissors",
+      "word": "scissors",
+      "forms": [
+        "scissors"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'sizәz/",
+      "partOfSpeech": "n.",
+      "meaning": "pl. 剪刀",
+      "wordForms": "原文词形：scissors",
+      "sentence": "His long jaws were opening and closing like a giant pair of scissors.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/scissors.mp3"
+    },
+    {
+      "id": "suddenly",
+      "word": "suddenly",
+      "forms": [
+        "suddenly"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'sʌdәnli/",
+      "partOfSpeech": "adv.",
+      "meaning": "突然；意外",
+      "wordForms": "原文词形：suddenly",
+      "sentence": "Suddenly Annie gasped.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/suddenly.mp3"
+    },
+    {
+      "id": "wondered",
+      "word": "wondered",
+      "forms": [
+        "wondered"
+      ],
+      "tier": "recognition",
+      "phonetic": "/wˈʌndɚd/",
+      "partOfSpeech": "v.",
+      "meaning": "对…感到好奇（wonder的过去式与过去分词形式）",
+      "wordForms": "原文词形：wondered",
+      "sentence": "Jack wondered.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/wondered.mp3"
+    }
+  ]
+}

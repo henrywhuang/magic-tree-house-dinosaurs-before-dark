@@ -1,0 +1,531 @@
+{
+  "book": 1,
+  "chapter": 6,
+  "title": "Dinosaur Valley",
+  "words": [
+    {
+      "id": "tyrannosaurus",
+      "word": "tyrannosaurus",
+      "forms": [
+        "tyrannosaurus"
+      ],
+      "tier": "core",
+      "phonetic": "/tɪˌrænəˈsɔːrəs/",
+      "partOfSpeech": "n.",
+      "meaning": "霸王龙",
+      "wordForms": "原文词形：tyrannosaurus",
+      "sentence": "“Tyrannosaurus rex!”",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/tyrannosaurus.mp3",
+      "phonics": [
+        {
+          "letters": "ty",
+          "sound": "/ty/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ra",
+          "sound": "/ra/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nn",
+          "sound": "/nn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "os",
+          "sound": "/os/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "au",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ru",
+          "sound": "/ru/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "霸王龙",
+        "鸭嘴龙",
+        "大声吼叫"
+      ]
+    },
+    {
+      "id": "anatosaurus",
+      "word": "anatosaurus",
+      "forms": [
+        "anatosaurus"
+      ],
+      "tier": "core",
+      "phonetic": "/əˌnætəˈsɔːrəs/",
+      "partOfSpeech": "n.",
+      "meaning": "鸭嘴龙",
+      "wordForms": "原文词形：anatosaurus",
+      "sentence": "He read the caption:The Anatosaurus lived in colonies.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/anatosaurus.mp3",
+      "phonics": [
+        {
+          "letters": "an",
+          "sound": "/an/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "at",
+          "sound": "/at/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "os",
+          "sound": "/os/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "au",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ru",
+          "sound": "/ru/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鸭嘴龙",
+        "霸王龙",
+        "大声吼叫"
+      ]
+    },
+    {
+      "id": "colonies",
+      "word": "colonies",
+      "forms": [
+        "colonies"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈkɔləniz/",
+      "partOfSpeech": "n.",
+      "meaning": "群体；聚居地",
+      "wordForms": "原文词形：colonies",
+      "sentence": "He read the caption:The Anatosaurus lived in colonies.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/colonies.mp3",
+      "phonics": [
+        {
+          "letters": "co",
+          "sound": "/co/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "lo",
+          "sound": "/lo/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "群体；聚居地",
+        "注意；注意力",
+        "咀嚼；嚼碎"
+      ]
+    },
+    {
+      "id": "bellowing",
+      "word": "bellowing",
+      "forms": [
+        "bellowing"
+      ],
+      "tier": "core",
+      "phonetic": "/beˈləuɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "大声吼叫",
+      "wordForms": "原文词形：bellowing",
+      "sentence": "Jack heard another sound as well—a deep, bellowing sound, like a tuba.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/bellowing.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ll",
+          "sound": "/ll/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "大声吼叫",
+        "紧紧抓住",
+        "霸王龙"
+      ]
+    },
+    {
+      "id": "clutching",
+      "word": "clutching",
+      "forms": [
+        "clutching"
+      ],
+      "tier": "core",
+      "phonetic": "/klʌtʃɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "紧紧抓住",
+      "wordForms": "原文词形：clutching",
+      "sentence": "Clutching her magnolia flower, she took off down the hill.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/clutching.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/cl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tch",
+          "sound": "/tʃ/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "紧紧抓住",
+        "大声吼叫",
+        "霸王龙"
+      ]
+    },
+    {
+      "id": "legs",
+      "word": "legs",
+      "forms": [
+        "legs"
+      ],
+      "tier": "core",
+      "phonetic": "/leɡz/",
+      "partOfSpeech": "n.",
+      "meaning": "木头支架；腿（leg的复数）",
+      "wordForms": "原文词形：legs",
+      "sentence": "The monster was walking on two strong legs.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/legs.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gs",
+          "sound": "/gs/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "木头支架；腿（leg的复数）",
+        "雷克斯（男子名）；国王",
+        "巨人般的；巨大的"
+      ]
+    },
+    {
+      "id": "chew",
+      "word": "chew",
+      "forms": [
+        "chew"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃu:/",
+      "partOfSpeech": "v.",
+      "meaning": "咀嚼；嚼碎",
+      "wordForms": "原文词形：chew",
+      "sentence": "Pretend to chew.\"",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/chew.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "咀嚼；嚼碎",
+        "猛冲；冲向",
+        "山谷；溪谷"
+      ]
+    },
+    {
+      "id": "charged",
+      "word": "charged",
+      "forms": [
+        "charged"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃɑ:dʒd/",
+      "partOfSpeech": "v.",
+      "meaning": "猛冲；冲向",
+      "wordForms": "原文词形：charged",
+      "sentence": "The dinosaur charged down the hill.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/charged.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "猛冲；冲向",
+        "咀嚼；嚼碎",
+        "山谷；溪谷"
+      ]
+    },
+    {
+      "id": "valley",
+      "word": "valley",
+      "forms": [
+        "valley"
+      ],
+      "tier": "core",
+      "phonetic": "/'væli/",
+      "partOfSpeech": "n.",
+      "meaning": "山谷；溪谷",
+      "wordForms": "原文词形：valley",
+      "sentence": "The valley below was filled with nests—big nests made out of mud.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/valley.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ll",
+          "sound": "/ll/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/i/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "山谷；溪谷",
+        "咀嚼；嚼碎",
+        "猛冲；冲向"
+      ]
+    },
+    {
+      "id": "rex",
+      "word": "rex",
+      "forms": [
+        "rex"
+      ],
+      "tier": "core",
+      "phonetic": "/reks/",
+      "partOfSpeech": "n.",
+      "meaning": "雷克斯（男子名）；国王",
+      "wordForms": "原文词形：rex",
+      "sentence": "“Tyrannosaurus rex!”",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/rex.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "x",
+          "sound": "/ks/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "雷克斯（男子名）；国王",
+        "木头支架；腿（leg的复数）",
+        "巨人般的；巨大的"
+      ]
+    },
+    {
+      "id": "attention",
+      "word": "attention",
+      "forms": [
+        "attention"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ә'tenʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "注意；注意力",
+      "wordForms": "原文词形：attention",
+      "sentence": "But Annie wasn't paying attention to Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/attention.mp3"
+    },
+    {
+      "id": "dangling",
+      "word": "dangling",
+      "forms": [
+        "dangling"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dˈæŋɡəlɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "悬挂的；悬浮的",
+      "wordForms": "原文词形：dangling",
+      "sentence": "Itwas swinging a long, thick tail and dangling two tiny arms.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/dangling.mp3"
+    },
+    {
+      "id": "enormous",
+      "word": "enormous",
+      "forms": [
+        "enormous"
+      ],
+      "tier": "recognition",
+      "phonetic": "/i'nɒ:mәs/",
+      "partOfSpeech": "adj.",
+      "meaning": "巨大的；庞大的",
+      "wordForms": "原文词形：enormous",
+      "sentence": "An enormous monster was coming across the plain.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/enormous.mp3"
+    },
+    {
+      "id": "gigantic",
+      "word": "gigantic",
+      "forms": [
+        "gigantic"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dʒai'gæntik/",
+      "partOfSpeech": "adj.",
+      "meaning": "巨人般的；巨大的",
+      "wordForms": "原文词形：gigantic",
+      "sentence": "Towering over her was a gigantic duck-billed dinosaur!",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/gigantic.mp3"
+    },
+    {
+      "id": "gleaming",
+      "word": "gleaming",
+      "forms": [
+        "gleaming"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ˈgli:mɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "闪闪发光的",
+      "wordForms": "原文词形：gleaming",
+      "sentence": "Even from far away Jack could see its long, gleaming teeth.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/gleaming.mp3"
+    },
+    {
+      "id": "muttered",
+      "word": "muttered",
+      "forms": [
+        "muttered"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ˈmʌtəd/",
+      "partOfSpeech": "v.",
+      "meaning": "轻声低语；咕哝地抱怨( mutter的过去式和过去分词 )",
+      "wordForms": "原文词形：muttered",
+      "sentence": "“Oh, brother,” Jack muttered.",
+      "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/muttered.mp3"
+    }
+  ]
+}

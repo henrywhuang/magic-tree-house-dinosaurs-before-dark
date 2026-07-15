@@ -1,0 +1,536 @@
+{
+  "book": 3,
+  "chapter": 4,
+  "title": "Back from the Dead",
+  "words": [
+    {
+      "id": "terror",
+      "word": "terror",
+      "forms": [
+        "terror"
+      ],
+      "tier": "core",
+      "phonetic": "/tˈɛrɚ/",
+      "partOfSpeech": "n.",
+      "meaning": "恐惧；惊恐",
+      "wordForms": "原文词形：terror",
+      "sentence": "A wave of terror shot through him.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/terror.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "恐惧；惊恐",
+        "盗贼；强盗",
+        "坟墓；陵墓"
+      ]
+    },
+    {
+      "id": "scepter",
+      "word": "scepter",
+      "forms": [
+        "scepter"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈsɛptər/",
+      "partOfSpeech": "n.",
+      "meaning": "权杖",
+      "wordForms": "原文词形：scepter",
+      "sentence": "\"It looks like a scepter,\" said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/scepter.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sc/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pt",
+          "sound": "/pt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "权杖",
+        "发抖",
+        "强调"
+      ]
+    },
+    {
+      "id": "robber",
+      "word": "robber",
+      "forms": [
+        "robber"
+      ],
+      "tier": "core",
+      "phonetic": "/rˈɑbɚ/",
+      "partOfSpeech": "n.",
+      "meaning": "盗贼；强盗",
+      "wordForms": "原文词形：robber",
+      "sentence": "\"Just a tomb robber.\"",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/robber.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bb",
+          "sound": "/bb/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "盗贼；强盗",
+        "恐惧；惊恐",
+        "坟墓；陵墓"
+      ]
+    },
+    {
+      "id": "tomb",
+      "word": "tomb",
+      "forms": [
+        "tomb"
+      ],
+      "tier": "core",
+      "phonetic": "/tˈum/",
+      "partOfSpeech": "n.",
+      "meaning": "坟墓；陵墓",
+      "wordForms": "原文词形：tomb",
+      "sentence": "He read:Tomb robbers often stole the treasure buried with mummies.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/tomb.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mb",
+          "sound": "/mb/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "坟墓；陵墓",
+        "恐惧；惊恐",
+        "盗贼；强盗"
+      ]
+    },
+    {
+      "id": "beautiful",
+      "word": "beautiful",
+      "forms": [
+        "beautiful"
+      ],
+      "tier": "core",
+      "phonetic": "/bjˈutəfəl/",
+      "partOfSpeech": "adj.",
+      "meaning": "美丽的",
+      "wordForms": "原文词形：beautiful",
+      "sentence": "A beautiful Egyptian lady.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/beautiful.mp3",
+      "phonics": [
+        {
+          "letters": "bea",
+          "sound": "/bea/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ut",
+          "sound": "/ut/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "美丽的",
+        "迅速地",
+        "雕刻的"
+      ]
+    },
+    {
+      "id": "stammered",
+      "word": "stammered",
+      "forms": [
+        "stammered"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈstæmərd/",
+      "partOfSpeech": "v.",
+      "meaning": "结结巴巴的",
+      "wordForms": "原文词形：stammered",
+      "sentence": "“F-forget it,” stammered Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/stammered.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mm",
+          "sound": "/mm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "结结巴巴的",
+        "恐惧；惊恐",
+        "盗贼；强盗"
+      ]
+    },
+    {
+      "id": "trembling",
+      "word": "trembling",
+      "forms": [
+        "trembling"
+      ],
+      "tier": "core",
+      "phonetic": "/trˈɛmbəlɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "发抖",
+      "wordForms": "原文词形：trembling",
+      "sentence": "His hand was trembling.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/trembling.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mbl",
+          "sound": "/mbl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "发抖",
+        "权杖",
+        "强调"
+      ]
+    },
+    {
+      "id": "underline",
+      "word": "underline",
+      "forms": [
+        "underline"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈʌndɚlˌaɪn/",
+      "partOfSpeech": "n.",
+      "meaning": "强调",
+      "wordForms": "原文词形：underline",
+      "sentence": "Jack felt a $ \\underline{who} $osh of cold air.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/underline.mp3",
+      "phonics": [
+        {
+          "letters": "und",
+          "sound": "/und/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "强调",
+        "权杖",
+        "发抖"
+      ]
+    },
+    {
+      "id": "passages",
+      "word": "passages",
+      "forms": [
+        "passages"
+      ],
+      "tier": "core",
+      "phonetic": "/pˈæsədʒəz/",
+      "partOfSpeech": "n.",
+      "meaning": "段落",
+      "wordForms": "原文词形：passages",
+      "sentence": "False passages were sometimes built to stop the robbers.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/passages.mp3",
+      "phonics": [
+        {
+          "letters": "pa",
+          "sound": "/pa/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ss",
+          "sound": "/ss/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "段落",
+        "权杖",
+        "发抖"
+      ]
+    },
+    {
+      "id": "treasure",
+      "word": "treasure",
+      "forms": [
+        "treasure"
+      ],
+      "tier": "core",
+      "phonetic": "/trˈɛʒɚ/",
+      "partOfSpeech": "n.",
+      "meaning": "宝藏",
+      "wordForms": "原文词形：treasure",
+      "sentence": "He read:Tomb robbers often stole the treasure buried with mummies.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/treasure.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/e/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "宝藏",
+        "权杖",
+        "发抖"
+      ]
+    },
+    {
+      "id": "flipped",
+      "word": "flipped",
+      "forms": [
+        "flipped"
+      ],
+      "tier": "recognition",
+      "phonetic": "/flipt/",
+      "partOfSpeech": "v.",
+      "meaning": "轻弹( flip的过去式和过去分词 )；按（开关）",
+      "wordForms": "原文词形：flipped",
+      "sentence": "He flipped through the book.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/flipped.mp3"
+    },
+    {
+      "id": "jewelry",
+      "word": "jewelry",
+      "forms": [
+        "jewelry"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dʒˈuəlri/",
+      "partOfSpeech": "adj.",
+      "meaning": "珠宝",
+      "wordForms": "原文词形：jewelry",
+      "sentence": "Her gold jewelry glittered.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/jewelry.mp3"
+    },
+    {
+      "id": "swiftly",
+      "word": "swiftly",
+      "forms": [
+        "swiftly"
+      ],
+      "tier": "recognition",
+      "phonetic": "/swˈɪftli/",
+      "partOfSpeech": "adv.",
+      "meaning": "迅速地",
+      "wordForms": "原文词形：swiftly",
+      "sentence": "The white figure moved swiftly past them, then disappeared into the shadows.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/swiftly.mp3"
+    },
+    {
+      "id": "buried",
+      "word": "buried",
+      "forms": [
+        "buried"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bˈɛrid/",
+      "partOfSpeech": "adj.",
+      "meaning": "埋葬",
+      "wordForms": "原文词形：buried",
+      "sentence": "He read:Tomb robbers often stole the treasure buried with mummies.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/buried.mp3"
+    },
+    {
+      "id": "carved",
+      "word": "carved",
+      "forms": [
+        "carved"
+      ],
+      "tier": "recognition",
+      "phonetic": "/kˈɑrvd/",
+      "partOfSpeech": "ver.",
+      "meaning": "雕刻的",
+      "wordForms": "原文词形：carved",
+      "sentence": "A dog's head was carved on one end.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/carved.mp3"
+    },
+    {
+      "id": "moving",
+      "word": "moving",
+      "forms": [
+        "moving"
+      ],
+      "tier": "recognition",
+      "phonetic": "/mˈuvɪŋ/",
+      "partOfSpeech": "ver.",
+      "meaning": "移动",
+      "wordForms": "原文词形：moving",
+      "sentence": "Another figure was moving slowly toward them.",
+      "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/moving.mp3"
+    }
+  ]
+}
