@@ -47,7 +47,7 @@ function audioPath(i=state.chapter,bookIndex=state.book){return BOOKS[bookIndex]
 function dataPath(i=state.chapter,bookIndex=state.book){return BOOKS[bookIndex].data(i)}
 function vocabularyPath(i=state.chapter,bookIndex=state.book){return `data/vocabulary-book-${String(bookIndex+1).padStart(2,'0')}-chapter-${String(i+1).padStart(2,'0')}.json`}
 function audioStart(){return Number.isFinite(state.words[0]?.start)?state.words[0].start:(currentBook().audioStarts[state.chapter]||0)}
-function hasVocabulary(bookIndex=state.book,chapterIndex=state.chapter){return bookIndex>=0&&bookIndex<3&&chapterIndex>=0&&chapterIndex<BOOKS[bookIndex].chapters.length}
+function hasVocabulary(bookIndex=state.book,chapterIndex=state.chapter){return bookIndex>=0&&bookIndex<BOOKS.length&&chapterIndex>=0&&chapterIndex<BOOKS[bookIndex].chapters.length}
 
 function pronunciationStatus(text,isError=false){const el=$('#pronunciationStatus');el.textContent=text;el.classList.toggle('error',isError)}
 function wordAudioPath(word){return `assets/audio/words/${encodeURIComponent(word.toLowerCase())}.mp3`}
@@ -83,7 +83,7 @@ async function openChapter(i,keepTime=false,bookIndex=state.book){
   $('#chapterNumber').textContent=i+1;$('#chapterLabel').textContent=`BOOK ${book.number} · CHAPTER ${chapterRoman(i+1)}`;$('#chapterKicker').textContent=`BOOK ${book.number} · CHAPTER ${chapterRoman(i+1)}`;$('#chapterTitle').textContent=book.chapters[i];$('#trackTitle').textContent=`Book ${book.number} · Chapter ${i+1} · ${book.chapters[i]}`;$('#currentBookLabel').textContent=`BOOK ${book.number} · 《${book.cn}》`;$('#brandSubtitle').textContent=`Book ${book.number} · ${book.title}`;document.title=`${book.chapters[i]} · ${book.cn} · Magic Tree House`;
   try{const r=await fetch(`${dataPath(i,bookIndex)}?v=20260714`,{cache:'no-store'});if(!r.ok)throw 0;const d=await r.json();if(requestId!==chapterRequestId)return;state.words=d.words||[];state.pages=d.pages||[];state.scenes=d.scenes||[];}catch{if(requestId!==chapterRequestId)return;state.words=[];state.scenes=[];state.pages=[[{text:'本章正文加载失败，请检查网络后重试。',words:[]}]]}
   state.vocabulary=null;state.vocabLesson=null;
-  if(hasVocabulary(bookIndex,i)){try{const r=await fetch(`${vocabularyPath(i,bookIndex)}?v=20260715-vocab-all`,{cache:'no-store'});if(!r.ok)throw 0;const vocabulary=await r.json();if(requestId!==chapterRequestId)return;state.vocabulary=vocabulary}catch{state.vocabulary={words:[]}}}
+  if(hasVocabulary(bookIndex,i)){try{const r=await fetch(`${vocabularyPath(i,bookIndex)}?v=20260715-vocab-book4`,{cache:'no-store'});if(!r.ok)throw 0;const vocabulary=await r.json();if(requestId!==chapterRequestId)return;state.vocabulary=vocabulary}catch{state.vocabulary={words:[]}}}
   $('#vocabularyButton').classList.toggle('hidden',!state.vocabulary?.words?.length);
   renderPage();
   if(!keepTime||changedBook){audio.pause();audio.src=audioPath(i,bookIndex);audio.load()}
