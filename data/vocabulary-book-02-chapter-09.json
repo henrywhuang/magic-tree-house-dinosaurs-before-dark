@@ -5,15 +5,18 @@
   "words": [
     {
       "id": "dismounted",
-      "word": "dismounted",
+      "word": "dismount",
       "forms": [
-        "dismounted"
+        "dismounted",
+        "dismount",
+        "dismounts",
+        "dismounting"
       ],
       "tier": "core",
-      "phonetic": "/dɪsˈmaʊntid/",
+      "phonetic": "/dis'maunt/",
       "partOfSpeech": "v.",
       "meaning": "下马",
-      "wordForms": "原文词形：dismounted",
+      "wordForms": "第三人称单数 dismounts · 过去式 dismounted · 现在分词 dismounting",
       "sentence": "The knight dismounted.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/dismounted.mp3",
       "phonics": [
@@ -41,11 +44,6 @@
           "letters": "nt",
           "sound": "/nt/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -56,15 +54,18 @@
     },
     {
       "id": "cantered",
-      "word": "cantered",
+      "word": "canter",
       "forms": [
-        "cantered"
+        "cantered",
+        "canter",
+        "cants",
+        "cantering"
       ],
       "tier": "core",
-      "phonetic": "/ˈkæntəd/",
+      "phonetic": "/'kæntә/",
       "partOfSpeech": "v.",
       "meaning": "骑马慢跑",
-      "wordForms": "原文词形：cantered",
+      "wordForms": "第三人称单数 cants · 过去式 cantered · 现在分词 cantering",
       "sentence": "The black horse cantered beside the moonlit water of the moat.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/cantered.mp3",
       "phonics": [
@@ -87,11 +88,6 @@
           "letters": "er",
           "sound": "/ər/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -143,15 +139,18 @@
     },
     {
       "id": "gloved",
-      "word": "gloved",
+      "word": "glove",
       "forms": [
-        "gloved"
+        "gloved",
+        "glove",
+        "gloves",
+        "gloving"
       ],
       "tier": "core",
-      "phonetic": "/glʌvd/",
+      "phonetic": "/glʌv/",
       "partOfSpeech": "v.",
       "meaning": "戴着手套的",
-      "wordForms": "原文词形：gloved",
+      "wordForms": "第三人称单数 gloves · 过去式 gloved · 现在分词 gloving",
       "sentence": "The knight held out his gloved hand.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/gloved.mp3",
       "phonics": [
@@ -171,9 +170,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -225,15 +224,18 @@
     },
     {
       "id": "slapped",
-      "word": "slapped",
+      "word": "slap",
       "forms": [
-        "slapped"
+        "slapped",
+        "slap",
+        "slaps",
+        "slapping"
       ],
       "tier": "core",
-      "phonetic": "/slæpt/",
+      "phonetic": "/slæp/",
       "partOfSpeech": "v.",
       "meaning": "拍打；猛拍",
-      "wordForms": "原文词形：slapped",
+      "wordForms": "第三人称单数 slaps · 过去式 slapped · 现在分词 slapping",
       "sentence": "He slapped the reins.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/slapped.mp3",
       "phonics": [
@@ -248,14 +250,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "pp",
-          "sound": "/pp/",
-          "rule": "辅音连缀"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -266,15 +263,18 @@
     },
     {
       "id": "bowed",
-      "word": "bowed",
+      "word": "bow",
       "forms": [
-        "bowed"
+        "bowed",
+        "bow",
+        "bows",
+        "bowing"
       ],
       "tier": "core",
-      "phonetic": "/bәud/",
+      "phonetic": "/bәu.bau/",
       "partOfSpeech": "v.",
       "meaning": "弯如弓的；低垂的",
-      "wordForms": "原文词形：bowed",
+      "wordForms": "第三人称单数 bows · 过去式 bowed · 现在分词 bowing",
       "sentence": "She bowed.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/bowed.mp3",
       "phonics": [
@@ -287,11 +287,6 @@
           "letters": "ow",
           "sound": "/oʊ/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -353,15 +348,18 @@
     },
     {
       "id": "fumbling",
-      "word": "fumbling",
+      "word": "fumble",
       "forms": [
-        "fumbling"
+        "fumbling",
+        "fumble",
+        "fumbles",
+        "fumbled"
       ],
       "tier": "core",
-      "phonetic": "/fˈʌmbəlɪŋ/",
+      "phonetic": "/'fʌmbl/",
       "partOfSpeech": "ver.",
       "meaning": "摸索",
-      "wordForms": "原文词形：fumbling",
+      "wordForms": "第三人称单数 fumbles · 过去式 fumbled · 现在分词 fumbling",
       "sentence": "Jack heard Annie fumbling in the darkness.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/fumbling.mp3",
       "phonics": [
@@ -376,14 +374,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "mbl",
-          "sound": "/mbl/",
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
           "rule": "辅音连缀"
         },
         {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -445,15 +448,18 @@
     },
     {
       "id": "shrieked",
-      "word": "shrieked",
+      "word": "shriek",
       "forms": [
-        "shrieked"
+        "shrieked",
+        "shriek",
+        "shrieks",
+        "shrieking"
       ],
       "tier": "recognition",
-      "phonetic": "/ʃrˈikt/",
+      "phonetic": "/ʃri:k/",
       "partOfSpeech": "ver.",
       "meaning": "尖叫着",
-      "wordForms": "原文词形：shrieked",
+      "wordForms": "第三人称单数 shrieks · 过去式 shrieked · 现在分词 shrieking",
       "sentence": "A hawk shrieked in the darkness.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/shrieked.mp3"
     },
@@ -487,29 +493,35 @@
     },
     {
       "id": "staring",
-      "word": "staring",
+      "word": "stare",
       "forms": [
-        "staring"
+        "staring",
+        "stare",
+        "stares",
+        "stared"
       ],
       "tier": "recognition",
-      "phonetic": "/'stєәriŋ/",
+      "phonetic": "/stєә/",
       "partOfSpeech": "v.",
       "meaning": "凝视；盯着看",
-      "wordForms": "原文词形：staring",
+      "wordForms": "第三人称单数 stares · 过去式 stared · 现在分词 staring",
       "sentence": "Jack shivered in his wet clothes as he kept staring at the blackness.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/staring.mp3"
     },
     {
       "id": "stepped",
-      "word": "stepped",
+      "word": "step",
       "forms": [
-        "stepped"
+        "stepped",
+        "step",
+        "steps",
+        "stepping"
       ],
       "tier": "recognition",
-      "phonetic": "/stept/",
+      "phonetic": "/step/",
       "partOfSpeech": "v.",
       "meaning": "踏；行走（step的过去式和过去分词）",
-      "wordForms": "原文词形：stepped",
+      "wordForms": "第三人称单数 steps · 过去式 stepped · 现在分词 stepping",
       "sentence": "Annie stepped toward the horse.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-09/stepped.mp3"
     },

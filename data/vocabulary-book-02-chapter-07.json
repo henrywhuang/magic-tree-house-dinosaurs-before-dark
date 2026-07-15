@@ -5,27 +5,25 @@
   "words": [
     {
       "id": "clinging",
-      "word": "clinging",
+      "word": "cling",
       "forms": [
-        "clinging"
+        "clinging",
+        "cling",
+        "clings",
+        "clung"
       ],
       "tier": "core",
-      "phonetic": "/'kliŋiŋ/",
+      "phonetic": "/kliŋ/",
       "partOfSpeech": "v.",
       "meaning": "紧紧抓住",
-      "wordForms": "原文词形：clinging",
+      "wordForms": "第三人称单数 clings · 过去式 clung · 现在分词 clinging",
       "sentence": "Jack inched down, bit by bit, until he was hanging out the door, clinging to the ledge.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/clinging.mp3",
       "phonics": [
         {
           "letters": "cl",
-          "sound": "/cl/",
+          "sound": "/kl/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         },
         {
           "letters": "ing",
@@ -535,15 +533,18 @@
     },
     {
       "id": "flickered",
-      "word": "flickered",
+      "word": "flicker",
       "forms": [
-        "flickered"
+        "flickered",
+        "flicker",
+        "flickers",
+        "flickering"
       ],
       "tier": "recognition",
-      "phonetic": "/flˈɪkɚd/",
+      "phonetic": "/'flikә/",
       "partOfSpeech": "ver.",
       "meaning": "闪烁的",
-      "wordForms": "原文词形：flickered",
+      "wordForms": "第三人称单数 flickers · 过去式 flickered · 现在分词 flickering",
       "sentence": "The flashlight dimly flickered across the stone walls.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-07/flickered.mp3"
     }

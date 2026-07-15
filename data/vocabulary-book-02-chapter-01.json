@@ -7,193 +7,450 @@
     {
       "id": "strange",
       "word": "strange",
-      "forms": ["strange"],
+      "forms": [
+        "strange"
+      ],
       "tier": "core",
       "phonetic": "/streɪndʒ/",
       "phonics": [
-        {"letters": "str", "sound": "/str/", "rule": "辅音连缀"},
-        {"letters": "a", "sound": "/eɪ/", "rule": "a_e 发长音"},
-        {"letters": "nge", "sound": "/ndʒ/", "rule": "词尾组合"}
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/eɪ/",
+          "rule": "a_e 发长音"
+        },
+        {
+          "letters": "nge",
+          "sound": "/ndʒ/",
+          "rule": "词尾组合"
+        }
       ],
       "partOfSpeech": "adj.",
       "meaning": "奇怪的；不寻常的",
       "wordForms": "strangely（副词）",
       "sentence": "Yesterday so many strange things had happened.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/strange.mp3",
-      "options": ["奇怪的；不寻常的", "安静的；平静的", "明亮的；闪耀的"]
+      "options": [
+        "奇怪的；不寻常的",
+        "安静的；平静的",
+        "明亮的；闪耀的"
+      ]
     },
     {
       "id": "understand",
       "word": "understand",
-      "forms": ["understand", "understood"],
+      "forms": [
+        "understand",
+        "understands",
+        "understood",
+        "understanding"
+      ],
       "tier": "core",
-      "phonetic": "/ˌʌndərˈstænd/",
+      "phonetic": "/.ʌndә'stænd/",
       "phonics": [
-        {"letters": "un", "sound": "/ʌn/", "rule": "常见前缀"},
-        {"letters": "der", "sound": "/dər/", "rule": "弱读音节"},
-        {"letters": "stand", "sound": "/stænd/", "rule": "st 连缀 + 短 a"}
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
       ],
       "partOfSpeech": "v.",
       "meaning": "明白；理解",
-      "wordForms": "understood—understood（过去式—过去分词）",
+      "wordForms": "第三人称单数 understands · 过去式 understood · 现在分词 understanding",
       "sentence": "Only his seven-year-old sister, Annie, understood.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/understand.mp3",
-      "options": ["明白；理解", "忘记；遗漏", "猜测；怀疑"]
+      "options": [
+        "明白；理解",
+        "忘记；遗漏",
+        "猜测；怀疑"
+      ]
     },
     {
       "id": "medallion",
       "word": "medallion",
-      "forms": ["medallion", "medallions"],
+      "forms": [
+        "medallion",
+        "medallions"
+      ],
       "tier": "core",
       "phonetic": "/məˈdæliən/",
       "phonics": [
-        {"letters": "me", "sound": "/mə/", "rule": "弱读音节"},
-        {"letters": "dal", "sound": "/dæl/", "rule": "短 a"},
-        {"letters": "li", "sound": "/li/", "rule": "轻读音节"},
-        {"letters": "on", "sound": "/ən/", "rule": "词尾弱读"}
+        {
+          "letters": "me",
+          "sound": "/mə/",
+          "rule": "弱读音节"
+        },
+        {
+          "letters": "dal",
+          "sound": "/dæl/",
+          "rule": "短 a"
+        },
+        {
+          "letters": "li",
+          "sound": "/li/",
+          "rule": "轻读音节"
+        },
+        {
+          "letters": "on",
+          "sound": "/ən/",
+          "rule": "词尾弱读"
+        }
       ],
       "partOfSpeech": "n.",
       "meaning": "圆形纪念章；吊坠",
       "wordForms": "gold medallion（金质圆形吊坠）",
       "sentence": "“You mean the gold medallion,” said Jack.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/medallion.mp3",
-      "options": ["圆形纪念章；吊坠", "手电筒", "笔记本"]
+      "options": [
+        "圆形纪念章；吊坠",
+        "手电筒",
+        "笔记本"
+      ]
     },
     {
       "id": "fact",
       "word": "fact",
-      "forms": ["fact", "facts"],
+      "forms": [
+        "fact",
+        "facts"
+      ],
       "tier": "core",
       "phonetic": "/fækt/",
       "phonics": [
-        {"letters": "f", "sound": "/f/", "rule": "辅音"},
-        {"letters": "a", "sound": "/æ/", "rule": "短 a"},
-        {"letters": "ct", "sound": "/kt/", "rule": "词尾辅音组合"}
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "辅音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "短 a"
+        },
+        {
+          "letters": "ct",
+          "sound": "/kt/",
+          "rule": "词尾辅音组合"
+        }
       ],
       "partOfSpeech": "n.",
       "meaning": "事实；真实情况",
       "wordForms": "facts（复数）；in fact（事实上）",
       "sentence": "And I’m just writing the facts.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/fact.mp3",
-      "options": ["事实；真实情况", "愿望；想象", "问题；困难"]
+      "options": [
+        "事实；真实情况",
+        "愿望；想象",
+        "问题；困难"
+      ]
     },
     {
       "id": "worried",
       "word": "worried",
-      "forms": ["worry", "worried", "worries", "worrying"],
+      "forms": [
+        "worry",
+        "worried",
+        "worries",
+        "worrying"
+      ],
       "tier": "core",
       "phonetic": "/ˈwɜːrid/",
       "phonics": [
-        {"letters": "wor", "sound": "/wɜːr/", "rule": "wor 组合"},
-        {"letters": "ri", "sound": "/i/", "rule": "轻读音节"},
-        {"letters": "ed", "sound": "/d/", "rule": "ed 浊化发音"}
+        {
+          "letters": "wor",
+          "sound": "/wɜːr/",
+          "rule": "wor 组合"
+        },
+        {
+          "letters": "ri",
+          "sound": "/i/",
+          "rule": "轻读音节"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "ed 浊化发音"
+        }
       ],
       "partOfSpeech": "adj.",
       "meaning": "担心的；忧虑的",
       "wordForms": "worry（动词/名词）；be worried about（担心……）",
       "sentence": "He was worried.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/worried.mp3",
-      "options": ["担心的；忧虑的", "兴奋的；激动的", "生气的；恼怒的"]
+      "options": [
+        "担心的；忧虑的",
+        "兴奋的；激动的",
+        "生气的；恼怒的"
+      ]
     },
     {
       "id": "dawn",
       "word": "dawn",
-      "forms": ["dawn"],
+      "forms": [
+        "dawn"
+      ],
       "tier": "core",
       "phonetic": "/dɔːn/",
       "phonics": [
-        {"letters": "d", "sound": "/d/", "rule": "辅音"},
-        {"letters": "aw", "sound": "/ɔː/", "rule": "aw 元音组合"},
-        {"letters": "n", "sound": "/n/", "rule": "词尾辅音"}
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "辅音"
+        },
+        {
+          "letters": "aw",
+          "sound": "/ɔː/",
+          "rule": "aw 元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "词尾辅音"
+        }
       ],
       "partOfSpeech": "n.",
       "meaning": "黎明；破晓",
       "wordForms": "at dawn（在黎明时）",
       "sentence": "It was almost dawn.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/dawn.mp3",
-      "options": ["黎明；破晓", "正午", "午夜"]
+      "options": [
+        "黎明；破晓",
+        "正午",
+        "午夜"
+      ]
     },
     {
       "id": "creep",
       "word": "creep",
-      "forms": ["creep", "crept", "creeps", "creeping"],
+      "forms": [
+        "creep",
+        "creeps",
+        "crept",
+        "creeping"
+      ],
       "tier": "core",
-      "phonetic": "/kriːp/",
+      "phonetic": "/kri:p/",
       "phonics": [
-        {"letters": "cr", "sound": "/kr/", "rule": "辅音连缀"},
-        {"letters": "ee", "sound": "/iː/", "rule": "ee 长元音"},
-        {"letters": "p", "sound": "/p/", "rule": "词尾辅音"}
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
       ],
       "partOfSpeech": "v.",
       "meaning": "蹑手蹑脚地走；悄悄移动",
-      "wordForms": "crept—crept（过去式—过去分词）",
+      "wordForms": "第三人称单数 creeps · 过去式 crept · 现在分词 creeping",
       "sentence": "He crept downstairs.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/creep.mp3",
-      "options": ["蹑手蹑脚地走；悄悄移动", "大声呼喊", "迅速跳起"]
+      "options": [
+        "蹑手蹑脚地走；悄悄移动",
+        "大声呼喊",
+        "迅速跳起"
+      ]
     },
     {
       "id": "flashlight",
       "word": "flashlight",
-      "forms": ["flashlight", "flashlights"],
+      "forms": [
+        "flashlight",
+        "flashlights"
+      ],
       "tier": "core",
       "phonetic": "/ˈflæʃlaɪt/",
       "phonics": [
-        {"letters": "fl", "sound": "/fl/", "rule": "辅音连缀"},
-        {"letters": "a", "sound": "/æ/", "rule": "短 a"},
-        {"letters": "sh", "sound": "/ʃ/", "rule": "sh 辅音组合"},
-        {"letters": "l", "sound": "/l/", "rule": "辅音"},
-        {"letters": "igh", "sound": "/aɪ/", "rule": "igh 长元音"},
-        {"letters": "t", "sound": "/t/", "rule": "词尾辅音"}
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "短 a"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "sh 辅音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "辅音"
+        },
+        {
+          "letters": "igh",
+          "sound": "/aɪ/",
+          "rule": "igh 长元音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "词尾辅音"
+        }
       ],
       "partOfSpeech": "n.",
       "meaning": "手电筒",
       "wordForms": "shine a flashlight（用手电筒照）",
       "sentence": "She shined a flashlight in Jack’s face.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/flashlight.mp3",
-      "options": ["手电筒", "绳梯", "背包"]
+      "options": [
+        "手电筒",
+        "绳梯",
+        "背包"
+      ]
     },
     {
       "id": "mysterious",
       "word": "mysterious",
-      "forms": ["mysterious"],
+      "forms": [
+        "mysterious"
+      ],
       "tier": "core",
       "phonetic": "/mɪˈstɪriəs/",
       "phonics": [
-        {"letters": "my", "sound": "/mɪ/", "rule": "y 发短 i"},
-        {"letters": "ste", "sound": "/stɪ/", "rule": "st 辅音连缀"},
-        {"letters": "ri", "sound": "/ri/", "rule": "轻读音节"},
-        {"letters": "ous", "sound": "/əs/", "rule": "-ous 词尾"}
+        {
+          "letters": "my",
+          "sound": "/mɪ/",
+          "rule": "y 发短 i"
+        },
+        {
+          "letters": "ste",
+          "sound": "/stɪ/",
+          "rule": "st 辅音连缀"
+        },
+        {
+          "letters": "ri",
+          "sound": "/ri/",
+          "rule": "轻读音节"
+        },
+        {
+          "letters": "ous",
+          "sound": "/əs/",
+          "rule": "-ous 词尾"
+        }
       ],
       "partOfSpeech": "adj.",
       "meaning": "神秘的；难以解释的",
       "wordForms": "mystery（名词：谜；神秘的事物）",
       "sentence": "The mysterious tree house sat high in the branches of the tallest tree in the woods.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/mysterious.mp3",
-      "options": ["神秘的；难以解释的", "普通的；常见的", "危险的；有害的"]
+      "options": [
+        "神秘的；难以解释的",
+        "普通的；常见的",
+        "危险的；有害的"
+      ]
     },
     {
       "id": "disappear",
       "word": "disappear",
-      "forms": ["disappear", "disappeared", "disappears", "disappearing"],
+      "forms": [
+        "disappear",
+        "disappears",
+        "disappeared",
+        "disappearing"
+      ],
       "tier": "core",
-      "phonetic": "/ˌdɪsəˈpɪr/",
+      "phonetic": "/.disә'piә/",
       "phonics": [
-        {"letters": "dis", "sound": "/dɪs/", "rule": "dis- 前缀"},
-        {"letters": "a", "sound": "/ə/", "rule": "非重读元音"},
-        {"letters": "pp", "sound": "/p/", "rule": "双写辅音"},
-        {"letters": "ear", "sound": "/ɪr/", "rule": "ear 元音组合"}
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
       ],
       "partOfSpeech": "v.",
       "meaning": "消失；不见",
-      "wordForms": "disappeared（过去式）；appearance（名词：出现/外表）",
+      "wordForms": "第三人称单数 disappears · 过去式 disappeared · 现在分词 disappearing",
       "sentence": "The light had disappeared.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/disappear.mp3",
-      "options": ["消失；不见", "出现；到达", "发现；找到"]
+      "options": [
+        "消失；不见",
+        "出现；到达",
+        "发现；找到"
+      ]
     },
     {
       "id": "doorway",
       "word": "doorway",
-      "forms": ["doorway", "doorways"],
+      "forms": [
+        "doorway",
+        "doorways"
+      ],
       "tier": "recognition",
       "phonetic": "/ˈdɔːrweɪ/",
       "partOfSpeech": "n.",
@@ -205,19 +462,27 @@
     {
       "id": "tiptoe",
       "word": "tiptoe",
-      "forms": ["tiptoe", "tiptoed", "tiptoes", "tiptoeing"],
+      "forms": [
+        "tiptoe",
+        "tiptoes",
+        "tiptoed",
+        "tiptoeing"
+      ],
       "tier": "recognition",
-      "phonetic": "/ˈtɪptoʊ/",
+      "phonetic": "/'tiptәu/",
       "partOfSpeech": "v.",
       "meaning": "踮着脚轻轻走",
-      "wordForms": "tiptoed（过去式）；on tiptoe（踮着脚）",
+      "wordForms": "第三人称单数 tiptoes · 过去式 tiptoed · 现在分词 tiptoeing",
       "sentence": "She tiptoed away as quietly as a mouse.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/tiptoe.mp3"
     },
     {
       "id": "sweatshirt",
       "word": "sweatshirt",
-      "forms": ["sweatshirt", "sweatshirts"],
+      "forms": [
+        "sweatshirt",
+        "sweatshirts"
+      ],
       "tier": "recognition",
       "phonetic": "/ˈswetʃɜːrt/",
       "partOfSpeech": "n.",
@@ -229,31 +494,44 @@
     {
       "id": "chirp",
       "word": "chirp",
-      "forms": ["chirp", "chirped", "chirps", "chirping"],
+      "forms": [
+        "chirp",
+        "chirps",
+        "chirped",
+        "chirping"
+      ],
       "tier": "recognition",
-      "phonetic": "/tʃɜːrp/",
+      "phonetic": "/tʃә:p/",
       "partOfSpeech": "v.",
       "meaning": "（鸟或昆虫）吱喳鸣叫",
-      "wordForms": "chirping（现在分词）",
+      "wordForms": "第三人称单数 chirps · 过去式 chirped · 现在分词 chirping",
       "sentence": "Crickets were chirping.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/chirp.mp3"
     },
     {
       "id": "dash",
       "word": "dash",
-      "forms": ["dash", "dashed", "dashes", "dashing"],
+      "forms": [
+        "dash",
+        "dashes",
+        "dashed",
+        "dashing"
+      ],
       "tier": "recognition",
       "phonetic": "/dæʃ/",
       "partOfSpeech": "v.",
       "meaning": "猛冲；飞奔",
-      "wordForms": "dashed（过去式）",
+      "wordForms": "第三人称单数 dashes · 过去式 dashed · 现在分词 dashing",
       "sentence": "Jack and Annie dashed across the dark, wet lawn and didn’t stop until they reached the Frog Creek woods.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-01/dash.mp3"
     },
     {
       "id": "branch",
       "word": "branch",
-      "forms": ["branch", "branches"],
+      "forms": [
+        "branch",
+        "branches"
+      ],
       "tier": "recognition",
       "phonetic": "/bræntʃ/",
       "partOfSpeech": "n.",

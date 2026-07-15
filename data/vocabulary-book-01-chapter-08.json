@@ -7,13 +7,16 @@
       "id": "stampede",
       "word": "stampede",
       "forms": [
-        "stampede"
+        "stampede",
+        "stampedes",
+        "stampeded",
+        "stampeding"
       ],
       "tier": "core",
       "phonetic": "/stæm'pi:d/",
       "partOfSpeech": "v.",
       "meaning": "受惊狂奔的兽群",
-      "wordForms": "原文词形：stampede",
+      "wordForms": "第三人称单数 stampedes · 过去式 stampeded · 现在分词 stampeding",
       "sentence": "The Anatosauruses might stampede.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-08/stampede.mp3",
       "phonics": [
@@ -33,13 +36,18 @@
           "rule": "辅音连缀"
         },
         {
-          "letters": "ed",
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
           "sound": "/d/",
-          "rule": "常见词尾"
+          "rule": "字母音"
         },
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         }
       ],
@@ -51,15 +59,18 @@
     },
     {
       "id": "sticking",
-      "word": "sticking",
+      "word": "stick",
       "forms": [
-        "sticking"
+        "sticking",
+        "stick",
+        "sticks",
+        "stuck"
       ],
       "tier": "core",
-      "phonetic": "/'stikiŋ/",
+      "phonetic": "/stik/",
       "partOfSpeech": "v.",
       "meaning": "粘的；有粘性的",
-      "wordForms": "原文词形：sticking",
+      "wordForms": "第三人称单数 sticks · 过去式 stuck · 现在分词 sticking",
       "sentence": "The duck-billed dinosaurs were sticking close to their nests.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-08/sticking.mp3",
       "phonics": [
@@ -77,11 +88,6 @@
           "letters": "ck",
           "sound": "/k/",
           "rule": "辅音组合"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -256,15 +262,18 @@
     },
     {
       "id": "flapping",
-      "word": "flapping",
+      "word": "flap",
       "forms": [
-        "flapping"
+        "flapping",
+        "flap",
+        "flaps",
+        "flapped"
       ],
       "tier": "core",
-      "phonetic": "/flˈæpɪŋ/",
+      "phonetic": "/flæp/",
       "partOfSpeech": "v.",
       "meaning": "抖动",
-      "wordForms": "原文词形：flapping",
+      "wordForms": "第三人称单数 flaps · 过去式 flapped · 现在分词 flapping",
       "sentence": "She was flapping her arms.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-08/flapping.mp3",
       "phonics": [
@@ -279,14 +288,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "pp",
-          "sound": "/pp/",
-          "rule": "辅音连缀"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -399,15 +403,17 @@
     },
     {
       "id": "beating",
-      "word": "beating",
+      "word": "beat",
       "forms": [
-        "beating"
+        "beating",
+        "beat",
+        "beats"
       ],
       "tier": "core",
-      "phonetic": "/'bi:tiŋ/",
+      "phonetic": "/bi:t/",
       "partOfSpeech": "v.",
       "meaning": "打；挫败",
-      "wordForms": "原文词形：beating",
+      "wordForms": "第三人称单数 beats · 过去式 beat · 现在分词 beating",
       "sentence": "His heart was beating so fast he could hardly think.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-08/beating.mp3",
       "phonics": [
@@ -425,11 +431,6 @@
           "letters": "t",
           "sound": "/t/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -454,43 +455,52 @@
     },
     {
       "id": "closing",
-      "word": "closing",
+      "word": "close",
       "forms": [
-        "closing"
+        "closing",
+        "close",
+        "closes",
+        "closed"
       ],
       "tier": "recognition",
-      "phonetic": "/'klәuziŋ/",
+      "phonetic": "/klәuz/",
       "partOfSpeech": "v.",
       "meaning": "结束",
-      "wordForms": "原文词形：closing",
+      "wordForms": "第三人称单数 closes · 过去式 closed · 现在分词 closing",
       "sentence": "The horrible-looking creature was opening and closing its hugejaws.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-08/closing.mp3"
     },
     {
       "id": "gliding",
-      "word": "gliding",
+      "word": "glide",
       "forms": [
-        "gliding"
+        "gliding",
+        "glide",
+        "glides",
+        "glided"
       ],
       "tier": "recognition",
-      "phonetic": "/'glaidiŋ/",
+      "phonetic": "/glaid/",
       "partOfSpeech": "v.",
       "meaning": "游动的；滑顺的",
-      "wordForms": "原文词形：gliding",
+      "wordForms": "第三人称单数 glides · 过去式 glided · 现在分词 gliding",
       "sentence": "The Pteranodon was gliding overhead.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-08/gliding.mp3"
     },
     {
       "id": "hurried",
-      "word": "hurried",
+      "word": "hurry",
       "forms": [
-        "hurried"
+        "hurried",
+        "hurry",
+        "hurries",
+        "hurrying"
       ],
       "tier": "recognition",
-      "phonetic": "/'hʌrid/",
+      "phonetic": "/'hʌri/",
       "partOfSpeech": "v.",
       "meaning": "匆忙的；仓促的",
-      "wordForms": "原文词形：hurried",
+      "wordForms": "第三人称单数 hurries · 过去式 hurried · 现在分词 hurrying",
       "sentence": "Annie hurried over to the Pteranodon.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-08/hurried.mp3"
     },
@@ -510,15 +520,18 @@
     },
     {
       "id": "shaking",
-      "word": "shaking",
+      "word": "shake",
       "forms": [
-        "shaking"
+        "shaking",
+        "shake",
+        "shakes",
+        "shook"
       ],
       "tier": "recognition",
-      "phonetic": "/'ʃeikiŋ/",
+      "phonetic": "/ʃeik/",
       "partOfSpeech": "v.",
       "meaning": "摇动；挥动",
-      "wordForms": "原文词形：shaking",
+      "wordForms": "第三人称单数 shakes · 过去式 shook · 现在分词 shaking",
       "sentence": "Jack felt the ground shaking.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-08/shaking.mp3"
     }

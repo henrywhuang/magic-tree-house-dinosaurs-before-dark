@@ -445,15 +445,18 @@
     },
     {
       "id": "squinted",
-      "word": "squinted",
+      "word": "squint",
       "forms": [
-        "squinted"
+        "squinted",
+        "squint",
+        "squints",
+        "squinting"
       ],
       "tier": "recognition",
-      "phonetic": "/ˈskwɪntɪd/",
+      "phonetic": "/skwint/",
       "partOfSpeech": "v.",
       "meaning": "眯着眼睛",
-      "wordForms": "原文词形：squinted",
+      "wordForms": "第三人称单数 squints · 过去式 squinted · 现在分词 squinting",
       "sentence": "She squinted at the wall.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/squinted.mp3"
     },
@@ -473,15 +476,18 @@
     },
     {
       "id": "finding",
-      "word": "finding",
+      "word": "find",
       "forms": [
-        "finding"
+        "finding",
+        "find",
+        "finds",
+        "found"
       ],
       "tier": "recognition",
-      "phonetic": "/fˈaɪndɪŋ/",
+      "phonetic": "/faind/",
       "partOfSpeech": "ver.",
       "meaning": "发现",
-      "wordForms": "原文词形：finding",
+      "wordForms": "第三人称单数 finds · 过去式 found · 现在分词 finding",
       "sentence": "said Jack, finally finding his voice.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-05/finding.mp3"
     },

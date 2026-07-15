@@ -107,15 +107,18 @@
     },
     {
       "id": "marched",
-      "word": "marched",
+      "word": "march",
       "forms": [
-        "marched"
+        "marched",
+        "march",
+        "marches",
+        "marching"
       ],
       "tier": "core",
-      "phonetic": "/'mɑ:tʃt/",
+      "phonetic": "/mɑ:tʃ/",
       "partOfSpeech": "v.",
       "meaning": "列队行进",
-      "wordForms": "原文词形：marched",
+      "wordForms": "第三人称单数 marches · 过去式 marched · 现在分词 marching",
       "sentence": "The guards marched Jack and Annie out of the armory.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/marched.mp3",
       "phonics": [
@@ -133,11 +136,6 @@
           "letters": "ch",
           "sound": "/tʃ/",
           "rule": "辅音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -480,15 +478,18 @@
     },
     {
       "id": "sputtered",
-      "word": "sputtered",
+      "word": "sputter",
       "forms": [
-        "sputtered"
+        "sputtered",
+        "sputter",
+        "sputters",
+        "sputtering"
       ],
       "tier": "recognition",
-      "phonetic": "/spˈʌtɚd/",
+      "phonetic": "/'spʌtә/",
       "partOfSpeech": "ver.",
       "meaning": "溅射的",
-      "wordForms": "原文词形：sputtered",
+      "wordForms": "第三人称单数 sputters · 过去式 sputtered · 现在分词 sputtering",
       "sentence": "It fell into a dirty puddle on the floor, sputtered, and went out.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/sputtered.mp3"
     },
@@ -536,15 +537,18 @@
     },
     {
       "id": "switched",
-      "word": "switched",
+      "word": "switch",
       "forms": [
-        "switched"
+        "switched",
+        "switch",
+        "switches",
+        "switching"
       ],
       "tier": "recognition",
-      "phonetic": "/swˈɪtʃt/",
+      "phonetic": "/switʃ/",
       "partOfSpeech": "ver.",
       "meaning": "切换",
-      "wordForms": "原文词形：switched",
+      "wordForms": "第三人称单数 switches · 过去式 switched · 现在分词 switching",
       "sentence": "Annie switched on the light.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-06/switched.mp3"
     },

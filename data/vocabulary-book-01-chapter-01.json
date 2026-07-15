@@ -5,15 +5,18 @@
   "words": [
     {
       "id": "whispered",
-      "word": "whispered",
+      "word": "whisper",
       "forms": [
-        "whispered"
+        "whispered",
+        "whisper",
+        "whispers",
+        "whispering"
       ],
       "tier": "core",
-      "phonetic": "/'wɪspəd/",
+      "phonetic": "/'hwispә/",
       "partOfSpeech": "v.",
       "meaning": "低声说；耳语",
-      "wordForms": "原文词形：whispered",
+      "wordForms": "第三人称单数 whispers · 过去式 whispered · 现在分词 whispering",
       "sentence": "\"Wow,\" Jack whispered.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/whispered.mp3",
       "phonics": [
@@ -36,11 +39,6 @@
           "letters": "er",
           "sound": "/ər/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -51,21 +49,24 @@
     },
     {
       "id": "climbing",
-      "word": "climbing",
+      "word": "climb",
       "forms": [
-        "climbing"
+        "climbing",
+        "climb",
+        "climbs",
+        "climbed"
       ],
       "tier": "core",
-      "phonetic": "/'klaimiŋ/",
+      "phonetic": "/klaim/",
       "partOfSpeech": "v.",
       "meaning": "攀爬；向上爬",
-      "wordForms": "原文词形：climbing",
+      "wordForms": "第三人称单数 climbs · 过去式 climbed · 现在分词 climbing",
       "sentence": "But Annie kept climbing.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/climbing.mp3",
       "phonics": [
         {
           "letters": "cl",
-          "sound": "/cl/",
+          "sound": "/kl/",
           "rule": "辅音连缀"
         },
         {
@@ -74,14 +75,14 @@
           "rule": "字母音"
         },
         {
-          "letters": "mb",
-          "sound": "/mb/",
-          "rule": "辅音连缀"
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
         },
         {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -94,13 +95,16 @@
       "id": "pretend",
       "word": "pretend",
       "forms": [
-        "pretend"
+        "pretend",
+        "pretends",
+        "pretended",
+        "pretending"
       ],
       "tier": "core",
       "phonetic": "/pri'tend/",
       "partOfSpeech": "v.",
       "meaning": "假装；伪称",
-      "wordForms": "原文词形：pretend",
+      "wordForms": "第三人称单数 pretends · 过去式 pretended · 现在分词 pretending",
       "sentence": "Annie loved pretend stuff.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/pretend.mp3",
       "phonics": [
@@ -111,7 +115,7 @@
         },
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         },
         {
@@ -121,7 +125,7 @@
         },
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         },
         {
@@ -271,22 +275,30 @@
     },
     {
       "id": "disappeared",
-      "word": "disappeared",
+      "word": "disappear",
       "forms": [
-        "disappeared"
+        "disappeared",
+        "disappear",
+        "disappears",
+        "disappearing"
       ],
       "tier": "core",
-      "phonetic": "/dˌɪsəpˈɪrd/",
+      "phonetic": "/.disә'piә/",
       "partOfSpeech": "v.",
       "meaning": "消失的；消失了的",
-      "wordForms": "原文词形：disappeared",
+      "wordForms": "第三人称单数 disappears · 过去式 disappeared · 现在分词 disappearing",
       "sentence": "Annie disappeared inside the tree house.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/disappeared.mp3",
       "phonics": [
         {
-          "letters": "di",
-          "sound": "/di/",
-          "rule": "元音组合"
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
         },
         {
           "letters": "s",
@@ -299,19 +311,24 @@
           "rule": "字母音"
         },
         {
-          "letters": "pp",
-          "sound": "/pp/",
-          "rule": "辅音连缀"
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
         },
         {
-          "letters": "ear",
-          "sound": "/ɪr/",
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
           "rule": "元音组合"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -322,15 +339,18 @@
     },
     {
       "id": "spending",
-      "word": "spending",
+      "word": "spend",
       "forms": [
-        "spending"
+        "spending",
+        "spend",
+        "spends",
+        "spent"
       ],
       "tier": "core",
-      "phonetic": "/'spendiŋ/",
+      "phonetic": "/spend/",
       "partOfSpeech": "v.",
       "meaning": "经费；开销",
-      "wordForms": "原文词形：spending",
+      "wordForms": "第三人称单数 spends · 过去式 spent · 现在分词 spending",
       "sentence": "This is what he got for spending time with his seven-year-old sister.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/spending.mp3",
       "phonics": [
@@ -341,18 +361,13 @@
         },
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         },
         {
           "letters": "nd",
           "sound": "/nd/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -363,15 +378,18 @@
     },
     {
       "id": "standing",
-      "word": "standing",
+      "word": "stand",
       "forms": [
-        "standing"
+        "standing",
+        "stand",
+        "stands",
+        "stood"
       ],
       "tier": "core",
-      "phonetic": "/'stændiŋ/",
+      "phonetic": "/stænd/",
       "partOfSpeech": "v.",
       "meaning": "起立；持续",
-      "wordForms": "原文词形：standing",
+      "wordForms": "第三人称单数 stands · 过去式 stood · 现在分词 standing",
       "sentence": "Annie was standing under a tall oak tree.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/standing.mp3",
       "phonics": [
@@ -389,11 +407,6 @@
           "letters": "nd",
           "sound": "/nd/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -404,15 +417,18 @@
     },
     {
       "id": "belongs",
-      "word": "belongs",
+      "word": "belong",
       "forms": [
-        "belongs"
+        "belongs",
+        "belong",
+        "belonged",
+        "belonging"
       ],
       "tier": "core",
-      "phonetic": "/biˈlɔŋz/",
+      "phonetic": "/bi'lɒŋ/",
       "partOfSpeech": "v.",
       "meaning": "属于( belong的第三人称单数 )；是…的成员",
-      "wordForms": "原文词形：belongs",
+      "wordForms": "第三人称单数 belongs · 过去式 belonged · 现在分词 belonging",
       "sentence": "We don’t know who it belongs to,” said Jack.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/belongs.mp3",
       "phonics": [
@@ -423,7 +439,7 @@
         },
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         },
         {
@@ -440,11 +456,6 @@
           "letters": "ng",
           "sound": "/ŋ/",
           "rule": "辅音组合"
-        },
-        {
-          "letters": "s",
-          "sound": "/s/",
-          "rule": "字母音"
         }
       ],
       "options": [
@@ -469,43 +480,52 @@
     },
     {
       "id": "gripped",
-      "word": "gripped",
+      "word": "grip",
       "forms": [
-        "gripped"
+        "gripped",
+        "grip",
+        "grips",
+        "gripping"
       ],
       "tier": "recognition",
-      "phonetic": "/ɡript/",
+      "phonetic": "/grip/",
       "partOfSpeech": "v.",
       "meaning": "抓紧( grip的过去式和过去分词 )；吸引",
-      "wordForms": "原文词形：gripped",
+      "wordForms": "第三人称单数 grips · 过去式 gripped · 现在分词 gripping",
       "sentence": "He gripped the sides of the rope ladder and started up.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/gripped.mp3"
     },
     {
       "id": "groaned",
-      "word": "groaned",
+      "word": "groan",
       "forms": [
-        "groaned"
+        "groaned",
+        "groan",
+        "groans",
+        "groaning"
       ],
       "tier": "recognition",
-      "phonetic": "/ɡrəund/",
+      "phonetic": "/grәun/",
       "partOfSpeech": "v.",
       "meaning": "呻吟( groan的过去式和过去分词 )；发牢骚",
-      "wordForms": "原文词形：groaned",
+      "wordForms": "第三人称单数 groans · 过去式 groaned · 现在分词 groaning",
       "sentence": "Jack groaned.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/groaned.mp3"
     },
     {
       "id": "hanging",
-      "word": "hanging",
+      "word": "hang",
       "forms": [
-        "hanging"
+        "hanging",
+        "hang",
+        "hangs",
+        "hung"
       ],
       "tier": "recognition",
-      "phonetic": "/'hæŋiŋ/",
+      "phonetic": "/hæŋ/",
       "partOfSpeech": "v.",
       "meaning": "绞死；绞杀",
-      "wordForms": "原文词形：hanging",
+      "wordForms": "第三人称单数 hangs · 过去式 hung · 现在分词 hanging",
       "sentence": "It was hanging down from high in the tree.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/hanging.mp3"
     },
@@ -525,15 +545,18 @@
     },
     {
       "id": "pointed",
-      "word": "pointed",
+      "word": "point",
       "forms": [
-        "pointed"
+        "pointed",
+        "point",
+        "points",
+        "pointing"
       ],
       "tier": "recognition",
-      "phonetic": "/'pɒintid/",
+      "phonetic": "/pɒint/",
       "partOfSpeech": "v.",
       "meaning": "尖的；有尖顶的",
-      "wordForms": "原文词形：pointed",
+      "wordForms": "第三人称单数 points · 过去式 pointed · 现在分词 pointing",
       "sentence": "She pointed at a rope ladder.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-01/pointed.mp3"
     }

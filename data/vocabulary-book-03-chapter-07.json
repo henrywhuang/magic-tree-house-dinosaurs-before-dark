@@ -261,22 +261,30 @@
     },
     {
       "id": "wrapped",
-      "word": "wrapped",
+      "word": "wrap",
       "forms": [
-        "wrapped"
+        "wrapped",
+        "wrap",
+        "wraps",
+        "wrapping"
       ],
       "tier": "core",
-      "phonetic": "/rˈæpt/",
+      "phonetic": "/ræp/",
       "partOfSpeech": "v.",
       "meaning": "包裹着的",
-      "wordForms": "原文词形：wrapped",
+      "wordForms": "第三人称单数 wraps · 过去式 wrapped · 现在分词 wrapping",
       "sentence": "It was wrapped around an ancient-looking scroll.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/wrapped.mp3",
       "phonics": [
         {
-          "letters": "wr",
-          "sound": "/wr/",
-          "rule": "辅音连缀"
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
         },
         {
           "letters": "a",
@@ -284,14 +292,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "pp",
-          "sound": "/pp/",
-          "rule": "辅音连缀"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -353,15 +356,18 @@
     },
     {
       "id": "unrolled",
-      "word": "unrolled",
+      "word": "unroll",
       "forms": [
-        "unrolled"
+        "unrolled",
+        "unroll",
+        "unrolls",
+        "unrolling"
       ],
       "tier": "core",
-      "phonetic": "/ˌənrˈoʊld/",
+      "phonetic": "/'ʌn'rәul/",
       "partOfSpeech": "v.",
       "meaning": "展开的",
-      "wordForms": "原文词形：unrolled",
+      "wordForms": "第三人称单数 unrolls · 过去式 unrolled · 现在分词 unrolling",
       "sentence": "Jack slowly unrolled the scroll.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/unrolled.mp3",
       "phonics": [
@@ -371,9 +377,14 @@
           "rule": "字母音"
         },
         {
-          "letters": "nr",
-          "sound": "/nr/",
-          "rule": "辅音连缀"
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
         },
         {
           "letters": "o",
@@ -381,14 +392,14 @@
           "rule": "字母音"
         },
         {
-          "letters": "ll",
-          "sound": "/ll/",
-          "rule": "辅音连缀"
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -463,29 +474,35 @@
     },
     {
       "id": "creaked",
-      "word": "creaked",
+      "word": "creak",
       "forms": [
-        "creaked"
+        "creaked",
+        "creak",
+        "creaks",
+        "creaking"
       ],
       "tier": "recognition",
-      "phonetic": "/krˈikt/",
+      "phonetic": "/kri:k/",
       "partOfSpeech": "v.",
       "meaning": "嘎吱作响",
-      "wordForms": "原文词形：creaked",
+      "wordForms": "第三人称单数 creaks · 过去式 creaked · 现在分词 creaking",
       "sentence": "A door on the other side of the chamber creaked open.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/creaked.mp3"
     },
     {
       "id": "glowing",
-      "word": "glowing",
+      "word": "glow",
       "forms": [
-        "glowing"
+        "glowing",
+        "glow",
+        "glows",
+        "glowed"
       ],
       "tier": "recognition",
-      "phonetic": "/ɡlˈoʊɪŋ/",
+      "phonetic": "/glәu/",
       "partOfSpeech": "v.",
       "meaning": "发光的",
-      "wordForms": "原文词形：glowing",
+      "wordForms": "第三人称单数 glows · 过去式 glowed · 现在分词 glowing",
       "sentence": "They walked together across the room to the glowing gold box.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/glowing.mp3"
     },
@@ -505,15 +522,19 @@
     },
     {
       "id": "jeweled",
-      "word": "jeweled",
+      "word": "jewel",
       "forms": [
-        "jeweled"
+        "jeweled",
+        "jewel",
+        "jewels",
+        "jewelled",
+        "jewelling"
       ],
       "tier": "recognition",
-      "phonetic": "/ˈdʒuːəld/",
+      "phonetic": "/'dʒu:әl/",
       "partOfSpeech": "ver.",
       "meaning": "镶满宝石的",
-      "wordForms": "原文词形：jeweled",
+      "wordForms": "第三人称单数 jewels · 过去式 jewelled · 现在分词 jewelling",
       "sentence": "The boat was filled with many things—gold plates, painted cups, jeweled goblets, woven baskets, jewelry with blue stones, and small wooden statues.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-07/jeweled.mp3"
     }

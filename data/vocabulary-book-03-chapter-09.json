@@ -56,15 +56,18 @@
     },
     {
       "id": "shimmering",
-      "word": "shimmering",
+      "word": "shimmer",
       "forms": [
-        "shimmering"
+        "shimmering",
+        "shimmer",
+        "shimmers",
+        "shimmered"
       ],
       "tier": "core",
-      "phonetic": "/ʃˈɪmɚɪŋ/",
+      "phonetic": "/'ʃimә/",
       "partOfSpeech": "v.",
       "meaning": "闪闪发光的",
-      "wordForms": "原文词形：shimmering",
+      "wordForms": "第三人称单数 shimmers · 过去式 shimmered · 现在分词 shimmering",
       "sentence": "Then the cat disappeared in the shimmering waves of heat.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/shimmering.mp3",
       "phonics": [
@@ -79,19 +82,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "mm",
-          "sound": "/mm/",
-          "rule": "辅音连缀"
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
         },
         {
           "letters": "er",
           "sound": "/ər/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -220,15 +223,17 @@
     },
     {
       "id": "bounding",
-      "word": "bounding",
+      "word": "bound",
       "forms": [
-        "bounding"
+        "bounding",
+        "bound",
+        "bounds"
       ],
       "tier": "core",
-      "phonetic": "/bˈaʊndɪŋ/",
+      "phonetic": "/baund/",
       "partOfSpeech": "v.",
       "meaning": "边界",
-      "wordForms": "原文词形：bounding",
+      "wordForms": "第三人称单数 bounds · 过去式 bound · 现在分词 bounding",
       "sentence": "The cat was bounding away, over the sand.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/bounding.mp3",
       "phonics": [
@@ -246,11 +251,6 @@
           "letters": "nd",
           "sound": "/nd/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -261,15 +261,18 @@
     },
     {
       "id": "rumbling",
-      "word": "rumbling",
+      "word": "rumble",
       "forms": [
-        "rumbling"
+        "rumbling",
+        "rumble",
+        "rumbles",
+        "rumbled"
       ],
       "tier": "core",
-      "phonetic": "/rˈʌmbəlɪŋ/",
+      "phonetic": "/'rʌmbl/",
       "partOfSpeech": "v.",
       "meaning": "隆隆声",
-      "wordForms": "原文词形：rumbling",
+      "wordForms": "第三人称单数 rumbles · 过去式 rumbled · 现在分词 rumbling",
       "sentence": "Suddenly he heard a rumbling sound.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/rumbling.mp3",
       "phonics": [
@@ -284,14 +287,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "mbl",
-          "sound": "/mbl/",
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
           "rule": "辅音连缀"
         },
         {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -348,15 +356,18 @@
     },
     {
       "id": "frowned",
-      "word": "frowned",
+      "word": "frown",
       "forms": [
-        "frowned"
+        "frowned",
+        "frown",
+        "frowns",
+        "frowning"
       ],
       "tier": "core",
-      "phonetic": "/frˈaʊnd/",
+      "phonetic": "/fraun/",
       "partOfSpeech": "v.",
       "meaning": "皱起眉头",
-      "wordForms": "原文词形：frowned",
+      "wordForms": "第三人称单数 frowns · 过去式 frowned · 现在分词 frowning",
       "sentence": "Jack frowned.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/frowned.mp3",
       "phonics": [
@@ -374,11 +385,6 @@
           "letters": "n",
           "sound": "/n/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -389,15 +395,18 @@
     },
     {
       "id": "pushing",
-      "word": "pushing",
+      "word": "push",
       "forms": [
-        "pushing"
+        "pushing",
+        "push",
+        "pushes",
+        "pushed"
       ],
       "tier": "core",
-      "phonetic": "/pˈʊʃɪŋ/",
+      "phonetic": "/puʃ/",
       "partOfSpeech": "v.",
       "meaning": "推动",
-      "wordForms": "原文词形：pushing",
+      "wordForms": "第三人称单数 pushes · 过去式 pushed · 现在分词 pushing",
       "sentence": "Jack and Annie stopped pushing.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/pushing.mp3",
       "phonics": [
@@ -415,11 +424,6 @@
           "letters": "sh",
           "sound": "/ʃ/",
           "rule": "辅音组合"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -430,15 +434,18 @@
     },
     {
       "id": "sailing",
-      "word": "sailing",
+      "word": "sail",
       "forms": [
-        "sailing"
+        "sailing",
+        "sail",
+        "sails",
+        "sailed"
       ],
       "tier": "recognition",
-      "phonetic": "/sˈeɪlɪŋ/",
+      "phonetic": "/seil/",
       "partOfSpeech": "v.",
       "meaning": "航行",
-      "wordForms": "原文词形：sailing",
+      "wordForms": "第三人称单数 sails · 过去式 sailed · 现在分词 sailing",
       "sentence": "It was gliding over the sand like a boat sailing over the sea.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/sailing.mp3"
     },
@@ -458,15 +465,18 @@
     },
     {
       "id": "trapped",
-      "word": "trapped",
+      "word": "trap",
       "forms": [
-        "trapped"
+        "trapped",
+        "trap",
+        "traps",
+        "trapping"
       ],
       "tier": "recognition",
-      "phonetic": "/trˈæpt/",
+      "phonetic": "/træp/",
       "partOfSpeech": "v.",
       "meaning": "被困",
-      "wordForms": "原文词形：trapped",
+      "wordForms": "第三人称单数 traps · 过去式 trapped · 现在分词 trapping",
       "sentence": "They were trapped.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/trapped.mp3"
     },
@@ -486,15 +496,18 @@
     },
     {
       "id": "leaned",
-      "word": "leaned",
+      "word": "lean",
       "forms": [
-        "leaned"
+        "leaned",
+        "lean",
+        "leans",
+        "leaning"
       ],
       "tier": "recognition",
-      "phonetic": "/lˈind/",
+      "phonetic": "/li:n/",
       "partOfSpeech": "v.",
       "meaning": "lean的过去式和过去分词",
-      "wordForms": "原文词形：leaned",
+      "wordForms": "第三人称单数 leans · 过去式 leaned · 现在分词 leaning",
       "sentence": "They leaned against the wooden door and pushed.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-09/leaned.mp3"
     },

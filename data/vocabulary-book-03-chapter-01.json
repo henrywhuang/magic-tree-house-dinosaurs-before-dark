@@ -5,15 +5,18 @@
   "words": [
     {
       "id": "soaked",
-      "word": "soaked",
+      "word": "soak",
       "forms": [
-        "soaked"
+        "soaked",
+        "soak",
+        "soaks",
+        "soaking"
       ],
       "tier": "core",
-      "phonetic": "/sˈoʊkt/",
+      "phonetic": "/sәuk/",
       "partOfSpeech": "v.",
       "meaning": "湿透的；浸湿的",
-      "wordForms": "原文词形：soaked",
+      "wordForms": "第三人称单数 soaks · 过去式 soaked · 现在分词 soaking",
       "sentence": "The book hadgotten soaked in a castle moat, but today it lookedfine.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/soaked.mp3",
       "phonics": [
@@ -31,11 +34,6 @@
           "letters": "k",
           "sound": "/k/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -97,15 +95,18 @@
     },
     {
       "id": "gazed",
-      "word": "gazed",
+      "word": "gaze",
       "forms": [
-        "gazed"
+        "gazed",
+        "gaze",
+        "gazes",
+        "gazing"
       ],
       "tier": "core",
-      "phonetic": "/ɡeizd/",
+      "phonetic": "/geiz/",
       "partOfSpeech": "v.",
       "meaning": "凝视；注视",
-      "wordForms": "原文词形：gazed",
+      "wordForms": "第三人称单数 gazes · 过去式 gazed · 现在分词 gazing",
       "sentence": "Jack and his seven-year-old sister gazed up at a very tall oak tree.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/gazed.mp3",
       "phonics": [
@@ -125,9 +126,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -378,15 +379,18 @@
     },
     {
       "id": "watching",
-      "word": "watching",
+      "word": "watch",
       "forms": [
-        "watching"
+        "watching",
+        "watch",
+        "watches",
+        "watched"
       ],
       "tier": "core",
-      "phonetic": "/wˈɑtʃɪŋ/",
+      "phonetic": "/wɒtʃ/",
       "partOfSpeech": "ver.",
       "meaning": "观看",
-      "wordForms": "原文词形：watching",
+      "wordForms": "第三人称单数 watches · 过去式 watched · 现在分词 watching",
       "sentence": "Was the mysterious M person watching him now?",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/watching.mp3",
       "phonics": [
@@ -403,12 +407,7 @@
         {
           "letters": "tch",
           "sound": "/tʃ/",
-          "rule": "辅音连缀"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "rule": "辅音组合"
         }
       ],
       "options": [
@@ -419,15 +418,18 @@
     },
     {
       "id": "whistled",
-      "word": "whistled",
+      "word": "whistle",
       "forms": [
-        "whistled"
+        "whistled",
+        "whistle",
+        "whistles",
+        "whistling"
       ],
       "tier": "core",
-      "phonetic": "/wˈɪsəld/",
+      "phonetic": "/'hwisl/",
       "partOfSpeech": "ver.",
       "meaning": "吹口哨",
-      "wordForms": "原文词形：whistled",
+      "wordForms": "第三人称单数 whistles · 过去式 whistled · 现在分词 whistling",
       "sentence": "The wind whistled louder.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/whistled.mp3",
       "phonics": [
@@ -442,14 +444,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "stl",
-          "sound": "/stl/",
+          "letters": "st",
+          "sound": "/st/",
           "rule": "辅音连缀"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -502,15 +509,18 @@
     },
     {
       "id": "cleared",
-      "word": "cleared",
+      "word": "clear",
       "forms": [
-        "cleared"
+        "cleared",
+        "clear",
+        "clears",
+        "clearing"
       ],
       "tier": "recognition",
-      "phonetic": "/klˈɪrd/",
+      "phonetic": "/kliә/",
       "partOfSpeech": "ver.",
       "meaning": "已清除",
-      "wordForms": "原文词形：cleared",
+      "wordForms": "第三人称单数 clears · 过去式 cleared · 现在分词 clearing",
       "sentence": "He cleared his throat and said, \"I wish we could go to this place.\"",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/cleared.mp3"
     },
@@ -530,15 +540,18 @@
     },
     {
       "id": "pulling",
-      "word": "pulling",
+      "word": "pull",
       "forms": [
-        "pulling"
+        "pulling",
+        "pull",
+        "pulls",
+        "pulled"
       ],
       "tier": "recognition",
-      "phonetic": "/pˈʊlɪŋ/",
+      "phonetic": "/pul/",
       "partOfSpeech": "ver.",
       "meaning": "拉",
-      "wordForms": "原文词形：pulling",
+      "wordForms": "第三人称单数 pulls · 过去式 pulled · 现在分词 pulling",
       "sentence": "Four huge cows with horns were pulling a sled.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-01/pulling.mp3"
     }

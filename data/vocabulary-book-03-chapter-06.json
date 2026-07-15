@@ -51,15 +51,18 @@
     },
     {
       "id": "puzzled",
-      "word": "puzzled",
+      "word": "puzzle",
       "forms": [
-        "puzzled"
+        "puzzled",
+        "puzzle",
+        "puzzles",
+        "puzzling"
       ],
       "tier": "core",
-      "phonetic": "/pˈʌzəld/",
+      "phonetic": "/'pʌzl/",
       "partOfSpeech": "v.",
       "meaning": "困惑的；不解的",
-      "wordForms": "原文词形：puzzled",
+      "wordForms": "第三人称单数 puzzles · 过去式 puzzled · 现在分词 puzzling",
       "sentence": "The ghost-queen looked puzzled.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-06/puzzled.mp3",
       "phonics": [
@@ -74,14 +77,24 @@
           "rule": "字母音"
         },
         {
-          "letters": "zzl",
-          "sound": "/zzl/",
-          "rule": "辅音连缀"
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -92,15 +105,18 @@
     },
     {
       "id": "folded",
-      "word": "folded",
+      "word": "fold",
       "forms": [
-        "folded"
+        "folded",
+        "fold",
+        "folds",
+        "folding"
       ],
       "tier": "core",
-      "phonetic": "/fˈoʊldəd/",
+      "phonetic": "/fәuld/",
       "partOfSpeech": "v.",
       "meaning": "折叠的",
-      "wordForms": "原文词形：folded",
+      "wordForms": "第三人称单数 folds · 过去式 folded · 现在分词 folding",
       "sentence": "\"A folded cloth,\" said the ghost-queen.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-06/folded.mp3",
       "phonics": [
@@ -118,11 +134,6 @@
           "letters": "ld",
           "sound": "/ld/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -133,27 +144,35 @@
     },
     {
       "id": "excited",
-      "word": "excited",
+      "word": "excite",
       "forms": [
-        "excited"
+        "excited",
+        "excite",
+        "excites",
+        "exciting"
       ],
       "tier": "core",
-      "phonetic": "/ɪksˈaɪtəd/",
+      "phonetic": "/ik'sait/",
       "partOfSpeech": "v.",
       "meaning": "兴奋的",
-      "wordForms": "原文词形：excited",
+      "wordForms": "第三人称单数 excites · 过去式 excited · 现在分词 exciting",
       "sentence": "She sounded excited.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-06/excited.mp3",
       "phonics": [
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         },
         {
-          "letters": "xc",
-          "sound": "/xc/",
-          "rule": "辅音连缀"
+          "letters": "x",
+          "sound": "/ks/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
         },
         {
           "letters": "i",
@@ -166,9 +185,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -179,15 +198,18 @@
     },
     {
       "id": "floated",
-      "word": "floated",
+      "word": "float",
       "forms": [
-        "floated"
+        "floated",
+        "float",
+        "floats",
+        "floating"
       ],
       "tier": "core",
-      "phonetic": "/flˈoʊtəd/",
+      "phonetic": "/flәut/",
       "partOfSpeech": "v.",
       "meaning": "漂浮；飘动",
-      "wordForms": "原文词形：floated",
+      "wordForms": "第三人称单数 floats · 过去式 floated · 现在分词 floating",
       "sentence": "And she floated away.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-06/floated.mp3",
       "phonics": [
@@ -205,11 +227,6 @@
           "letters": "t",
           "sound": "/t/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -404,15 +421,18 @@
     },
     {
       "id": "curved",
-      "word": "curved",
+      "word": "curve",
       "forms": [
-        "curved"
+        "curved",
+        "curve",
+        "curves",
+        "curving"
       ],
       "tier": "core",
-      "phonetic": "/kˈɝvd/",
+      "phonetic": "/kә:v/",
       "partOfSpeech": "ver.",
       "meaning": "弯曲",
-      "wordForms": "原文词形：curved",
+      "wordForms": "第三人称单数 curves · 过去式 curved · 现在分词 curving",
       "sentence": "\"Like a curved stick,\" said Jack.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-06/curved.mp3",
       "phonics": [
@@ -432,9 +452,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -445,43 +465,52 @@
     },
     {
       "id": "droops",
-      "word": "droops",
+      "word": "droop",
       "forms": [
-        "droops"
+        "droops",
+        "droop",
+        "drooped",
+        "drooping"
       ],
       "tier": "recognition",
-      "phonetic": "/dɹuːps/",
+      "phonetic": "/dru:p/",
       "partOfSpeech": "ver.",
       "meaning": "下垂",
-      "wordForms": "原文词形：droops",
+      "wordForms": "第三人称单数 droops · 过去式 drooped · 现在分词 drooping",
       "sentence": "\"And the last one looks like a pole that droops,\" said Annie.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-06/droops.mp3"
     },
     {
       "id": "nodded",
-      "word": "nodded",
+      "word": "nod",
       "forms": [
-        "nodded"
+        "nodded",
+        "nod",
+        "nods",
+        "nodding"
       ],
       "tier": "recognition",
-      "phonetic": "/nˈɑdəd/",
+      "phonetic": "/nɒd/",
       "partOfSpeech": "ver.",
       "meaning": "点点头",
-      "wordForms": "原文词形：nodded",
+      "wordForms": "第三人称单数 nods · 过去式 nodded · 现在分词 nodding",
       "sentence": "She nodded.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-06/nodded.mp3"
     },
     {
       "id": "seemed",
-      "word": "seemed",
+      "word": "seem",
       "forms": [
-        "seemed"
+        "seemed",
+        "seem",
+        "seems",
+        "seeming"
       ],
       "tier": "recognition",
-      "phonetic": "/sˈimd/",
+      "phonetic": "/si:m/",
       "partOfSpeech": "v.",
       "meaning": "装作；似乎（seem的过去式）",
-      "wordForms": "原文词形：seemed",
+      "wordForms": "第三人称单数 seems · 过去式 seemed · 现在分词 seeming",
       "sentence": "The ghost-queen still seemed puzzled.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-06/seemed.mp3"
     },
@@ -501,15 +530,18 @@
     },
     {
       "id": "smiled",
-      "word": "smiled",
+      "word": "smile",
       "forms": [
-        "smiled"
+        "smiled",
+        "smile",
+        "smiles",
+        "smiling"
       ],
       "tier": "recognition",
-      "phonetic": "/smˈaɪld/",
+      "phonetic": "/smail/",
       "partOfSpeech": "v.",
       "meaning": "vbl. 以微笑表示；微笑",
-      "wordForms": "原文词形：smiled",
+      "wordForms": "第三人称单数 smiles · 过去式 smiled · 现在分词 smiling",
       "sentence": "She smiled.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-06/smiled.mp3"
     },

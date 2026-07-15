@@ -5,32 +5,50 @@
   "words": [
     {
       "id": "recognized",
-      "word": "recognized",
+      "word": "recognize",
       "forms": [
-        "recognized"
+        "recognized",
+        "recognize",
+        "recognizes",
+        "recognizing"
       ],
       "tier": "core",
-      "phonetic": "/rˈɛkəɡnˌaɪzd/",
+      "phonetic": "/'rekәgnaiz/",
       "partOfSpeech": "v.",
       "meaning": "认出；辨认出",
-      "wordForms": "原文词形：recognized",
+      "wordForms": "第三人称单数 recognizes · 过去式 recognized · 现在分词 recognizing",
       "sentence": "He recognized it as a Pteranodon.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/recognized.mp3",
       "phonics": [
         {
-          "letters": "re",
-          "sound": "/re/",
-          "rule": "元音组合"
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
         },
         {
-          "letters": "co",
-          "sound": "/co/",
-          "rule": "元音组合"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         },
         {
-          "letters": "gn",
-          "sound": "/gn/",
-          "rule": "辅音连缀"
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
         },
         {
           "letters": "i",
@@ -43,9 +61,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -235,21 +253,24 @@
     },
     {
       "id": "crawled",
-      "word": "crawled",
+      "word": "crawl",
       "forms": [
-        "crawled"
+        "crawled",
+        "crawl",
+        "crawls",
+        "crawling"
       ],
       "tier": "core",
-      "phonetic": "/krɔ:ld/",
+      "phonetic": "/krɒ:l/",
       "partOfSpeech": "v.",
       "meaning": "爬行",
-      "wordForms": "原文词形：crawled",
+      "wordForms": "第三人称单数 crawls · 过去式 crawled · 现在分词 crawling",
       "sentence": "Jack crawled into the tree house.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/crawled.mp3",
       "phonics": [
         {
           "letters": "cr",
-          "sound": "/cr/",
+          "sound": "/kr/",
           "rule": "辅音连缀"
         },
         {
@@ -261,11 +282,6 @@
           "letters": "l",
           "sound": "/l/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -530,15 +546,18 @@
     },
     {
       "id": "crouched",
-      "word": "crouched",
+      "word": "crouch",
       "forms": [
-        "crouched"
+        "crouched",
+        "crouch",
+        "crouches",
+        "crouching"
       ],
       "tier": "recognition",
-      "phonetic": "/krautʃt/",
+      "phonetic": "/'krautʃ/",
       "partOfSpeech": "v.",
       "meaning": "屈膝；蹲伏( crouch的过去式和过去分词 )",
-      "wordForms": "原文词形：crouched",
+      "wordForms": "第三人称单数 crouches · 过去式 crouched · 现在分词 crouching",
       "sentence": "Jack and Annie crouched on the floor.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-02/crouched.mp3"
     }

@@ -5,21 +5,24 @@
   "words": [
     {
       "id": "scooped",
-      "word": "scooped",
+      "word": "scoop",
       "forms": [
-        "scooped"
+        "scooped",
+        "scoop",
+        "scoops",
+        "scooping"
       ],
       "tier": "core",
-      "phonetic": "/sku:pt/",
+      "phonetic": "/sku:p/",
       "partOfSpeech": "v.",
       "meaning": "迅速抱起；舀起",
-      "wordForms": "原文词形：scooped",
+      "wordForms": "第三人称单数 scoops · 过去式 scooped · 现在分词 scooping",
       "sentence": "He scooped it up.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/scooped.mp3",
       "phonics": [
         {
           "letters": "sc",
-          "sound": "/sc/",
+          "sound": "/sk/",
           "rule": "辅音连缀"
         },
         {
@@ -31,11 +34,6 @@
           "letters": "p",
           "sound": "/p/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -46,15 +44,19 @@
     },
     {
       "id": "leaped",
-      "word": "leaped",
+      "word": "leap",
       "forms": [
-        "leaped"
+        "leaped",
+        "leap",
+        "leaps",
+        "leapt",
+        "leaping"
       ],
       "tier": "core",
-      "phonetic": "/lˈɛpt/",
+      "phonetic": "/li:p/",
       "partOfSpeech": "v.",
       "meaning": "跳跃",
-      "wordForms": "原文词形：leaped",
+      "wordForms": "第三人称单数 leaps · 过去式 leapt · 现在分词 leaping",
       "sentence": "Annie leaped to the window.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/leaped.mp3",
       "phonics": [
@@ -72,11 +74,6 @@
           "letters": "p",
           "sound": "/p/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -87,15 +84,18 @@
     },
     {
       "id": "stopped",
-      "word": "stopped",
+      "word": "stop",
       "forms": [
-        "stopped"
+        "stopped",
+        "stop",
+        "stops",
+        "stopping"
       ],
       "tier": "core",
-      "phonetic": "/stɔpt/",
+      "phonetic": "/stɒp/",
       "partOfSpeech": "v.",
       "meaning": "停止；停下来（stop的过去式和过去分词）",
-      "wordForms": "原文词形：stopped",
+      "wordForms": "第三人称单数 stops · 过去式 stopped · 现在分词 stopping",
       "sentence": "But then the monster stopped and turned around.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/stopped.mp3",
       "phonics": [
@@ -110,14 +110,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "pp",
-          "sound": "/pp/",
-          "rule": "辅音连缀"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -292,15 +287,18 @@
     },
     {
       "id": "wandering",
-      "word": "wandering",
+      "word": "wander",
       "forms": [
-        "wandering"
+        "wandering",
+        "wander",
+        "wanders",
+        "wandered"
       ],
       "tier": "core",
-      "phonetic": "/'wɒndәriŋ/",
+      "phonetic": "/'wɒndә/",
       "partOfSpeech": "v.",
       "meaning": "漫游的；徘徊的",
-      "wordForms": "原文词形：wandering",
+      "wordForms": "第三人称单数 wanders · 过去式 wandered · 现在分词 wandering",
       "sentence": "The Tyrannosaurus was wandering off.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/wandering.mp3",
       "phonics": [
@@ -323,11 +321,6 @@
           "letters": "er",
           "sound": "/ər/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -340,13 +333,16 @@
       "id": "remember",
       "word": "remember",
       "forms": [
-        "remember"
+        "remember",
+        "remembers",
+        "remembered",
+        "remembering"
       ],
       "tier": "core",
       "phonetic": "/ri'membә/",
       "partOfSpeech": "v.",
       "meaning": "记得；回忆起",
-      "wordForms": "原文词形：remember",
+      "wordForms": "第三人称单数 remembers · 过去式 remembered · 现在分词 remembering",
       "sentence": "Remember?\"",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/remember.mp3",
       "phonics": [
@@ -357,7 +353,7 @@
         },
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         },
         {
@@ -367,13 +363,18 @@
         },
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         },
         {
-          "letters": "mb",
-          "sound": "/mb/",
-          "rule": "辅音连缀"
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
         },
         {
           "letters": "er",
@@ -440,15 +441,18 @@
     },
     {
       "id": "grabbed",
-      "word": "grabbed",
+      "word": "grab",
       "forms": [
-        "grabbed"
+        "grabbed",
+        "grab",
+        "grabs",
+        "grabbing"
       ],
       "tier": "recognition",
-      "phonetic": "/ɡrˈæbd/",
+      "phonetic": "/græb/",
       "partOfSpeech": "v.",
       "meaning": "攫取；捕获",
-      "wordForms": "原文词形：grabbed",
+      "wordForms": "第三人称单数 grabs · 过去式 grabbed · 现在分词 grabbing",
       "sentence": "He grabbed the dinosaur book.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/grabbed.mp3"
     },
@@ -468,15 +472,18 @@
     },
     {
       "id": "panting",
-      "word": "panting",
+      "word": "pant",
       "forms": [
-        "panting"
+        "panting",
+        "pant",
+        "pants",
+        "panted"
       ],
       "tier": "recognition",
-      "phonetic": "/'pæntiŋ/",
+      "phonetic": "/pænt/",
       "partOfSpeech": "v.",
       "meaning": "气促；呼吸困难",
-      "wordForms": "原文词形：panting",
+      "wordForms": "第三人称单数 pants · 过去式 panted · 现在分词 panting",
       "sentence": "she said, panting.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/panting.mp3"
     },
@@ -510,15 +517,18 @@
     },
     {
       "id": "dashed",
-      "word": "dashed",
+      "word": "dash",
       "forms": [
-        "dashed"
+        "dashed",
+        "dash",
+        "dashes",
+        "dashing"
       ],
       "tier": "recognition",
-      "phonetic": "/dæʃt/",
+      "phonetic": "/dæʃ/",
       "partOfSpeech": "v.",
       "meaning": "虚线",
-      "wordForms": "原文词形：dashed",
+      "wordForms": "第三人称单数 dashes · 过去式 dashed · 现在分词 dashing",
       "sentence": "Jack and Annie dashed down the hill together.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-07/dashed.mp3"
     }

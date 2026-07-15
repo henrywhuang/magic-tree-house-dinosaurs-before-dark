@@ -5,15 +5,18 @@
   "words": [
     {
       "id": "steadied",
-      "word": "steadied",
+      "word": "steady",
       "forms": [
-        "steadied"
+        "steadied",
+        "steady",
+        "steadies",
+        "steadying"
       ],
       "tier": "core",
-      "phonetic": "/ˈstedid/",
+      "phonetic": "/'stedi/",
       "partOfSpeech": "v.",
       "meaning": "使站稳；扶稳",
-      "wordForms": "原文词形：steadied",
+      "wordForms": "第三人称单数 steadies · 过去式 steadied · 现在分词 steadying",
       "sentence": "The Pteranodon steadied himself and rose into the sky.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/steadied.mp3",
       "phonics": [
@@ -33,14 +36,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "i",
-          "sound": "/ɪ/",
+          "letters": "y",
+          "sound": "/y/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -51,15 +49,18 @@
     },
     {
       "id": "teetered",
-      "word": "teetered",
+      "word": "teeter",
       "forms": [
-        "teetered"
+        "teetered",
+        "teeter",
+        "teeters",
+        "teetering"
       ],
       "tier": "core",
-      "phonetic": "/ˈti:təd/",
+      "phonetic": "/'ti:tә/",
       "partOfSpeech": "v.",
       "meaning": "摇摇欲坠",
-      "wordForms": "原文词形：teetered",
+      "wordForms": "第三人称单数 teeters · 过去式 teetered · 现在分词 teetering",
       "sentence": "Jack nearly fell off as they teetered this way and that.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/teetered.mp3",
       "phonics": [
@@ -82,11 +83,6 @@
           "letters": "er",
           "sound": "/ər/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -97,15 +93,18 @@
     },
     {
       "id": "circled",
-      "word": "circled",
+      "word": "circle",
       "forms": [
-        "circled"
+        "circled",
+        "circle",
+        "circles",
+        "circling"
       ],
       "tier": "core",
-      "phonetic": "/ˈsə:kld/",
+      "phonetic": "/'sә:kl/",
       "partOfSpeech": "v.",
       "meaning": "盘旋；绕圈",
-      "wordForms": "原文词形：circled",
+      "wordForms": "第三人称单数 circles · 过去式 circled · 现在分词 circling",
       "sentence": "He circled above all the duck-billed dinosaurs and all the nests filled with babies.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/circled.mp3",
       "phonics": [
@@ -121,13 +120,13 @@
         },
         {
           "letters": "cl",
-          "sound": "/cl/",
+          "sound": "/kl/",
           "rule": "辅音连缀"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -174,15 +173,18 @@
     },
     {
       "id": "lifted",
-      "word": "lifted",
+      "word": "lift",
       "forms": [
-        "lifted"
+        "lifted",
+        "lift",
+        "lifts",
+        "lifting"
       ],
       "tier": "core",
-      "phonetic": "/lˈɪftəd/",
+      "phonetic": "/lift/",
       "partOfSpeech": "v.",
       "meaning": "提升的",
-      "wordForms": "原文词形：lifted",
+      "wordForms": "第三人称单数 lifts · 过去式 lifted · 现在分词 lifting",
       "sentence": "He spread his wings—and lifted off the ground!",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/lifted.mp3",
       "phonics": [
@@ -200,11 +202,6 @@
           "letters": "ft",
           "sound": "/ft/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -215,15 +212,18 @@
     },
     {
       "id": "riding",
-      "word": "riding",
+      "word": "ride",
       "forms": [
-        "riding"
+        "riding",
+        "ride",
+        "rides",
+        "rode"
       ],
       "tier": "core",
-      "phonetic": "/'raidiŋ/",
+      "phonetic": "/raid/",
       "partOfSpeech": "v.",
       "meaning": "骑；乘车",
-      "wordForms": "原文词形：riding",
+      "wordForms": "第三人称单数 rides · 过去式 rode · 现在分词 riding",
       "sentence": "He was riding on the back of an ancient flying reptile!",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/riding.mp3",
       "phonics": [
@@ -243,9 +243,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -448,15 +448,18 @@
     },
     {
       "id": "chomping",
-      "word": "chomping",
+      "word": "chomp",
       "forms": [
-        "chomping"
+        "chomping",
+        "chomp",
+        "chomps",
+        "chomped"
       ],
       "tier": "recognition",
-      "phonetic": "/tʃɔmpɪŋ/",
+      "phonetic": "/tʃɒmp/",
       "partOfSpeech": "v.",
       "meaning": "切齿；格格地咬牙",
-      "wordForms": "原文词形：chomping",
+      "wordForms": "第三人称单数 chomps · 过去式 chomped · 现在分词 chomping",
       "sentence": "The Tyrannosaurus was staringup at him and chomping the air.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/chomping.mp3"
     },
@@ -476,29 +479,35 @@
     },
     {
       "id": "flashing",
-      "word": "flashing",
+      "word": "flash",
       "forms": [
-        "flashing"
+        "flashing",
+        "flash",
+        "flashes",
+        "flashed"
       ],
       "tier": "recognition",
-      "phonetic": "/'flæʃiŋ/",
+      "phonetic": "/flæʃ/",
       "partOfSpeech": "v.",
       "meaning": "闪光；遮雨板",
-      "wordForms": "原文词形：flashing",
+      "wordForms": "第三人称单数 flashes · 过去式 flashed · 现在分词 flashing",
       "sentence": "Its giant teeth were flashing in the sunlight.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/flashing.mp3"
     },
     {
       "id": "screamed",
-      "word": "screamed",
+      "word": "scream",
       "forms": [
-        "screamed"
+        "screamed",
+        "scream",
+        "screams",
+        "screaming"
       ],
       "tier": "recognition",
-      "phonetic": "/sk'ri:md/",
+      "phonetic": "/skri:m/",
       "partOfSpeech": "v.",
       "meaning": "（因伤痛、害怕、激动等）尖叫 ~发出尖叫声( scream的过去",
-      "wordForms": "原文词形：screamed",
+      "wordForms": "第三人称单数 screams · 过去式 screamed · 现在分词 screaming",
       "sentence": "screamed Annie.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-09/screamed.mp3"
     }

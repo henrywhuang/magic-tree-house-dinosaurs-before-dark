@@ -5,15 +5,18 @@
   "words": [
     {
       "id": "tingled",
-      "word": "tingled",
+      "word": "tingle",
       "forms": [
-        "tingled"
+        "tingled",
+        "tingle",
+        "tingles",
+        "tingling"
       ],
       "tier": "core",
-      "phonetic": "/ˈtɪŋɡəld/",
+      "phonetic": "/'tiŋgl/",
       "partOfSpeech": "v.",
       "meaning": "感到麻酥酥；刺痛",
-      "wordForms": "原文词形：tingled",
+      "wordForms": "第三人称单数 tingles · 过去式 tingled · 现在分词 tingling",
       "sentence": "His skin tingled.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/tingled.mp3",
       "phonics": [
@@ -23,9 +26,14 @@
           "rule": "字母音"
         },
         {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
         },
         {
           "letters": "l",
@@ -33,9 +41,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -281,15 +289,18 @@
     },
     {
       "id": "shining",
-      "word": "shining",
+      "word": "shine",
       "forms": [
-        "shining"
+        "shining",
+        "shine",
+        "shines",
+        "shone"
       ],
       "tier": "core",
-      "phonetic": "/ʃˈaɪnɪŋ/",
+      "phonetic": "/ʃain/",
       "partOfSpeech": "v.",
       "meaning": "灼灼",
-      "wordForms": "原文词形：shining",
+      "wordForms": "第三人称单数 shines · 过去式 shone · 现在分词 shining",
       "sentence": "Something was shining on the floor.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/shining.mp3",
       "phonics": [
@@ -309,9 +320,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -322,15 +333,18 @@
     },
     {
       "id": "talking",
-      "word": "talking",
+      "word": "talk",
       "forms": [
-        "talking"
+        "talking",
+        "talk",
+        "talks",
+        "talked"
       ],
       "tier": "core",
-      "phonetic": "/'tɒ:kiŋ/",
+      "phonetic": "/tɒ:k/",
       "partOfSpeech": "v.",
       "meaning": "说话的；多嘴的",
-      "wordForms": "原文词形：talking",
+      "wordForms": "第三人称单数 talks · 过去式 talked · 现在分词 talking",
       "sentence": "\"Who are you talking to?\"",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/talking.mp3",
       "phonics": [
@@ -345,14 +359,14 @@
           "rule": "字母音"
         },
         {
-          "letters": "lk",
-          "sound": "/lk/",
-          "rule": "辅音连缀"
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
         },
         {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -363,15 +377,18 @@
     },
     {
       "id": "touched",
-      "word": "touched",
+      "word": "touch",
       "forms": [
-        "touched"
+        "touched",
+        "touch",
+        "touches",
+        "touching"
       ],
       "tier": "core",
-      "phonetic": "/tʌtʃt/",
+      "phonetic": "/tʌtʃ/",
       "partOfSpeech": "v.",
       "meaning": "精神不太正常的；受感动的",
-      "wordForms": "原文词形：touched",
+      "wordForms": "第三人称单数 touches · 过去式 touched · 现在分词 touching",
       "sentence": "Jack touched the M with his finger.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/touched.mp3",
       "phonics": [
@@ -389,11 +406,6 @@
           "letters": "ch",
           "sound": "/tʃ/",
           "rule": "辅音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -404,15 +416,18 @@
     },
     {
       "id": "danced",
-      "word": "danced",
+      "word": "dance",
       "forms": [
-        "danced"
+        "danced",
+        "dance",
+        "dances",
+        "dancing"
       ],
       "tier": "core",
-      "phonetic": "/dˈænst/",
+      "phonetic": "/dæns. dɑ:ns/",
       "partOfSpeech": "v.",
       "meaning": "跳舞",
-      "wordForms": "原文词形：danced",
+      "wordForms": "第三人称单数 dances · 过去式 danced · 现在分词 dancing",
       "sentence": "Shadows danced on the walls and ceiling.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/danced.mp3",
       "phonics": [
@@ -427,14 +442,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "nc",
-          "sound": "/nc/",
-          "rule": "辅音连缀"
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -487,29 +507,35 @@
     },
     {
       "id": "picked",
-      "word": "picked",
+      "word": "pick",
       "forms": [
-        "picked"
+        "picked",
+        "pick",
+        "picks",
+        "picking"
       ],
       "tier": "recognition",
-      "phonetic": "/pikt/",
+      "phonetic": "/pik/",
       "partOfSpeech": "v.",
       "meaning": "精选的；采摘的",
-      "wordForms": "原文词形：picked",
+      "wordForms": "第三人称单数 picks · 过去式 picked · 现在分词 picking",
       "sentence": "The wind picked up.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/picked.mp3"
     },
     {
       "id": "proved",
-      "word": "proved",
+      "word": "prove",
       "forms": [
-        "proved"
+        "proved",
+        "prove",
+        "proves",
+        "proving"
       ],
       "tier": "recognition",
-      "phonetic": "/prˈuvd/",
+      "phonetic": "/pru:v/",
       "partOfSpeech": "ver.",
       "meaning": "证明了",
-      "wordForms": "原文词形：proved",
+      "wordForms": "第三人称单数 proves · 过去式 proved · 现在分词 proving",
       "sentence": "This absolutely proved the tree house belonged toM.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-10/proved.mp3"
     },

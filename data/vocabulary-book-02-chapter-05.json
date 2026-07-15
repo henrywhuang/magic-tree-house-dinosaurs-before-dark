@@ -46,21 +46,24 @@
     },
     {
       "id": "echoed",
-      "word": "echoed",
+      "word": "echo",
       "forms": [
-        "echoed"
+        "echoed",
+        "echo",
+        "echoes",
+        "echoing"
       ],
       "tier": "core",
-      "phonetic": "/ˈekəud/",
+      "phonetic": "/'ekәu/",
       "partOfSpeech": "v.",
       "meaning": "回响",
-      "wordForms": "原文词形：echoed",
+      "wordForms": "第三人称单数 echoes · 过去式 echoed · 现在分词 echoing",
       "sentence": "Jack’s voice echoed inside the metal helmet.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/echoed.mp3",
       "phonics": [
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         },
         {
@@ -72,11 +75,6 @@
           "letters": "o",
           "sound": "/ɒ/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -133,15 +131,18 @@
     },
     {
       "id": "sounded",
-      "word": "sounded",
+      "word": "sound",
       "forms": [
-        "sounded"
+        "sounded",
+        "sound",
+        "sounds",
+        "sounding"
       ],
       "tier": "core",
-      "phonetic": "/sˈaʊndɪd/",
+      "phonetic": "/saund/",
       "partOfSpeech": "v.",
       "meaning": "听起来好像",
-      "wordForms": "原文词形：sounded",
+      "wordForms": "第三人称单数 sounds · 过去式 sounded · 现在分词 sounding",
       "sentence": "Annie sounded far away.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/sounded.mp3",
       "phonics": [
@@ -159,11 +160,6 @@
           "letters": "nd",
           "sound": "/nd/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -425,15 +421,18 @@
     },
     {
       "id": "clattered",
-      "word": "clattered",
+      "word": "clatter",
       "forms": [
-        "clattered"
+        "clattered",
+        "clatter",
+        "clatters",
+        "clattering"
       ],
       "tier": "recognition",
-      "phonetic": "/ˈklætərd/",
+      "phonetic": "/'klætә/",
       "partOfSpeech": "ver.",
       "meaning": "嘎嘎作响",
-      "wordForms": "原文词形：clattered",
+      "wordForms": "第三人称单数 clatters · 过去式 clattered · 现在分词 clattering",
       "sentence": "Metal plates and weapons clattered to the floor.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/clattered.mp3"
     },
@@ -453,43 +452,52 @@
     },
     {
       "id": "struggled",
-      "word": "struggled",
+      "word": "struggle",
       "forms": [
-        "struggled"
+        "struggled",
+        "struggle",
+        "struggles",
+        "struggling"
       ],
       "tier": "recognition",
-      "phonetic": "/strˈʌɡəld/",
+      "phonetic": "/'strʌgl/",
       "partOfSpeech": "ver.",
       "meaning": "挣扎着",
-      "wordForms": "原文词形：struggled",
+      "wordForms": "第三人称单数 struggles · 过去式 struggled · 现在分词 struggling",
       "sentence": "He struggled to get the helmet off.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/struggled.mp3"
     },
     {
       "id": "crashing",
-      "word": "crashing",
+      "word": "crash",
       "forms": [
-        "crashing"
+        "crashing",
+        "crash",
+        "crashes",
+        "crashed"
       ],
       "tier": "recognition",
-      "phonetic": "/krˈæʃɪŋ/",
+      "phonetic": "/kræʃ/",
       "partOfSpeech": "ver.",
       "meaning": "崩溃",
-      "wordForms": "原文词形：crashing",
+      "wordForms": "第三人称单数 crashes · 过去式 crashed · 现在分词 crashing",
       "sentence": "Suddenly he lost his balance and went crashing into other pieces of armor.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/crashing.mp3"
     },
     {
       "id": "stumbled",
-      "word": "stumbled",
+      "word": "stumble",
       "forms": [
-        "stumbled"
+        "stumbled",
+        "stumble",
+        "stumbles",
+        "stumbling"
       ],
       "tier": "recognition",
-      "phonetic": "/stˈʌmbəld/",
+      "phonetic": "/'stʌmbl/",
       "partOfSpeech": "ver.",
       "meaning": "绊倒了",
-      "wordForms": "原文词形：stumbled",
+      "wordForms": "第三人称单数 stumbles · 过去式 stumbled · 现在分词 stumbling",
       "sentence": "Jack and Annie stumbled into a dark, cold room.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-05/stumbled.mp3"
     },

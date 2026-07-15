@@ -56,21 +56,24 @@
     },
     {
       "id": "scrambled",
-      "word": "scrambled",
+      "word": "scramble",
       "forms": [
-        "scrambled"
+        "scrambled",
+        "scramble",
+        "scrambles",
+        "scrambling"
       ],
       "tier": "core",
-      "phonetic": "/skrˈæmbəld/",
+      "phonetic": "/'skræmbl/",
       "partOfSpeech": "v.",
       "meaning": "匆忙爬；争先恐后",
-      "wordForms": "原文词形：scrambled",
+      "wordForms": "第三人称单数 scrambles · 过去式 scrambled · 现在分词 scrambling",
       "sentence": "Jack scrambled after her.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/scrambled.mp3",
       "phonics": [
         {
           "letters": "scr",
-          "sound": "/scr/",
+          "sound": "/skr/",
           "rule": "辅音连缀"
         },
         {
@@ -79,14 +82,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "mbl",
-          "sound": "/mbl/",
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
           "rule": "辅音连缀"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -148,15 +156,18 @@
     },
     {
       "id": "tumbled",
-      "word": "tumbled",
+      "word": "tumble",
       "forms": [
-        "tumbled"
+        "tumbled",
+        "tumble",
+        "tumbles",
+        "tumbling"
       ],
       "tier": "core",
-      "phonetic": "/ˈtʌmbld/",
+      "phonetic": "/tʌmbl/",
       "partOfSpeech": "v.",
       "meaning": "跌倒；翻滚",
-      "wordForms": "原文词形：tumbled",
+      "wordForms": "第三人称单数 tumbles · 过去式 tumbled · 现在分词 tumbling",
       "sentence": "Jack and Annie tumbled into the tree house.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/tumbled.mp3",
       "phonics": [
@@ -171,14 +182,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "mbl",
-          "sound": "/mbl/",
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
           "rule": "辅音连缀"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -276,15 +292,18 @@
     },
     {
       "id": "nudged",
-      "word": "nudged",
+      "word": "nudge",
       "forms": [
-        "nudged"
+        "nudged",
+        "nudge",
+        "nudges",
+        "nudging"
       ],
       "tier": "core",
-      "phonetic": "/nʌdʒd/",
+      "phonetic": "/nʌdʒ/",
       "partOfSpeech": "v.",
       "meaning": "轻推；碰了碰",
-      "wordForms": "原文词形：nudged",
+      "wordForms": "第三人称单数 nudges · 过去式 nudged · 现在分词 nudging",
       "sentence": "He wrote:Annie nudged him.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/nudged.mp3",
       "phonics": [
@@ -301,12 +320,7 @@
         {
           "letters": "dge",
           "sound": "/dʒ/",
-          "rule": "元音组合"
-        },
-        {
-          "letters": "d",
-          "sound": "/d/",
-          "rule": "字母音"
+          "rule": "辅音组合"
         }
       ],
       "options": [
@@ -399,15 +413,18 @@
     },
     {
       "id": "peeked",
-      "word": "peeked",
+      "word": "peek",
       "forms": [
-        "peeked"
+        "peeked",
+        "peek",
+        "peeks",
+        "peeking"
       ],
       "tier": "core",
-      "phonetic": "/pi:kt/",
+      "phonetic": "/pi:k/",
       "partOfSpeech": "v.",
       "meaning": "偷看；瞥见",
-      "wordForms": "原文词形：peeked",
+      "wordForms": "第三人称单数 peeks · 过去式 peeked · 现在分词 peeking",
       "sentence": "Then he and Annie peeked out at the Triceratops.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/peeked.mp3",
       "phonics": [
@@ -425,11 +442,6 @@
           "letters": "k",
           "sound": "/k/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -440,15 +452,18 @@
     },
     {
       "id": "glittering",
-      "word": "glittering",
+      "word": "glitter",
       "forms": [
-        "glittering"
+        "glittering",
+        "glitter",
+        "glitters",
+        "glittered"
       ],
       "tier": "recognition",
-      "phonetic": "/ɡlˈɪtɚɪŋ/",
+      "phonetic": "/'glitә/",
       "partOfSpeech": "v.",
       "meaning": "闪闪发光的；光辉灿烂的",
-      "wordForms": "原文词形：glittering",
+      "wordForms": "第三人称单数 glitters · 过去式 glittered · 现在分词 glittering",
       "sentence": "As Jack started after Annie, he saw something glittering in the tall grass.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/glittering.mp3"
     },
@@ -482,29 +497,35 @@
     },
     {
       "id": "engraved",
-      "word": "engraved",
+      "word": "engrave",
       "forms": [
-        "engraved"
+        "engraved",
+        "engrave",
+        "engraves",
+        "engraving"
       ],
       "tier": "recognition",
-      "phonetic": "/inˈɡreivd/",
+      "phonetic": "/in'greiv/",
       "partOfSpeech": "v.",
       "meaning": "在（硬物）上雕刻（字；画等）( engrave的过去式和过去分词",
-      "wordForms": "原文词形：engraved",
+      "wordForms": "第三人称单数 engraves · 过去式 engraved · 现在分词 engraving",
       "sentence": "A letter was engraved on the medallion: a fancy M.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/engraved.mp3"
     },
     {
       "id": "followed",
-      "word": "followed",
+      "word": "follow",
       "forms": [
-        "followed"
+        "followed",
+        "follow",
+        "follows",
+        "following"
       ],
       "tier": "recognition",
-      "phonetic": "/fˈɑloʊd/",
+      "phonetic": "/'fɒlәu/",
       "partOfSpeech": "v.",
       "meaning": "跟随",
-      "wordForms": "原文词形：followed",
+      "wordForms": "第三人称单数 follows · 过去式 followed · 现在分词 following",
       "sentence": "Annie started down the ladder, and Jack followed her.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-05/followed.mp3"
     },

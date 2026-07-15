@@ -215,15 +215,18 @@
     },
     {
       "id": "stammered",
-      "word": "stammered",
+      "word": "stammer",
       "forms": [
-        "stammered"
+        "stammered",
+        "stammer",
+        "stammers",
+        "stammering"
       ],
       "tier": "core",
-      "phonetic": "/ˈstæmərd/",
+      "phonetic": "/'stæmә/",
       "partOfSpeech": "v.",
       "meaning": "结结巴巴的",
-      "wordForms": "原文词形：stammered",
+      "wordForms": "第三人称单数 stammers · 过去式 stammered · 现在分词 stammering",
       "sentence": "“F-forget it,” stammered Jack.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/stammered.mp3",
       "phonics": [
@@ -238,19 +241,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "mm",
-          "sound": "/mm/",
-          "rule": "辅音连缀"
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
         },
         {
           "letters": "er",
           "sound": "/ər/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -261,15 +264,18 @@
     },
     {
       "id": "trembling",
-      "word": "trembling",
+      "word": "tremble",
       "forms": [
-        "trembling"
+        "trembling",
+        "tremble",
+        "trembles",
+        "trembled"
       ],
       "tier": "core",
-      "phonetic": "/trˈɛmbəlɪŋ/",
+      "phonetic": "/'trembl/",
       "partOfSpeech": "v.",
       "meaning": "发抖",
-      "wordForms": "原文词形：trembling",
+      "wordForms": "第三人称单数 trembles · 过去式 trembled · 现在分词 trembling",
       "sentence": "His hand was trembling.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/trembling.mp3",
       "phonics": [
@@ -280,18 +286,23 @@
         },
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         },
         {
-          "letters": "mbl",
-          "sound": "/mbl/",
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
           "rule": "辅音连缀"
         },
         {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -450,15 +461,18 @@
     },
     {
       "id": "flipped",
-      "word": "flipped",
+      "word": "flip",
       "forms": [
-        "flipped"
+        "flipped",
+        "flip",
+        "flips",
+        "flipping"
       ],
       "tier": "recognition",
-      "phonetic": "/flipt/",
+      "phonetic": "/flip/",
       "partOfSpeech": "v.",
       "meaning": "轻弹( flip的过去式和过去分词 )；按（开关）",
-      "wordForms": "原文词形：flipped",
+      "wordForms": "第三人称单数 flips · 过去式 flipped · 现在分词 flipping",
       "sentence": "He flipped through the book.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/flipped.mp3"
     },
@@ -506,29 +520,35 @@
     },
     {
       "id": "carved",
-      "word": "carved",
+      "word": "carve",
       "forms": [
-        "carved"
+        "carved",
+        "carve",
+        "carves",
+        "carving"
       ],
       "tier": "recognition",
-      "phonetic": "/kˈɑrvd/",
+      "phonetic": "/kɑ:v/",
       "partOfSpeech": "ver.",
       "meaning": "雕刻的",
-      "wordForms": "原文词形：carved",
+      "wordForms": "第三人称单数 carves · 过去式 carved · 现在分词 carving",
       "sentence": "A dog's head was carved on one end.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/carved.mp3"
     },
     {
       "id": "moving",
-      "word": "moving",
+      "word": "move",
       "forms": [
-        "moving"
+        "moving",
+        "move",
+        "moves",
+        "moved"
       ],
       "tier": "recognition",
-      "phonetic": "/mˈuvɪŋ/",
+      "phonetic": "/mu:v/",
       "partOfSpeech": "ver.",
       "meaning": "移动",
-      "wordForms": "原文词形：moving",
+      "wordForms": "第三人称单数 moves · 过去式 moved · 现在分词 moving",
       "sentence": "Another figure was moving slowly toward them.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-04/moving.mp3"
     }

@@ -220,15 +220,18 @@
     },
     {
       "id": "swooshed",
-      "word": "swooshed",
+      "word": "swoosh",
       "forms": [
-        "swooshed"
+        "swooshed",
+        "swoosh",
+        "swooshes",
+        "swooshing"
       ],
       "tier": "core",
-      "phonetic": "/swˈuʃt/",
+      "phonetic": "/swuʃ/",
       "partOfSpeech": "v.",
       "meaning": "旋风",
-      "wordForms": "原文词形：swooshed",
+      "wordForms": "第三人称单数 swooshes · 过去式 swooshed · 现在分词 swooshing",
       "sentence": "It swooshed toward them!",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/swooshed.mp3",
       "phonics": [
@@ -246,11 +249,6 @@
           "letters": "sh",
           "sound": "/ʃ/",
           "rule": "辅音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -261,15 +259,18 @@
     },
     {
       "id": "burning",
-      "word": "burning",
+      "word": "burn",
       "forms": [
-        "burning"
+        "burning",
+        "burn",
+        "burns",
+        "burned"
       ],
       "tier": "core",
-      "phonetic": "/bˈɝnɪŋ/",
+      "phonetic": "/bә:n/",
       "partOfSpeech": "v.",
       "meaning": "燃烧",
-      "wordForms": "原文词形：burning",
+      "wordForms": "第三人称单数 burns · 过去式 burned · 现在分词 burning",
       "sentence": "Burning torches lit the walls.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/burning.mp3",
       "phonics": [
@@ -287,11 +288,6 @@
           "letters": "n",
           "sound": "/n/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -389,15 +385,18 @@
     },
     {
       "id": "became",
-      "word": "became",
+      "word": "become",
       "forms": [
-        "became"
+        "became",
+        "become",
+        "becomes",
+        "becoming"
       ],
       "tier": "core",
-      "phonetic": "/bɪkˈeɪm/",
+      "phonetic": "/bi'kʌm/",
       "partOfSpeech": "ver.",
       "meaning": "成为",
-      "wordForms": "原文词形：became",
+      "wordForms": "第三人称单数 becomes · 过去式 became · 现在分词 becoming",
       "sentence": "Soon the floor became flat.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/became.mp3",
       "phonics": [
@@ -408,7 +407,7 @@
         },
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         },
         {
@@ -417,8 +416,8 @@
           "rule": "字母音"
         },
         {
-          "letters": "a",
-          "sound": "/æ/",
+          "letters": "o",
+          "sound": "/ɒ/",
           "rule": "字母音"
         },
         {
@@ -428,7 +427,7 @@
         },
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         }
       ],
@@ -456,13 +455,16 @@
       "id": "except",
       "word": "except",
       "forms": [
-        "except"
+        "except",
+        "excepts",
+        "excepted",
+        "excepting"
       ],
       "tier": "recognition",
-      "phonetic": "/ɪksˈɛpt/",
+      "phonetic": "/ik'sept/",
       "partOfSpeech": "ver.",
       "meaning": "除了",
-      "wordForms": "原文词形：except",
+      "wordForms": "第三人称单数 excepts · 过去式 excepted · 现在分词 excepting",
       "sentence": "They werenearly all solid stone, except forthe burial chambers deep inside.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/except.mp3"
     },
@@ -496,15 +498,18 @@
     },
     {
       "id": "loomed",
-      "word": "loomed",
+      "word": "loom",
       "forms": [
-        "loomed"
+        "loomed",
+        "loom",
+        "looms",
+        "looming"
       ],
       "tier": "recognition",
-      "phonetic": "/lˈumd/",
+      "phonetic": "/lu:m/",
       "partOfSpeech": "ver.",
       "meaning": "若隐若现",
-      "wordForms": "原文词形：loomed",
+      "wordForms": "第三人称单数 looms · 过去式 loomed · 现在分词 looming",
       "sentence": "Dark shadows loomed.",
       "sentenceAudio": "assets/audio/sentences/book-03-chapter-03/loomed.mp3"
     },

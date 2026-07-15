@@ -205,27 +205,25 @@
     },
     {
       "id": "squeezed",
-      "word": "squeezed",
+      "word": "squeeze",
       "forms": [
-        "squeezed"
+        "squeezed",
+        "squeeze",
+        "squeezes",
+        "squeezing"
       ],
       "tier": "core",
-      "phonetic": "/skwˈizd/",
+      "phonetic": "/skwi:z/",
       "partOfSpeech": "v.",
       "meaning": "挤过；挤压",
-      "wordForms": "原文词形：squeezed",
+      "wordForms": "第三人称单数 squeezes · 过去式 squeezed · 现在分词 squeezing",
       "sentence": "Jack squeezed his eyes shut.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/squeezed.mp3",
       "phonics": [
         {
-          "letters": "s",
-          "sound": "/s/",
-          "rule": "字母音"
-        },
-        {
-          "letters": "qu",
-          "sound": "/kw/",
-          "rule": "元音组合"
+          "letters": "squ",
+          "sound": "/skw/",
+          "rule": "辅音连缀"
         },
         {
           "letters": "ee",
@@ -238,9 +236,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -343,21 +341,24 @@
     },
     {
       "id": "scattered",
-      "word": "scattered",
+      "word": "scatter",
       "forms": [
-        "scattered"
+        "scattered",
+        "scatter",
+        "scatters",
+        "scattering"
       ],
       "tier": "core",
-      "phonetic": "/skˈætɚd/",
+      "phonetic": "/'skætә/",
       "partOfSpeech": "ver.",
       "meaning": "疏散",
-      "wordForms": "原文词形：scattered",
+      "wordForms": "第三人称单数 scatters · 过去式 scattered · 现在分词 scattering",
       "sentence": "Annie shined her flashlight on the books scattered about the floor.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/scattered.mp3",
       "phonics": [
         {
           "letters": "sc",
-          "sound": "/sc/",
+          "sound": "/sk/",
           "rule": "辅音连缀"
         },
         {
@@ -366,19 +367,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "tt",
-          "sound": "/tt/",
-          "rule": "辅音连缀"
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
         },
         {
           "letters": "er",
           "sound": "/ər/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -389,15 +390,18 @@
     },
     {
       "id": "shuddered",
-      "word": "shuddered",
+      "word": "shudder",
       "forms": [
-        "shuddered"
+        "shuddered",
+        "shudder",
+        "shudders",
+        "shuddering"
       ],
       "tier": "core",
-      "phonetic": "/ʃˈʌdɚd/",
+      "phonetic": "/'ʃʌdә/",
       "partOfSpeech": "ver.",
       "meaning": "颤抖着",
-      "wordForms": "原文词形：shuddered",
+      "wordForms": "第三人称单数 shudders · 过去式 shuddered · 现在分词 shuddering",
       "sentence": "Jack shuddered.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/shuddered.mp3",
       "phonics": [
@@ -412,19 +416,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "dd",
-          "sound": "/dd/",
-          "rule": "辅音连缀"
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
         },
         {
           "letters": "er",
           "sound": "/ər/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -463,29 +467,35 @@
     },
     {
       "id": "shivered",
-      "word": "shivered",
+      "word": "shiver",
       "forms": [
-        "shivered"
+        "shivered",
+        "shiver",
+        "shivers",
+        "shivering"
       ],
       "tier": "recognition",
-      "phonetic": "/ʃˈɪvɚd/",
+      "phonetic": "/'ʃivә/",
       "partOfSpeech": "ver.",
       "meaning": "发抖",
-      "wordForms": "原文词形：shivered",
+      "wordForms": "第三人称单数 shivers · 过去式 shivered · 现在分词 shivering",
       "sentence": "He shivered.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/shivered.mp3"
     },
     {
       "id": "thinking",
-      "word": "thinking",
+      "word": "think",
       "forms": [
-        "thinking"
+        "thinking",
+        "think",
+        "thinks",
+        "thought"
       ],
       "tier": "recognition",
-      "phonetic": "/θˈɪŋkɪŋ/",
+      "phonetic": "/θiŋk/",
       "partOfSpeech": "v.",
       "meaning": "思维",
-      "wordForms": "原文词形：thinking",
+      "wordForms": "第三人称单数 thinks · 过去式 thought · 现在分词 thinking",
       "sentence": "“I know what you’re thinking.”",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/thinking.mp3"
     },
@@ -505,15 +515,18 @@
     },
     {
       "id": "brought",
-      "word": "brought",
+      "word": "bring",
       "forms": [
-        "brought"
+        "brought",
+        "bring",
+        "brings",
+        "bringing"
       ],
       "tier": "recognition",
-      "phonetic": "/brˈɔt/",
+      "phonetic": "/briŋ/",
       "partOfSpeech": "ver.",
       "meaning": "带来",
-      "wordForms": "原文词形：brought",
+      "wordForms": "第三人称单数 brings · 过去式 brought · 现在分词 bringing",
       "sentence": "That was the picture that had brought them home.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-02/brought.mp3"
     }

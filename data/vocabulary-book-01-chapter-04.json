@@ -56,15 +56,18 @@
     },
     {
       "id": "tilted",
-      "word": "tilted",
+      "word": "tilt",
       "forms": [
-        "tilted"
+        "tilted",
+        "tilt",
+        "tilts",
+        "tilting"
       ],
       "tier": "core",
-      "phonetic": "/tˈɪltɪd/",
+      "phonetic": "/tilt/",
       "partOfSpeech": "v.",
       "meaning": "倾斜；歪着",
-      "wordForms": "原文词形：tilted",
+      "wordForms": "第三人称单数 tilts · 过去式 tilted · 现在分词 tilting",
       "sentence": "The Pteranodon tilted his head.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/tilted.mp3",
       "phonics": [
@@ -82,11 +85,6 @@
           "letters": "lt",
           "sound": "/lt/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -97,15 +95,18 @@
     },
     {
       "id": "gasped",
-      "word": "gasped",
+      "word": "gasp",
       "forms": [
-        "gasped"
+        "gasped",
+        "gasp",
+        "gasps",
+        "gasping"
       ],
       "tier": "core",
-      "phonetic": "/ɡɑ:spt/",
+      "phonetic": "/gæsp/",
       "partOfSpeech": "v.",
       "meaning": "倒吸一口气",
-      "wordForms": "原文词形：gasped",
+      "wordForms": "第三人称单数 gasps · 过去式 gasped · 现在分词 gasping",
       "sentence": "Jack gasped as Annie reached out her hand toward the Pteranodon.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/gasped.mp3",
       "phonics": [
@@ -123,11 +124,6 @@
           "letters": "sp",
           "sound": "/sp/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -449,15 +445,18 @@
     },
     {
       "id": "interesting",
-      "word": "interesting",
+      "word": "interest",
       "forms": [
-        "interesting"
+        "interesting",
+        "interest",
+        "interests",
+        "interested"
       ],
       "tier": "recognition",
-      "phonetic": "/'intristiŋ/",
+      "phonetic": "/'intrist/",
       "partOfSpeech": "v.",
       "meaning": "有趣的",
-      "wordForms": "原文词形：interesting",
+      "wordForms": "第三人称单数 interests · 过去式 interested · 现在分词 interesting",
       "sentence": "Interesting, Jack thought.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/interesting.mp3"
     },
@@ -505,15 +504,18 @@
     },
     {
       "id": "wondered",
-      "word": "wondered",
+      "word": "wonder",
       "forms": [
-        "wondered"
+        "wondered",
+        "wonder",
+        "wonders",
+        "wondering"
       ],
       "tier": "recognition",
-      "phonetic": "/wˈʌndɚd/",
+      "phonetic": "/'wʌndә/",
       "partOfSpeech": "v.",
       "meaning": "对…感到好奇（wonder的过去式与过去分词形式）",
-      "wordForms": "原文词形：wondered",
+      "wordForms": "第三人称单数 wonders · 过去式 wondered · 现在分词 wondering",
       "sentence": "Jack wondered.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-04/wondered.mp3"
     }

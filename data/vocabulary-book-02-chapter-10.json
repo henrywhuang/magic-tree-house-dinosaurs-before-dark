@@ -51,15 +51,18 @@
     },
     {
       "id": "solved",
-      "word": "solved",
+      "word": "solve",
       "forms": [
-        "solved"
+        "solved",
+        "solve",
+        "solves",
+        "solving"
       ],
       "tier": "core",
-      "phonetic": "/sˈɑlvd/",
+      "phonetic": "/sɒlv/",
       "partOfSpeech": "v.",
       "meaning": "解决；解答",
-      "wordForms": "原文词形：solved",
+      "wordForms": "第三人称单数 solves · 过去式 solved · 现在分词 solving",
       "sentence": "At least that was one mystery solved.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/solved.mp3",
       "phonics": [
@@ -74,14 +77,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "lv",
-          "sound": "/lv/",
-          "rule": "辅音连缀"
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -312,15 +320,18 @@
     },
     {
       "id": "amazing",
-      "word": "amazing",
+      "word": "amaze",
       "forms": [
-        "amazing"
+        "amazing",
+        "amaze",
+        "amazes",
+        "amazed"
       ],
       "tier": "core",
-      "phonetic": "/ә'meiziŋ/",
+      "phonetic": "/ә'meiz/",
       "partOfSpeech": "v.",
       "meaning": "令人惊异的",
-      "wordForms": "原文词形：amazing",
+      "wordForms": "第三人称单数 amazes · 过去式 amazed · 现在分词 amazing",
       "sentence": "Now this was an amazing new fact.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/amazing.mp3",
       "phonics": [
@@ -345,9 +356,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -358,15 +369,18 @@
     },
     {
       "id": "barking",
-      "word": "barking",
+      "word": "bark",
       "forms": [
-        "barking"
+        "barking",
+        "bark",
+        "barks",
+        "barked"
       ],
       "tier": "core",
-      "phonetic": "/bˈɑrkɪŋ/",
+      "phonetic": "/bɑ:k/",
       "partOfSpeech": "ver.",
       "meaning": "叫声",
-      "wordForms": "原文词形：barking",
+      "wordForms": "第三人称单数 barks · 过去式 barked · 现在分词 barking",
       "sentence": "“I think that’s Henry barking!”",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/barking.mp3",
       "phonics": [
@@ -384,11 +398,6 @@
           "letters": "k",
           "sound": "/k/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -445,29 +454,35 @@
     },
     {
       "id": "dreamed",
-      "word": "dreamed",
+      "word": "dream",
       "forms": [
-        "dreamed"
+        "dreamed",
+        "dream",
+        "dreams",
+        "dreaming"
       ],
       "tier": "recognition",
-      "phonetic": "/drˈimd/",
+      "phonetic": "/dri:m/",
       "partOfSpeech": "ver.",
       "meaning": "梦见",
-      "wordForms": "原文词形：dreamed",
+      "wordForms": "第三人称单数 dreams · 过去式 dreamed · 现在分词 dreaming",
       "sentence": "Jack dreamed they were with the knight again.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/dreamed.mp3"
     },
     {
       "id": "noticed",
-      "word": "noticed",
+      "word": "notice",
       "forms": [
-        "noticed"
+        "noticed",
+        "notice",
+        "notices",
+        "noticing"
       ],
       "tier": "recognition",
-      "phonetic": "/'nəʊtɪst/",
+      "phonetic": "/'nәutis/",
       "partOfSpeech": "v.",
       "meaning": "注意（ notice的过去式和过去分词 ）；觉察",
-      "wordForms": "原文词形：noticed",
+      "wordForms": "第三人称单数 notices · 过去式 noticed · 现在分词 noticing",
       "sentence": "For the first time Jack noticed a letter on the bookmark.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/noticed.mp3"
     },
@@ -487,43 +502,52 @@
     },
     {
       "id": "reached",
-      "word": "reached",
+      "word": "reach",
       "forms": [
-        "reached"
+        "reached",
+        "reach",
+        "reaches",
+        "reaching"
       ],
       "tier": "recognition",
-      "phonetic": "/ri:tʃt/",
+      "phonetic": "/ri:tʃ/",
       "partOfSpeech": "v.",
       "meaning": "到达( reach的过去式和过去分词 )；联络",
-      "wordForms": "原文词形：reached",
+      "wordForms": "第三人称单数 reaches · 过去式 reached · 现在分词 reaching",
       "sentence": "They reached the ground and took off running between the gray-black trees.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/reached.mp3"
     },
     {
       "id": "slipped",
-      "word": "slipped",
+      "word": "slip",
       "forms": [
-        "slipped"
+        "slipped",
+        "slip",
+        "slips",
+        "slipping"
       ],
       "tier": "recognition",
-      "phonetic": "/slˈɪpt/",
+      "phonetic": "/slip/",
       "partOfSpeech": "v.",
       "meaning": "打滑的",
-      "wordForms": "原文词形：slipped",
+      "wordForms": "第三人称单数 slips · 过去式 slipped · 现在分词 slipping",
       "sentence": "They opened the front door carefully and slipped inside their house.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/slipped.mp3"
     },
     {
       "id": "studied",
-      "word": "studied",
+      "word": "study",
       "forms": [
-        "studied"
+        "studied",
+        "study",
+        "studies",
+        "studying"
       ],
       "tier": "recognition",
-      "phonetic": "/'stʌdid/",
+      "phonetic": "/'stʌdi/",
       "partOfSpeech": "v.",
       "meaning": "有计划的；慎重的",
-      "wordForms": "原文词形：studied",
+      "wordForms": "第三人称单数 studies · 过去式 studied · 现在分词 studying",
       "sentence": "Jack held the bookmark close to his lamp and studied it.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-10/studied.mp3"
     }

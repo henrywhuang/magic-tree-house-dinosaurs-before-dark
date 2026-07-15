@@ -5,27 +5,25 @@
   "words": [
     {
       "id": "shrugged",
-      "word": "shrugged",
+      "word": "shrug",
       "forms": [
-        "shrugged"
+        "shrugged",
+        "shrug",
+        "shrugs",
+        "shrugging"
       ],
       "tier": "core",
-      "phonetic": "/ʃ'rʌɡd/",
+      "phonetic": "/ʃrʌg/",
       "partOfSpeech": "v.",
       "meaning": "耸肩",
-      "wordForms": "原文词形：shrugged",
+      "wordForms": "第三人称单数 shrugs · 过去式 shrugged · 现在分词 shrugging",
       "sentence": "Annie shrugged.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/shrugged.mp3",
       "phonics": [
         {
-          "letters": "sh",
-          "sound": "/ʃ/",
-          "rule": "辅音组合"
-        },
-        {
-          "letters": "r",
-          "sound": "/r/",
-          "rule": "字母音"
+          "letters": "shr",
+          "sound": "/shr/",
+          "rule": "辅音连缀"
         },
         {
           "letters": "u",
@@ -33,14 +31,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "gg",
-          "sound": "/gg/",
-          "rule": "辅音连缀"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -51,21 +44,24 @@
     },
     {
       "id": "clasped",
-      "word": "clasped",
+      "word": "clasp",
       "forms": [
-        "clasped"
+        "clasped",
+        "clasp",
+        "clasps",
+        "clasping"
       ],
       "tier": "core",
-      "phonetic": "/klɑ:spt/",
+      "phonetic": "/klɑ:sp/",
       "partOfSpeech": "v.",
       "meaning": "紧握；扣住",
-      "wordForms": "原文词形：clasped",
+      "wordForms": "第三人称单数 clasps · 过去式 clasped · 现在分词 clasping",
       "sentence": "He clasped the gold medallion.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/clasped.mp3",
       "phonics": [
         {
           "letters": "cl",
-          "sound": "/cl/",
+          "sound": "/kl/",
           "rule": "辅音连缀"
         },
         {
@@ -77,11 +73,6 @@
           "letters": "sp",
           "sound": "/sp/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -92,15 +83,18 @@
     },
     {
       "id": "dazed",
-      "word": "dazed",
+      "word": "daze",
       "forms": [
-        "dazed"
+        "dazed",
+        "daze",
+        "dazes",
+        "dazing"
       ],
       "tier": "core",
-      "phonetic": "/'deizd/",
+      "phonetic": "/'deiz/",
       "partOfSpeech": "v.",
       "meaning": "发懵的；茫然的",
-      "wordForms": "原文词形：dazed",
+      "wordForms": "第三人称单数 dazes · 过去式 dazed · 现在分词 dazing",
       "sentence": "Jack still felt dazed.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/dazed.mp3",
       "phonics": [
@@ -120,9 +114,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -184,15 +178,18 @@
     },
     {
       "id": "singing",
-      "word": "singing",
+      "word": "sing",
       "forms": [
-        "singing"
+        "singing",
+        "sing",
+        "sings",
+        "sang"
       ],
       "tier": "core",
-      "phonetic": "/'siŋiŋ/",
+      "phonetic": "/siŋ/",
       "partOfSpeech": "v.",
       "meaning": "歌唱；歌声",
-      "wordForms": "原文词形：singing",
+      "wordForms": "第三人称单数 sings · 过去式 sang · 现在分词 singing",
       "sentence": "Jack heard a bird singing.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/singing.mp3",
       "phonics": [
@@ -202,14 +199,14 @@
           "rule": "字母音"
         },
         {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
         },
         {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
         }
       ],
       "options": [
@@ -266,15 +263,18 @@
     },
     {
       "id": "passed",
-      "word": "passed",
+      "word": "pass",
       "forms": [
-        "passed"
+        "passed",
+        "pass",
+        "passes",
+        "passing"
       ],
       "tier": "core",
-      "phonetic": "/pɑ:st/",
+      "phonetic": "/pæs/",
       "partOfSpeech": "v.",
       "meaning": "已被传递的；已经通过的",
-      "wordForms": "原文词形：passed",
+      "wordForms": "第三人称单数 passes · 过去式 passed · 现在分词 passing",
       "sentence": "No time had passed since they'd left Frog Creek.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/passed.mp3",
       "phonics": [
@@ -289,14 +289,14 @@
           "rule": "字母音"
         },
         {
-          "letters": "ss",
-          "sound": "/ss/",
-          "rule": "辅音连缀"
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -389,15 +389,18 @@
     },
     {
       "id": "starting",
-      "word": "starting",
+      "word": "start",
       "forms": [
-        "starting"
+        "starting",
+        "start",
+        "starts",
+        "started"
       ],
       "tier": "core",
-      "phonetic": "/'stɑ:tiŋ/",
+      "phonetic": "/stɑ:t/",
       "partOfSpeech": "v.",
       "meaning": "开端；开始",
-      "wordForms": "原文词形：starting",
+      "wordForms": "第三人称单数 starts · 过去式 started · 现在分词 starting",
       "sentence": "\"I think I'm starting not to believe it myself,\" he said.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/starting.mp3",
       "phonics": [
@@ -415,11 +418,6 @@
           "letters": "t",
           "sound": "/t/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -432,41 +430,50 @@
       "id": "explain",
       "word": "explain",
       "forms": [
-        "explain"
+        "explain",
+        "explains",
+        "explained",
+        "explaining"
       ],
       "tier": "recognition",
       "phonetic": "/ik'splein/",
       "partOfSpeech": "v.",
       "meaning": "解释；说明",
-      "wordForms": "原文词形：explain",
+      "wordForms": "第三人称单数 explains · 过去式 explained · 现在分词 explaining",
       "sentence": "He couldn't explain what had happened today.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/explain.mp3"
     },
     {
       "id": "laughed",
-      "word": "laughed",
+      "word": "laugh",
       "forms": [
-        "laughed"
+        "laughed",
+        "laugh",
+        "laughs",
+        "laughing"
       ],
       "tier": "recognition",
-      "phonetic": "/'lɑ:ft/",
+      "phonetic": "/lɑ:f/",
       "partOfSpeech": "v.",
       "meaning": "笑( laugh的过去式和过去分词 )；发笑",
-      "wordForms": "原文词形：laughed",
+      "wordForms": "第三人称单数 laughs · 过去式 laughed · 现在分词 laughing",
       "sentence": "Jack laughed.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/laughed.mp3"
     },
     {
       "id": "running",
-      "word": "running",
+      "word": "run",
       "forms": [
-        "running"
+        "running",
+        "run",
+        "runs",
+        "ran"
       ],
       "tier": "recognition",
-      "phonetic": "/'rʌniŋ/",
+      "phonetic": "/rʌn/",
       "partOfSpeech": "v.",
       "meaning": "赛跑；流出",
-      "wordForms": "原文词形：running",
+      "wordForms": "第三人称单数 runs · 过去式 ran · 现在分词 running",
       "sentence": "And they took off together, running for home.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-10/running.mp3"
     },

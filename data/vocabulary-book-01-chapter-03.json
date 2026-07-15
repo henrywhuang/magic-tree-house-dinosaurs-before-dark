@@ -56,15 +56,18 @@
     },
     {
       "id": "vanished",
-      "word": "vanished",
+      "word": "vanish",
       "forms": [
-        "vanished"
+        "vanished",
+        "vanish",
+        "vanishes",
+        "vanishing"
       ],
       "tier": "core",
-      "phonetic": "/vˈænɪʃt/",
+      "phonetic": "/'væniʃ/",
       "partOfSpeech": "v.",
       "meaning": "销声匿迹；无影无踪（美国电视连续剧剧名）",
-      "wordForms": "原文词形：vanished",
+      "wordForms": "第三人称单数 vanishes · 过去式 vanished · 现在分词 vanishing",
       "sentence": "It vanished65 million years ago with thedinosaurs.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-03/vanished.mp3",
       "phonics": [
@@ -92,11 +95,6 @@
           "letters": "sh",
           "sound": "/ʃ/",
           "rule": "辅音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -107,15 +105,18 @@
     },
     {
       "id": "slanted",
-      "word": "slanted",
+      "word": "slant",
       "forms": [
-        "slanted"
+        "slanted",
+        "slant",
+        "slants",
+        "slanting"
       ],
       "tier": "core",
-      "phonetic": "/ˈslɑ:ntɪd/",
+      "phonetic": "/slænt/",
       "partOfSpeech": "v.",
       "meaning": "倾斜的",
-      "wordForms": "原文词形：slanted",
+      "wordForms": "第三人称单数 slants · 过去式 slanted · 现在分词 slanting",
       "sentence": "Sunlight slanted through the window.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-03/slanted.mp3",
       "phonics": [
@@ -133,11 +134,6 @@
           "letters": "nt",
           "sound": "/nt/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -148,15 +144,18 @@
     },
     {
       "id": "winding",
-      "word": "winding",
+      "word": "wind",
       "forms": [
-        "winding"
+        "winding",
+        "wind",
+        "winds",
+        "wound"
       ],
       "tier": "core",
-      "phonetic": "/'waindiŋ/",
+      "phonetic": "/wind/",
       "partOfSpeech": "v.",
       "meaning": "蜿蜒的；弯曲的",
-      "wordForms": "原文词形：winding",
+      "wordForms": "第三人称单数 winds · 过去式 wound · 现在分词 winding",
       "sentence": "There was a winding stream, a sloping hill, and volcanoes in the distance.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-03/winding.mp3",
       "phonics": [
@@ -174,11 +173,6 @@
           "letters": "nd",
           "sound": "/nd/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -465,15 +459,18 @@
     },
     {
       "id": "happened",
-      "word": "happened",
+      "word": "happen",
       "forms": [
-        "happened"
+        "happened",
+        "happen",
+        "happens",
+        "happening"
       ],
       "tier": "recognition",
-      "phonetic": "/hˈæpənd/",
+      "phonetic": "/'hæpәn/",
       "partOfSpeech": "v.",
       "meaning": "发生（happen的过去式；过去分词）",
-      "wordForms": "原文词形：happened",
+      "wordForms": "第三人称单数 happens · 过去式 happened · 现在分词 happening",
       "sentence": "“So what just happened to us?”",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-03/happened.mp3"
     },
@@ -493,57 +490,69 @@
     },
     {
       "id": "supposed",
-      "word": "supposed",
+      "word": "suppose",
       "forms": [
-        "supposed"
+        "supposed",
+        "suppose",
+        "supposes",
+        "supposing"
       ],
       "tier": "recognition",
-      "phonetic": "/sә'pәuzd/",
+      "phonetic": "/sә'pәuz/",
       "partOfSpeech": "v.",
       "meaning": "想象上的；假定的",
-      "wordForms": "原文词形：supposed",
+      "wordForms": "第三人称单数 supposes · 过去式 supposed · 现在分词 supposing",
       "sentence": "“We’re not supposed to be here.”",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-03/supposed.mp3"
     },
     {
       "id": "covered",
-      "word": "covered",
+      "word": "cover",
       "forms": [
-        "covered"
+        "covered",
+        "cover",
+        "covers",
+        "covering"
       ],
       "tier": "recognition",
-      "phonetic": "/'kʌvәd/",
+      "phonetic": "/'kʌvә/",
       "partOfSpeech": "v.",
       "meaning": "隐蔽着的；掩藏着的",
-      "wordForms": "原文词形：covered",
+      "wordForms": "第三人称单数 covers · 过去式 covered · 现在分词 covering",
       "sentence": "The ground was covered with ferns and tall grass.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-03/covered.mp3"
     },
     {
       "id": "dropped",
-      "word": "dropped",
+      "word": "drop",
       "forms": [
-        "dropped"
+        "dropped",
+        "drop",
+        "drops",
+        "dropping"
       ],
       "tier": "recognition",
-      "phonetic": "/drɔpt/",
+      "phonetic": "/drɒp/",
       "partOfSpeech": "v.",
       "meaning": "抛踢球得分的",
-      "wordForms": "原文词形：dropped",
+      "wordForms": "第三人称单数 drops · 过去式 dropped · 现在分词 dropping",
       "sentence": "Annie dropped to the ground.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-03/dropped.mp3"
     },
     {
       "id": "shouted",
-      "word": "shouted",
+      "word": "shout",
       "forms": [
-        "shouted"
+        "shouted",
+        "shout",
+        "shouts",
+        "shouting"
       ],
       "tier": "recognition",
-      "phonetic": "/'ʃaʊtɪd/",
+      "phonetic": "/ʃaut/",
       "partOfSpeech": "v.",
       "meaning": "呼；喊",
-      "wordForms": "原文词形：shouted",
+      "wordForms": "第三人称单数 shouts · 过去式 shouted · 现在分词 shouting",
       "sentence": "Annie shouted.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-03/shouted.mp3"
     }

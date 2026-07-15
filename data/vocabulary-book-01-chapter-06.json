@@ -163,15 +163,18 @@
     },
     {
       "id": "bellowing",
-      "word": "bellowing",
+      "word": "bellow",
       "forms": [
-        "bellowing"
+        "bellowing",
+        "bellow",
+        "bellows",
+        "bellowed"
       ],
       "tier": "core",
-      "phonetic": "/beˈləuɪŋ/",
+      "phonetic": "/'belәu/",
       "partOfSpeech": "v.",
       "meaning": "大声吼叫",
-      "wordForms": "原文词形：bellowing",
+      "wordForms": "第三人称单数 bellows · 过去式 bellowed · 现在分词 bellowing",
       "sentence": "Jack heard another sound as well—a deep, bellowing sound, like a tuba.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/bellowing.mp3",
       "phonics": [
@@ -182,23 +185,23 @@
         },
         {
           "letters": "e",
-          "sound": "/e/",
+          "sound": "/ɛ/",
           "rule": "字母音"
         },
         {
-          "letters": "ll",
-          "sound": "/ll/",
-          "rule": "辅音连缀"
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
         },
         {
           "letters": "ow",
           "sound": "/oʊ/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -209,21 +212,24 @@
     },
     {
       "id": "clutching",
-      "word": "clutching",
+      "word": "clutch",
       "forms": [
-        "clutching"
+        "clutching",
+        "clutch",
+        "clutches",
+        "clutched"
       ],
       "tier": "core",
-      "phonetic": "/klʌtʃɪŋ/",
+      "phonetic": "/klʌtʃ/",
       "partOfSpeech": "v.",
       "meaning": "紧紧抓住",
-      "wordForms": "原文词形：clutching",
+      "wordForms": "第三人称单数 clutches · 过去式 clutched · 现在分词 clutching",
       "sentence": "Clutching her magnolia flower, she took off down the hill.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/clutching.mp3",
       "phonics": [
         {
           "letters": "cl",
-          "sound": "/cl/",
+          "sound": "/kl/",
           "rule": "辅音连缀"
         },
         {
@@ -234,12 +240,7 @@
         {
           "letters": "tch",
           "sound": "/tʃ/",
-          "rule": "辅音连缀"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "rule": "辅音组合"
         }
       ],
       "options": [
@@ -288,13 +289,16 @@
       "id": "chew",
       "word": "chew",
       "forms": [
-        "chew"
+        "chew",
+        "chews",
+        "chewed",
+        "chewing"
       ],
       "tier": "core",
       "phonetic": "/tʃu:/",
       "partOfSpeech": "v.",
       "meaning": "咀嚼；嚼碎",
-      "wordForms": "原文词形：chew",
+      "wordForms": "第三人称单数 chews · 过去式 chewed · 现在分词 chewing",
       "sentence": "Pretend to chew.\"",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/chew.mp3",
       "phonics": [
@@ -304,14 +308,9 @@
           "rule": "辅音组合"
         },
         {
-          "letters": "e",
-          "sound": "/e/",
-          "rule": "字母音"
-        },
-        {
-          "letters": "w",
-          "sound": "/w/",
-          "rule": "字母音"
+          "letters": "ew",
+          "sound": "/uː/",
+          "rule": "元音组合"
         }
       ],
       "options": [
@@ -322,15 +321,18 @@
     },
     {
       "id": "charged",
-      "word": "charged",
+      "word": "charge",
       "forms": [
-        "charged"
+        "charged",
+        "charge",
+        "charges",
+        "charging"
       ],
       "tier": "core",
-      "phonetic": "/tʃɑ:dʒd/",
+      "phonetic": "/tʃɑ:dʒ/",
       "partOfSpeech": "v.",
       "meaning": "猛冲；冲向",
-      "wordForms": "原文词形：charged",
+      "wordForms": "第三人称单数 charges · 过去式 charged · 现在分词 charging",
       "sentence": "The dinosaur charged down the hill.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/charged.mp3",
       "phonics": [
@@ -350,9 +352,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -459,15 +461,18 @@
     },
     {
       "id": "dangling",
-      "word": "dangling",
+      "word": "dangle",
       "forms": [
-        "dangling"
+        "dangling",
+        "dangle",
+        "dangles",
+        "dangled"
       ],
       "tier": "recognition",
-      "phonetic": "/dˈæŋɡəlɪŋ/",
+      "phonetic": "/'dæŋgl/",
       "partOfSpeech": "v.",
       "meaning": "悬挂的；悬浮的",
-      "wordForms": "原文词形：dangling",
+      "wordForms": "第三人称单数 dangles · 过去式 dangled · 现在分词 dangling",
       "sentence": "Itwas swinging a long, thick tail and dangling two tiny arms.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/dangling.mp3"
     },
@@ -501,29 +506,35 @@
     },
     {
       "id": "gleaming",
-      "word": "gleaming",
+      "word": "gleam",
       "forms": [
-        "gleaming"
+        "gleaming",
+        "gleam",
+        "gleams",
+        "gleamed"
       ],
       "tier": "recognition",
-      "phonetic": "/ˈgli:mɪŋ/",
+      "phonetic": "/gli:m/",
       "partOfSpeech": "v.",
       "meaning": "闪闪发光的",
-      "wordForms": "原文词形：gleaming",
+      "wordForms": "第三人称单数 gleams · 过去式 gleamed · 现在分词 gleaming",
       "sentence": "Even from far away Jack could see its long, gleaming teeth.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/gleaming.mp3"
     },
     {
       "id": "muttered",
-      "word": "muttered",
+      "word": "mutter",
       "forms": [
-        "muttered"
+        "muttered",
+        "mutter",
+        "mutters",
+        "muttering"
       ],
       "tier": "recognition",
-      "phonetic": "/ˈmʌtəd/",
+      "phonetic": "/'mʌtә/",
       "partOfSpeech": "v.",
       "meaning": "轻声低语；咕哝地抱怨( mutter的过去式和过去分词 )",
-      "wordForms": "原文词形：muttered",
+      "wordForms": "第三人称单数 mutters · 过去式 muttered · 现在分词 muttering",
       "sentence": "“Oh, brother,” Jack muttered.",
       "sentenceAudio": "assets/audio/sentences/book-01-chapter-06/muttered.mp3"
     }

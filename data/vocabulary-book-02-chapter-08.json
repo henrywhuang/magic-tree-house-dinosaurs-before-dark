@@ -251,15 +251,18 @@
     },
     {
       "id": "slithering",
-      "word": "slithering",
+      "word": "slither",
       "forms": [
-        "slithering"
+        "slithering",
+        "slither",
+        "slithers",
+        "slithered"
       ],
       "tier": "core",
-      "phonetic": "/slˈɪðɚɪŋ/",
+      "phonetic": "/'sliðә/",
       "partOfSpeech": "ver.",
       "meaning": "滑行",
-      "wordForms": "原文词形：slithering",
+      "wordForms": "第三人称单数 slithers · 过去式 slithered · 现在分词 slithering",
       "sentence": "He imagined a crocodile slithering after him.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/slithering.mp3",
       "phonics": [
@@ -282,11 +285,6 @@
           "letters": "er",
           "sound": "/ər/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -343,15 +341,18 @@
     },
     {
       "id": "swallowed",
-      "word": "swallowed",
+      "word": "swallow",
       "forms": [
-        "swallowed"
+        "swallowed",
+        "swallow",
+        "swallows",
+        "swallowing"
       ],
       "tier": "core",
-      "phonetic": "/swˈɑloʊd/",
+      "phonetic": "/'swɒlәu/",
       "partOfSpeech": "ver.",
       "meaning": "吞下",
-      "wordForms": "原文词形：swallowed",
+      "wordForms": "第三人称单数 swallows · 过去式 swallowed · 现在分词 swallowing",
       "sentence": "Everything had been swallowed up by the thick, soupy darkness.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/swallowed.mp3",
       "phonics": [
@@ -366,19 +367,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "ll",
-          "sound": "/ll/",
-          "rule": "辅音连缀"
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
         },
         {
           "letters": "ow",
           "sound": "/oʊ/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -389,15 +390,18 @@
     },
     {
       "id": "chattering",
-      "word": "chattering",
+      "word": "chatter",
       "forms": [
-        "chattering"
+        "chattering",
+        "chatter",
+        "chatters",
+        "chattered"
       ],
       "tier": "core",
-      "phonetic": "/tʃˈætɚɪŋ/",
+      "phonetic": "/'tʃætә/",
       "partOfSpeech": "ver.",
       "meaning": "喋喋不休",
-      "wordForms": "原文词形：chattering",
+      "wordForms": "第三人称单数 chatters · 过去式 chattered · 现在分词 chattering",
       "sentence": "His teeth were chattering.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/chattering.mp3",
       "phonics": [
@@ -412,19 +416,19 @@
           "rule": "字母音"
         },
         {
-          "letters": "tt",
-          "sound": "/tt/",
-          "rule": "辅音连缀"
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
         },
         {
           "letters": "er",
           "sound": "/ər/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -435,15 +439,18 @@
     },
     {
       "id": "imagined",
-      "word": "imagined",
+      "word": "imagine",
       "forms": [
-        "imagined"
+        "imagined",
+        "imagine",
+        "imagines",
+        "imagining"
       ],
       "tier": "recognition",
-      "phonetic": "/ˌɪmˈædʒənd/",
+      "phonetic": "/i'mædʒin/",
       "partOfSpeech": "ver.",
       "meaning": "想象的",
-      "wordForms": "原文词形：imagined",
+      "wordForms": "第三人称单数 imagines · 过去式 imagined · 现在分词 imagining",
       "sentence": "He imagined a crocodile slithering after him.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/imagined.mp3"
     },
@@ -491,29 +498,35 @@
     },
     {
       "id": "calling",
-      "word": "calling",
+      "word": "call",
       "forms": [
-        "calling"
+        "calling",
+        "call",
+        "calls",
+        "called"
       ],
       "tier": "recognition",
-      "phonetic": "/kˈɔlɪŋ/",
+      "phonetic": "/kɒ:l/",
       "partOfSpeech": "ver.",
       "meaning": "呼叫",
-      "wordForms": "原文词形：calling",
+      "wordForms": "第三人称单数 calls · 过去式 called · 现在分词 calling",
       "sentence": "Annie was calling from above.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/calling.mp3"
     },
     {
       "id": "coughed",
-      "word": "coughed",
+      "word": "cough",
       "forms": [
-        "coughed"
+        "coughed",
+        "cough",
+        "coughs",
+        "coughing"
       ],
       "tier": "recognition",
-      "phonetic": "/kˈɔft/",
+      "phonetic": "/kɒf/",
       "partOfSpeech": "ver.",
       "meaning": "咳嗽",
-      "wordForms": "原文词形：coughed",
+      "wordForms": "第三人称单数 coughs · 过去式 coughed · 现在分词 coughing",
       "sentence": "He coughed and flailed his arms.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-08/coughed.mp3"
     }

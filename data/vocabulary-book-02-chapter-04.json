@@ -225,15 +225,18 @@
     },
     {
       "id": "waved",
-      "word": "waved",
+      "word": "wave",
       "forms": [
-        "waved"
+        "waved",
+        "wave",
+        "waves",
+        "waving"
       ],
       "tier": "core",
-      "phonetic": "/wˈeɪvd/",
+      "phonetic": "/weiv/",
       "partOfSpeech": "v.",
       "meaning": "波浪形的；起伏的",
-      "wordForms": "原文词形：waved",
+      "wordForms": "第三人称单数 waves · 过去式 waved · 现在分词 waving",
       "sentence": "She waved at him.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/waved.mp3",
       "phonics": [
@@ -253,9 +256,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
@@ -450,29 +453,35 @@
     },
     {
       "id": "balanced",
-      "word": "balanced",
+      "word": "balance",
       "forms": [
-        "balanced"
+        "balanced",
+        "balance",
+        "balances",
+        "balancing"
       ],
       "tier": "recognition",
-      "phonetic": "/bˈælənst/",
+      "phonetic": "/'bælәns/",
       "partOfSpeech": "ver.",
       "meaning": "均衡",
-      "wordForms": "原文词形：balanced",
+      "wordForms": "第三人称单数 balances · 过去式 balanced · 现在分词 balancing",
       "sentence": "Some balanced swords on their hands.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/balanced.mp3"
     },
     {
       "id": "carrying",
-      "word": "carrying",
+      "word": "carry",
       "forms": [
-        "carrying"
+        "carrying",
+        "carry",
+        "carries",
+        "carried"
       ],
       "tier": "recognition",
-      "phonetic": "/kˈæriɪŋ/",
+      "phonetic": "/'kæri/",
       "partOfSpeech": "ver.",
       "meaning": "携带",
-      "wordForms": "原文词形：carrying",
+      "wordForms": "第三人称单数 carries · 过去式 carried · 现在分词 carrying",
       "sentence": "A man carrying a tray of pies was standing a few feet away.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/carrying.mp3"
     },
@@ -506,29 +515,35 @@
     },
     {
       "id": "fighting",
-      "word": "fighting",
+      "word": "fight",
       "forms": [
-        "fighting"
+        "fighting",
+        "fight",
+        "fights",
+        "fought"
       ],
       "tier": "recognition",
-      "phonetic": "/fˈaɪtɪŋ/",
+      "phonetic": "/fait/",
       "partOfSpeech": "ver.",
       "meaning": "斗争",
-      "wordForms": "原文词形：fighting",
+      "wordForms": "第三人称单数 fights · 过去式 fought · 现在分词 fighting",
       "sentence": "Dogs were fighting over bones under the tables.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/fighting.mp3"
     },
     {
       "id": "strolled",
-      "word": "strolled",
+      "word": "stroll",
       "forms": [
-        "strolled"
+        "strolled",
+        "stroll",
+        "strolls",
+        "strolling"
       ],
       "tier": "recognition",
-      "phonetic": "/strˈoʊld/",
+      "phonetic": "/strәul/",
       "partOfSpeech": "ver.",
       "meaning": "漫步",
-      "wordForms": "原文词形：strolled",
+      "wordForms": "第三人称单数 strolls · 过去式 strolled · 现在分词 strolling",
       "sentence": "People in bright clothes and funny hats strolled among the crowd.",
       "sentenceAudio": "assets/audio/sentences/book-02-chapter-04/strolled.mp3"
     }
