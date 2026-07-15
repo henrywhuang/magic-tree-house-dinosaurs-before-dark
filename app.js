@@ -19,6 +19,13 @@ const BOOKS = [
     audioStarts:[0,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/book-03-chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/book-03-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-04', number:4, title:'Pirates Past Noon', cn:'加勒比海盗',
+    chapters:['Too Late!','The Bright Blue Sea','Three Men in a Boat','Vile Booty',"The Kid's Treasure","The Whale's Eye","Gale's a-Blowin'",'Dig, Dogs, Dig','The Mysterious M','Treasure Again'],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-04-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-04-chapter-${String(i+1).padStart(2,'0')}.json`
   }
 ];
 
@@ -67,7 +74,7 @@ function renderNav(){
   els.nav.innerHTML=tabs+chapters;
 }
 function setView(view){state.view=view;els.home.classList.toggle('hidden',view!=='home');els.reader.classList.toggle('hidden',view!=='reader');els.exercise.classList.toggle('hidden',view!=='exercise');els.vocabulary.classList.toggle('hidden',view!=='vocabulary');els.debug.classList.toggle('hidden',view!=='debug');els.player.classList.toggle('hidden',view!=='reader');$('.home-link').classList.toggle('active',view==='home');closeMenu();renderNav();window.scrollTo({top:0,behavior:'smooth'})}
-function showHome(){document.title='Magic Tree House · 三册原著精读营';$('#brandSubtitle').textContent='三册原著精读营';setView('home')}
+function showHome(){document.title='Magic Tree House · 四册原著精读营';$('#brandSubtitle').textContent='四册原著精读营';setView('home')}
 function setBook(bookIndex,openFirst=false){state.book=bookIndex;state.chapter=0;state.page=0;renderNav();if(openFirst)openChapter(0,false,bookIndex)}
 async function openChapter(i,keepTime=false,bookIndex=state.book){
   const requestId=++chapterRequestId;
@@ -200,7 +207,7 @@ function allQuestions(){return state.questionBank.books.flatMap((book,bi)=>book.
 function renderDebugQuestions(){const standards=[...new Set(allQuestions().map(q=>q.standard))].sort();$('#debugPanel').innerHTML=`<div class="question-tools"><select id="debugBook"><option value="all">全部册</option>${state.questionBank.books.map((b,i)=>`<option value="${i}">Book ${b.book} · ${escapeHTML(b.book_title_cn)}</option>`).join('')}</select><select id="debugChapter"><option value="all">全部章节</option>${Array.from({length:10},(_,i)=>`<option value="${i}">Chapter ${i+1}</option>`).join('')}</select><select id="debugStandard"><option value="all">全部标准</option>${standards.map(s=>`<option>${escapeHTML(s)}</option>`).join('')}</select><input id="debugSearch" type="search" placeholder="搜索题干、技能或标签…"><span id="debugResultCount"></span></div><div class="question-inspector" id="questionInspector"></div>`;['debugBook','debugChapter','debugStandard','debugSearch'].forEach(id=>$('#'+id).addEventListener('input',filterDebugQuestions));filterDebugQuestions()}
 function filterDebugQuestions(){const book=$('#debugBook').value,chapter=$('#debugChapter').value,standard=$('#debugStandard').value,query=$('#debugSearch').value.trim().toLowerCase();const list=allQuestions().filter(q=>(book==='all'||q.bookIndex===+book)&&(chapter==='all'||q.chapterIndex===+chapter)&&(standard==='all'||q.standard===standard)&&(!query||[q.id,q.stem,q.skill,q.difficulty,q.standard].join(' ').toLowerCase().includes(query)));$('#debugResultCount').textContent=`${list.length} 题`;$('#questionInspector').innerHTML=list.map(q=>`<details class="question-debug-card"><summary><div><span>${q.id}</span><b>${escapeHTML(q.stem)}</b></div><i>${escapeHTML(q.bookTitle)} · Ch.${q.chapterIndex+1}</i></summary><div class="question-debug-body"><div class="quiz-meta"><span>${escapeHTML(q.standard)}</span><span>${escapeHTML(q.skill)}</span><span>DOK ${q.dok} · ${escapeHTML(q.difficulty)}</span></div><ol type="A">${Object.entries(q.options).map(([letter,text])=>`<li class="${letter===q.answer?'answer':''}">${escapeHTML(text)} ${letter===q.answer?'<b>✓ 正确答案</b>':''}</li>`).join('')}</ol><p><b>解析：</b>${escapeHTML(q.rationale)}</p><div><b>证据：</b>${q.evidence.map(e=>`<blockquote>${escapeHTML(e)}</blockquote>`).join('')}</div></div></details>`).join('')||'<div class="empty-state">没有符合筛选条件的题目。</div>'}
 async function renderDebugData(){const checks=await Promise.all(BOOKS.flatMap((book,bi)=>book.chapters.map(async(title,ci)=>{try{const r=await fetch(`${dataPath(ci,bi)}?v=20260714`,{cache:'no-store'});if(!r.ok)throw new Error(String(r.status));const d=await r.json();return{ok:true,book:bi+1,chapter:ci+1,title,pages:d.pages?.length||0,scenes:d.scenes?.length||0,words:d.words?.length||0,questions:chapterQuestions(bi,ci).length}}catch(error){return{ok:false,book:bi+1,chapter:ci+1,title,error:error.message}}})));$('#debugPanel').innerHTML=`<div class="data-summary ${checks.every(x=>x.ok&&x.pages>1&&x.questions===5)?'healthy':'warning'}"><b>${checks.filter(x=>x.ok&&x.pages>1&&x.questions===5).length} / ${checks.length}</b><span>章节正文与题目检查通过</span></div><div class="data-grid">${checks.map(x=>`<article class="data-card ${x.ok&&x.pages>1&&x.questions===5?'ok':'bad'}"><span>${x.ok&&x.pages>1&&x.questions===5?'✓':'!'}</span><div><small>BOOK ${x.book} · CHAPTER ${x.chapter}</small><h3>${escapeHTML(x.title)}</h3>${x.ok?`<p>${x.pages} 页 · ${x.scenes} 场景 · ${x.words} 词 · ${x.questions} 题</p>`:`<p>加载失败：${escapeHTML(x.error)}</p>`}</div></article>`).join('')}</div>`}
-function updateProgress(){const total=BOOKS.reduce((sum,book)=>sum+book.chapters.length,0);const pct=Math.round(state.completed.size/total*100);$('#progressLabel').textContent=`三册进度 ${state.completed.size}/${total}`;$('#progressBar').style.width=pct+'%'}
+function updateProgress(){const total=BOOKS.reduce((sum,book)=>sum+book.chapters.length,0);const pct=Math.round(state.completed.size/total*100);$('#progressLabel').textContent=`四册进度 ${state.completed.size}/${total}`;$('#progressBar').style.width=pct+'%'}
 function openMenu(){els.sidebar.classList.add('open');els.scrim.classList.add('show')} function closeMenu(){els.sidebar.classList.remove('open');els.scrim.classList.remove('show')}
 
 $('#startButton').onclick=()=>openChapter(0,false,0);$('#brandButton').onclick=showHome;$('#backHome').onclick=showHome;$('#menuButton').onclick=openMenu;$('#closeMenu').onclick=closeMenu;els.scrim.onclick=closeMenu;$('.home-link').onclick=showHome;

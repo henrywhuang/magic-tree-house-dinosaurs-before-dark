@@ -1,0 +1,10998 @@
+{
+ "chapter": 6,
+ "scenes": [
+  [
+   "鲨鱼群中划行",
+   "assets/images/book-04-scenes/chapter-06-scene-01.webp",
+   "小船在滔天巨浪里颠簸，黑色鲨鱼鳍从水中划过，杰克被咸咸的浪花溅得头晕想吐。"
+  ],
+  [
+   "船舱查海盗书",
+   "assets/images/book-04-scenes/chapter-06-scene-02.webp",
+   "昏暗潮湿的船舱里，杰克从背包掏出海盗书翻看，找到一幅海盗埋宝箱的插图，和安妮一起读起来。"
+  ],
+  [
+   "发现鲸形海岛",
+   "assets/images/book-04-scenes/chapter-06-scene-03.webp",
+   "安妮透过圆窗指向海岛，惊呼整座岛就像一头巨鲸：山坡是鲸背、棕榈树是喷水、黑岩石正是鲸眼。"
+  ]
+ ],
+ "words": [
+  {
+   "i": 0,
+   "word": "The",
+   "before": "",
+   "after": "",
+   "start": 5.01,
+   "end": 5.39,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 1,
+   "word": "rowboat",
+   "before": " ",
+   "after": "",
+   "start": 5.39,
+   "end": 5.83,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 2,
+   "word": "tossed",
+   "before": " ",
+   "after": "",
+   "start": 5.83,
+   "end": 6.17,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 3,
+   "word": "from",
+   "before": " ",
+   "after": "",
+   "start": 6.17,
+   "end": 6.53,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 4,
+   "word": "side",
+   "before": " ",
+   "after": "",
+   "start": 6.53,
+   "end": 6.93,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 5,
+   "word": "to",
+   "before": " ",
+   "after": "",
+   "start": 6.93,
+   "end": 7.17,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 6,
+   "word": "side",
+   "before": " ",
+   "after": ".",
+   "start": 7.17,
+   "end": 7.63,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 7,
+   "word": "The",
+   "before": " ",
+   "after": "",
+   "start": 8.11,
+   "end": 8.49,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 8,
+   "word": "waves",
+   "before": " ",
+   "after": "",
+   "start": 8.49,
+   "end": 8.87,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 9,
+   "word": "were",
+   "before": " ",
+   "after": "",
+   "start": 8.87,
+   "end": 9.17,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 10,
+   "word": "huge",
+   "before": " ",
+   "after": ".",
+   "start": 9.17,
+   "end": 9.67,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 11,
+   "word": "Salty",
+   "before": " ",
+   "after": "",
+   "start": 10.57,
+   "end": 10.95,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 12,
+   "word": "spray",
+   "before": " ",
+   "after": "",
+   "start": 10.95,
+   "end": 11.31,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 13,
+   "word": "stung",
+   "before": " ",
+   "after": "",
+   "start": 11.31,
+   "end": 11.95,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 14,
+   "word": "Jack's",
+   "before": " ",
+   "after": "",
+   "start": 11.95,
+   "end": 12.33,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 15,
+   "word": "eyes",
+   "before": " ",
+   "after": ".",
+   "start": 12.33,
+   "end": 12.71,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 16,
+   "word": "He",
+   "before": " ",
+   "after": "",
+   "start": 12.97,
+   "end": 13.37,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 17,
+   "word": "felt",
+   "before": " ",
+   "after": "",
+   "start": 13.37,
+   "end": 13.65,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 18,
+   "word": "seasick",
+   "before": " ",
+   "after": ".",
+   "start": 13.65,
+   "end": 14.45,
+   "key": true,
+   "page": 0
+  },
+  {
+   "i": 19,
+   "word": "Hold",
+   "before": "\"",
+   "after": "",
+   "start": 15.25,
+   "end": 15.69,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 20,
+   "word": "er",
+   "before": " '",
+   "after": "",
+   "start": 15.77,
+   "end": 15.85,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 21,
+   "word": "steady",
+   "before": " ",
+   "after": "!\"",
+   "start": 15.85,
+   "end": 16.17,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 22,
+   "word": "shouted",
+   "before": " ",
+   "after": "",
+   "start": 16.65,
+   "end": 17.33,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 23,
+   "word": "Cap'n",
+   "before": " ",
+   "after": "",
+   "start": 17.55,
+   "end": 17.77,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 24,
+   "word": "Bones",
+   "before": " ",
+   "after": ".",
+   "start": 17.77,
+   "end": 18.27,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 25,
+   "word": "He",
+   "before": "",
+   "after": "",
+   "start": 18.49,
+   "end": 19.07,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 26,
+   "word": "pointed",
+   "before": " ",
+   "after": "",
+   "start": 19.07,
+   "end": 19.43,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 27,
+   "word": "at",
+   "before": " ",
+   "after": "",
+   "start": 19.43,
+   "end": 19.79,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 28,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 19.79,
+   "end": 19.95,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 29,
+   "word": "sea",
+   "before": " ",
+   "after": ".",
+   "start": 19.95,
+   "end": 20.29,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 30,
+   "word": "Or",
+   "before": " \"",
+   "after": "",
+   "start": 20.73,
+   "end": 21.13,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 31,
+   "word": "we'll",
+   "before": " ",
+   "after": "",
+   "start": 21.13,
+   "end": 21.49,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 32,
+   "word": "be",
+   "before": " ",
+   "after": "",
+   "start": 21.49,
+   "end": 21.75,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 33,
+   "word": "meat",
+   "before": " ",
+   "after": "",
+   "start": 21.96,
+   "end": 22.17,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 34,
+   "word": "for",
+   "before": " ",
+   "after": "",
+   "start": 22.17,
+   "end": 22.39,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 35,
+   "word": "those",
+   "before": " ",
+   "after": "",
+   "start": 22.39,
+   "end": 22.67,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 36,
+   "word": "evil",
+   "before": " ",
+   "after": "",
+   "start": 22.67,
+   "end": 23.15,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 37,
+   "word": "brutes",
+   "before": " ",
+   "after": "!\"",
+   "start": 23.15,
+   "end": 23.79,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 38,
+   "word": "Dark",
+   "before": "",
+   "after": "",
+   "start": 24.64,
+   "end": 25.4,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 39,
+   "word": "fins",
+   "before": " ",
+   "after": "",
+   "start": 25.4,
+   "end": 25.7,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 40,
+   "word": "cut",
+   "before": " ",
+   "after": "",
+   "start": 25.7,
+   "end": 26.22,
+   "key": true,
+   "page": 0
+  },
+  {
+   "i": 41,
+   "word": "through",
+   "before": " ",
+   "after": "",
+   "start": 26.22,
+   "end": 26.46,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 42,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 26.46,
+   "end": 26.62,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 43,
+   "word": "water",
+   "before": " ",
+   "after": ".",
+   "start": 26.62,
+   "end": 26.98,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 44,
+   "word": "Sharks",
+   "before": " ",
+   "after": ".",
+   "start": 27.54,
+   "end": 28.3,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 45,
+   "word": "One",
+   "before": " ",
+   "after": "",
+   "start": 28.98,
+   "end": 29.36,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 46,
+   "word": "zoomed",
+   "before": "",
+   "after": "",
+   "start": 29.36,
+   "end": 30.06,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 47,
+   "word": "right",
+   "before": " ",
+   "after": "",
+   "start": 30.06,
+   "end": 30.22,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 48,
+   "word": "by",
+   "before": " ",
+   "after": "",
+   "start": 30.22,
+   "end": 30.48,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 49,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 30.48,
+   "end": 30.64,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 50,
+   "word": "boat",
+   "before": " ",
+   "after": ".",
+   "start": 30.64,
+   "end": 30.96,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 51,
+   "word": "Jack",
+   "before": " ",
+   "after": "",
+   "start": 30.96,
+   "end": 31.86,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 52,
+   "word": "could",
+   "before": " ",
+   "after": "",
+   "start": 31.86,
+   "end": 32.1,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 53,
+   "word": "have",
+   "before": " ",
+   "after": "",
+   "start": 32.1,
+   "end": 32.24,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 54,
+   "word": "reached",
+   "before": " ",
+   "after": "",
+   "start": 32.24,
+   "end": 32.58,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 55,
+   "word": "out",
+   "before": "",
+   "after": "",
+   "start": 32.58,
+   "end": 33.02,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 56,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 33.02,
+   "end": 33.24,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 57,
+   "word": "touched",
+   "before": " ",
+   "after": "",
+   "start": 33.24,
+   "end": 33.64,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 58,
+   "word": "it",
+   "before": " ",
+   "after": ".",
+   "start": 33.64,
+   "end": 34.0,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 59,
+   "word": "He",
+   "before": "",
+   "after": "",
+   "start": 34.18,
+   "end": 34.72,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 60,
+   "word": "shuddered",
+   "before": " ",
+   "after": ".",
+   "start": 34.72,
+   "end": 35.44,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 61,
+   "word": "Soon",
+   "before": "",
+   "after": "",
+   "start": 35.91,
+   "end": 36.28,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 62,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 36.28,
+   "end": 36.5,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 63,
+   "word": "rowboat",
+   "before": " ",
+   "after": "",
+   "start": 36.5,
+   "end": 36.96,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 64,
+   "word": "pulled",
+   "before": " ",
+   "after": "",
+   "start": 36.96,
+   "end": 37.58,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 65,
+   "word": "alongside",
+   "before": " ",
+   "after": "",
+   "start": 37.58,
+   "end": 38.08,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 66,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 38.08,
+   "end": 38.54,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 67,
+   "word": "ship",
+   "before": " ",
+   "after": ".",
+   "start": 38.54,
+   "end": 38.82,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 68,
+   "word": "The",
+   "before": "",
+   "after": "",
+   "start": 39.1,
+   "end": 39.84,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 69,
+   "word": "air",
+   "before": " ",
+   "after": "",
+   "start": 40.03,
+   "end": 40.37,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 70,
+   "word": "was",
+   "before": " ",
+   "after": "",
+   "start": 40.37,
+   "end": 40.65,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 71,
+   "word": "filled",
+   "before": " ",
+   "after": "",
+   "start": 40.65,
+   "end": 41.03,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 72,
+   "word": "with",
+   "before": " ",
+   "after": "",
+   "start": 41.03,
+   "end": 41.35,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 73,
+   "word": "wild",
+   "before": " ",
+   "after": "",
+   "start": 41.35,
+   "end": 41.73,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 74,
+   "word": "fiddle",
+   "before": " ",
+   "after": "",
+   "start": 41.73,
+   "end": 42.19,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 75,
+   "word": "music",
+   "before": " ",
+   "after": "",
+   "start": 42.19,
+   "end": 42.53,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 76,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 42.53,
+   "end": 43.21,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 77,
+   "word": "bagpipes",
+   "before": " ",
+   "after": "",
+   "start": 43.21,
+   "end": 43.99,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 78,
+   "word": "playing",
+   "before": " ",
+   "after": ".",
+   "start": 43.99,
+   "end": 44.43,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 79,
+   "word": "And",
+   "before": " ",
+   "after": "",
+   "start": 44.98,
+   "end": 45.72,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 80,
+   "word": "Jack",
+   "before": " ",
+   "after": "",
+   "start": 45.72,
+   "end": 45.98,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 81,
+   "word": "heard",
+   "before": " ",
+   "after": "",
+   "start": 45.98,
+   "end": 46.28,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 82,
+   "word": "jeers",
+   "before": " ",
+   "after": ",",
+   "start": 46.28,
+   "end": 47.04,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 83,
+   "word": "shouts",
+   "before": " ",
+   "after": ",",
+   "start": 47.08,
+   "end": 47.92,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 84,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 48.0,
+   "end": 48.52,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 85,
+   "word": "ugly",
+   "before": " ",
+   "after": "",
+   "start": 48.52,
+   "end": 48.92,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 86,
+   "word": "laughter",
+   "before": " ",
+   "after": ".",
+   "start": 48.92,
+   "end": 49.42,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 87,
+   "word": "Hoist",
+   "before": "“",
+   "after": "",
+   "start": 50.29,
+   "end": 50.89,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 88,
+   "word": "em",
+   "before": " '",
+   "after": "",
+   "start": 51.02,
+   "end": 51.15,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 89,
+   "word": "aboard",
+   "before": " ",
+   "after": "!”",
+   "start": 51.15,
+   "end": 51.37,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 90,
+   "word": "Cap'n",
+   "before": " ",
+   "after": "",
+   "start": 51.823,
+   "end": 52.277,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 91,
+   "word": "Bones",
+   "before": " ",
+   "after": "",
+   "start": 52.277,
+   "end": 52.73,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 92,
+   "word": "shouted",
+   "before": " ",
+   "after": "",
+   "start": 52.73,
+   "end": 53.19,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 93,
+   "word": "to",
+   "before": " ",
+   "after": "",
+   "start": 53.19,
+   "end": 53.55,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 94,
+   "word": "his",
+   "before": " ",
+   "after": "",
+   "start": 53.55,
+   "end": 53.73,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 95,
+   "word": "men",
+   "before": " ",
+   "after": ".",
+   "start": 53.73,
+   "end": 54.01,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 96,
+   "word": "Annie",
+   "before": "",
+   "after": "",
+   "start": 54.91,
+   "end": 55.53,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 97,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 55.53,
+   "end": 55.71,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 98,
+   "word": "Jack",
+   "before": " ",
+   "after": "",
+   "start": 55.71,
+   "end": 56.01,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 99,
+   "word": "were",
+   "before": " ",
+   "after": "",
+   "start": 56.01,
+   "end": 56.21,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 100,
+   "word": "hauled",
+   "before": " ",
+   "after": "",
+   "start": 56.21,
+   "end": 56.61,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 101,
+   "word": "onto",
+   "before": " ",
+   "after": "",
+   "start": 56.61,
+   "end": 56.77,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 102,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 56.77,
+   "end": 56.99,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 103,
+   "word": "deck",
+   "before": " ",
+   "after": ".",
+   "start": 56.99,
+   "end": 57.29,
+   "key": true,
+   "page": 0
+  },
+  {
+   "i": 104,
+   "word": "The",
+   "before": " ",
+   "after": "",
+   "start": 57.49,
+   "end": 58.05,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 105,
+   "word": "ship",
+   "before": "",
+   "after": "",
+   "start": 58.05,
+   "end": 58.37,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 106,
+   "word": "creaked",
+   "before": " ",
+   "after": "",
+   "start": 58.37,
+   "end": 59.03,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 107,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 59.03,
+   "end": 59.25,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 108,
+   "word": "moaned",
+   "before": " ",
+   "after": ".",
+   "start": 59.25,
+   "end": 60.23,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 109,
+   "word": "It",
+   "before": " ",
+   "after": "",
+   "start": 60.23,
+   "end": 60.71,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 110,
+   "word": "rolled",
+   "before": " ",
+   "after": "",
+   "start": 60.71,
+   "end": 61.03,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 111,
+   "word": "from",
+   "before": " ",
+   "after": "",
+   "start": 61.03,
+   "end": 61.39,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 112,
+   "word": "side",
+   "before": " ",
+   "after": "",
+   "start": 61.39,
+   "end": 61.83,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 113,
+   "word": "to",
+   "before": " ",
+   "after": "",
+   "start": 61.83,
+   "end": 62.07,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 114,
+   "word": "side",
+   "before": " ",
+   "after": ".",
+   "start": 62.07,
+   "end": 62.55,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 115,
+   "word": "Ropes",
+   "before": "",
+   "after": "",
+   "start": 62.97,
+   "end": 63.69,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 116,
+   "word": "flapped",
+   "before": " ",
+   "after": "",
+   "start": 63.69,
+   "end": 64.27,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 117,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 64.27,
+   "end": 64.71,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 118,
+   "word": "snapped",
+   "before": " ",
+   "after": "",
+   "start": 64.71,
+   "end": 65.17,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 119,
+   "word": "in",
+   "before": " ",
+   "after": "",
+   "start": 65.17,
+   "end": 65.79,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 120,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 65.79,
+   "end": 65.89,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 121,
+   "word": "wild",
+   "before": " ",
+   "after": "",
+   "start": 65.89,
+   "end": 66.25,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 122,
+   "word": "wind",
+   "before": " ",
+   "after": ".",
+   "start": 66.25,
+   "end": 66.73,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 123,
+   "word": "Everywhere",
+   "before": "",
+   "after": "",
+   "start": 67.55,
+   "end": 68.27,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 124,
+   "word": "they",
+   "before": " ",
+   "after": "",
+   "start": 68.27,
+   "end": 68.61,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 125,
+   "word": "looked",
+   "before": " ",
+   "after": ",",
+   "start": 68.61,
+   "end": 68.99,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 126,
+   "word": "Jack",
+   "before": " ",
+   "after": "",
+   "start": 69.43,
+   "end": 69.79,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 127,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 69.79,
+   "end": 69.95,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 128,
+   "word": "Annie",
+   "before": " ",
+   "after": "",
+   "start": 69.95,
+   "end": 70.25,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 129,
+   "word": "saw",
+   "before": " ",
+   "after": "",
+   "start": 70.25,
+   "end": 70.51,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 130,
+   "word": "pirates",
+   "before": " ",
+   "after": ".",
+   "start": 70.51,
+   "end": 71.01,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 131,
+   "word": "Some",
+   "before": "",
+   "after": "",
+   "start": 71.53,
+   "end": 72.25,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 132,
+   "word": "were",
+   "before": " ",
+   "after": "",
+   "start": 72.25,
+   "end": 72.41,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 133,
+   "word": "dancing",
+   "before": " ",
+   "after": ".",
+   "start": 72.41,
+   "end": 72.91,
+   "key": true,
+   "page": 0
+  },
+  {
+   "i": 134,
+   "word": "Some",
+   "before": " ",
+   "after": "",
+   "start": 73.11,
+   "end": 73.69,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 135,
+   "word": "were",
+   "before": " ",
+   "after": "",
+   "start": 73.69,
+   "end": 73.87,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 136,
+   "word": "drinking",
+   "before": " ",
+   "after": ".",
+   "start": 73.87,
+   "end": 74.31,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 137,
+   "word": "Many",
+   "before": " ",
+   "after": "",
+   "start": 74.57,
+   "end": 75.11,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 138,
+   "word": "were",
+   "before": " ",
+   "after": "",
+   "start": 75.11,
+   "end": 75.35,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 139,
+   "word": "fighting",
+   "before": " ",
+   "after": ".",
+   "start": 75.35,
+   "end": 75.79,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 140,
+   "word": "With",
+   "before": " ",
+   "after": "",
+   "start": 75.79,
+   "end": 76.39,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 141,
+   "word": "swords",
+   "before": " ",
+   "after": ".",
+   "start": 76.39,
+   "end": 76.91,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 142,
+   "word": "Or",
+   "before": " ",
+   "after": "",
+   "start": 76.91,
+   "end": 77.53,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 143,
+   "word": "with",
+   "before": " ",
+   "after": "",
+   "start": 77.53,
+   "end": 77.75,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 144,
+   "word": "their",
+   "before": " ",
+   "after": "",
+   "start": 77.75,
+   "end": 78.01,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 145,
+   "word": "fists",
+   "before": " ",
+   "after": ".",
+   "start": 78.01,
+   "end": 78.45,
+   "key": true,
+   "page": 0
+  },
+  {
+   "i": 146,
+   "word": "Lock",
+   "before": "\"",
+   "after": "",
+   "start": 79.75,
+   "end": 80.47,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 147,
+   "word": "em",
+   "before": " '",
+   "after": "",
+   "start": 80.55,
+   "end": 80.63,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 148,
+   "word": "in",
+   "before": " ",
+   "after": "",
+   "start": 80.63,
+   "end": 80.77,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 149,
+   "word": "my",
+   "before": " ",
+   "after": "",
+   "start": 80.77,
+   "end": 80.97,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 150,
+   "word": "cabin",
+   "before": " ",
+   "after": "!\"",
+   "start": 80.97,
+   "end": 81.55,
+   "key": true,
+   "page": 0
+  },
+  {
+   "i": 151,
+   "word": "Cap'n",
+   "before": " ",
+   "after": "",
+   "start": 82.04,
+   "end": 82.53,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 152,
+   "word": "Bones",
+   "before": " ",
+   "after": "",
+   "start": 82.53,
+   "end": 82.95,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 153,
+   "word": "ordered",
+   "before": " ",
+   "after": ".",
+   "start": 82.95,
+   "end": 83.37,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 154,
+   "word": "A",
+   "before": "",
+   "after": "",
+   "start": 84.04,
+   "end": 84.76,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 155,
+   "word": "couple",
+   "before": " ",
+   "after": "",
+   "start": 84.76,
+   "end": 85.04,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 156,
+   "word": "of",
+   "before": " ",
+   "after": "",
+   "start": 85.04,
+   "end": 85.16,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 157,
+   "word": "pirates",
+   "before": " ",
+   "after": "",
+   "start": 85.16,
+   "end": 85.6,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 158,
+   "word": "grabbed",
+   "before": " ",
+   "after": "",
+   "start": 85.6,
+   "end": 85.92,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 159,
+   "word": "Jack",
+   "before": " ",
+   "after": "",
+   "start": 85.92,
+   "end": 86.28,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 160,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 86.28,
+   "end": 86.46,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 161,
+   "word": "Annie",
+   "before": " ",
+   "after": ".",
+   "start": 86.46,
+   "end": 86.82,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 162,
+   "word": "And",
+   "before": " ",
+   "after": "",
+   "start": 86.82,
+   "end": 87.26,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 163,
+   "word": "threw",
+   "before": " ",
+   "after": "",
+   "start": 87.26,
+   "end": 87.52,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 164,
+   "word": "them",
+   "before": " ",
+   "after": "",
+   "start": 87.52,
+   "end": 87.72,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 165,
+   "word": "in",
+   "before": " ",
+   "after": "",
+   "start": 87.72,
+   "end": 87.88,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 166,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 87.88,
+   "end": 87.92,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 167,
+   "word": "ship's",
+   "before": " ",
+   "after": "",
+   "start": 87.92,
+   "end": 88.28,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 168,
+   "word": "cabin",
+   "before": " ",
+   "after": ".",
+   "start": 88.28,
+   "end": 88.68,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 169,
+   "word": "Then",
+   "before": " ",
+   "after": "",
+   "start": 88.82,
+   "end": 89.42,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 170,
+   "word": "locked",
+   "before": " ",
+   "after": "",
+   "start": 89.42,
+   "end": 89.72,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 171,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 89.72,
+   "end": 89.98,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 172,
+   "word": "door",
+   "before": " ",
+   "after": ".",
+   "start": 89.98,
+   "end": 90.24,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 173,
+   "word": "The",
+   "before": "",
+   "after": "",
+   "start": 91.54,
+   "end": 91.82,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 174,
+   "word": "air",
+   "before": " ",
+   "after": "",
+   "start": 91.82,
+   "end": 92.1,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 175,
+   "word": "inside",
+   "before": " ",
+   "after": "",
+   "start": 92.1,
+   "end": 92.44,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 176,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 92.44,
+   "end": 92.72,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 177,
+   "word": "cabin",
+   "before": " ",
+   "after": "",
+   "start": 92.72,
+   "end": 93.12,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 178,
+   "word": "was",
+   "before": " ",
+   "after": "",
+   "start": 93.12,
+   "end": 93.36,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 179,
+   "word": "damp",
+   "before": " ",
+   "after": "",
+   "start": 93.36,
+   "end": 93.88,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 180,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 93.88,
+   "end": 94.2,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 181,
+   "word": "sour-smelling",
+   "before": " ",
+   "after": ".",
+   "start": 94.965,
+   "end": 95.73,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 182,
+   "word": "A",
+   "before": " ",
+   "after": "",
+   "start": 95.73,
+   "end": 96.02,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 183,
+   "word": "shaft",
+   "before": " ",
+   "after": "",
+   "start": 96.02,
+   "end": 96.4,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 184,
+   "word": "of",
+   "before": " ",
+   "after": "",
+   "start": 96.4,
+   "end": 96.68,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 185,
+   "word": "gray",
+   "before": " ",
+   "after": "",
+   "start": 96.68,
+   "end": 96.88,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 186,
+   "word": "light",
+   "before": " ",
+   "after": "",
+   "start": 96.88,
+   "end": 97.22,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 187,
+   "word": "came",
+   "before": " ",
+   "after": "",
+   "start": 97.22,
+   "end": 97.6,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 188,
+   "word": "through",
+   "before": " ",
+   "after": "",
+   "start": 97.6,
+   "end": 97.88,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 189,
+   "word": "a",
+   "before": " ",
+   "after": "",
+   "start": 97.88,
+   "end": 98.04,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 190,
+   "word": "small",
+   "before": " ",
+   "after": "",
+   "start": 98.04,
+   "end": 98.36,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 191,
+   "word": "round",
+   "before": " ",
+   "after": "",
+   "start": 98.36,
+   "end": 98.74,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 192,
+   "word": "window",
+   "before": " ",
+   "after": ".",
+   "start": 98.74,
+   "end": 99.32,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 193,
+   "word": "Oh",
+   "before": "“",
+   "after": "",
+   "start": 100.31,
+   "end": 100.75,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 194,
+   "word": "man",
+   "before": " ",
+   "after": ",”",
+   "start": 100.75,
+   "end": 101.15,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 195,
+   "word": "said",
+   "before": " ",
+   "after": "",
+   "start": 101.61,
+   "end": 102.09,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 196,
+   "word": "Jack",
+   "before": " ",
+   "after": ".",
+   "start": 102.09,
+   "end": 102.43,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 197,
+   "word": "We’ve",
+   "before": " “",
+   "after": "",
+   "start": 102.73,
+   "end": 103.31,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 198,
+   "word": "got",
+   "before": " ",
+   "after": "",
+   "start": 103.31,
+   "end": 103.43,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 199,
+   "word": "to",
+   "before": " ",
+   "after": "",
+   "start": 103.43,
+   "end": 103.59,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 200,
+   "word": "figure",
+   "before": " ",
+   "after": "",
+   "start": 103.59,
+   "end": 103.81,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 201,
+   "word": "out",
+   "before": " ",
+   "after": "",
+   "start": 103.81,
+   "end": 104.07,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 202,
+   "word": "how",
+   "before": " ",
+   "after": "",
+   "start": 104.07,
+   "end": 104.29,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 203,
+   "word": "to",
+   "before": " ",
+   "after": "",
+   "start": 104.29,
+   "end": 104.43,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 204,
+   "word": "get",
+   "before": " ",
+   "after": "",
+   "start": 104.43,
+   "end": 104.57,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 205,
+   "word": "back",
+   "before": " ",
+   "after": "",
+   "start": 104.57,
+   "end": 104.77,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 206,
+   "word": "to",
+   "before": " ",
+   "after": "",
+   "start": 104.77,
+   "end": 104.97,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 207,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 104.97,
+   "end": 105.05,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 208,
+   "word": "island",
+   "before": " ",
+   "after": ".”",
+   "start": 105.05,
+   "end": 105.45,
+   "key": false,
+   "page": 0
+  },
+  {
+   "i": 209,
+   "word": "So",
+   "before": "\"",
+   "after": "",
+   "start": 106.22,
+   "end": 106.8,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 210,
+   "word": "we",
+   "before": " ",
+   "after": "",
+   "start": 106.8,
+   "end": 106.92,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 211,
+   "word": "can",
+   "before": " ",
+   "after": "",
+   "start": 106.92,
+   "end": 107.02,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 212,
+   "word": "get",
+   "before": " ",
+   "after": "",
+   "start": 107.02,
+   "end": 107.24,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 213,
+   "word": "into",
+   "before": " ",
+   "after": "",
+   "start": 107.24,
+   "end": 107.4,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 214,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 107.4,
+   "end": 107.6,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 215,
+   "word": "tree",
+   "before": " ",
+   "after": "",
+   "start": 107.767,
+   "end": 107.933,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 216,
+   "word": "house",
+   "before": " ",
+   "after": "",
+   "start": 107.933,
+   "end": 108.1,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 217,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 108.1,
+   "end": 108.34,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 218,
+   "word": "go",
+   "before": " ",
+   "after": "",
+   "start": 108.34,
+   "end": 108.52,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 219,
+   "word": "home",
+   "before": " ",
+   "after": ",\"",
+   "start": 108.52,
+   "end": 109.06,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 220,
+   "word": "said",
+   "before": " ",
+   "after": "",
+   "start": 109.26,
+   "end": 109.84,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 221,
+   "word": "Annie",
+   "before": " ",
+   "after": ".",
+   "start": 109.84,
+   "end": 110.2,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 222,
+   "word": "Right",
+   "before": "\"",
+   "after": ".\"",
+   "start": 110.62,
+   "end": 111.2,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 223,
+   "word": "Jack",
+   "before": " ",
+   "after": "",
+   "start": 111.83,
+   "end": 112.41,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 224,
+   "word": "suddenly",
+   "before": " ",
+   "after": "",
+   "start": 112.41,
+   "end": 112.65,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 225,
+   "word": "felt",
+   "before": " ",
+   "after": "",
+   "start": 112.65,
+   "end": 113.05,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 226,
+   "word": "tired",
+   "before": " ",
+   "after": ".",
+   "start": 113.05,
+   "end": 113.55,
+   "key": true,
+   "page": 1
+  },
+  {
+   "i": 227,
+   "word": "How",
+   "before": " ",
+   "after": "",
+   "start": 114.07,
+   "end": 114.65,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 228,
+   "word": "would",
+   "before": " ",
+   "after": "",
+   "start": 114.65,
+   "end": 114.87,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 229,
+   "word": "they",
+   "before": " ",
+   "after": "",
+   "start": 114.87,
+   "end": 115.01,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 230,
+   "word": "ever",
+   "before": " ",
+   "after": "",
+   "start": 115.01,
+   "end": 115.39,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 231,
+   "word": "get",
+   "before": " ",
+   "after": "",
+   "start": 115.39,
+   "end": 115.69,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 232,
+   "word": "out",
+   "before": " ",
+   "after": "",
+   "start": 115.69,
+   "end": 115.87,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 233,
+   "word": "of",
+   "before": " ",
+   "after": "",
+   "start": 115.87,
+   "end": 116.07,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 234,
+   "word": "this",
+   "before": " ",
+   "after": "",
+   "start": 116.07,
+   "end": 116.35,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 235,
+   "word": "mess",
+   "before": " ",
+   "after": "?",
+   "start": 116.35,
+   "end": 116.71,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 236,
+   "word": "We",
+   "before": "“",
+   "after": "",
+   "start": 117.51,
+   "end": 118.09,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 237,
+   "word": "better",
+   "before": " ",
+   "after": "",
+   "start": 118.09,
+   "end": 118.27,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 238,
+   "word": "examine",
+   "before": " ",
+   "after": "",
+   "start": 118.27,
+   "end": 118.79,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 239,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 118.79,
+   "end": 119.05,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 240,
+   "word": "book",
+   "before": " ",
+   "after": ",”",
+   "start": 119.05,
+   "end": 119.33,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 241,
+   "word": "he",
+   "before": " ",
+   "after": "",
+   "start": 119.53,
+   "end": 119.89,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 242,
+   "word": "said",
+   "before": " ",
+   "after": ".",
+   "start": 119.89,
+   "end": 120.19,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 243,
+   "word": "He",
+   "before": "",
+   "after": "",
+   "start": 120.19,
+   "end": 120.97,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 244,
+   "word": "reached",
+   "before": " ",
+   "after": "",
+   "start": 120.97,
+   "end": 121.57,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 245,
+   "word": "into",
+   "before": " ",
+   "after": "",
+   "start": 121.57,
+   "end": 121.89,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 246,
+   "word": "his",
+   "before": " ",
+   "after": "",
+   "start": 121.89,
+   "end": 122.19,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 247,
+   "word": "pack",
+   "before": " ",
+   "after": "",
+   "start": 122.19,
+   "end": 122.55,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 248,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 122.55,
+   "end": 123.11,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 249,
+   "word": "pulled",
+   "before": " ",
+   "after": "",
+   "start": 123.11,
+   "end": 123.53,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 250,
+   "word": "out",
+   "before": " ",
+   "after": "",
+   "start": 123.53,
+   "end": 123.85,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 251,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 123.85,
+   "end": 124.03,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 252,
+   "word": "pirate",
+   "before": " ",
+   "after": "",
+   "start": 124.03,
+   "end": 124.39,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 253,
+   "word": "book",
+   "before": " ",
+   "after": ".",
+   "start": 124.39,
+   "end": 124.73,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 254,
+   "word": "He",
+   "before": "",
+   "after": "",
+   "start": 124.73,
+   "end": 125.65,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 255,
+   "word": "flipped",
+   "before": " ",
+   "after": "",
+   "start": 125.65,
+   "end": 126.03,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 256,
+   "word": "through",
+   "before": " ",
+   "after": "",
+   "start": 126.03,
+   "end": 126.31,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 257,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 126.31,
+   "end": 126.47,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 258,
+   "word": "pages",
+   "before": " ",
+   "after": ".",
+   "start": 126.47,
+   "end": 126.89,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 259,
+   "word": "He",
+   "before": "",
+   "after": "",
+   "start": 126.89,
+   "end": 127.87,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 260,
+   "word": "looked",
+   "before": " ",
+   "after": "",
+   "start": 127.87,
+   "end": 128.11,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 261,
+   "word": "for",
+   "before": " ",
+   "after": "",
+   "start": 128.11,
+   "end": 128.33,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 262,
+   "word": "information",
+   "before": " ",
+   "after": "",
+   "start": 128.33,
+   "end": 128.81,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 263,
+   "word": "to",
+   "before": " ",
+   "after": "",
+   "start": 128.81,
+   "end": 129.31,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 264,
+   "word": "help",
+   "before": " ",
+   "after": "",
+   "start": 129.31,
+   "end": 129.55,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 265,
+   "word": "them",
+   "before": " ",
+   "after": ".",
+   "start": 129.55,
+   "end": 129.89,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 266,
+   "word": "Look",
+   "before": "\"",
+   "after": ",\"",
+   "start": 129.92,
+   "end": 131.08,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 267,
+   "word": "he",
+   "before": " ",
+   "after": "",
+   "start": 131.08,
+   "end": 131.68,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 268,
+   "word": "said",
+   "before": " ",
+   "after": ".",
+   "start": 131.68,
+   "end": 132.04,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 269,
+   "word": "He",
+   "before": "",
+   "after": "",
+   "start": 132.04,
+   "end": 132.92,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 270,
+   "word": "found",
+   "before": " ",
+   "after": "",
+   "start": 132.92,
+   "end": 133.2,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 271,
+   "word": "a",
+   "before": " ",
+   "after": "",
+   "start": 133.2,
+   "end": 133.36,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 272,
+   "word": "picture",
+   "before": " ",
+   "after": "",
+   "start": 133.36,
+   "end": 133.66,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 273,
+   "word": "of",
+   "before": " ",
+   "after": "",
+   "start": 133.66,
+   "end": 133.84,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 274,
+   "word": "pirates",
+   "before": " ",
+   "after": "",
+   "start": 133.84,
+   "end": 134.26,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 275,
+   "word": "burying",
+   "before": " ",
+   "after": "",
+   "start": 134.26,
+   "end": 135.44,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 276,
+   "word": "a",
+   "before": " ",
+   "after": "",
+   "start": 135.44,
+   "end": 135.62,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 277,
+   "word": "treasure",
+   "before": " ",
+   "after": "",
+   "start": 135.62,
+   "end": 135.92,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 278,
+   "word": "chest",
+   "before": " ",
+   "after": ".",
+   "start": 135.92,
+   "end": 136.36,
+   "key": true,
+   "page": 1
+  },
+  {
+   "i": 279,
+   "word": "This",
+   "before": " “",
+   "after": "",
+   "start": 136.36,
+   "end": 137.48,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 280,
+   "word": "might",
+   "before": " ",
+   "after": "",
+   "start": 137.48,
+   "end": 137.72,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 281,
+   "word": "help",
+   "before": " ",
+   "after": ".”",
+   "start": 137.72,
+   "end": 138.12,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 282,
+   "word": "Together",
+   "before": "",
+   "after": "",
+   "start": 138.31,
+   "end": 139.31,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 283,
+   "word": "they",
+   "before": " ",
+   "after": "",
+   "start": 139.31,
+   "end": 139.73,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 284,
+   "word": "read",
+   "before": " ",
+   "after": "",
+   "start": 139.73,
+   "end": 139.93,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 285,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 139.93,
+   "end": 140.11,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 286,
+   "word": "words",
+   "before": " ",
+   "after": "",
+   "start": 140.11,
+   "end": 140.43,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 287,
+   "word": "under",
+   "before": " ",
+   "after": "",
+   "start": 140.43,
+   "end": 140.77,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 288,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 140.77,
+   "end": 140.93,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 289,
+   "word": "picture",
+   "before": " ",
+   "after": ".",
+   "start": 140.93,
+   "end": 141.27,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 290,
+   "word": "Captain",
+   "before": "",
+   "after": "",
+   "start": 141.27,
+   "end": 142.53,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 291,
+   "word": "Kidd",
+   "before": " ",
+   "after": "",
+   "start": 142.955,
+   "end": 143.38,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 292,
+   "word": "was",
+   "before": " ",
+   "after": "",
+   "start": 143.38,
+   "end": 143.7,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 293,
+   "word": "a",
+   "before": " ",
+   "after": "",
+   "start": 143.7,
+   "end": 143.9,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 294,
+   "word": "famous",
+   "before": " ",
+   "after": "",
+   "start": 143.9,
+   "end": 144.26,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 295,
+   "word": "pirate",
+   "before": " ",
+   "after": ".",
+   "start": 144.26,
+   "end": 144.72,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 296,
+   "word": "It",
+   "before": " ",
+   "after": "",
+   "start": 145.0,
+   "end": 145.64,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 297,
+   "word": "is",
+   "before": " ",
+   "after": "",
+   "start": 145.64,
+   "end": 145.8,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 298,
+   "word": "said",
+   "before": " ",
+   "after": "",
+   "start": 145.8,
+   "end": 146.0,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 299,
+   "word": "that",
+   "before": " ",
+   "after": "",
+   "start": 146.0,
+   "end": 146.2,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 300,
+   "word": "he",
+   "before": " ",
+   "after": "",
+   "start": 146.2,
+   "end": 146.28,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 301,
+   "word": "buried",
+   "before": " ",
+   "after": "",
+   "start": 146.28,
+   "end": 146.66,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 302,
+   "word": "a",
+   "before": " ",
+   "after": "",
+   "start": 146.66,
+   "end": 146.84,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 303,
+   "word": "treasure",
+   "before": " ",
+   "after": "",
+   "start": 146.84,
+   "end": 147.2,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 304,
+   "word": "chest",
+   "before": " ",
+   "after": "",
+   "start": 147.2,
+   "end": 147.52,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 305,
+   "word": "on",
+   "before": " ",
+   "after": "",
+   "start": 147.52,
+   "end": 148.22,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 306,
+   "word": "a",
+   "before": " ",
+   "after": "",
+   "start": 148.22,
+   "end": 148.34,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 307,
+   "word": "deserted",
+   "before": " ",
+   "after": "",
+   "start": 148.34,
+   "end": 148.76,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 308,
+   "word": "island",
+   "before": " ",
+   "after": ".",
+   "start": 148.76,
+   "end": 149.3,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 309,
+   "word": "The",
+   "before": " ",
+   "after": "",
+   "start": 149.46,
+   "end": 150.08,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 310,
+   "word": "chest",
+   "before": " ",
+   "after": "",
+   "start": 150.08,
+   "end": 150.4,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 311,
+   "word": "was",
+   "before": " ",
+   "after": "",
+   "start": 150.4,
+   "end": 150.78,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 312,
+   "word": "filled",
+   "before": " ",
+   "after": "",
+   "start": 150.78,
+   "end": 151.16,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 313,
+   "word": "with",
+   "before": " ",
+   "after": "",
+   "start": 151.16,
+   "end": 151.52,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 314,
+   "word": "gold",
+   "before": " ",
+   "after": "",
+   "start": 151.52,
+   "end": 151.94,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 315,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 151.94,
+   "end": 152.36,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 316,
+   "word": "jewels",
+   "before": " ",
+   "after": ".",
+   "start": 152.36,
+   "end": 152.74,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 317,
+   "word": "Captain",
+   "before": "“",
+   "after": "",
+   "start": 153.93,
+   "end": 154.67,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 318,
+   "word": "Kidd",
+   "before": " ",
+   "after": "!”",
+   "start": 154.67,
+   "end": 155.17,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 319,
+   "word": "said",
+   "before": " ",
+   "after": "",
+   "start": 155.43,
+   "end": 156.03,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 320,
+   "word": "Jack",
+   "before": " ",
+   "after": ".",
+   "start": 156.03,
+   "end": 156.39,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 321,
+   "word": "So",
+   "before": "\"",
+   "after": "",
+   "start": 156.89,
+   "end": 157.63,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 322,
+   "word": "that's",
+   "before": " ",
+   "after": "",
+   "start": 157.63,
+   "end": 158.05,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 323,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 158.05,
+   "end": 158.15,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 324,
+   "word": "kid",
+   "before": " ",
+   "after": "",
+   "start": 158.15,
+   "end": 158.49,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 325,
+   "word": "that",
+   "before": " ",
+   "after": "",
+   "start": 158.49,
+   "end": 158.77,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 326,
+   "word": "Bones",
+   "before": " ",
+   "after": "",
+   "start": 158.77,
+   "end": 159.17,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 327,
+   "word": "keeps",
+   "before": " ",
+   "after": "",
+   "start": 159.17,
+   "end": 159.39,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 328,
+   "word": "talking",
+   "before": " ",
+   "after": "",
+   "start": 159.39,
+   "end": 159.89,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 329,
+   "word": "about",
+   "before": " ",
+   "after": ",\"",
+   "start": 159.89,
+   "end": 160.25,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 330,
+   "word": "said",
+   "before": " ",
+   "after": "",
+   "start": 160.57,
+   "end": 161.11,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 331,
+   "word": "Annie",
+   "before": " ",
+   "after": ".",
+   "start": 161.11,
+   "end": 161.43,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 332,
+   "word": "Right",
+   "before": "\"",
+   "after": ",\"",
+   "start": 161.99,
+   "end": 162.73,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 333,
+   "word": "said",
+   "before": " ",
+   "after": "",
+   "start": 162.97,
+   "end": 163.53,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 334,
+   "word": "Jack",
+   "before": " ",
+   "after": ".",
+   "start": 163.53,
+   "end": 163.93,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 335,
+   "word": "Annie",
+   "before": "",
+   "after": "",
+   "start": 164.21,
+   "end": 164.95,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 336,
+   "word": "looked",
+   "before": " ",
+   "after": "",
+   "start": 164.95,
+   "end": 165.17,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 337,
+   "word": "out",
+   "before": " ",
+   "after": "",
+   "start": 165.17,
+   "end": 165.41,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 338,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 165.41,
+   "end": 165.55,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 339,
+   "word": "round",
+   "before": " ",
+   "after": "",
+   "start": 165.55,
+   "end": 165.77,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 340,
+   "word": "window",
+   "before": " ",
+   "after": ".",
+   "start": 165.77,
+   "end": 166.27,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 341,
+   "word": "And",
+   "before": "“",
+   "after": "",
+   "start": 166.76,
+   "end": 167.38,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 342,
+   "word": "Captain",
+   "before": " ",
+   "after": "",
+   "start": 167.38,
+   "end": 167.82,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 343,
+   "word": "Kidd's",
+   "before": " ",
+   "after": "",
+   "start": 167.82,
+   "end": 168.46,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 344,
+   "word": "treasure",
+   "before": " ",
+   "after": "",
+   "start": 168.46,
+   "end": 168.92,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 345,
+   "word": "is",
+   "before": " ",
+   "after": "",
+   "start": 168.92,
+   "end": 169.52,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 346,
+   "word": "buried",
+   "before": " ",
+   "after": "",
+   "start": 169.52,
+   "end": 169.88,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 347,
+   "word": "somewhere",
+   "before": " ",
+   "after": "",
+   "start": 170.18,
+   "end": 170.42,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 348,
+   "word": "on",
+   "before": " ",
+   "after": "",
+   "start": 170.42,
+   "end": 170.72,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 349,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 170.72,
+   "end": 170.84,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 350,
+   "word": "island",
+   "before": " ",
+   "after": ",”",
+   "start": 170.84,
+   "end": 171.2,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 351,
+   "word": "she",
+   "before": " ",
+   "after": "",
+   "start": 171.2,
+   "end": 172.12,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 352,
+   "word": "said",
+   "before": " ",
+   "after": ".",
+   "start": 172.12,
+   "end": 172.52,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 353,
+   "word": "Jack",
+   "before": "",
+   "after": "",
+   "start": 172.52,
+   "end": 173.64,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 354,
+   "word": "took",
+   "before": " ",
+   "after": "",
+   "start": 173.93,
+   "end": 174.15,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 355,
+   "word": "out",
+   "before": " ",
+   "after": "",
+   "start": 174.15,
+   "end": 174.39,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 356,
+   "word": "his",
+   "before": " ",
+   "after": "",
+   "start": 174.39,
+   "end": 174.55,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 357,
+   "word": "notebook",
+   "before": " ",
+   "after": "",
+   "start": 174.55,
+   "end": 174.85,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 358,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 174.85,
+   "end": 175.11,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 359,
+   "word": "pencil",
+   "before": " ",
+   "after": ".",
+   "start": 175.11,
+   "end": 175.51,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 360,
+   "word": "He",
+   "before": " ",
+   "after": "",
+   "start": 175.51,
+   "end": 176.39,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 361,
+   "word": "wrote",
+   "before": " ",
+   "after": ":",
+   "start": 176.39,
+   "end": 176.69,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 362,
+   "word": "Captain",
+   "before": "",
+   "after": "",
+   "start": 176.82,
+   "end": 178.08,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 363,
+   "word": "Kidd's",
+   "before": " ",
+   "after": "",
+   "start": 178.5,
+   "end": 178.92,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 364,
+   "word": "treasure",
+   "before": " ",
+   "after": "",
+   "start": 178.92,
+   "end": 179.9,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 365,
+   "word": "on",
+   "before": " ",
+   "after": "",
+   "start": 179.9,
+   "end": 180.6,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 366,
+   "word": "island",
+   "before": " ",
+   "after": "",
+   "start": 180.6,
+   "end": 181.16,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 367,
+   "word": "Ja-ack",
+   "before": "\"",
+   "after": ",\"",
+   "start": 182.095,
+   "end": 183.03,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 368,
+   "word": "Annie",
+   "before": " ",
+   "after": "",
+   "start": 183.03,
+   "end": 184.63,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 369,
+   "word": "said",
+   "before": " ",
+   "after": ".",
+   "start": 184.66,
+   "end": 184.98,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 370,
+   "word": "Shhh",
+   "before": "“",
+   "after": ",",
+   "start": 185.33,
+   "end": 185.68,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 371,
+   "word": "wait",
+   "before": " ",
+   "after": "",
+   "start": 185.68,
+   "end": 185.96,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 372,
+   "word": "a",
+   "before": " ",
+   "after": "",
+   "start": 185.96,
+   "end": 186.06,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 373,
+   "word": "minute",
+   "before": " ",
+   "after": ",”",
+   "start": 186.06,
+   "end": 186.26,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 374,
+   "word": "he",
+   "before": " ",
+   "after": "",
+   "start": 186.26,
+   "end": 186.52,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 375,
+   "word": "said",
+   "before": " ",
+   "after": ".",
+   "start": 186.52,
+   "end": 186.74,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 376,
+   "word": "I’m",
+   "before": " “",
+   "after": "",
+   "start": 186.74,
+   "end": 186.92,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 377,
+   "word": "thinking",
+   "before": " ",
+   "after": ".”",
+   "start": 186.92,
+   "end": 187.26,
+   "key": false,
+   "page": 1
+  },
+  {
+   "i": 378,
+   "word": "Guess",
+   "before": "“",
+   "after": "",
+   "start": 187.26,
+   "end": 188.38,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 379,
+   "word": "what",
+   "before": " ",
+   "after": "",
+   "start": 188.64,
+   "end": 188.92,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 380,
+   "word": "I",
+   "before": " ",
+   "after": "",
+   "start": 188.92,
+   "end": 189.12,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 381,
+   "word": "see",
+   "before": " ",
+   "after": "?”",
+   "start": 189.12,
+   "end": 189.54,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 382,
+   "word": "said",
+   "before": " ",
+   "after": "",
+   "start": 189.54,
+   "end": 190.66,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 383,
+   "word": "Annie",
+   "before": " ",
+   "after": ".",
+   "start": 190.66,
+   "end": 191.14,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 384,
+   "word": "What",
+   "before": "\"",
+   "after": "?\"",
+   "start": 191.14,
+   "end": 191.96,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 385,
+   "word": "Jack",
+   "before": " ",
+   "after": "",
+   "start": 191.96,
+   "end": 192.74,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 386,
+   "word": "asked",
+   "before": " ",
+   "after": ".",
+   "start": 192.74,
+   "end": 193.22,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 387,
+   "word": "He",
+   "before": " ",
+   "after": "",
+   "start": 193.22,
+   "end": 194.18,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 388,
+   "word": "looked",
+   "before": " ",
+   "after": "",
+   "start": 194.21,
+   "end": 194.43,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 389,
+   "word": "back",
+   "before": " ",
+   "after": "",
+   "start": 194.43,
+   "end": 194.63,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 390,
+   "word": "at",
+   "before": " ",
+   "after": "",
+   "start": 194.63,
+   "end": 194.85,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 391,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 194.85,
+   "end": 194.97,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 392,
+   "word": "book",
+   "before": " ",
+   "after": ".",
+   "start": 194.97,
+   "end": 195.23,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 393,
+   "word": "A",
+   "before": "“",
+   "after": "",
+   "start": 195.23,
+   "end": 196.07,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 394,
+   "word": "whale",
+   "before": " ",
+   "after": ".”",
+   "start": 196.07,
+   "end": 196.45,
+   "key": true,
+   "page": 2
+  },
+  {
+   "i": 395,
+   "word": "Neat",
+   "before": "\"",
+   "after": ",\"",
+   "start": 196.45,
+   "end": 197.71,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 396,
+   "word": "he",
+   "before": " ",
+   "after": "",
+   "start": 197.84,
+   "end": 198.16,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 397,
+   "word": "said",
+   "before": " ",
+   "after": ".",
+   "start": 198.16,
+   "end": 198.48,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 398,
+   "word": "Then",
+   "before": " ",
+   "after": "",
+   "start": 198.48,
+   "end": 199.22,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 399,
+   "word": "he",
+   "before": " ",
+   "after": "",
+   "start": 199.22,
+   "end": 199.34,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 400,
+   "word": "looked",
+   "before": " ",
+   "after": "",
+   "start": 199.34,
+   "end": 199.56,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 401,
+   "word": "up",
+   "before": " ",
+   "after": ".",
+   "start": 199.56,
+   "end": 199.86,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 402,
+   "word": "A",
+   "before": " \"",
+   "after": "",
+   "start": 199.86,
+   "end": 200.66,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 403,
+   "word": "whale",
+   "before": " ",
+   "after": "?\"",
+   "start": 200.85,
+   "end": 201.23,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 404,
+   "word": "Did",
+   "before": "",
+   "after": "",
+   "start": 201.47,
+   "end": 202.15,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 405,
+   "word": "you",
+   "before": " ",
+   "after": "",
+   "start": 202.15,
+   "end": 202.31,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 406,
+   "word": "say",
+   "before": " ",
+   "after": "...",
+   "start": 202.31,
+   "end": 202.67,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 407,
+   "word": "a",
+   "before": "",
+   "after": "",
+   "start": 202.83,
+   "end": 203.35,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 408,
+   "word": "whale",
+   "before": " ",
+   "after": "?\"",
+   "start": 203.35,
+   "end": 203.77,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 409,
+   "word": "A",
+   "before": "\"",
+   "after": "",
+   "start": 204.13,
+   "end": 204.85,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 410,
+   "word": "whale",
+   "before": " ",
+   "after": ".",
+   "start": 205.26,
+   "end": 205.74,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 411,
+   "word": "A",
+   "before": " ",
+   "after": "",
+   "start": 206.04,
+   "end": 206.54,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 412,
+   "word": "huge",
+   "before": " ",
+   "after": "",
+   "start": 206.54,
+   "end": 207.0,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 413,
+   "word": "whale",
+   "before": " ",
+   "after": ".",
+   "start": 207.0,
+   "end": 207.44,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 414,
+   "word": "As",
+   "before": " ",
+   "after": "",
+   "start": 207.76,
+   "end": 208.28,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 415,
+   "word": "big",
+   "before": " ",
+   "after": "",
+   "start": 208.28,
+   "end": 208.42,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 416,
+   "word": "as",
+   "before": " ",
+   "after": "",
+   "start": 208.42,
+   "end": 208.66,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 417,
+   "word": "a",
+   "before": " ",
+   "after": "",
+   "start": 208.66,
+   "end": 208.84,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 418,
+   "word": "football",
+   "before": " ",
+   "after": "",
+   "start": 208.84,
+   "end": 209.26,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 419,
+   "word": "field",
+   "before": " ",
+   "after": ".\"",
+   "start": 209.26,
+   "end": 209.9,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 420,
+   "word": "Jack",
+   "before": "",
+   "after": "",
+   "start": 210.94,
+   "end": 211.3,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 421,
+   "word": "jumped",
+   "before": " ",
+   "after": "",
+   "start": 211.3,
+   "end": 211.62,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 422,
+   "word": "up",
+   "before": " ",
+   "after": "",
+   "start": 211.62,
+   "end": 212.0,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 423,
+   "word": "and",
+   "before": " ",
+   "after": "",
+   "start": 212.0,
+   "end": 212.52,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 424,
+   "word": "looked",
+   "before": " ",
+   "after": "",
+   "start": 212.52,
+   "end": 212.82,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 425,
+   "word": "out",
+   "before": " ",
+   "after": "",
+   "start": 212.82,
+   "end": 213.0,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 426,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 213.0,
+   "end": 213.16,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 427,
+   "word": "window",
+   "before": " ",
+   "after": "",
+   "start": 213.16,
+   "end": 213.46,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 428,
+   "word": "with",
+   "before": " ",
+   "after": "",
+   "start": 213.46,
+   "end": 213.72,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 429,
+   "word": "her",
+   "before": " ",
+   "after": ".",
+   "start": 213.72,
+   "end": 213.98,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 430,
+   "word": "Where",
+   "before": "\"",
+   "after": "?\"",
+   "start": 214.64,
+   "end": 214.98,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 431,
+   "word": "Jack",
+   "before": " ",
+   "after": "",
+   "start": 215.32,
+   "end": 215.94,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 432,
+   "word": "asked",
+   "before": " ",
+   "after": ".",
+   "start": 215.94,
+   "end": 216.4,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 433,
+   "word": "All",
+   "before": " ",
+   "after": "",
+   "start": 216.7,
+   "end": 217.18,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 434,
+   "word": "he",
+   "before": " ",
+   "after": "",
+   "start": 217.18,
+   "end": 217.38,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 435,
+   "word": "could",
+   "before": " ",
+   "after": "",
+   "start": 217.38,
+   "end": 217.54,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 436,
+   "word": "see",
+   "before": " ",
+   "after": "",
+   "start": 217.54,
+   "end": 217.82,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 437,
+   "word": "was",
+   "before": " ",
+   "after": "",
+   "start": 217.82,
+   "end": 218.0,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 438,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 218.0,
+   "end": 218.18,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 439,
+   "word": "island",
+   "before": " ",
+   "after": ".",
+   "start": 218.18,
+   "end": 218.58,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 440,
+   "word": "And",
+   "before": " ",
+   "after": "",
+   "start": 218.84,
+   "end": 219.38,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 441,
+   "word": "stormy",
+   "before": " ",
+   "after": "",
+   "start": 219.38,
+   "end": 219.92,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 442,
+   "word": "waves",
+   "before": " ",
+   "after": ".",
+   "start": 219.92,
+   "end": 220.28,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 443,
+   "word": "And",
+   "before": " ",
+   "after": "",
+   "start": 220.54,
+   "end": 220.92,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 444,
+   "word": "shark",
+   "before": " ",
+   "after": "",
+   "start": 220.92,
+   "end": 221.3,
+   "key": true,
+   "page": 2
+  },
+  {
+   "i": 445,
+   "word": "fins",
+   "before": " ",
+   "after": ".",
+   "start": 221.3,
+   "end": 221.6,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 446,
+   "word": "There",
+   "before": "“",
+   "after": "!”",
+   "start": 222.7,
+   "end": 223.06,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 447,
+   "word": "said",
+   "before": " ",
+   "after": "",
+   "start": 223.38,
+   "end": 224.04,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 448,
+   "word": "Annie",
+   "before": " ",
+   "after": ".",
+   "start": 224.04,
+   "end": 224.36,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 449,
+   "word": "Where",
+   "before": "“",
+   "after": "?",
+   "start": 224.58,
+   "end": 225.3,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 450,
+   "word": "Where",
+   "before": " ",
+   "after": "?”",
+   "start": 225.62,
+   "end": 226.22,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 451,
+   "word": "There",
+   "before": "“",
+   "after": "!",
+   "start": 226.5,
+   "end": 227.24,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 452,
+   "word": "The",
+   "before": " ",
+   "after": "",
+   "start": 227.65,
+   "end": 228.43,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 453,
+   "word": "island",
+   "before": " ",
+   "after": "",
+   "start": 228.43,
+   "end": 228.91,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 454,
+   "word": "is",
+   "before": " ",
+   "after": "",
+   "start": 228.91,
+   "end": 229.17,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 455,
+   "word": "shaped",
+   "before": " ",
+   "after": "",
+   "start": 229.17,
+   "end": 229.43,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 456,
+   "word": "like",
+   "before": " ",
+   "after": "",
+   "start": 229.43,
+   "end": 229.71,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 457,
+   "word": "a",
+   "before": " ",
+   "after": "",
+   "start": 229.71,
+   "end": 229.87,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 458,
+   "word": "giant",
+   "before": " ",
+   "after": "",
+   "start": 229.87,
+   "end": 230.27,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 459,
+   "word": "whale",
+   "before": " ",
+   "after": "!”",
+   "start": 230.27,
+   "end": 230.63,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 460,
+   "word": "Oh",
+   "before": "\"",
+   "after": "",
+   "start": 231.63,
+   "end": 232.63,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 461,
+   "word": "man",
+   "before": " ",
+   "after": ",\"",
+   "start": 232.63,
+   "end": 233.31,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 462,
+   "word": "whispered",
+   "before": " ",
+   "after": "",
+   "start": 233.31,
+   "end": 233.99,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 463,
+   "word": "Jack",
+   "before": " ",
+   "after": ".",
+   "start": 233.99,
+   "end": 234.21,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 464,
+   "word": "Now",
+   "before": " ",
+   "after": "",
+   "start": 234.51,
+   "end": 235.17,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 465,
+   "word": "he",
+   "before": " ",
+   "after": "",
+   "start": 235.17,
+   "end": 235.39,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 466,
+   "word": "could",
+   "before": " ",
+   "after": "",
+   "start": 235.39,
+   "end": 235.63,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 467,
+   "word": "see",
+   "before": " ",
+   "after": "",
+   "start": 235.63,
+   "end": 235.93,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 468,
+   "word": "it",
+   "before": " ",
+   "after": ".",
+   "start": 235.93,
+   "end": 236.25,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 469,
+   "word": "See",
+   "before": "“",
+   "after": "",
+   "start": 236.68,
+   "end": 237.18,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 470,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 237.18,
+   "end": 237.38,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 471,
+   "word": "whale’s",
+   "before": " ",
+   "after": "",
+   "start": 237.38,
+   "end": 237.8,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 472,
+   "word": "back",
+   "before": " ",
+   "after": "?”",
+   "start": 237.8,
+   "end": 238.14,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 473,
+   "word": "said",
+   "before": " ",
+   "after": "",
+   "start": 238.46,
+   "end": 239.2,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 474,
+   "word": "Annie",
+   "before": " ",
+   "after": ".",
+   "start": 239.2,
+   "end": 239.54,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 475,
+   "word": "Yep",
+   "before": "“",
+   "after": ".”",
+   "start": 240.0,
+   "end": 240.68,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 476,
+   "word": "The",
+   "before": " ",
+   "after": "",
+   "start": 240.72,
+   "end": 241.4,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 477,
+   "word": "slope",
+   "before": " ",
+   "after": "",
+   "start": 241.4,
+   "end": 241.74,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 478,
+   "word": "of",
+   "before": " ",
+   "after": "",
+   "start": 241.74,
+   "end": 241.92,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 479,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 241.92,
+   "end": 241.98,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 480,
+   "word": "island",
+   "before": " ",
+   "after": "",
+   "start": 241.98,
+   "end": 242.34,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 481,
+   "word": "looked",
+   "before": " ",
+   "after": "",
+   "start": 242.34,
+   "end": 242.6,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 482,
+   "word": "like",
+   "before": " ",
+   "after": "",
+   "start": 242.6,
+   "end": 242.82,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 483,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 242.82,
+   "end": 242.96,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 484,
+   "word": "back",
+   "before": " ",
+   "after": "",
+   "start": 242.96,
+   "end": 243.24,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 485,
+   "word": "of",
+   "before": " ",
+   "after": "",
+   "start": 243.24,
+   "end": 243.42,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 486,
+   "word": "a",
+   "before": " ",
+   "after": "",
+   "start": 243.42,
+   "end": 243.52,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 487,
+   "word": "whale",
+   "before": " ",
+   "after": ".",
+   "start": 243.52,
+   "end": 243.86,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 488,
+   "word": "See",
+   "before": "\"",
+   "after": "",
+   "start": 244.4,
+   "end": 245.08,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 489,
+   "word": "his",
+   "before": " ",
+   "after": "",
+   "start": 245.17,
+   "end": 245.26,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 490,
+   "word": "spout",
+   "before": " ",
+   "after": "?\"",
+   "start": 245.26,
+   "end": 245.84,
+   "key": true,
+   "page": 2
+  },
+  {
+   "i": 491,
+   "word": "said",
+   "before": " ",
+   "after": "",
+   "start": 246.0,
+   "end": 246.54,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 492,
+   "word": "Annie",
+   "before": " ",
+   "after": ".",
+   "start": 246.54,
+   "end": 246.92,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 493,
+   "word": "Yep",
+   "before": "“",
+   "after": ".”",
+   "start": 247.38,
+   "end": 248.06,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 494,
+   "word": "The",
+   "before": " ",
+   "after": "",
+   "start": 248.06,
+   "end": 248.78,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 495,
+   "word": "palm",
+   "before": " ",
+   "after": "",
+   "start": 249.16,
+   "end": 249.48,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 496,
+   "word": "tree",
+   "before": " ",
+   "after": "",
+   "start": 249.48,
+   "end": 249.86,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 497,
+   "word": "that",
+   "before": " ",
+   "after": "",
+   "start": 249.86,
+   "end": 250.36,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 498,
+   "word": "held",
+   "before": " ",
+   "after": "",
+   "start": 250.36,
+   "end": 250.54,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 499,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 250.54,
+   "end": 250.72,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 500,
+   "word": "tree",
+   "before": " ",
+   "after": "",
+   "start": 250.887,
+   "end": 251.053,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 501,
+   "word": "house",
+   "before": " ",
+   "after": "",
+   "start": 251.053,
+   "end": 251.22,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 502,
+   "word": "looked",
+   "before": " ",
+   "after": "",
+   "start": 251.22,
+   "end": 252.0,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 503,
+   "word": "like",
+   "before": " ",
+   "after": "",
+   "start": 252.0,
+   "end": 252.22,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 504,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 252.22,
+   "end": 252.34,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 505,
+   "word": "spout",
+   "before": " ",
+   "after": "",
+   "start": 252.34,
+   "end": 252.86,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 506,
+   "word": "of",
+   "before": " ",
+   "after": "",
+   "start": 252.86,
+   "end": 253.1,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 507,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 253.1,
+   "end": 253.24,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 508,
+   "word": "whale",
+   "before": " ",
+   "after": ".",
+   "start": 253.24,
+   "end": 253.58,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 509,
+   "word": "See",
+   "before": "\"",
+   "after": "",
+   "start": 254.18,
+   "end": 254.78,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 510,
+   "word": "his",
+   "before": " ",
+   "after": "",
+   "start": 254.78,
+   "end": 254.98,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 511,
+   "word": "eye",
+   "before": " ",
+   "after": "?\"",
+   "start": 254.98,
+   "end": 255.22,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 512,
+   "word": "said",
+   "before": " ",
+   "after": "",
+   "start": 255.58,
+   "end": 256.18,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 513,
+   "word": "Annie",
+   "before": " ",
+   "after": ".",
+   "start": 256.18,
+   "end": 256.52,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 514,
+   "word": "Yep",
+   "before": "“",
+   "after": ".”",
+   "start": 256.52,
+   "end": 257.48,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 515,
+   "word": "A",
+   "before": " ",
+   "after": "",
+   "start": 257.62,
+   "end": 258.42,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 516,
+   "word": "big",
+   "before": " ",
+   "after": "",
+   "start": 258.42,
+   "end": 258.82,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 517,
+   "word": "black",
+   "before": " ",
+   "after": "",
+   "start": 258.82,
+   "end": 259.18,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 518,
+   "word": "rock",
+   "before": " ",
+   "after": "",
+   "start": 259.18,
+   "end": 259.64,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 519,
+   "word": "looked",
+   "before": " ",
+   "after": "",
+   "start": 259.64,
+   "end": 260.44,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 520,
+   "word": "like",
+   "before": " ",
+   "after": "",
+   "start": 260.44,
+   "end": 260.68,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 521,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 260.68,
+   "end": 260.86,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 522,
+   "word": "eye",
+   "before": " ",
+   "after": "",
+   "start": 260.86,
+   "end": 261.26,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 523,
+   "word": "of",
+   "before": " ",
+   "after": "",
+   "start": 261.26,
+   "end": 262.04,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 524,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 262.04,
+   "end": 262.12,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 525,
+   "word": "whale",
+   "before": " ",
+   "after": ".",
+   "start": 262.12,
+   "end": 262.46,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 526,
+   "word": "The",
+   "before": "“",
+   "after": "",
+   "start": 262.68,
+   "end": 263.52,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 527,
+   "word": "gold",
+   "before": " ",
+   "after": "",
+   "start": 263.97,
+   "end": 264.41,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 528,
+   "word": "doth",
+   "before": " ",
+   "after": "",
+   "start": 264.41,
+   "end": 264.99,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 529,
+   "word": "lie",
+   "before": " ",
+   "after": "",
+   "start": 264.99,
+   "end": 265.35,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 530,
+   "word": "beneath",
+   "before": " ",
+   "after": "",
+   "start": 265.35,
+   "end": 266.51,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 531,
+   "word": "the",
+   "before": " ",
+   "after": "",
+   "start": 266.51,
+   "end": 266.95,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 532,
+   "word": "whale’s",
+   "before": " ",
+   "after": "",
+   "start": 266.95,
+   "end": 267.69,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 533,
+   "word": "eye",
+   "before": " ",
+   "after": ",”",
+   "start": 267.69,
+   "end": 268.33,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 534,
+   "word": "whispered",
+   "before": " ",
+   "after": "",
+   "start": 268.96,
+   "end": 270.0,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 535,
+   "word": "Jack",
+   "before": " ",
+   "after": ".",
+   "start": 270.0,
+   "end": 270.24,
+   "key": false,
+   "page": 2
+  },
+  {
+   "i": 536,
+   "word": "Wow",
+   "before": " “",
+   "after": ".”",
+   "start": 271.18,
+   "end": 271.62,
+   "key": false,
+   "page": 2
+  }
+ ],
+ "pages": [
+  [
+   {
+    "words": [
+     {
+      "i": 0,
+      "word": "The",
+      "before": "",
+      "after": "",
+      "start": 5.01,
+      "end": 5.39,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 1,
+      "word": "rowboat",
+      "before": " ",
+      "after": "",
+      "start": 5.39,
+      "end": 5.83,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 2,
+      "word": "tossed",
+      "before": " ",
+      "after": "",
+      "start": 5.83,
+      "end": 6.17,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 3,
+      "word": "from",
+      "before": " ",
+      "after": "",
+      "start": 6.17,
+      "end": 6.53,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 4,
+      "word": "side",
+      "before": " ",
+      "after": "",
+      "start": 6.53,
+      "end": 6.93,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 5,
+      "word": "to",
+      "before": " ",
+      "after": "",
+      "start": 6.93,
+      "end": 7.17,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 6,
+      "word": "side",
+      "before": " ",
+      "after": ".",
+      "start": 7.17,
+      "end": 7.63,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 7,
+      "word": "The",
+      "before": " ",
+      "after": "",
+      "start": 8.11,
+      "end": 8.49,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 8,
+      "word": "waves",
+      "before": " ",
+      "after": "",
+      "start": 8.49,
+      "end": 8.87,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 9,
+      "word": "were",
+      "before": " ",
+      "after": "",
+      "start": 8.87,
+      "end": 9.17,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 10,
+      "word": "huge",
+      "before": " ",
+      "after": ".",
+      "start": 9.17,
+      "end": 9.67,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 11,
+      "word": "Salty",
+      "before": " ",
+      "after": "",
+      "start": 10.57,
+      "end": 10.95,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 12,
+      "word": "spray",
+      "before": " ",
+      "after": "",
+      "start": 10.95,
+      "end": 11.31,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 13,
+      "word": "stung",
+      "before": " ",
+      "after": "",
+      "start": 11.31,
+      "end": 11.95,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 14,
+      "word": "Jack's",
+      "before": " ",
+      "after": "",
+      "start": 11.95,
+      "end": 12.33,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 15,
+      "word": "eyes",
+      "before": " ",
+      "after": ".",
+      "start": 12.33,
+      "end": 12.71,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 16,
+      "word": "He",
+      "before": " ",
+      "after": "",
+      "start": 12.97,
+      "end": 13.37,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 17,
+      "word": "felt",
+      "before": " ",
+      "after": "",
+      "start": 13.37,
+      "end": 13.65,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 18,
+      "word": "seasick",
+      "before": " ",
+      "after": ".",
+      "start": 13.65,
+      "end": 14.45,
+      "key": true,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 19,
+      "word": "Hold",
+      "before": "\"",
+      "after": "",
+      "start": 15.25,
+      "end": 15.69,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 20,
+      "word": "er",
+      "before": " '",
+      "after": "",
+      "start": 15.77,
+      "end": 15.85,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 21,
+      "word": "steady",
+      "before": " ",
+      "after": "!\"",
+      "start": 15.85,
+      "end": 16.17,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 22,
+      "word": "shouted",
+      "before": " ",
+      "after": "",
+      "start": 16.65,
+      "end": 17.33,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 23,
+      "word": "Cap'n",
+      "before": " ",
+      "after": "",
+      "start": 17.55,
+      "end": 17.77,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 24,
+      "word": "Bones",
+      "before": " ",
+      "after": ".",
+      "start": 17.77,
+      "end": 18.27,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 25,
+      "word": "He",
+      "before": "",
+      "after": "",
+      "start": 18.49,
+      "end": 19.07,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 26,
+      "word": "pointed",
+      "before": " ",
+      "after": "",
+      "start": 19.07,
+      "end": 19.43,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 27,
+      "word": "at",
+      "before": " ",
+      "after": "",
+      "start": 19.43,
+      "end": 19.79,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 28,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 19.79,
+      "end": 19.95,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 29,
+      "word": "sea",
+      "before": " ",
+      "after": ".",
+      "start": 19.95,
+      "end": 20.29,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 30,
+      "word": "Or",
+      "before": " \"",
+      "after": "",
+      "start": 20.73,
+      "end": 21.13,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 31,
+      "word": "we'll",
+      "before": " ",
+      "after": "",
+      "start": 21.13,
+      "end": 21.49,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 32,
+      "word": "be",
+      "before": " ",
+      "after": "",
+      "start": 21.49,
+      "end": 21.75,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 33,
+      "word": "meat",
+      "before": " ",
+      "after": "",
+      "start": 21.96,
+      "end": 22.17,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 34,
+      "word": "for",
+      "before": " ",
+      "after": "",
+      "start": 22.17,
+      "end": 22.39,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 35,
+      "word": "those",
+      "before": " ",
+      "after": "",
+      "start": 22.39,
+      "end": 22.67,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 36,
+      "word": "evil",
+      "before": " ",
+      "after": "",
+      "start": 22.67,
+      "end": 23.15,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 37,
+      "word": "brutes",
+      "before": " ",
+      "after": "!\"",
+      "start": 23.15,
+      "end": 23.79,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 38,
+      "word": "Dark",
+      "before": "",
+      "after": "",
+      "start": 24.64,
+      "end": 25.4,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 39,
+      "word": "fins",
+      "before": " ",
+      "after": "",
+      "start": 25.4,
+      "end": 25.7,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 40,
+      "word": "cut",
+      "before": " ",
+      "after": "",
+      "start": 25.7,
+      "end": 26.22,
+      "key": true,
+      "page": 0
+     },
+     {
+      "i": 41,
+      "word": "through",
+      "before": " ",
+      "after": "",
+      "start": 26.22,
+      "end": 26.46,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 42,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 26.46,
+      "end": 26.62,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 43,
+      "word": "water",
+      "before": " ",
+      "after": ".",
+      "start": 26.62,
+      "end": 26.98,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 44,
+      "word": "Sharks",
+      "before": " ",
+      "after": ".",
+      "start": 27.54,
+      "end": 28.3,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 45,
+      "word": "One",
+      "before": " ",
+      "after": "",
+      "start": 28.98,
+      "end": 29.36,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 46,
+      "word": "zoomed",
+      "before": "",
+      "after": "",
+      "start": 29.36,
+      "end": 30.06,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 47,
+      "word": "right",
+      "before": " ",
+      "after": "",
+      "start": 30.06,
+      "end": 30.22,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 48,
+      "word": "by",
+      "before": " ",
+      "after": "",
+      "start": 30.22,
+      "end": 30.48,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 49,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 30.48,
+      "end": 30.64,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 50,
+      "word": "boat",
+      "before": " ",
+      "after": ".",
+      "start": 30.64,
+      "end": 30.96,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 51,
+      "word": "Jack",
+      "before": " ",
+      "after": "",
+      "start": 30.96,
+      "end": 31.86,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 52,
+      "word": "could",
+      "before": " ",
+      "after": "",
+      "start": 31.86,
+      "end": 32.1,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 53,
+      "word": "have",
+      "before": " ",
+      "after": "",
+      "start": 32.1,
+      "end": 32.24,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 54,
+      "word": "reached",
+      "before": " ",
+      "after": "",
+      "start": 32.24,
+      "end": 32.58,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 55,
+      "word": "out",
+      "before": "",
+      "after": "",
+      "start": 32.58,
+      "end": 33.02,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 56,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 33.02,
+      "end": 33.24,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 57,
+      "word": "touched",
+      "before": " ",
+      "after": "",
+      "start": 33.24,
+      "end": 33.64,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 58,
+      "word": "it",
+      "before": " ",
+      "after": ".",
+      "start": 33.64,
+      "end": 34.0,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 59,
+      "word": "He",
+      "before": "",
+      "after": "",
+      "start": 34.18,
+      "end": 34.72,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 60,
+      "word": "shuddered",
+      "before": " ",
+      "after": ".",
+      "start": 34.72,
+      "end": 35.44,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 61,
+      "word": "Soon",
+      "before": "",
+      "after": "",
+      "start": 35.91,
+      "end": 36.28,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 62,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 36.28,
+      "end": 36.5,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 63,
+      "word": "rowboat",
+      "before": " ",
+      "after": "",
+      "start": 36.5,
+      "end": 36.96,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 64,
+      "word": "pulled",
+      "before": " ",
+      "after": "",
+      "start": 36.96,
+      "end": 37.58,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 65,
+      "word": "alongside",
+      "before": " ",
+      "after": "",
+      "start": 37.58,
+      "end": 38.08,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 66,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 38.08,
+      "end": 38.54,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 67,
+      "word": "ship",
+      "before": " ",
+      "after": ".",
+      "start": 38.54,
+      "end": 38.82,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 68,
+      "word": "The",
+      "before": "",
+      "after": "",
+      "start": 39.1,
+      "end": 39.84,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 69,
+      "word": "air",
+      "before": " ",
+      "after": "",
+      "start": 40.03,
+      "end": 40.37,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 70,
+      "word": "was",
+      "before": " ",
+      "after": "",
+      "start": 40.37,
+      "end": 40.65,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 71,
+      "word": "filled",
+      "before": " ",
+      "after": "",
+      "start": 40.65,
+      "end": 41.03,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 72,
+      "word": "with",
+      "before": " ",
+      "after": "",
+      "start": 41.03,
+      "end": 41.35,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 73,
+      "word": "wild",
+      "before": " ",
+      "after": "",
+      "start": 41.35,
+      "end": 41.73,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 74,
+      "word": "fiddle",
+      "before": " ",
+      "after": "",
+      "start": 41.73,
+      "end": 42.19,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 75,
+      "word": "music",
+      "before": " ",
+      "after": "",
+      "start": 42.19,
+      "end": 42.53,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 76,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 42.53,
+      "end": 43.21,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 77,
+      "word": "bagpipes",
+      "before": " ",
+      "after": "",
+      "start": 43.21,
+      "end": 43.99,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 78,
+      "word": "playing",
+      "before": " ",
+      "after": ".",
+      "start": 43.99,
+      "end": 44.43,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 79,
+      "word": "And",
+      "before": " ",
+      "after": "",
+      "start": 44.98,
+      "end": 45.72,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 80,
+      "word": "Jack",
+      "before": " ",
+      "after": "",
+      "start": 45.72,
+      "end": 45.98,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 81,
+      "word": "heard",
+      "before": " ",
+      "after": "",
+      "start": 45.98,
+      "end": 46.28,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 82,
+      "word": "jeers",
+      "before": " ",
+      "after": ",",
+      "start": 46.28,
+      "end": 47.04,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 83,
+      "word": "shouts",
+      "before": " ",
+      "after": ",",
+      "start": 47.08,
+      "end": 47.92,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 84,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 48.0,
+      "end": 48.52,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 85,
+      "word": "ugly",
+      "before": " ",
+      "after": "",
+      "start": 48.52,
+      "end": 48.92,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 86,
+      "word": "laughter",
+      "before": " ",
+      "after": ".",
+      "start": 48.92,
+      "end": 49.42,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 87,
+      "word": "Hoist",
+      "before": "“",
+      "after": "",
+      "start": 50.29,
+      "end": 50.89,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 88,
+      "word": "em",
+      "before": " '",
+      "after": "",
+      "start": 51.02,
+      "end": 51.15,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 89,
+      "word": "aboard",
+      "before": " ",
+      "after": "!”",
+      "start": 51.15,
+      "end": 51.37,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 90,
+      "word": "Cap'n",
+      "before": " ",
+      "after": "",
+      "start": 51.823,
+      "end": 52.277,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 91,
+      "word": "Bones",
+      "before": " ",
+      "after": "",
+      "start": 52.277,
+      "end": 52.73,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 92,
+      "word": "shouted",
+      "before": " ",
+      "after": "",
+      "start": 52.73,
+      "end": 53.19,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 93,
+      "word": "to",
+      "before": " ",
+      "after": "",
+      "start": 53.19,
+      "end": 53.55,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 94,
+      "word": "his",
+      "before": " ",
+      "after": "",
+      "start": 53.55,
+      "end": 53.73,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 95,
+      "word": "men",
+      "before": " ",
+      "after": ".",
+      "start": 53.73,
+      "end": 54.01,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 96,
+      "word": "Annie",
+      "before": "",
+      "after": "",
+      "start": 54.91,
+      "end": 55.53,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 97,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 55.53,
+      "end": 55.71,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 98,
+      "word": "Jack",
+      "before": " ",
+      "after": "",
+      "start": 55.71,
+      "end": 56.01,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 99,
+      "word": "were",
+      "before": " ",
+      "after": "",
+      "start": 56.01,
+      "end": 56.21,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 100,
+      "word": "hauled",
+      "before": " ",
+      "after": "",
+      "start": 56.21,
+      "end": 56.61,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 101,
+      "word": "onto",
+      "before": " ",
+      "after": "",
+      "start": 56.61,
+      "end": 56.77,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 102,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 56.77,
+      "end": 56.99,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 103,
+      "word": "deck",
+      "before": " ",
+      "after": ".",
+      "start": 56.99,
+      "end": 57.29,
+      "key": true,
+      "page": 0
+     },
+     {
+      "i": 104,
+      "word": "The",
+      "before": " ",
+      "after": "",
+      "start": 57.49,
+      "end": 58.05,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 105,
+      "word": "ship",
+      "before": "",
+      "after": "",
+      "start": 58.05,
+      "end": 58.37,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 106,
+      "word": "creaked",
+      "before": " ",
+      "after": "",
+      "start": 58.37,
+      "end": 59.03,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 107,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 59.03,
+      "end": 59.25,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 108,
+      "word": "moaned",
+      "before": " ",
+      "after": ".",
+      "start": 59.25,
+      "end": 60.23,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 109,
+      "word": "It",
+      "before": " ",
+      "after": "",
+      "start": 60.23,
+      "end": 60.71,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 110,
+      "word": "rolled",
+      "before": " ",
+      "after": "",
+      "start": 60.71,
+      "end": 61.03,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 111,
+      "word": "from",
+      "before": " ",
+      "after": "",
+      "start": 61.03,
+      "end": 61.39,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 112,
+      "word": "side",
+      "before": " ",
+      "after": "",
+      "start": 61.39,
+      "end": 61.83,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 113,
+      "word": "to",
+      "before": " ",
+      "after": "",
+      "start": 61.83,
+      "end": 62.07,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 114,
+      "word": "side",
+      "before": " ",
+      "after": ".",
+      "start": 62.07,
+      "end": 62.55,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 115,
+      "word": "Ropes",
+      "before": "",
+      "after": "",
+      "start": 62.97,
+      "end": 63.69,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 116,
+      "word": "flapped",
+      "before": " ",
+      "after": "",
+      "start": 63.69,
+      "end": 64.27,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 117,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 64.27,
+      "end": 64.71,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 118,
+      "word": "snapped",
+      "before": " ",
+      "after": "",
+      "start": 64.71,
+      "end": 65.17,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 119,
+      "word": "in",
+      "before": " ",
+      "after": "",
+      "start": 65.17,
+      "end": 65.79,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 120,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 65.79,
+      "end": 65.89,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 121,
+      "word": "wild",
+      "before": " ",
+      "after": "",
+      "start": 65.89,
+      "end": 66.25,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 122,
+      "word": "wind",
+      "before": " ",
+      "after": ".",
+      "start": 66.25,
+      "end": 66.73,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 123,
+      "word": "Everywhere",
+      "before": "",
+      "after": "",
+      "start": 67.55,
+      "end": 68.27,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 124,
+      "word": "they",
+      "before": " ",
+      "after": "",
+      "start": 68.27,
+      "end": 68.61,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 125,
+      "word": "looked",
+      "before": " ",
+      "after": ",",
+      "start": 68.61,
+      "end": 68.99,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 126,
+      "word": "Jack",
+      "before": " ",
+      "after": "",
+      "start": 69.43,
+      "end": 69.79,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 127,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 69.79,
+      "end": 69.95,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 128,
+      "word": "Annie",
+      "before": " ",
+      "after": "",
+      "start": 69.95,
+      "end": 70.25,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 129,
+      "word": "saw",
+      "before": " ",
+      "after": "",
+      "start": 70.25,
+      "end": 70.51,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 130,
+      "word": "pirates",
+      "before": " ",
+      "after": ".",
+      "start": 70.51,
+      "end": 71.01,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 131,
+      "word": "Some",
+      "before": "",
+      "after": "",
+      "start": 71.53,
+      "end": 72.25,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 132,
+      "word": "were",
+      "before": " ",
+      "after": "",
+      "start": 72.25,
+      "end": 72.41,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 133,
+      "word": "dancing",
+      "before": " ",
+      "after": ".",
+      "start": 72.41,
+      "end": 72.91,
+      "key": true,
+      "page": 0
+     },
+     {
+      "i": 134,
+      "word": "Some",
+      "before": " ",
+      "after": "",
+      "start": 73.11,
+      "end": 73.69,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 135,
+      "word": "were",
+      "before": " ",
+      "after": "",
+      "start": 73.69,
+      "end": 73.87,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 136,
+      "word": "drinking",
+      "before": " ",
+      "after": ".",
+      "start": 73.87,
+      "end": 74.31,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 137,
+      "word": "Many",
+      "before": " ",
+      "after": "",
+      "start": 74.57,
+      "end": 75.11,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 138,
+      "word": "were",
+      "before": " ",
+      "after": "",
+      "start": 75.11,
+      "end": 75.35,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 139,
+      "word": "fighting",
+      "before": " ",
+      "after": ".",
+      "start": 75.35,
+      "end": 75.79,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 140,
+      "word": "With",
+      "before": " ",
+      "after": "",
+      "start": 75.79,
+      "end": 76.39,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 141,
+      "word": "swords",
+      "before": " ",
+      "after": ".",
+      "start": 76.39,
+      "end": 76.91,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 142,
+      "word": "Or",
+      "before": " ",
+      "after": "",
+      "start": 76.91,
+      "end": 77.53,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 143,
+      "word": "with",
+      "before": " ",
+      "after": "",
+      "start": 77.53,
+      "end": 77.75,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 144,
+      "word": "their",
+      "before": " ",
+      "after": "",
+      "start": 77.75,
+      "end": 78.01,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 145,
+      "word": "fists",
+      "before": " ",
+      "after": ".",
+      "start": 78.01,
+      "end": 78.45,
+      "key": true,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 146,
+      "word": "Lock",
+      "before": "\"",
+      "after": "",
+      "start": 79.75,
+      "end": 80.47,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 147,
+      "word": "em",
+      "before": " '",
+      "after": "",
+      "start": 80.55,
+      "end": 80.63,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 148,
+      "word": "in",
+      "before": " ",
+      "after": "",
+      "start": 80.63,
+      "end": 80.77,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 149,
+      "word": "my",
+      "before": " ",
+      "after": "",
+      "start": 80.77,
+      "end": 80.97,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 150,
+      "word": "cabin",
+      "before": " ",
+      "after": "!\"",
+      "start": 80.97,
+      "end": 81.55,
+      "key": true,
+      "page": 0
+     },
+     {
+      "i": 151,
+      "word": "Cap'n",
+      "before": " ",
+      "after": "",
+      "start": 82.04,
+      "end": 82.53,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 152,
+      "word": "Bones",
+      "before": " ",
+      "after": "",
+      "start": 82.53,
+      "end": 82.95,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 153,
+      "word": "ordered",
+      "before": " ",
+      "after": ".",
+      "start": 82.95,
+      "end": 83.37,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 154,
+      "word": "A",
+      "before": "",
+      "after": "",
+      "start": 84.04,
+      "end": 84.76,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 155,
+      "word": "couple",
+      "before": " ",
+      "after": "",
+      "start": 84.76,
+      "end": 85.04,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 156,
+      "word": "of",
+      "before": " ",
+      "after": "",
+      "start": 85.04,
+      "end": 85.16,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 157,
+      "word": "pirates",
+      "before": " ",
+      "after": "",
+      "start": 85.16,
+      "end": 85.6,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 158,
+      "word": "grabbed",
+      "before": " ",
+      "after": "",
+      "start": 85.6,
+      "end": 85.92,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 159,
+      "word": "Jack",
+      "before": " ",
+      "after": "",
+      "start": 85.92,
+      "end": 86.28,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 160,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 86.28,
+      "end": 86.46,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 161,
+      "word": "Annie",
+      "before": " ",
+      "after": ".",
+      "start": 86.46,
+      "end": 86.82,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 162,
+      "word": "And",
+      "before": " ",
+      "after": "",
+      "start": 86.82,
+      "end": 87.26,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 163,
+      "word": "threw",
+      "before": " ",
+      "after": "",
+      "start": 87.26,
+      "end": 87.52,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 164,
+      "word": "them",
+      "before": " ",
+      "after": "",
+      "start": 87.52,
+      "end": 87.72,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 165,
+      "word": "in",
+      "before": " ",
+      "after": "",
+      "start": 87.72,
+      "end": 87.88,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 166,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 87.88,
+      "end": 87.92,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 167,
+      "word": "ship's",
+      "before": " ",
+      "after": "",
+      "start": 87.92,
+      "end": 88.28,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 168,
+      "word": "cabin",
+      "before": " ",
+      "after": ".",
+      "start": 88.28,
+      "end": 88.68,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 169,
+      "word": "Then",
+      "before": " ",
+      "after": "",
+      "start": 88.82,
+      "end": 89.42,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 170,
+      "word": "locked",
+      "before": " ",
+      "after": "",
+      "start": 89.42,
+      "end": 89.72,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 171,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 89.72,
+      "end": 89.98,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 172,
+      "word": "door",
+      "before": " ",
+      "after": ".",
+      "start": 89.98,
+      "end": 90.24,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 173,
+      "word": "The",
+      "before": "",
+      "after": "",
+      "start": 91.54,
+      "end": 91.82,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 174,
+      "word": "air",
+      "before": " ",
+      "after": "",
+      "start": 91.82,
+      "end": 92.1,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 175,
+      "word": "inside",
+      "before": " ",
+      "after": "",
+      "start": 92.1,
+      "end": 92.44,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 176,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 92.44,
+      "end": 92.72,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 177,
+      "word": "cabin",
+      "before": " ",
+      "after": "",
+      "start": 92.72,
+      "end": 93.12,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 178,
+      "word": "was",
+      "before": " ",
+      "after": "",
+      "start": 93.12,
+      "end": 93.36,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 179,
+      "word": "damp",
+      "before": " ",
+      "after": "",
+      "start": 93.36,
+      "end": 93.88,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 180,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 93.88,
+      "end": 94.2,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 181,
+      "word": "sour-smelling",
+      "before": " ",
+      "after": ".",
+      "start": 94.965,
+      "end": 95.73,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 182,
+      "word": "A",
+      "before": " ",
+      "after": "",
+      "start": 95.73,
+      "end": 96.02,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 183,
+      "word": "shaft",
+      "before": " ",
+      "after": "",
+      "start": 96.02,
+      "end": 96.4,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 184,
+      "word": "of",
+      "before": " ",
+      "after": "",
+      "start": 96.4,
+      "end": 96.68,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 185,
+      "word": "gray",
+      "before": " ",
+      "after": "",
+      "start": 96.68,
+      "end": 96.88,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 186,
+      "word": "light",
+      "before": " ",
+      "after": "",
+      "start": 96.88,
+      "end": 97.22,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 187,
+      "word": "came",
+      "before": " ",
+      "after": "",
+      "start": 97.22,
+      "end": 97.6,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 188,
+      "word": "through",
+      "before": " ",
+      "after": "",
+      "start": 97.6,
+      "end": 97.88,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 189,
+      "word": "a",
+      "before": " ",
+      "after": "",
+      "start": 97.88,
+      "end": 98.04,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 190,
+      "word": "small",
+      "before": " ",
+      "after": "",
+      "start": 98.04,
+      "end": 98.36,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 191,
+      "word": "round",
+      "before": " ",
+      "after": "",
+      "start": 98.36,
+      "end": 98.74,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 192,
+      "word": "window",
+      "before": " ",
+      "after": ".",
+      "start": 98.74,
+      "end": 99.32,
+      "key": false,
+      "page": 0
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 193,
+      "word": "Oh",
+      "before": "“",
+      "after": "",
+      "start": 100.31,
+      "end": 100.75,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 194,
+      "word": "man",
+      "before": " ",
+      "after": ",”",
+      "start": 100.75,
+      "end": 101.15,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 195,
+      "word": "said",
+      "before": " ",
+      "after": "",
+      "start": 101.61,
+      "end": 102.09,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 196,
+      "word": "Jack",
+      "before": " ",
+      "after": ".",
+      "start": 102.09,
+      "end": 102.43,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 197,
+      "word": "We’ve",
+      "before": " “",
+      "after": "",
+      "start": 102.73,
+      "end": 103.31,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 198,
+      "word": "got",
+      "before": " ",
+      "after": "",
+      "start": 103.31,
+      "end": 103.43,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 199,
+      "word": "to",
+      "before": " ",
+      "after": "",
+      "start": 103.43,
+      "end": 103.59,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 200,
+      "word": "figure",
+      "before": " ",
+      "after": "",
+      "start": 103.59,
+      "end": 103.81,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 201,
+      "word": "out",
+      "before": " ",
+      "after": "",
+      "start": 103.81,
+      "end": 104.07,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 202,
+      "word": "how",
+      "before": " ",
+      "after": "",
+      "start": 104.07,
+      "end": 104.29,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 203,
+      "word": "to",
+      "before": " ",
+      "after": "",
+      "start": 104.29,
+      "end": 104.43,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 204,
+      "word": "get",
+      "before": " ",
+      "after": "",
+      "start": 104.43,
+      "end": 104.57,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 205,
+      "word": "back",
+      "before": " ",
+      "after": "",
+      "start": 104.57,
+      "end": 104.77,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 206,
+      "word": "to",
+      "before": " ",
+      "after": "",
+      "start": 104.77,
+      "end": 104.97,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 207,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 104.97,
+      "end": 105.05,
+      "key": false,
+      "page": 0
+     },
+     {
+      "i": 208,
+      "word": "island",
+      "before": " ",
+      "after": ".”",
+      "start": 105.05,
+      "end": 105.45,
+      "key": false,
+      "page": 0
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "words": [
+     {
+      "i": 209,
+      "word": "So",
+      "before": "\"",
+      "after": "",
+      "start": 106.22,
+      "end": 106.8,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 210,
+      "word": "we",
+      "before": " ",
+      "after": "",
+      "start": 106.8,
+      "end": 106.92,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 211,
+      "word": "can",
+      "before": " ",
+      "after": "",
+      "start": 106.92,
+      "end": 107.02,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 212,
+      "word": "get",
+      "before": " ",
+      "after": "",
+      "start": 107.02,
+      "end": 107.24,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 213,
+      "word": "into",
+      "before": " ",
+      "after": "",
+      "start": 107.24,
+      "end": 107.4,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 214,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 107.4,
+      "end": 107.6,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 215,
+      "word": "tree",
+      "before": " ",
+      "after": "",
+      "start": 107.767,
+      "end": 107.933,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 216,
+      "word": "house",
+      "before": " ",
+      "after": "",
+      "start": 107.933,
+      "end": 108.1,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 217,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 108.1,
+      "end": 108.34,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 218,
+      "word": "go",
+      "before": " ",
+      "after": "",
+      "start": 108.34,
+      "end": 108.52,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 219,
+      "word": "home",
+      "before": " ",
+      "after": ",\"",
+      "start": 108.52,
+      "end": 109.06,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 220,
+      "word": "said",
+      "before": " ",
+      "after": "",
+      "start": 109.26,
+      "end": 109.84,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 221,
+      "word": "Annie",
+      "before": " ",
+      "after": ".",
+      "start": 109.84,
+      "end": 110.2,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 222,
+      "word": "Right",
+      "before": "\"",
+      "after": ".\"",
+      "start": 110.62,
+      "end": 111.2,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 223,
+      "word": "Jack",
+      "before": " ",
+      "after": "",
+      "start": 111.83,
+      "end": 112.41,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 224,
+      "word": "suddenly",
+      "before": " ",
+      "after": "",
+      "start": 112.41,
+      "end": 112.65,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 225,
+      "word": "felt",
+      "before": " ",
+      "after": "",
+      "start": 112.65,
+      "end": 113.05,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 226,
+      "word": "tired",
+      "before": " ",
+      "after": ".",
+      "start": 113.05,
+      "end": 113.55,
+      "key": true,
+      "page": 1
+     },
+     {
+      "i": 227,
+      "word": "How",
+      "before": " ",
+      "after": "",
+      "start": 114.07,
+      "end": 114.65,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 228,
+      "word": "would",
+      "before": " ",
+      "after": "",
+      "start": 114.65,
+      "end": 114.87,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 229,
+      "word": "they",
+      "before": " ",
+      "after": "",
+      "start": 114.87,
+      "end": 115.01,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 230,
+      "word": "ever",
+      "before": " ",
+      "after": "",
+      "start": 115.01,
+      "end": 115.39,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 231,
+      "word": "get",
+      "before": " ",
+      "after": "",
+      "start": 115.39,
+      "end": 115.69,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 232,
+      "word": "out",
+      "before": " ",
+      "after": "",
+      "start": 115.69,
+      "end": 115.87,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 233,
+      "word": "of",
+      "before": " ",
+      "after": "",
+      "start": 115.87,
+      "end": 116.07,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 234,
+      "word": "this",
+      "before": " ",
+      "after": "",
+      "start": 116.07,
+      "end": 116.35,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 235,
+      "word": "mess",
+      "before": " ",
+      "after": "?",
+      "start": 116.35,
+      "end": 116.71,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 236,
+      "word": "We",
+      "before": "“",
+      "after": "",
+      "start": 117.51,
+      "end": 118.09,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 237,
+      "word": "better",
+      "before": " ",
+      "after": "",
+      "start": 118.09,
+      "end": 118.27,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 238,
+      "word": "examine",
+      "before": " ",
+      "after": "",
+      "start": 118.27,
+      "end": 118.79,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 239,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 118.79,
+      "end": 119.05,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 240,
+      "word": "book",
+      "before": " ",
+      "after": ",”",
+      "start": 119.05,
+      "end": 119.33,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 241,
+      "word": "he",
+      "before": " ",
+      "after": "",
+      "start": 119.53,
+      "end": 119.89,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 242,
+      "word": "said",
+      "before": " ",
+      "after": ".",
+      "start": 119.89,
+      "end": 120.19,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 243,
+      "word": "He",
+      "before": "",
+      "after": "",
+      "start": 120.19,
+      "end": 120.97,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 244,
+      "word": "reached",
+      "before": " ",
+      "after": "",
+      "start": 120.97,
+      "end": 121.57,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 245,
+      "word": "into",
+      "before": " ",
+      "after": "",
+      "start": 121.57,
+      "end": 121.89,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 246,
+      "word": "his",
+      "before": " ",
+      "after": "",
+      "start": 121.89,
+      "end": 122.19,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 247,
+      "word": "pack",
+      "before": " ",
+      "after": "",
+      "start": 122.19,
+      "end": 122.55,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 248,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 122.55,
+      "end": 123.11,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 249,
+      "word": "pulled",
+      "before": " ",
+      "after": "",
+      "start": 123.11,
+      "end": 123.53,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 250,
+      "word": "out",
+      "before": " ",
+      "after": "",
+      "start": 123.53,
+      "end": 123.85,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 251,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 123.85,
+      "end": 124.03,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 252,
+      "word": "pirate",
+      "before": " ",
+      "after": "",
+      "start": 124.03,
+      "end": 124.39,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 253,
+      "word": "book",
+      "before": " ",
+      "after": ".",
+      "start": 124.39,
+      "end": 124.73,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 254,
+      "word": "He",
+      "before": "",
+      "after": "",
+      "start": 124.73,
+      "end": 125.65,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 255,
+      "word": "flipped",
+      "before": " ",
+      "after": "",
+      "start": 125.65,
+      "end": 126.03,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 256,
+      "word": "through",
+      "before": " ",
+      "after": "",
+      "start": 126.03,
+      "end": 126.31,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 257,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 126.31,
+      "end": 126.47,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 258,
+      "word": "pages",
+      "before": " ",
+      "after": ".",
+      "start": 126.47,
+      "end": 126.89,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 259,
+      "word": "He",
+      "before": "",
+      "after": "",
+      "start": 126.89,
+      "end": 127.87,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 260,
+      "word": "looked",
+      "before": " ",
+      "after": "",
+      "start": 127.87,
+      "end": 128.11,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 261,
+      "word": "for",
+      "before": " ",
+      "after": "",
+      "start": 128.11,
+      "end": 128.33,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 262,
+      "word": "information",
+      "before": " ",
+      "after": "",
+      "start": 128.33,
+      "end": 128.81,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 263,
+      "word": "to",
+      "before": " ",
+      "after": "",
+      "start": 128.81,
+      "end": 129.31,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 264,
+      "word": "help",
+      "before": " ",
+      "after": "",
+      "start": 129.31,
+      "end": 129.55,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 265,
+      "word": "them",
+      "before": " ",
+      "after": ".",
+      "start": 129.55,
+      "end": 129.89,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 266,
+      "word": "Look",
+      "before": "\"",
+      "after": ",\"",
+      "start": 129.92,
+      "end": 131.08,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 267,
+      "word": "he",
+      "before": " ",
+      "after": "",
+      "start": 131.08,
+      "end": 131.68,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 268,
+      "word": "said",
+      "before": " ",
+      "after": ".",
+      "start": 131.68,
+      "end": 132.04,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 269,
+      "word": "He",
+      "before": "",
+      "after": "",
+      "start": 132.04,
+      "end": 132.92,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 270,
+      "word": "found",
+      "before": " ",
+      "after": "",
+      "start": 132.92,
+      "end": 133.2,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 271,
+      "word": "a",
+      "before": " ",
+      "after": "",
+      "start": 133.2,
+      "end": 133.36,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 272,
+      "word": "picture",
+      "before": " ",
+      "after": "",
+      "start": 133.36,
+      "end": 133.66,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 273,
+      "word": "of",
+      "before": " ",
+      "after": "",
+      "start": 133.66,
+      "end": 133.84,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 274,
+      "word": "pirates",
+      "before": " ",
+      "after": "",
+      "start": 133.84,
+      "end": 134.26,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 275,
+      "word": "burying",
+      "before": " ",
+      "after": "",
+      "start": 134.26,
+      "end": 135.44,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 276,
+      "word": "a",
+      "before": " ",
+      "after": "",
+      "start": 135.44,
+      "end": 135.62,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 277,
+      "word": "treasure",
+      "before": " ",
+      "after": "",
+      "start": 135.62,
+      "end": 135.92,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 278,
+      "word": "chest",
+      "before": " ",
+      "after": ".",
+      "start": 135.92,
+      "end": 136.36,
+      "key": true,
+      "page": 1
+     },
+     {
+      "i": 279,
+      "word": "This",
+      "before": " “",
+      "after": "",
+      "start": 136.36,
+      "end": 137.48,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 280,
+      "word": "might",
+      "before": " ",
+      "after": "",
+      "start": 137.48,
+      "end": 137.72,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 281,
+      "word": "help",
+      "before": " ",
+      "after": ".”",
+      "start": 137.72,
+      "end": 138.12,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 282,
+      "word": "Together",
+      "before": "",
+      "after": "",
+      "start": 138.31,
+      "end": 139.31,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 283,
+      "word": "they",
+      "before": " ",
+      "after": "",
+      "start": 139.31,
+      "end": 139.73,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 284,
+      "word": "read",
+      "before": " ",
+      "after": "",
+      "start": 139.73,
+      "end": 139.93,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 285,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 139.93,
+      "end": 140.11,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 286,
+      "word": "words",
+      "before": " ",
+      "after": "",
+      "start": 140.11,
+      "end": 140.43,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 287,
+      "word": "under",
+      "before": " ",
+      "after": "",
+      "start": 140.43,
+      "end": 140.77,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 288,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 140.77,
+      "end": 140.93,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 289,
+      "word": "picture",
+      "before": " ",
+      "after": ".",
+      "start": 140.93,
+      "end": 141.27,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 290,
+      "word": "Captain",
+      "before": "",
+      "after": "",
+      "start": 141.27,
+      "end": 142.53,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 291,
+      "word": "Kidd",
+      "before": " ",
+      "after": "",
+      "start": 142.955,
+      "end": 143.38,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 292,
+      "word": "was",
+      "before": " ",
+      "after": "",
+      "start": 143.38,
+      "end": 143.7,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 293,
+      "word": "a",
+      "before": " ",
+      "after": "",
+      "start": 143.7,
+      "end": 143.9,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 294,
+      "word": "famous",
+      "before": " ",
+      "after": "",
+      "start": 143.9,
+      "end": 144.26,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 295,
+      "word": "pirate",
+      "before": " ",
+      "after": ".",
+      "start": 144.26,
+      "end": 144.72,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 296,
+      "word": "It",
+      "before": " ",
+      "after": "",
+      "start": 145.0,
+      "end": 145.64,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 297,
+      "word": "is",
+      "before": " ",
+      "after": "",
+      "start": 145.64,
+      "end": 145.8,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 298,
+      "word": "said",
+      "before": " ",
+      "after": "",
+      "start": 145.8,
+      "end": 146.0,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 299,
+      "word": "that",
+      "before": " ",
+      "after": "",
+      "start": 146.0,
+      "end": 146.2,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 300,
+      "word": "he",
+      "before": " ",
+      "after": "",
+      "start": 146.2,
+      "end": 146.28,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 301,
+      "word": "buried",
+      "before": " ",
+      "after": "",
+      "start": 146.28,
+      "end": 146.66,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 302,
+      "word": "a",
+      "before": " ",
+      "after": "",
+      "start": 146.66,
+      "end": 146.84,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 303,
+      "word": "treasure",
+      "before": " ",
+      "after": "",
+      "start": 146.84,
+      "end": 147.2,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 304,
+      "word": "chest",
+      "before": " ",
+      "after": "",
+      "start": 147.2,
+      "end": 147.52,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 305,
+      "word": "on",
+      "before": " ",
+      "after": "",
+      "start": 147.52,
+      "end": 148.22,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 306,
+      "word": "a",
+      "before": " ",
+      "after": "",
+      "start": 148.22,
+      "end": 148.34,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 307,
+      "word": "deserted",
+      "before": " ",
+      "after": "",
+      "start": 148.34,
+      "end": 148.76,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 308,
+      "word": "island",
+      "before": " ",
+      "after": ".",
+      "start": 148.76,
+      "end": 149.3,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 309,
+      "word": "The",
+      "before": " ",
+      "after": "",
+      "start": 149.46,
+      "end": 150.08,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 310,
+      "word": "chest",
+      "before": " ",
+      "after": "",
+      "start": 150.08,
+      "end": 150.4,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 311,
+      "word": "was",
+      "before": " ",
+      "after": "",
+      "start": 150.4,
+      "end": 150.78,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 312,
+      "word": "filled",
+      "before": " ",
+      "after": "",
+      "start": 150.78,
+      "end": 151.16,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 313,
+      "word": "with",
+      "before": " ",
+      "after": "",
+      "start": 151.16,
+      "end": 151.52,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 314,
+      "word": "gold",
+      "before": " ",
+      "after": "",
+      "start": 151.52,
+      "end": 151.94,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 315,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 151.94,
+      "end": 152.36,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 316,
+      "word": "jewels",
+      "before": " ",
+      "after": ".",
+      "start": 152.36,
+      "end": 152.74,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 317,
+      "word": "Captain",
+      "before": "“",
+      "after": "",
+      "start": 153.93,
+      "end": 154.67,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 318,
+      "word": "Kidd",
+      "before": " ",
+      "after": "!”",
+      "start": 154.67,
+      "end": 155.17,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 319,
+      "word": "said",
+      "before": " ",
+      "after": "",
+      "start": 155.43,
+      "end": 156.03,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 320,
+      "word": "Jack",
+      "before": " ",
+      "after": ".",
+      "start": 156.03,
+      "end": 156.39,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 321,
+      "word": "So",
+      "before": "\"",
+      "after": "",
+      "start": 156.89,
+      "end": 157.63,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 322,
+      "word": "that's",
+      "before": " ",
+      "after": "",
+      "start": 157.63,
+      "end": 158.05,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 323,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 158.05,
+      "end": 158.15,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 324,
+      "word": "kid",
+      "before": " ",
+      "after": "",
+      "start": 158.15,
+      "end": 158.49,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 325,
+      "word": "that",
+      "before": " ",
+      "after": "",
+      "start": 158.49,
+      "end": 158.77,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 326,
+      "word": "Bones",
+      "before": " ",
+      "after": "",
+      "start": 158.77,
+      "end": 159.17,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 327,
+      "word": "keeps",
+      "before": " ",
+      "after": "",
+      "start": 159.17,
+      "end": 159.39,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 328,
+      "word": "talking",
+      "before": " ",
+      "after": "",
+      "start": 159.39,
+      "end": 159.89,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 329,
+      "word": "about",
+      "before": " ",
+      "after": ",\"",
+      "start": 159.89,
+      "end": 160.25,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 330,
+      "word": "said",
+      "before": " ",
+      "after": "",
+      "start": 160.57,
+      "end": 161.11,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 331,
+      "word": "Annie",
+      "before": " ",
+      "after": ".",
+      "start": 161.11,
+      "end": 161.43,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 332,
+      "word": "Right",
+      "before": "\"",
+      "after": ",\"",
+      "start": 161.99,
+      "end": 162.73,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 333,
+      "word": "said",
+      "before": " ",
+      "after": "",
+      "start": 162.97,
+      "end": 163.53,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 334,
+      "word": "Jack",
+      "before": " ",
+      "after": ".",
+      "start": 163.53,
+      "end": 163.93,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 335,
+      "word": "Annie",
+      "before": "",
+      "after": "",
+      "start": 164.21,
+      "end": 164.95,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 336,
+      "word": "looked",
+      "before": " ",
+      "after": "",
+      "start": 164.95,
+      "end": 165.17,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 337,
+      "word": "out",
+      "before": " ",
+      "after": "",
+      "start": 165.17,
+      "end": 165.41,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 338,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 165.41,
+      "end": 165.55,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 339,
+      "word": "round",
+      "before": " ",
+      "after": "",
+      "start": 165.55,
+      "end": 165.77,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 340,
+      "word": "window",
+      "before": " ",
+      "after": ".",
+      "start": 165.77,
+      "end": 166.27,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 341,
+      "word": "And",
+      "before": "“",
+      "after": "",
+      "start": 166.76,
+      "end": 167.38,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 342,
+      "word": "Captain",
+      "before": " ",
+      "after": "",
+      "start": 167.38,
+      "end": 167.82,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 343,
+      "word": "Kidd's",
+      "before": " ",
+      "after": "",
+      "start": 167.82,
+      "end": 168.46,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 344,
+      "word": "treasure",
+      "before": " ",
+      "after": "",
+      "start": 168.46,
+      "end": 168.92,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 345,
+      "word": "is",
+      "before": " ",
+      "after": "",
+      "start": 168.92,
+      "end": 169.52,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 346,
+      "word": "buried",
+      "before": " ",
+      "after": "",
+      "start": 169.52,
+      "end": 169.88,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 347,
+      "word": "somewhere",
+      "before": " ",
+      "after": "",
+      "start": 170.18,
+      "end": 170.42,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 348,
+      "word": "on",
+      "before": " ",
+      "after": "",
+      "start": 170.42,
+      "end": 170.72,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 349,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 170.72,
+      "end": 170.84,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 350,
+      "word": "island",
+      "before": " ",
+      "after": ",”",
+      "start": 170.84,
+      "end": 171.2,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 351,
+      "word": "she",
+      "before": " ",
+      "after": "",
+      "start": 171.2,
+      "end": 172.12,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 352,
+      "word": "said",
+      "before": " ",
+      "after": ".",
+      "start": 172.12,
+      "end": 172.52,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 353,
+      "word": "Jack",
+      "before": "",
+      "after": "",
+      "start": 172.52,
+      "end": 173.64,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 354,
+      "word": "took",
+      "before": " ",
+      "after": "",
+      "start": 173.93,
+      "end": 174.15,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 355,
+      "word": "out",
+      "before": " ",
+      "after": "",
+      "start": 174.15,
+      "end": 174.39,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 356,
+      "word": "his",
+      "before": " ",
+      "after": "",
+      "start": 174.39,
+      "end": 174.55,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 357,
+      "word": "notebook",
+      "before": " ",
+      "after": "",
+      "start": 174.55,
+      "end": 174.85,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 358,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 174.85,
+      "end": 175.11,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 359,
+      "word": "pencil",
+      "before": " ",
+      "after": ".",
+      "start": 175.11,
+      "end": 175.51,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 360,
+      "word": "He",
+      "before": " ",
+      "after": "",
+      "start": 175.51,
+      "end": 176.39,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 361,
+      "word": "wrote",
+      "before": " ",
+      "after": ":",
+      "start": 176.39,
+      "end": 176.69,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 362,
+      "word": "Captain",
+      "before": "",
+      "after": "",
+      "start": 176.82,
+      "end": 178.08,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 363,
+      "word": "Kidd's",
+      "before": " ",
+      "after": "",
+      "start": 178.5,
+      "end": 178.92,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 364,
+      "word": "treasure",
+      "before": " ",
+      "after": "",
+      "start": 178.92,
+      "end": 179.9,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 365,
+      "word": "on",
+      "before": " ",
+      "after": "",
+      "start": 179.9,
+      "end": 180.6,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 366,
+      "word": "island",
+      "before": " ",
+      "after": "",
+      "start": 180.6,
+      "end": 181.16,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 367,
+      "word": "Ja-ack",
+      "before": "\"",
+      "after": ",\"",
+      "start": 182.095,
+      "end": 183.03,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 368,
+      "word": "Annie",
+      "before": " ",
+      "after": "",
+      "start": 183.03,
+      "end": 184.63,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 369,
+      "word": "said",
+      "before": " ",
+      "after": ".",
+      "start": 184.66,
+      "end": 184.98,
+      "key": false,
+      "page": 1
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 370,
+      "word": "Shhh",
+      "before": "“",
+      "after": ",",
+      "start": 185.33,
+      "end": 185.68,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 371,
+      "word": "wait",
+      "before": " ",
+      "after": "",
+      "start": 185.68,
+      "end": 185.96,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 372,
+      "word": "a",
+      "before": " ",
+      "after": "",
+      "start": 185.96,
+      "end": 186.06,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 373,
+      "word": "minute",
+      "before": " ",
+      "after": ",”",
+      "start": 186.06,
+      "end": 186.26,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 374,
+      "word": "he",
+      "before": " ",
+      "after": "",
+      "start": 186.26,
+      "end": 186.52,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 375,
+      "word": "said",
+      "before": " ",
+      "after": ".",
+      "start": 186.52,
+      "end": 186.74,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 376,
+      "word": "I’m",
+      "before": " “",
+      "after": "",
+      "start": 186.74,
+      "end": 186.92,
+      "key": false,
+      "page": 1
+     },
+     {
+      "i": 377,
+      "word": "thinking",
+      "before": " ",
+      "after": ".”",
+      "start": 186.92,
+      "end": 187.26,
+      "key": false,
+      "page": 1
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "words": [
+     {
+      "i": 378,
+      "word": "Guess",
+      "before": "“",
+      "after": "",
+      "start": 187.26,
+      "end": 188.38,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 379,
+      "word": "what",
+      "before": " ",
+      "after": "",
+      "start": 188.64,
+      "end": 188.92,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 380,
+      "word": "I",
+      "before": " ",
+      "after": "",
+      "start": 188.92,
+      "end": 189.12,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 381,
+      "word": "see",
+      "before": " ",
+      "after": "?”",
+      "start": 189.12,
+      "end": 189.54,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 382,
+      "word": "said",
+      "before": " ",
+      "after": "",
+      "start": 189.54,
+      "end": 190.66,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 383,
+      "word": "Annie",
+      "before": " ",
+      "after": ".",
+      "start": 190.66,
+      "end": 191.14,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 384,
+      "word": "What",
+      "before": "\"",
+      "after": "?\"",
+      "start": 191.14,
+      "end": 191.96,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 385,
+      "word": "Jack",
+      "before": " ",
+      "after": "",
+      "start": 191.96,
+      "end": 192.74,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 386,
+      "word": "asked",
+      "before": " ",
+      "after": ".",
+      "start": 192.74,
+      "end": 193.22,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 387,
+      "word": "He",
+      "before": " ",
+      "after": "",
+      "start": 193.22,
+      "end": 194.18,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 388,
+      "word": "looked",
+      "before": " ",
+      "after": "",
+      "start": 194.21,
+      "end": 194.43,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 389,
+      "word": "back",
+      "before": " ",
+      "after": "",
+      "start": 194.43,
+      "end": 194.63,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 390,
+      "word": "at",
+      "before": " ",
+      "after": "",
+      "start": 194.63,
+      "end": 194.85,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 391,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 194.85,
+      "end": 194.97,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 392,
+      "word": "book",
+      "before": " ",
+      "after": ".",
+      "start": 194.97,
+      "end": 195.23,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 393,
+      "word": "A",
+      "before": "“",
+      "after": "",
+      "start": 195.23,
+      "end": 196.07,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 394,
+      "word": "whale",
+      "before": " ",
+      "after": ".”",
+      "start": 196.07,
+      "end": 196.45,
+      "key": true,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 395,
+      "word": "Neat",
+      "before": "\"",
+      "after": ",\"",
+      "start": 196.45,
+      "end": 197.71,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 396,
+      "word": "he",
+      "before": " ",
+      "after": "",
+      "start": 197.84,
+      "end": 198.16,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 397,
+      "word": "said",
+      "before": " ",
+      "after": ".",
+      "start": 198.16,
+      "end": 198.48,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 398,
+      "word": "Then",
+      "before": " ",
+      "after": "",
+      "start": 198.48,
+      "end": 199.22,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 399,
+      "word": "he",
+      "before": " ",
+      "after": "",
+      "start": 199.22,
+      "end": 199.34,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 400,
+      "word": "looked",
+      "before": " ",
+      "after": "",
+      "start": 199.34,
+      "end": 199.56,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 401,
+      "word": "up",
+      "before": " ",
+      "after": ".",
+      "start": 199.56,
+      "end": 199.86,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 402,
+      "word": "A",
+      "before": " \"",
+      "after": "",
+      "start": 199.86,
+      "end": 200.66,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 403,
+      "word": "whale",
+      "before": " ",
+      "after": "?\"",
+      "start": 200.85,
+      "end": 201.23,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 404,
+      "word": "Did",
+      "before": "",
+      "after": "",
+      "start": 201.47,
+      "end": 202.15,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 405,
+      "word": "you",
+      "before": " ",
+      "after": "",
+      "start": 202.15,
+      "end": 202.31,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 406,
+      "word": "say",
+      "before": " ",
+      "after": "...",
+      "start": 202.31,
+      "end": 202.67,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 407,
+      "word": "a",
+      "before": "",
+      "after": "",
+      "start": 202.83,
+      "end": 203.35,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 408,
+      "word": "whale",
+      "before": " ",
+      "after": "?\"",
+      "start": 203.35,
+      "end": 203.77,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 409,
+      "word": "A",
+      "before": "\"",
+      "after": "",
+      "start": 204.13,
+      "end": 204.85,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 410,
+      "word": "whale",
+      "before": " ",
+      "after": ".",
+      "start": 205.26,
+      "end": 205.74,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 411,
+      "word": "A",
+      "before": " ",
+      "after": "",
+      "start": 206.04,
+      "end": 206.54,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 412,
+      "word": "huge",
+      "before": " ",
+      "after": "",
+      "start": 206.54,
+      "end": 207.0,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 413,
+      "word": "whale",
+      "before": " ",
+      "after": ".",
+      "start": 207.0,
+      "end": 207.44,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 414,
+      "word": "As",
+      "before": " ",
+      "after": "",
+      "start": 207.76,
+      "end": 208.28,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 415,
+      "word": "big",
+      "before": " ",
+      "after": "",
+      "start": 208.28,
+      "end": 208.42,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 416,
+      "word": "as",
+      "before": " ",
+      "after": "",
+      "start": 208.42,
+      "end": 208.66,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 417,
+      "word": "a",
+      "before": " ",
+      "after": "",
+      "start": 208.66,
+      "end": 208.84,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 418,
+      "word": "football",
+      "before": " ",
+      "after": "",
+      "start": 208.84,
+      "end": 209.26,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 419,
+      "word": "field",
+      "before": " ",
+      "after": ".\"",
+      "start": 209.26,
+      "end": 209.9,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 420,
+      "word": "Jack",
+      "before": "",
+      "after": "",
+      "start": 210.94,
+      "end": 211.3,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 421,
+      "word": "jumped",
+      "before": " ",
+      "after": "",
+      "start": 211.3,
+      "end": 211.62,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 422,
+      "word": "up",
+      "before": " ",
+      "after": "",
+      "start": 211.62,
+      "end": 212.0,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 423,
+      "word": "and",
+      "before": " ",
+      "after": "",
+      "start": 212.0,
+      "end": 212.52,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 424,
+      "word": "looked",
+      "before": " ",
+      "after": "",
+      "start": 212.52,
+      "end": 212.82,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 425,
+      "word": "out",
+      "before": " ",
+      "after": "",
+      "start": 212.82,
+      "end": 213.0,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 426,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 213.0,
+      "end": 213.16,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 427,
+      "word": "window",
+      "before": " ",
+      "after": "",
+      "start": 213.16,
+      "end": 213.46,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 428,
+      "word": "with",
+      "before": " ",
+      "after": "",
+      "start": 213.46,
+      "end": 213.72,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 429,
+      "word": "her",
+      "before": " ",
+      "after": ".",
+      "start": 213.72,
+      "end": 213.98,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 430,
+      "word": "Where",
+      "before": "\"",
+      "after": "?\"",
+      "start": 214.64,
+      "end": 214.98,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 431,
+      "word": "Jack",
+      "before": " ",
+      "after": "",
+      "start": 215.32,
+      "end": 215.94,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 432,
+      "word": "asked",
+      "before": " ",
+      "after": ".",
+      "start": 215.94,
+      "end": 216.4,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 433,
+      "word": "All",
+      "before": " ",
+      "after": "",
+      "start": 216.7,
+      "end": 217.18,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 434,
+      "word": "he",
+      "before": " ",
+      "after": "",
+      "start": 217.18,
+      "end": 217.38,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 435,
+      "word": "could",
+      "before": " ",
+      "after": "",
+      "start": 217.38,
+      "end": 217.54,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 436,
+      "word": "see",
+      "before": " ",
+      "after": "",
+      "start": 217.54,
+      "end": 217.82,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 437,
+      "word": "was",
+      "before": " ",
+      "after": "",
+      "start": 217.82,
+      "end": 218.0,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 438,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 218.0,
+      "end": 218.18,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 439,
+      "word": "island",
+      "before": " ",
+      "after": ".",
+      "start": 218.18,
+      "end": 218.58,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 440,
+      "word": "And",
+      "before": " ",
+      "after": "",
+      "start": 218.84,
+      "end": 219.38,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 441,
+      "word": "stormy",
+      "before": " ",
+      "after": "",
+      "start": 219.38,
+      "end": 219.92,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 442,
+      "word": "waves",
+      "before": " ",
+      "after": ".",
+      "start": 219.92,
+      "end": 220.28,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 443,
+      "word": "And",
+      "before": " ",
+      "after": "",
+      "start": 220.54,
+      "end": 220.92,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 444,
+      "word": "shark",
+      "before": " ",
+      "after": "",
+      "start": 220.92,
+      "end": 221.3,
+      "key": true,
+      "page": 2
+     },
+     {
+      "i": 445,
+      "word": "fins",
+      "before": " ",
+      "after": ".",
+      "start": 221.3,
+      "end": 221.6,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 446,
+      "word": "There",
+      "before": "“",
+      "after": "!”",
+      "start": 222.7,
+      "end": 223.06,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 447,
+      "word": "said",
+      "before": " ",
+      "after": "",
+      "start": 223.38,
+      "end": 224.04,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 448,
+      "word": "Annie",
+      "before": " ",
+      "after": ".",
+      "start": 224.04,
+      "end": 224.36,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 449,
+      "word": "Where",
+      "before": "“",
+      "after": "?",
+      "start": 224.58,
+      "end": 225.3,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 450,
+      "word": "Where",
+      "before": " ",
+      "after": "?”",
+      "start": 225.62,
+      "end": 226.22,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 451,
+      "word": "There",
+      "before": "“",
+      "after": "!",
+      "start": 226.5,
+      "end": 227.24,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 452,
+      "word": "The",
+      "before": " ",
+      "after": "",
+      "start": 227.65,
+      "end": 228.43,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 453,
+      "word": "island",
+      "before": " ",
+      "after": "",
+      "start": 228.43,
+      "end": 228.91,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 454,
+      "word": "is",
+      "before": " ",
+      "after": "",
+      "start": 228.91,
+      "end": 229.17,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 455,
+      "word": "shaped",
+      "before": " ",
+      "after": "",
+      "start": 229.17,
+      "end": 229.43,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 456,
+      "word": "like",
+      "before": " ",
+      "after": "",
+      "start": 229.43,
+      "end": 229.71,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 457,
+      "word": "a",
+      "before": " ",
+      "after": "",
+      "start": 229.71,
+      "end": 229.87,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 458,
+      "word": "giant",
+      "before": " ",
+      "after": "",
+      "start": 229.87,
+      "end": 230.27,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 459,
+      "word": "whale",
+      "before": " ",
+      "after": "!”",
+      "start": 230.27,
+      "end": 230.63,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 460,
+      "word": "Oh",
+      "before": "\"",
+      "after": "",
+      "start": 231.63,
+      "end": 232.63,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 461,
+      "word": "man",
+      "before": " ",
+      "after": ",\"",
+      "start": 232.63,
+      "end": 233.31,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 462,
+      "word": "whispered",
+      "before": " ",
+      "after": "",
+      "start": 233.31,
+      "end": 233.99,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 463,
+      "word": "Jack",
+      "before": " ",
+      "after": ".",
+      "start": 233.99,
+      "end": 234.21,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 464,
+      "word": "Now",
+      "before": " ",
+      "after": "",
+      "start": 234.51,
+      "end": 235.17,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 465,
+      "word": "he",
+      "before": " ",
+      "after": "",
+      "start": 235.17,
+      "end": 235.39,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 466,
+      "word": "could",
+      "before": " ",
+      "after": "",
+      "start": 235.39,
+      "end": 235.63,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 467,
+      "word": "see",
+      "before": " ",
+      "after": "",
+      "start": 235.63,
+      "end": 235.93,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 468,
+      "word": "it",
+      "before": " ",
+      "after": ".",
+      "start": 235.93,
+      "end": 236.25,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 469,
+      "word": "See",
+      "before": "“",
+      "after": "",
+      "start": 236.68,
+      "end": 237.18,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 470,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 237.18,
+      "end": 237.38,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 471,
+      "word": "whale’s",
+      "before": " ",
+      "after": "",
+      "start": 237.38,
+      "end": 237.8,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 472,
+      "word": "back",
+      "before": " ",
+      "after": "?”",
+      "start": 237.8,
+      "end": 238.14,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 473,
+      "word": "said",
+      "before": " ",
+      "after": "",
+      "start": 238.46,
+      "end": 239.2,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 474,
+      "word": "Annie",
+      "before": " ",
+      "after": ".",
+      "start": 239.2,
+      "end": 239.54,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 475,
+      "word": "Yep",
+      "before": "“",
+      "after": ".”",
+      "start": 240.0,
+      "end": 240.68,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 476,
+      "word": "The",
+      "before": " ",
+      "after": "",
+      "start": 240.72,
+      "end": 241.4,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 477,
+      "word": "slope",
+      "before": " ",
+      "after": "",
+      "start": 241.4,
+      "end": 241.74,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 478,
+      "word": "of",
+      "before": " ",
+      "after": "",
+      "start": 241.74,
+      "end": 241.92,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 479,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 241.92,
+      "end": 241.98,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 480,
+      "word": "island",
+      "before": " ",
+      "after": "",
+      "start": 241.98,
+      "end": 242.34,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 481,
+      "word": "looked",
+      "before": " ",
+      "after": "",
+      "start": 242.34,
+      "end": 242.6,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 482,
+      "word": "like",
+      "before": " ",
+      "after": "",
+      "start": 242.6,
+      "end": 242.82,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 483,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 242.82,
+      "end": 242.96,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 484,
+      "word": "back",
+      "before": " ",
+      "after": "",
+      "start": 242.96,
+      "end": 243.24,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 485,
+      "word": "of",
+      "before": " ",
+      "after": "",
+      "start": 243.24,
+      "end": 243.42,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 486,
+      "word": "a",
+      "before": " ",
+      "after": "",
+      "start": 243.42,
+      "end": 243.52,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 487,
+      "word": "whale",
+      "before": " ",
+      "after": ".",
+      "start": 243.52,
+      "end": 243.86,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 488,
+      "word": "See",
+      "before": "\"",
+      "after": "",
+      "start": 244.4,
+      "end": 245.08,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 489,
+      "word": "his",
+      "before": " ",
+      "after": "",
+      "start": 245.17,
+      "end": 245.26,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 490,
+      "word": "spout",
+      "before": " ",
+      "after": "?\"",
+      "start": 245.26,
+      "end": 245.84,
+      "key": true,
+      "page": 2
+     },
+     {
+      "i": 491,
+      "word": "said",
+      "before": " ",
+      "after": "",
+      "start": 246.0,
+      "end": 246.54,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 492,
+      "word": "Annie",
+      "before": " ",
+      "after": ".",
+      "start": 246.54,
+      "end": 246.92,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 493,
+      "word": "Yep",
+      "before": "“",
+      "after": ".”",
+      "start": 247.38,
+      "end": 248.06,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 494,
+      "word": "The",
+      "before": " ",
+      "after": "",
+      "start": 248.06,
+      "end": 248.78,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 495,
+      "word": "palm",
+      "before": " ",
+      "after": "",
+      "start": 249.16,
+      "end": 249.48,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 496,
+      "word": "tree",
+      "before": " ",
+      "after": "",
+      "start": 249.48,
+      "end": 249.86,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 497,
+      "word": "that",
+      "before": " ",
+      "after": "",
+      "start": 249.86,
+      "end": 250.36,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 498,
+      "word": "held",
+      "before": " ",
+      "after": "",
+      "start": 250.36,
+      "end": 250.54,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 499,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 250.54,
+      "end": 250.72,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 500,
+      "word": "tree",
+      "before": " ",
+      "after": "",
+      "start": 250.887,
+      "end": 251.053,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 501,
+      "word": "house",
+      "before": " ",
+      "after": "",
+      "start": 251.053,
+      "end": 251.22,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 502,
+      "word": "looked",
+      "before": " ",
+      "after": "",
+      "start": 251.22,
+      "end": 252.0,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 503,
+      "word": "like",
+      "before": " ",
+      "after": "",
+      "start": 252.0,
+      "end": 252.22,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 504,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 252.22,
+      "end": 252.34,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 505,
+      "word": "spout",
+      "before": " ",
+      "after": "",
+      "start": 252.34,
+      "end": 252.86,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 506,
+      "word": "of",
+      "before": " ",
+      "after": "",
+      "start": 252.86,
+      "end": 253.1,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 507,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 253.1,
+      "end": 253.24,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 508,
+      "word": "whale",
+      "before": " ",
+      "after": ".",
+      "start": 253.24,
+      "end": 253.58,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 509,
+      "word": "See",
+      "before": "\"",
+      "after": "",
+      "start": 254.18,
+      "end": 254.78,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 510,
+      "word": "his",
+      "before": " ",
+      "after": "",
+      "start": 254.78,
+      "end": 254.98,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 511,
+      "word": "eye",
+      "before": " ",
+      "after": "?\"",
+      "start": 254.98,
+      "end": 255.22,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 512,
+      "word": "said",
+      "before": " ",
+      "after": "",
+      "start": 255.58,
+      "end": 256.18,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 513,
+      "word": "Annie",
+      "before": " ",
+      "after": ".",
+      "start": 256.18,
+      "end": 256.52,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 514,
+      "word": "Yep",
+      "before": "“",
+      "after": ".”",
+      "start": 256.52,
+      "end": 257.48,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 515,
+      "word": "A",
+      "before": " ",
+      "after": "",
+      "start": 257.62,
+      "end": 258.42,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 516,
+      "word": "big",
+      "before": " ",
+      "after": "",
+      "start": 258.42,
+      "end": 258.82,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 517,
+      "word": "black",
+      "before": " ",
+      "after": "",
+      "start": 258.82,
+      "end": 259.18,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 518,
+      "word": "rock",
+      "before": " ",
+      "after": "",
+      "start": 259.18,
+      "end": 259.64,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 519,
+      "word": "looked",
+      "before": " ",
+      "after": "",
+      "start": 259.64,
+      "end": 260.44,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 520,
+      "word": "like",
+      "before": " ",
+      "after": "",
+      "start": 260.44,
+      "end": 260.68,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 521,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 260.68,
+      "end": 260.86,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 522,
+      "word": "eye",
+      "before": " ",
+      "after": "",
+      "start": 260.86,
+      "end": 261.26,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 523,
+      "word": "of",
+      "before": " ",
+      "after": "",
+      "start": 261.26,
+      "end": 262.04,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 524,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 262.04,
+      "end": 262.12,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 525,
+      "word": "whale",
+      "before": " ",
+      "after": ".",
+      "start": 262.12,
+      "end": 262.46,
+      "key": false,
+      "page": 2
+     }
+    ]
+   },
+   {
+    "words": [
+     {
+      "i": 526,
+      "word": "The",
+      "before": "“",
+      "after": "",
+      "start": 262.68,
+      "end": 263.52,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 527,
+      "word": "gold",
+      "before": " ",
+      "after": "",
+      "start": 263.97,
+      "end": 264.41,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 528,
+      "word": "doth",
+      "before": " ",
+      "after": "",
+      "start": 264.41,
+      "end": 264.99,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 529,
+      "word": "lie",
+      "before": " ",
+      "after": "",
+      "start": 264.99,
+      "end": 265.35,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 530,
+      "word": "beneath",
+      "before": " ",
+      "after": "",
+      "start": 265.35,
+      "end": 266.51,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 531,
+      "word": "the",
+      "before": " ",
+      "after": "",
+      "start": 266.51,
+      "end": 266.95,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 532,
+      "word": "whale’s",
+      "before": " ",
+      "after": "",
+      "start": 266.95,
+      "end": 267.69,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 533,
+      "word": "eye",
+      "before": " ",
+      "after": ",”",
+      "start": 267.69,
+      "end": 268.33,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 534,
+      "word": "whispered",
+      "before": " ",
+      "after": "",
+      "start": 268.96,
+      "end": 270.0,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 535,
+      "word": "Jack",
+      "before": " ",
+      "after": ".",
+      "start": 270.0,
+      "end": 270.24,
+      "key": false,
+      "page": 2
+     },
+     {
+      "i": 536,
+      "word": "Wow",
+      "before": " “",
+      "after": ".”",
+      "start": 271.18,
+      "end": 271.62,
+      "key": false,
+      "page": 2
+     }
+    ]
+   }
+  ]
+ ]
+}

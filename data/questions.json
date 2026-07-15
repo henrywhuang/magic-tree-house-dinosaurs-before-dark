@@ -3390,6 +3390,1120 @@
           ]
         }
       ]
+    },
+    {
+      "book": 4,
+      "book_title": "Pirates Past Noon",
+      "book_title_cn": "加勒比海盗",
+      "chapters": [
+        {
+          "book": 4,
+          "chapter": 1,
+          "chapter_title": "Too Late!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What two objects does Jack take out of his drawer to bring to the tree house?",
+              "options": {
+                "A": "His raincoat and rain boots",
+                "B": "The gold medallion and the leather bookmark",
+                "C": "His notebook and a flashlight",
+                "D": "A castle book and a dinosaur book"
+              },
+              "answer": "B",
+              "evidence": [
+                "Jack reached into his drawer. He took out the medallion.",
+                "Then he took out the bookmark. It was made of blue leather."
+              ],
+              "rationale": "Jack goes to his drawer and takes out the gold medallion and then the blue leather bookmark to carry to the tree house.",
+              "id": "B4C1Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How does the green parrot named Polly cause the children's adventure to begin?",
+              "options": {
+                "A": "It flies into the tree house and knocks the open book onto the floor",
+                "B": "It appears right after Annie wishes to be in the picture, and then the tree house starts to spin",
+                "C": "It carries the medallion away, so they chase it into the woods",
+                "D": "It reads the title of the book out loud to Jack and Annie"
+              },
+              "answer": "B",
+              "evidence": [
+                "Annie pointed to the picture. \"I wish we were there instead of here,\" she said.",
+                "The tree house started to spin. Faster and faster!"
+              ],
+              "rationale": "The parrot from the picture shows up just after Annie makes her wish, and moments later the wind rises and the tree house spins, carrying them away.",
+              "id": "B4C1Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence \"The letter M was engraved on it,\" what does the word \"engraved\" most nearly mean?",
+              "options": {
+                "A": "Cut or carved into the surface",
+                "B": "Painted with bright colors",
+                "C": "Wrapped in leather",
+                "D": "Glued on as a sticker"
+              },
+              "answer": "A",
+              "evidence": [
+                "It was gold. The letter M was engraved on it."
+              ],
+              "rationale": "The M is engraved on the gold medallion, meaning it is cut or carved into the metal, which is why it matches the M on the tree-house floor.",
+              "id": "B4C1Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about the place shown in the open book Annie finds?",
+              "options": {
+                "A": "It is a cold, snowy mountain far from the sea",
+                "B": "It is a warm, sunny place by the ocean with a beach, a palm tree, and a ship",
+                "C": "It is the same rainy Frog Creek woods they just left",
+                "D": "It is a busy city full of tall buildings"
+              },
+              "answer": "B",
+              "evidence": [
+                "He saw a sunny beach. A big green parrot sitting in a palm tree. And a ship sailing on a blue sea.",
+                "Annie pointed to the picture. \"I wish we were there instead of here,\" she said."
+              ],
+              "rationale": "The picture shows a sunny beach, a palm tree, and a ship on a blue sea, so the reader can tell it is a warm place by the ocean—very different from the cold rain outside.",
+              "id": "B4C1Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which sentence best summarizes what happens in this chapter?",
+              "options": {
+                "A": "Jack and Annie go to the tree house in the rain, find an open book with a sunny sea, and the tree house spins them away",
+                "B": "Jack and Annie decide it is too wet and stay home instead of visiting the tree house",
+                "C": "Jack and Annie return the castle book and dinosaur book to the M person",
+                "D": "Jack and Annie teach the green parrot Polly how to talk"
+              },
+              "answer": "A",
+              "evidence": [
+                "But we have to go to the tree house,\" said Annie.",
+                "The tree house started to spin. Faster and faster!"
+              ],
+              "rationale": "The chapter follows the two hurrying through the storm to the tree house, discovering the open book that shows a sunny sea, and being whisked away as the tree house spins.",
+              "id": "B4C1Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 4,
+          "chapter": 2,
+          "chapter_title": "The Bright Blue Sea",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What does Jack notice about the sailing ship's flag when the ship comes closer?",
+              "options": {
+                "A": "It is bright green with a palm tree on it",
+                "B": "It is black with a skull and crossbones",
+                "C": "It is white with a large letter M",
+                "D": "It is red and yellow like a rainbow"
+              },
+              "answer": "B",
+              "evidence": [
+                "The flag was black. With a skull and crossbones."
+              ],
+              "rationale": "As the ship nears, Jack can see its flag, which is black with a skull and crossbones—the sign of pirates.",
+              "id": "B4C2Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How do Jack and Annie act differently once the tree house lands by the sea?",
+              "options": {
+                "A": "Both of them refuse to leave the tree house at all",
+                "B": "Annie wants to run into the water right away, while Jack wants to study the book first",
+                "C": "Jack jumps in first, and Annie stays behind to read",
+                "D": "Both of them decide to swim out to the sailing ship"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"Come on, let's follow her! Let's go in the water!\" said Annie.",
+                "“Wait, we have to study the book first,” said Jack."
+              ],
+              "rationale": "Annie is eager to jump straight into the water, but careful Jack wants to study the book before doing anything, showing how their reactions differ.",
+              "id": "B4C2Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "In the sentence \"He shielded his eyes against the sun,\" what does \"shielded\" most nearly mean?",
+              "options": {
+                "A": "Covered or protected",
+                "B": "Rubbed and scratched",
+                "C": "Closed and rested",
+                "D": "Washed with water"
+              },
+              "answer": "A",
+              "evidence": [
+                "He shielded his eyes against the sun. And peered out at the sea."
+              ],
+              "rationale": "Jack shields his eyes against the bright sun, meaning he covers or protects them with his hand so he can peer out at the sea.",
+              "id": "B4C2Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "Why does a chill go through Jack when he sees the ship's flag?",
+              "options": {
+                "A": "He realizes the ship is sailing away from them",
+                "B": "He realizes the ship belongs to pirates and may be dangerous",
+                "C": "He is cold because his clothes are still wet from the rain",
+                "D": "He is worried the ship will crash into the palm trees"
+              },
+              "answer": "B",
+              "evidence": [
+                "The flag was black. With a skull and crossbones.",
+                "\"Pirates of the Caribbean,\" Jack read aloud."
+              ],
+              "rationale": "The skull-and-crossbones flag and the book's title tell Jack the ship is a pirate ship, so the chill shows he senses danger coming toward them.",
+              "id": "B4C2Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "What lesson does this chapter most suggest through what happens to Jack and Annie?",
+              "options": {
+                "A": "A beautiful, fun place can still hide a real danger you do not notice at first",
+                "B": "It is always better to swim than to read a book",
+                "C": "You should never leave home when it is raining",
+                "D": "Parrots make the best guides on an island"
+              },
+              "answer": "A",
+              "evidence": [
+                "Actually, the water did look wonderful.",
+                "As he stared at the ship's flag, a chill went through him."
+              ],
+              "rationale": "The children enjoy the wonderful warm water, but the approaching pirate flag shows that even a lovely place can hide danger they only spot too late.",
+              "id": "B4C2Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 4,
+          "chapter": 3,
+          "chapter_title": "Three Men in a Boat",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "According to the caption Jack reads, what did pirates do three hundred years ago?",
+              "options": {
+                "A": "They built stone forts along the coast.",
+                "B": "They raided Spanish treasure ships in the Caribbean Sea.",
+                "C": "They mapped every island in the sea.",
+                "D": "They traded gold with the Spanish navy."
+              },
+              "answer": "B",
+              "evidence": [
+                "Three hundred years ago, pirates raided Spanish treasure ships in the Caribbean Sea."
+              ],
+              "rationale": "The caption states directly that pirates raided Spanish treasure ships in the Caribbean Sea.",
+              "id": "B4C3Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How do Jack and Annie react differently when Annie first sees the pirates?",
+              "options": {
+                "A": "Both of them run for the tree house right away.",
+                "B": "Jack hides in the sand while Annie waves at the pirates.",
+                "C": "Annie draws the flag while Jack watches the boat.",
+                "D": "Annie warns Jack and starts running, but Jack keeps drawing instead of looking up."
+              },
+              "answer": "D",
+              "evidence": [
+                "\"Jack, some pirates are getting into a rowboat,\" said Annie.",
+                "Jack kept drawing."
+              ],
+              "rationale": "Annie notices the danger and calls out, but Jack is so focused on his drawing that he keeps at it instead of reacting.",
+              "id": "B4C3Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Jack saw something \"glinting in the sand.\" What does glinting most likely mean here?",
+              "options": {
+                "A": "shining with small flashes of light",
+                "B": "sinking down slowly",
+                "C": "making a loud noise",
+                "D": "moving on its own"
+              },
+              "answer": "A",
+              "evidence": [
+                "Jack saw something glinting in the sand. He reached for it. It was his glasses."
+              ],
+              "rationale": "Because the object turns out to be his glasses catching the light, \"glinting\" means shining with small flashes of light.",
+              "id": "B4C3Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "Why does Jack run back toward the water even though the pirates are coming?",
+              "options": {
+                "A": "He wants to fight the pirates by himself.",
+                "B": "He is trying to hide the rowboat from Annie.",
+                "C": "He left the pirate book propped in the sand and does not want to lose it.",
+                "D": "He dropped his glasses near the shore."
+              },
+              "answer": "C",
+              "evidence": [
+                "Suddenly Jack saw the pirate book. In all the confusion he had forgotten it. It was still propped in the sand.",
+                "\"I'll be right back!\" Jack called. \"I've got to get the book!\""
+              ],
+              "rationale": "Jack realizes he forgot the pirate book in the sand, so he runs back to grab it before it is lost.",
+              "id": "B4C3Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which choice best summarizes Chapter 3?",
+              "options": {
+                "A": "Jack and Annie sail out to meet the pirate ship and make friends with the crew.",
+                "B": "Jack learns about pirates and draws their flag, then he and Annie must flee as three pirates row ashore and charge at them.",
+                "C": "Annie reads about the Jolly Roger while Jack looks for his lost glasses in the sand.",
+                "D": "Jack and Annie find pirate treasure buried under a palm tree on the beach."
+              },
+              "answer": "B",
+              "evidence": [
+                "He started drawing the Jolly Roger flag.",
+                "Three big pirates splashed onto the sand."
+              ],
+              "rationale": "The chapter moves from Jack studying pirates and drawing their flag to the children fleeing as three pirates land and rush at them.",
+              "id": "B4C3Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 4,
+          "chapter": 4,
+          "chapter_title": "Vile Booty",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What does the biggest pirate call himself?",
+              "options": {
+                "A": "Pinky",
+                "B": "Stinky",
+                "C": "Cap'n Bones",
+                "D": "Jolly Roger"
+              },
+              "answer": "C",
+              "evidence": [
+                "\"No one escapes Cap'n Bones!\" he roared. His breath was terrible."
+              ],
+              "rationale": "The biggest pirate roars that no one escapes Cap'n Bones, naming himself.",
+              "id": "B4C4Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "What does Annie do that shows she is brave even after Cap'n Bones grabs Jack?",
+              "options": {
+                "A": "She charges up to the biggest pirate, calls him a bully, and hits and kicks him.",
+                "B": "She quietly climbs back up into the tree house.",
+                "C": "She offers the pirates the medallion so they will let Jack go.",
+                "D": "She runs down the beach to get help from Pinky and Stinky."
+              },
+              "answer": "A",
+              "evidence": [
+                "\"Leave him alone, you bully!\" she cried.",
+                "She hit the pirate with her fist and kicked him."
+              ],
+              "rationale": "Instead of hiding, Annie confronts the huge pirate, insults him, and physically fights back, showing her courage.",
+              "id": "B4C4Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "The chapter is titled \"Vile Booty,\" and Cap'n Bones keeps yelling about wanting gold, not books. In pirate talk, what does booty mean?",
+              "options": {
+                "A": "a pirate's boots",
+                "B": "an old sailing map",
+                "C": "a kind of sea bird",
+                "D": "stolen treasure or valuable loot"
+              },
+              "answer": "D",
+              "evidence": [
+                "\"Aghh, books,\" growled Cap'n Bones. He spit on the sand. \"I want gold, you dogs!\"",
+                "\"Gold! Gold! Gold!\" he cried."
+              ],
+              "rationale": "Cap'n Bones treasures gold and scorns books, so \"booty\" means the stolen treasure or valuable loot pirates hunt for.",
+              "id": "B4C4Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about why Cap'n Bones suddenly drops Jack and Annie?",
+              "options": {
+                "A": "He decides the children are not worth his time.",
+                "B": "He sees the shiny gold medallion and cares far more about the treasure than about them.",
+                "C": "He hears his ship calling him back to sea.",
+                "D": "He is frightened by the gleeful shriek from the tree house."
+              },
+              "answer": "B",
+              "evidence": [
+                "Pinky leaned out the tree house window. He held the medallion. It glimmered in the sunlight.",
+                "Cap'n Bones dropped Jack and Annie. He caught the medallion as it fell."
+              ],
+              "rationale": "The moment the gold medallion appears, Cap'n Bones lets the children go to grab it, showing greed for treasure outweighs holding them.",
+              "id": "B4C4Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "Which statement best expresses a theme suggested by Chapter 4?",
+              "options": {
+                "A": "Greed for gold can control a person, making treasure matter more to them than anything else.",
+                "B": "Reading books is a waste of a pirate's time.",
+                "C": "It is always safer to give bullies whatever they ask for.",
+                "D": "The biggest and strongest person always wins in the end."
+              },
+              "answer": "A",
+              "evidence": [
+                "\"I hate books! Keep looking, dogs! Find me something good!\"",
+                "\"Gold! Gold! Gold!\" he cried. Cap'n Bones threw back his head and laughed horribly."
+              ],
+              "rationale": "Cap'n Bones ignores everything but gold and forgets the children the instant treasure appears, showing how greed can take over a person.",
+              "id": "B4C4Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 4,
+          "chapter": 5,
+          "chapter_title": "The Kid's Treasure",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What does Cap'n Bones pull out of his belt pouch to show Jack and Annie?",
+              "options": {
+                "A": "A gold coin from the treasure",
+                "B": "A torn treasure map",
+                "C": "A loaded pistol",
+                "D": "A letter from Captain Kidd"
+              },
+              "answer": "B",
+              "evidence": [
+                "He reached into a belt pouch and pulled out a torn piece of paper. He waved it at Jack and Annie.",
+                "\"Is that a treasure map?\" asked Jack."
+              ],
+              "rationale": "Bones pulls a torn piece of paper from his pouch, and Jack recognizes it as a treasure map.",
+              "id": "B4C5Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Why does Cap'n Bones make Jack read the map instead of reading it himself?",
+              "options": {
+                "A": "Bones cannot read, so he needs the children to read it for him.",
+                "B": "Bones wants to test whether the children are telling the truth.",
+                "C": "The writing on the map is in a language only Jack knows.",
+                "D": "Bones is too busy aiming his pistols to hold the map."
+              },
+              "answer": "A",
+              "evidence": [
+                "\"You know he can't read,\" said Stinky.",
+                "“You read it!” Cap'n Bones shoved the map in Jack's face."
+              ],
+              "rationale": "Stinky reveals that Bones can't read, which is why Bones shoves the map at Jack to read aloud.",
+              "id": "B4C5Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "When Cap'n Bones shouts \"Halt!\" and \"Not another step, lubbers!\", what is he telling Jack and Annie to do?",
+              "options": {
+                "A": "To come closer to him",
+                "B": "To stop moving and stay where they are",
+                "C": "To climb into the tree house",
+                "D": "To hand over the map"
+              },
+              "answer": "B",
+              "evidence": [
+                "“Halt!” Cap’n Bones shouted. He aimed his pistols at them. “Not another step, lubbers!”",
+                "Jack and Annie froze."
+              ],
+              "rationale": "\"Halt\" and \"not another step\" mean to stop; Jack and Annie freeze in response.",
+              "id": "B4C5Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "Why does Cap'n Bones decide to take Jack and Annie back to the ship?",
+              "options": {
+                "A": "He wants to reward them for reading the map.",
+                "B": "He believes they know how to find Kidd's treasure and will hold them until they tell him.",
+                "C": "He is afraid the coming storm will hurt them on the island.",
+                "D": "He plans to set them free on the far side of the island."
+              },
+              "answer": "B",
+              "evidence": [
+                "“Hang it! Take 'em hack to the ship!” shouted Cap'n Bones. \"They can rot there till they're ready"
+              ],
+              "rationale": "Bones has them taken to the ship to hold them until they reveal how to find Kidd's treasure, showing he thinks they know.",
+              "id": "B4C5Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which sentence best summarizes what happens in Chapter 5?",
+              "options": {
+                "A": "Jack and Annie escape the pirates and reach the tree house safely.",
+                "B": "Cap'n Bones traps Jack and Annie, makes Jack read the map's clue, and has them rowed out to his ship.",
+                "C": "Polly the parrot leads Jack and Annie to Captain Kidd's buried treasure.",
+                "D": "Cap'n Bones reads the map himself and digs up the gold on the island."
+              },
+              "answer": "B",
+              "evidence": [
+                "The pirate squinted his good eye. \"Aye, lubber. When the treasure's in me hands, I'll let you go.\"",
+                "Jack and Annie were tossed into the rowboat."
+              ],
+              "rationale": "The chapter shows the pirates capturing the children, forcing Jack to read the clue, and taking them by rowboat toward the ship.",
+              "id": "B4C5Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 4,
+          "chapter": 6,
+          "chapter_title": "The Whale's Eye",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Where do the pirates lock Jack and Annie after hauling them onto the ship?",
+              "options": {
+                "A": "In the ship's cabin",
+                "B": "Below deck with the treasure",
+                "C": "In the rowboat",
+                "D": "In a cage on the deck"
+              },
+              "answer": "A",
+              "evidence": [
+                "\"Lock 'em in my cabin!\" Cap'n Bones ordered.",
+                "A couple of pirates grabbed Jack and Annie. And threw them in the ship's cabin. Then locked the door."
+              ],
+              "rationale": "Bones orders them locked in his cabin, and the pirates throw them in and lock the door.",
+              "id": "B4C6Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How do Jack and Annie finally understand who the \"kid\" in Cap'n Bones's clue really is?",
+              "options": {
+                "A": "Polly the parrot spells out the name for them.",
+                "B": "Cap'n Bones tells them the treasure belonged to his son.",
+                "C": "They read in the pirate book about Captain Kidd, a pirate who buried treasure.",
+                "D": "Annie remembers the name from a picture on the map."
+              },
+              "answer": "C",
+              "evidence": [
+                "Captain Kidd was a famous pirate. It is said that he buried a treasure chest on a deserted island. The chest was filled with gold and jewels.",
+                "\"So that's the kid that Bones keeps talking about,\" said Annie."
+              ],
+              "rationale": "Reading about the pirate Captain Kidd in the book lets Annie realize \"Kidd\" is the \"kid\" Bones keeps mentioning.",
+              "id": "B4C6Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "In this chapter, what does it mean that Jack \"felt seasick\"?",
+              "options": {
+                "A": "He felt sick because of the tossing, rocking boat on the huge waves.",
+                "B": "He was tired of looking at the sea.",
+                "C": "He was frightened by the pirates' music.",
+                "D": "He had eaten spoiled food on the ship."
+              },
+              "answer": "A",
+              "evidence": [
+                "The rowboat tossed from side to side. The waves were huge. Salty spray stung Jack's eyes. He felt seasick."
+              ],
+              "rationale": "The tossing boat and huge waves make Jack \"seasick\" - sick from the motion of the sea.",
+              "id": "B4C6Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "Why is Jack so amazed when he finally looks out the window at the island?",
+              "options": {
+                "A": "He spots Polly the parrot leading the way home.",
+                "B": "The island is shaped like a giant whale, so its \"eye\" matches the clue on the map.",
+                "C": "He realizes the ship has drifted far from the island.",
+                "D": "He sees the pirates already digging up the treasure."
+              },
+              "answer": "B",
+              "evidence": [
+                "“There! The island is shaped like a giant whale!”",
+                "“The gold doth lie beneath the whale’s eye,” whispered Jack. “Wow.”"
+              ],
+              "rationale": "Jack is amazed because the whale-shaped island's \"eye\" (a big black rock) matches the map's clue about where the gold lies.",
+              "id": "B4C6Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "What big idea does this chapter suggest about how Jack and Annie face their trouble?",
+              "options": {
+                "A": "Fighting the pirates with swords is the only way to win.",
+                "B": "By staying calm and using the book, thinking, and noticing clues, they begin to solve the mystery even while trapped.",
+                "C": "Waiting quietly for the storm to pass will set them free.",
+                "D": "The treasure matters more to them than getting home."
+              },
+              "answer": "B",
+              "evidence": [
+                "“We better examine the book,” he said.",
+                "“There! The island is shaped like a giant whale!”"
+              ],
+              "rationale": "Locked in the cabin, the children turn to the book and careful observation to decode the clue, showing that thinking and noticing details help them face danger.",
+              "id": "B4C6Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 4,
+          "chapter": 7,
+          "chapter_title": "Gale's a-Blowin'",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What two things does Cap'n Bones order his men to bring before they head back to the island?",
+              "options": {
+                "A": "A map and a lantern",
+                "B": "A rope and shovels",
+                "C": "A sword and a spyglass",
+                "D": "Food and fresh water"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"You'll need a rope,\" said Jack.",
+                "\"And shovels,\" said Annie."
+              ],
+              "rationale": "Jack and Annie tell Cap'n Bones they will need a rope and shovels, and he roars at his men to get them.",
+              "id": "B4C7Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Why does Cap'n Bones keep holding on to Jack and Annie instead of helping dig?",
+              "options": {
+                "A": "He wants to protect them from the coming storm",
+                "B": "He plans to keep them as hostages until he has the treasure",
+                "C": "He is too tired from rowing to lift a shovel",
+                "D": "He is afraid they will steal his gold medallion"
+              },
+              "answer": "B",
+              "evidence": [
+                "Cap'n Bones gave Jack a horrible grin. \"Nay. I'm going to hold you two--till there's treasure in me hands!\""
+              ],
+              "rationale": "He refuses to work and grins that he will hold the two children until the treasure is in his hands, using them to make sure he gets it.",
+              "id": "B4C7Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "When Pinky says \"Gale's a-blowin'!\" as the waves grow bigger and the wind howls, what is a gale?",
+              "options": {
+                "A": "A strong, powerful wind or storm",
+                "B": "A calm, gentle breeze",
+                "C": "A patch of thick fog",
+                "D": "A large ocean wave"
+              },
+              "answer": "A",
+              "evidence": [
+                "The waves were bigger. The wind was howling.",
+                "\"Gale's a-blowin'!\" said Pinky."
+              ],
+              "rationale": "Pinky calls out about the gale just as the wind howls and the waves grow, showing a gale is a strong wind or storm.",
+              "id": "B4C7Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Jack's feelings when Cap'n Bones says he will hold them until he has the treasure?",
+              "options": {
+                "A": "Jack feels relieved that the pirates will do all the digging",
+                "B": "Jack feels frightened and is trying to think of a way to escape",
+                "C": "Jack feels excited to watch the pirates work",
+                "D": "Jack feels proud that he tricked Cap'n Bones"
+              },
+              "answer": "B",
+              "evidence": [
+                "Jack gulped. How could they get away from him?"
+              ],
+              "rationale": "Jack gulps and wonders how they can get away, which shows he is scared and looking for a way to escape.",
+              "id": "B4C7Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which sentence best summarizes what happens in this chapter?",
+              "options": {
+                "A": "Jack and Annie lead Cap'n Bones back to the island through a rising storm, but he holds them prisoner instead of letting them slip away to the tree house",
+                "B": "Jack and Annie dig up Captain Kidd's treasure chest by themselves while the pirates sail away",
+                "C": "Cap'n Bones frees Jack and Annie once they point out the black rock",
+                "D": "Pinky and Stinky refuse to row, so the pirates never reach the island"
+              },
+              "answer": "A",
+              "evidence": [
+                "\"Now show us where the treasure is.\"",
+                "\"Nay. I'm going to hold you two--till there's treasure in me hands!\""
+              ],
+              "rationale": "The chapter follows the children guiding the pirates back through the gale to the black rock, where Cap'n Bones keeps them captive rather than freeing them.",
+              "id": "B4C7Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 4,
+          "chapter": 8,
+          "chapter_title": "Dig, Dogs, Dig",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What do Pinky and Stinky do first before they begin digging?",
+              "options": {
+                "A": "They tie their rope around the big rock and pull it across the sand",
+                "B": "They row the boat back out to the ship",
+                "C": "They climb up the tree house ladder",
+                "D": "They toss the gold medallion into the hole"
+              },
+              "answer": "A",
+              "evidence": [
+                "Pinky and Stinky tied their rope around the big rock.",
+                "They started pulling the rock across the sand."
+              ],
+              "rationale": "Before digging, the two pirates tie their rope around the big rock and drag it across the sand.",
+              "id": "B4C8Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How does Polly the parrot cause Pinky and Stinky to stop digging and run away?",
+              "options": {
+                "A": "She drops the medallion into the sea in front of them",
+                "B": "She keeps squawking \"Go back!\", which the pirates take as a warning to reach the ship",
+                "C": "She attacks Cap'n Bones so the men can escape",
+                "D": "She shows them a shortcut to the buried treasure"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"Go back!\" she squawked.",
+                "\"The bird's warning us!\" shouted Pinky. \"We've got to get to the ship before it's too late!\""
+              ],
+              "rationale": "Polly's repeated \"Go back!\" convinces the superstitious pirates the bird is warning them, so they throw down their shovels and run for the boat.",
+              "id": "B4C8Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "When Stinky shouts \"The bird's an omen, Cap'n!\" during the coming storm, what does the word \"omen\" most nearly mean?",
+              "options": {
+                "A": "A sign that something is going to happen",
+                "B": "A kind of tropical bird",
+                "C": "A tool used for digging",
+                "D": "A pirate captain's order"
+              },
+              "answer": "A",
+              "evidence": [
+                "\"The bird's an omen, Cap'n!\" shouted Stinky.",
+                "\"The bird's warning us!\" shouted Pinky."
+              ],
+              "rationale": "The pirates treat the parrot as an omen, a sign that danger is coming, which is why Pinky says the bird is warning them.",
+              "id": "B4C8Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about why Jack finally decides it is time to leave the treasure chest behind?",
+              "options": {
+                "A": "He realizes the chest is empty and worthless",
+                "B": "The parrot speaks to him like a person he seems to know, and he trusts her warning",
+                "C": "Cap'n Bones comes back to grab him again",
+                "D": "Annie takes the gold medallion away from him"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"Go back, Jack,\" she said. She sounded like a person.",
+                "Okay. It was definitely time to go."
+              ],
+              "rationale": "When Polly says his name and sounds like a person he seems to know, Jack decides it is definitely time to go, showing he trusts her.",
+              "id": "B4C8Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "Which statement best expresses a theme suggested by this chapter?",
+              "options": {
+                "A": "Riches are always worth any danger you must face to get them",
+                "B": "Sometimes you must let go of what you want and heed a warning to stay safe",
+                "C": "Pirates are the bravest people on the sea",
+                "D": "Storms only strike those who have done something wrong"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"Forget the treasure chest!\" said Annie. \"We have to go now! The storm's getting worse!\"",
+                "\"Go back, Jack,\" she said."
+              ],
+              "rationale": "Though Jack finds the treasure chest, the worsening storm and Polly's warning push him to leave it behind and get to safety, suggesting that heeding a warning matters more than greed.",
+              "id": "B4C8Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        },
+        {
+          "book": 4,
+          "chapter": 9,
+          "chapter_title": "The Mysterious M",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "When Jack opens his eyes at the start of the chapter, where are he and Annie?",
+              "options": {
+                "A": "Still on the pirates' ship",
+                "B": "Back in Frog Creek",
+                "C": "On the whale-shaped island",
+                "D": "Inside King Arthur's castle"
+              },
+              "answer": "B",
+              "evidence": [
+                "They were back in Frog Creek. The rain was softer. The wind was gentler."
+              ],
+              "rationale": "The text states plainly that they were back in Frog Creek, where the rain and wind were now gentle.",
+              "id": "B4C9Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Why does Annie feel sad right after they return home?",
+              "options": {
+                "A": "She lost the gold medallion in the sea",
+                "B": "She wishes Polly the parrot had come back with them",
+                "C": "She is angry that Jack kept the pirate book",
+                "D": "She did not get to dig up the treasure chest"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"Polly's gone,\" said Annie sadly. \"I was hoping she might come back with us.\""
+              ],
+              "rationale": "Annie is sad because Polly is gone and she had hoped the parrot would return home with them.",
+              "id": "B4C9Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "When Polly \"swooshed into the tree house\" and \"perched on the stack of books,\" what does perched mean?",
+              "options": {
+                "A": "Settled and rested on top of something",
+                "B": "Pecked angrily at something",
+                "C": "Flew away in fear",
+                "D": "Fell down onto the floor"
+              },
+              "answer": "A",
+              "evidence": [
+                "The parrot swooshed into the tree house. She perched on the stack of books."
+              ],
+              "rationale": "To perch means to settle and rest on top of something, which is what the parrot does on the stack of books.",
+              "id": "B4C9Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What surprising thing happens to Polly at the end of the chapter?",
+              "options": {
+                "A": "She flies back to the Caribbean island",
+                "B": "She turns into the gold medallion",
+                "C": "She changes from a parrot into an old woman named Morgan le Fay",
+                "D": "She leads Jack and Annie to the treasure chest"
+              },
+              "answer": "C",
+              "evidence": [
+                "Polly was not a parrot any longer. In her place was an old woman.",
+                "\"My name is Morgan le Fay.\""
+              ],
+              "rationale": "In a swirl of feathers and light, Polly transforms into an old woman who says her name is Morgan le Fay.",
+              "id": "B4C9Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which sentence best summarizes Chapter 9?",
+              "options": {
+                "A": "Jack and Annie arrive home to sunny Frog Creek and decide to keep the pirate treasure",
+                "B": "Back home in the rain, Jack and Annie put away the pirate book and wonder about the mysterious M, when Polly returns and changes into Morgan le Fay",
+                "C": "Jack and Annie sail back to the island to search for the letter M",
+                "D": "Polly the parrot flies off forever and never returns to the tree house"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"We didn't find any M's on this trip,\" he said.",
+                "Then, in a great swirl of colors—in a blur of feathers and light... a new being took shape."
+              ],
+              "rationale": "The chapter shows the children back home wondering about the M person, then witnessing Polly transform into Morgan le Fay.",
+              "id": "B4C9Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 4,
+          "chapter": 10,
+          "chapter_title": "Treasure Again",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Who does Morgan le Fay say she is?",
+              "options": {
+                "A": "A pirate queen from the Caribbean",
+                "B": "King Arthur's sister from Camelot",
+                "C": "Jack and Annie's grandmother",
+                "D": "The captain of the treasure ship"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"Well, I am King Arthur's sister,\" said Morgan.",
+                "\"You're from Camelot,\" said Jack."
+              ],
+              "rationale": "Morgan tells them she is King Arthur's sister, and Jack recognizes that she is from Camelot.",
+              "id": "B4C10Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 3,
+              "stem": "According to Morgan, what two reasons let Jack and Annie \"hook into\" her magic and use the tree house?",
+              "options": {
+                "A": "Annie is brave and Jack is strong",
+                "B": "Annie believes in magic and Jack loves books",
+                "C": "They both found the letter M and the medallion",
+                "D": "They were both born in Camelot long ago"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"First, Annie believes in magic. So she actually saw the tree house.\"",
+                "\"you picked up a book, Jack. And because you love books so much, you caused my magic spell to work.\""
+              ],
+              "rationale": "Morgan explains that Annie's belief in magic let her see the tree house, and Jack's love of books made the spell work.",
+              "id": "B4C10Q2",
+              "difficulty": "挑战"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 2,
+              "stem": "Morgan says, \"Most call me an enchantress. But I'm also a librarian.\" What is an enchantress?",
+              "options": {
+                "A": "A woman who uses magic or casts spells",
+                "B": "A woman who sails pirate ships",
+                "C": "A woman who paints pictures in books",
+                "D": "A woman who takes care of a garden"
+              },
+              "answer": "A",
+              "evidence": [
+                "\"Most call me an enchantress.\"",
+                "\"I placed a spell on the tree house,\" said Morgan."
+              ],
+              "rationale": "Morgan casts a spell on the tree house, showing that an enchantress is a woman who uses magic or casts spells.",
+              "id": "B4C10Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "After the tree house vanishes, Jack finds the gold medallion back in his pocket. What does Annie think this means?",
+              "options": {
+                "A": "That the medallion was fake all along",
+                "B": "That a pirate slipped it there",
+                "C": "That Morgan put it there and will be coming back",
+                "D": "That they never really left Frog Creek"
+              },
+              "answer": "C",
+              "evidence": [
+                "\"Morgan must have put it there,\" she said.",
+                "\"Magic,\" said Annie. \"I think it means she'll be coming back.\""
+              ],
+              "rationale": "Annie says Morgan must have placed the medallion in his pocket by magic, and takes it as a sign Morgan will return.",
+              "id": "B4C10Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Theme",
+              "dok": 3,
+              "stem": "The book ends with Jack thinking, \"Forget the treasure chest. They had treasure at home.\" What theme does this ending suggest?",
+              "options": {
+                "A": "Pirate gold is the greatest treasure of all",
+                "B": "The real treasure is the beauty and wonder of home and everyday life",
+                "C": "You should always keep searching for buried treasure",
+                "D": "Magic is more important than family"
+              },
+              "answer": "B",
+              "evidence": [
+                "Forget the treasure chest.",
+                "Leaves, branches, puddles, bushes, grass, vines, wild flowers—all glittered like jewels.\nOr gleamed like gold."
+              ],
+              "rationale": "As the ordinary woods sparkle like jewels and gold around him, Jack realizes the true treasure is the wonder of home, not the pirate chest.",
+              "id": "B4C10Q5",
+              "difficulty": "挑战"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
