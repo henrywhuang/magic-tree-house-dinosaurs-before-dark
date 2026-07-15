@@ -47,7 +47,7 @@ function audioPath(i=state.chapter,bookIndex=state.book){return BOOKS[bookIndex]
 function dataPath(i=state.chapter,bookIndex=state.book){return BOOKS[bookIndex].data(i)}
 function vocabularyPath(i=state.chapter,bookIndex=state.book){return `data/vocabulary-book-${String(bookIndex+1).padStart(2,'0')}-chapter-${String(i+1).padStart(2,'0')}.json`}
 function audioStart(){return Number.isFinite(state.words[0]?.start)?state.words[0].start:(currentBook().audioStarts[state.chapter]||0)}
-function hasVocabulary(bookIndex=state.book,chapterIndex=state.chapter){return bookIndex>=0&&bookIndex<BOOKS.length&&chapterIndex>=0&&chapterIndex<BOOKS[bookIndex].chapters.length}
+function hasVocabulary(bookIndex=state.book,chapterIndex=state.chapter){return bookIndex>=0&&bookIndex<3&&chapterIndex>=0&&chapterIndex<BOOKS[bookIndex].chapters.length}
 
 function pronunciationStatus(text,isError=false){const el=$('#pronunciationStatus');el.textContent=text;el.classList.toggle('error',isError)}
 function wordAudioPath(word){return `assets/audio/words/${encodeURIComponent(word.toLowerCase())}.mp3`}
@@ -70,7 +70,7 @@ pronunciationAudio.onerror=()=>finishTTS(true);
 function renderNav(){
   const book=currentBook();
   const tabs=`<div class="book-tabs">${BOOKS.map((item,i)=>`<button class="book-tab ${state.book===i?'active':''}" data-book="${i}"><strong>BOOK ${item.number}</strong><span>${item.cn}</span></button>`).join('')}</div><p class="book-nav-title">${book.title}<small>《${book.cn}》</small></p>`;
-  const chapters=book.chapters.map((title,i)=>{const result=quizStore[`${state.book}-${i}`];const practice=result?.completed?`练习 ${result.score}/5`:'章节练习';return `<div class="chapter-block"><button class="chapter-link ${state.view==='reader'&&state.chapter===i?'active':''}" data-chapter="${i}"><strong>${i+1}</strong><span>${title}</span><small>${state.completed.has(completionKey(i))?'✓ 已完成':'Chapter '+chapterRoman(i+1)}</small></button><button class="practice-link ${result?.completed?'complete':''}" data-practice="${i}">${practice}</button></div>`}).join('');
+  const chapters=book.chapters.map((title,i)=>{const result=quizStore[`${state.book}-${i}`];const practice=result?.completed?`练习 ${result.score}/5`:'章节练习';return `<div class="chapter-block"><button class="chapter-link ${state.view==='reader'&&state.chapter===i?'active':''}" data-chapter="${i}"><strong>${i+1}</strong><span>${title}</span><small>${state.completed.has(completionKey(i))?'✓ 已完成':'Chapter '+chapterRoman(i+1)}</small></button><div class="chapter-actions"><button class="practice-link ${result?.completed?'complete':''} ${state.view==='exercise'&&state.chapter===i?'active':''}" data-practice="${i}">${practice}</button><button class="vocabulary-link ${state.view==='vocabulary'&&state.chapter===i?'active':''}" data-vocabulary="${i}">词汇学习</button></div></div>`}).join('');
   els.nav.innerHTML=tabs+chapters;
 }
 function setView(view){state.view=view;els.home.classList.toggle('hidden',view!=='home');els.reader.classList.toggle('hidden',view!=='reader');els.exercise.classList.toggle('hidden',view!=='exercise');els.vocabulary.classList.toggle('hidden',view!=='vocabulary');els.debug.classList.toggle('hidden',view!=='debug');els.player.classList.toggle('hidden',view!=='reader');$('.home-link').classList.toggle('active',view==='home');closeMenu();renderNav();window.scrollTo({top:0,behavior:'smooth'})}
@@ -140,8 +140,11 @@ function coreVocabulary(){return state.vocabulary?.words?.filter(item=>item.tier
 function recognitionVocabulary(){return state.vocabulary?.words?.filter(item=>item.tier==='recognition')||[]}
 function freshVocabLesson(){return{screen:'preview',index:0,stage:'read',previewTier:'core',previewIndex:0,readResults:{},meaningResults:{},spellingResults:{},meaningChoice:null,meaningChecked:false,blendSlots:[],blendAttempted:false,blendSolved:false,spellingValue:'',spellingAttempts:0,spellingSolved:false}}
 function showVocabulary(reset=false){
-  if(!state.vocabulary?.words?.length)return;const book=currentBook();audio.pause();clearTTS();hideCard();if(reset||!state.vocabLesson)state.vocabLesson=freshVocabLesson();$('#vocabularyChapterMeta').textContent=`Book ${book.number} · Chapter ${state.chapter+1} · ${book.chapters[state.chapter]}`;setView('vocabulary');document.title=`第${state.chapter+1}章词汇学习 · ${book.cn}`;renderVocabulary();
+  const book=currentBook();audio.pause();clearTTS();hideCard();$('#vocabularyChapterMeta').textContent=`Book ${book.number} · Chapter ${state.chapter+1} · ${book.chapters[state.chapter]}`;setView('vocabulary');document.title=`第${state.chapter+1}章词汇学习 · ${book.cn}`;
+  if(!state.vocabulary?.words?.length){state.vocabLesson=null;$('#vocabularyContent').innerHTML=`<div class="pending-box"><span>📚</span><p>《${book.cn}》第 ${state.chapter+1} 章的词汇学习内容正在准备中。</p></div>`;return}
+  if(reset||!state.vocabLesson)state.vocabLesson=freshVocabLesson();renderVocabulary();
 }
+async function showChapterVocabulary(i,bookIndex=state.book){await openChapter(i,false,bookIndex);if(state.book===bookIndex&&state.chapter===i)showVocabulary(true)}
 function vocabAudioButton(item,type='word',className='vocab-audio'){const label=type==='sentence'?`播放 ${item.word} 的原文例句`:`播放单词 ${item.word}`;return `<button class="${className}" type="button" data-vocab-audio="${type}" data-vocab-id="${item.id}" aria-label="${escapeHTML(label)}">${type==='sentence'?'▸':'🔊'}</button>`}
 function focusAudioButton(item,type,label,icon){return `<button class="focus-audio-button" type="button" data-vocab-audio="${type}" data-vocab-id="${item.id}" aria-label="${escapeHTML(label+' '+item.word)}"><span>${icon}</span><b>${label}</b></button>`}
 function renderVocabulary(){
@@ -212,7 +215,7 @@ function openMenu(){els.sidebar.classList.add('open');els.scrim.classList.add('s
 
 $('#startButton').onclick=()=>openChapter(0,false,0);$('#brandButton').onclick=showHome;$('#backHome').onclick=showHome;$('#menuButton').onclick=openMenu;$('#closeMenu').onclick=closeMenu;els.scrim.onclick=closeMenu;$('.home-link').onclick=showHome;
 document.querySelector('.book-library').onclick=e=>{const button=e.target.closest('[data-book-start]');if(button)openChapter(0,false,+button.dataset.bookStart)};
-els.nav.onclick=e=>{const b=e.target.closest('[data-book]'),c=e.target.closest('[data-chapter]'),p=e.target.closest('[data-practice]');if(b){const index=+b.dataset.book;if(state.view==='home')setBook(index,false);else openChapter(0,false,index);return}if(c)openChapter(+c.dataset.chapter);if(p)showExercise(+p.dataset.practice)};
+els.nav.onclick=e=>{const b=e.target.closest('[data-book]'),c=e.target.closest('[data-chapter]'),p=e.target.closest('[data-practice]'),v=e.target.closest('[data-vocabulary]');if(b){const index=+b.dataset.book;if(state.view==='home')setBook(index,false);else openChapter(0,false,index);return}if(c){openChapter(+c.dataset.chapter);return}if(p){showExercise(+p.dataset.practice);return}if(v)showChapterVocabulary(+v.dataset.vocabulary)};
 $('#exerciseButton').onclick=()=>showExercise(state.chapter);$('#backToReading').onclick=()=>openChapter(state.chapter,true);$('#vocabularyButton').onclick=()=>showVocabulary();$('#backFromVocabulary').onclick=()=>openChapter(state.chapter,true,state.book);$('#playButton').onclick=()=>{hideCard();togglePlay()};
 $('#exerciseContent').onclick=e=>{const answer=e.target.closest('[data-answer]'),action=e.target.closest('[data-quiz-action]');if(answer&&state.quiz){const q=state.quiz.questions[state.quiz.index];if(!state.quiz.checked[q.id]){state.quiz.answers[q.id]=answer.dataset.answer;persistQuiz();renderQuiz()}}if(action)handleQuizAction(action.dataset.quizAction)};
 const vocabularyContent=$('#vocabularyContent');let suppressPhonicsClick=false,phonicsPointerDrag=null;
