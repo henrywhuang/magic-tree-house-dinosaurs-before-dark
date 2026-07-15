@@ -1,0 +1,272 @@
+{
+  "book": 4,
+  "chapter": 4,
+  "title": "Vile Booty",
+  "words": [
+    {
+      "id": "run",
+      "word": "run",
+      "forms": [
+        "run"
+      ],
+      "tier": "recognition",
+      "phonetic": "/rʌn/",
+      "partOfSpeech": "n.",
+      "meaning": "跑；赛跑",
+      "wordForms": "原文词形：run",
+      "sentence": "Jack started to run across the hot sand.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-04/run.mp3"
+    },
+    {
+      "id": "grabbed",
+      "word": "grabbed",
+      "forms": [
+        "grabbed"
+      ],
+      "tier": "core",
+      "phonetic": "/græb/",
+      "partOfSpeech": "n.",
+      "meaning": "抓握；掠夺",
+      "wordForms": "原文词形：grabbed",
+      "sentence": "Before Jack knew it, the biggest pirate had grabbed him!",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-04/grabbed.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "抓握；掠夺",
+        "yellow 黄色",
+        "肮脏的；卑鄙的"
+      ]
+    },
+    {
+      "id": "laugh",
+      "word": "laugh",
+      "forms": [
+        "laugh"
+      ],
+      "tier": "core",
+      "phonetic": "/lɑ:f/",
+      "partOfSpeech": "n.",
+      "meaning": "笑；笑声",
+      "wordForms": "原文词形：laugh",
+      "sentence": "He held on to Jack and laughed a mean, ugly laugh.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-04/laugh.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "au",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "笑；笑声",
+        "肮脏的；卑鄙的",
+        "抓握；掠夺"
+      ]
+    },
+    {
+      "id": "yelling",
+      "word": "yelling",
+      "forms": [
+        "yelling"
+      ],
+      "tier": "core",
+      "phonetic": "/jelɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "yellow 黄色",
+      "wordForms": "原文词形：yelling",
+      "sentence": "Jack heard Annie yelling.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-04/yelling.mp3",
+      "phonics": [
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "yellow 黄色",
+        "笑；笑声",
+        "踢；反冲"
+      ]
+    },
+    {
+      "id": "dirty",
+      "word": "dirty",
+      "forms": [
+        "dirty"
+      ],
+      "tier": "core",
+      "phonetic": "/'dә:ti/",
+      "partOfSpeech": "adj.",
+      "meaning": "肮脏的；卑鄙的",
+      "wordForms": "原文词形：dirty",
+      "sentence": "They were dirty and ragged.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-04/dirty.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "肮脏的；卑鄙的",
+        "抓握；掠夺",
+        "yellow 黄色"
+      ]
+    },
+    {
+      "id": "kicked",
+      "word": "kicked",
+      "forms": [
+        "kicked"
+      ],
+      "tier": "core",
+      "phonetic": "/kikt/",
+      "partOfSpeech": "n.",
+      "meaning": "踢；反冲",
+      "wordForms": "原文词形：kicked",
+      "sentence": "She hit the pirate with her fist andkicked him.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-04/kicked.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "踢；反冲",
+        "抓握；掠夺",
+        "笑；笑声"
+      ]
+    },
+    {
+      "id": "booty",
+      "word": "booty",
+      "forms": [
+        "booty"
+      ],
+      "tier": "core",
+      "phonetic": "/'bu:ti/",
+      "partOfSpeech": "n.",
+      "meaning": "战利品；获得之物",
+      "wordForms": "原文词形：booty",
+      "sentence": "\"That's $ \\underline{\\text{ville booty!",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-04/booty.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "战利品；获得之物",
+        "肮脏的；卑鄙的",
+        "yellow 黄色"
+      ]
+    }
+  ]
+}

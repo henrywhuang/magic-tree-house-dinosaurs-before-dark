@@ -1,0 +1,416 @@
+{
+  "book": 4,
+  "chapter": 6,
+  "title": "The Whale's Eye",
+  "words": [
+    {
+      "id": "seasick",
+      "word": "seasick",
+      "forms": [
+        "seasick"
+      ],
+      "tier": "core",
+      "phonetic": "/'si:sik/",
+      "partOfSpeech": "adj.",
+      "meaning": "晕船的",
+      "wordForms": "原文词形：seasick",
+      "sentence": "He felt seasick.\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-06/seasick.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "晕船的",
+        "喷口；从喷口流出的水",
+        "拳头；手"
+      ]
+    },
+    {
+      "id": "cut",
+      "word": "cut",
+      "forms": [
+        "cut"
+      ],
+      "tier": "recognition",
+      "phonetic": "/kʌt/",
+      "partOfSpeech": "n.",
+      "meaning": "切口；割伤",
+      "wordForms": "原文词形：cut",
+      "sentence": "Dark fins cut through the water.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-06/cut.mp3"
+    },
+    {
+      "id": "deck",
+      "word": "deck",
+      "forms": [
+        "deck"
+      ],
+      "tier": "core",
+      "phonetic": "/dek/",
+      "partOfSpeech": "n.",
+      "meaning": "甲板；行李仓",
+      "wordForms": "原文词形：deck",
+      "sentence": "Annie and Jack were hauled onto the deck.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-06/deck.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "甲板；行李仓",
+        "喷口；从喷口流出的水",
+        "小屋；客舱"
+      ]
+    },
+    {
+      "id": "dancing",
+      "word": "dancing",
+      "forms": [
+        "dancing"
+      ],
+      "tier": "core",
+      "phonetic": "/'dænsiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "非腐蚀性除污染剂",
+      "wordForms": "原文词形：dancing",
+      "sentence": "Some were dancing.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-06/dancing.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "非腐蚀性除污染剂",
+        "鲸",
+        "鲨鱼；骗子"
+      ]
+    },
+    {
+      "id": "fists",
+      "word": "fists",
+      "forms": [
+        "fists"
+      ],
+      "tier": "core",
+      "phonetic": "/fist/",
+      "partOfSpeech": "n.",
+      "meaning": "拳头；手",
+      "wordForms": "原文词形：fists",
+      "sentence": "Or with their fists.\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-06/fists.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "拳头；手",
+        "鲸",
+        "鲨鱼；骗子"
+      ]
+    },
+    {
+      "id": "cabin",
+      "word": "cabin",
+      "forms": [
+        "cabin"
+      ],
+      "tier": "core",
+      "phonetic": "/'kæbin/",
+      "partOfSpeech": "n.",
+      "meaning": "小屋；客舱",
+      "wordForms": "原文词形：cabin",
+      "sentence": "Lock 'em in my cabin!\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-06/cabin.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "小屋；客舱",
+        "拳头；手",
+        "[计] 改变；通道"
+      ]
+    },
+    {
+      "id": "tired",
+      "word": "tired",
+      "forms": [
+        "tired"
+      ],
+      "tier": "core",
+      "phonetic": "/taiәd/",
+      "partOfSpeech": "n.",
+      "meaning": "target illuminating radar 目标照射雷达；total indicator reading 总读数",
+      "wordForms": "原文词形：tired",
+      "sentence": "Jack suddenly felt tired.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-06/tired.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "target illuminating radar 目标照射雷达；total indicator reading 总读数",
+        "小屋；客舱",
+        "甲板；行李仓"
+      ]
+    },
+    {
+      "id": "chest",
+      "word": "chest",
+      "forms": [
+        "chest"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃest/",
+      "partOfSpeech": "n.",
+      "meaning": "[计] 改变；通道",
+      "wordForms": "原文词形：chest",
+      "sentence": "He found a picture of pirates burying a treasure chest.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-06/chest.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "est",
+          "sound": "/ɪst/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "[计] 改变；通道",
+        "非腐蚀性除污染剂",
+        "甲板；行李仓"
+      ]
+    },
+    {
+      "id": "whale",
+      "word": "whale",
+      "forms": [
+        "whale"
+      ],
+      "tier": "core",
+      "phonetic": "/hweil/",
+      "partOfSpeech": "n.",
+      "meaning": "鲸",
+      "wordForms": "原文词形：whale",
+      "sentence": "“A whale.”\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-06/whale.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鲸",
+        "晕船的",
+        "target illuminating radar 目标照射雷达；total indicator reading 总读数"
+      ]
+    },
+    {
+      "id": "shark",
+      "word": "shark",
+      "forms": [
+        "shark"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃɑ:k/",
+      "partOfSpeech": "n.",
+      "meaning": "鲨鱼；骗子",
+      "wordForms": "原文词形：shark",
+      "sentence": "And shark fins.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-06/shark.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鲨鱼；骗子",
+        "小屋；客舱",
+        "喷口；从喷口流出的水"
+      ]
+    },
+    {
+      "id": "spout",
+      "word": "spout",
+      "forms": [
+        "spout"
+      ],
+      "tier": "core",
+      "phonetic": "/spaut/",
+      "partOfSpeech": "n.",
+      "meaning": "喷口；从喷口流出的水",
+      "wordForms": "原文词形：spout",
+      "sentence": "See his spout?\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-06/spout.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "喷口；从喷口流出的水",
+        "小屋；客舱",
+        "[计] 改变；通道"
+      ]
+    }
+  ]
+}

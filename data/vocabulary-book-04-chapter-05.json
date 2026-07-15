@@ -1,0 +1,447 @@
+{
+  "book": 4,
+  "chapter": 5,
+  "title": "The Kid's Treasure",
+  "words": [
+    {
+      "id": "lost",
+      "word": "lost",
+      "forms": [
+        "lost"
+      ],
+      "tier": "core",
+      "phonetic": "/lɒst/",
+      "partOfSpeech": "adj.",
+      "meaning": "失去的；遗失的",
+      "wordForms": "原文词形：lost",
+      "sentence": "The gold-greedy pirates seemed to have lost their minds.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/lost.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "失去的；遗失的",
+        "在...下方",
+        "思想；愿望"
+      ]
+    },
+    {
+      "id": "minds",
+      "word": "minds",
+      "forms": [
+        "minds"
+      ],
+      "tier": "core",
+      "phonetic": "/maind/",
+      "partOfSpeech": "n.",
+      "meaning": "思想；愿望",
+      "wordForms": "原文词形：minds",
+      "sentence": "The gold-greedy pirates seemed to have lost their minds.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/minds.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "思想；愿望",
+        "失去的；遗失的",
+        "吼；咆哮"
+      ]
+    },
+    {
+      "id": "pistols",
+      "word": "pistols",
+      "forms": [
+        "pistols"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈpistlz/",
+      "partOfSpeech": "n.",
+      "meaning": "手枪；信号枪",
+      "wordForms": "原文词形：pistols",
+      "sentence": "He aimed his pistols at them.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/pistols.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "手枪；信号枪",
+        "吼；咆哮",
+        "宝物；财富"
+      ]
+    },
+    {
+      "id": "rest",
+      "word": "rest",
+      "forms": [
+        "rest"
+      ],
+      "tier": "recognition",
+      "phonetic": "/rest/",
+      "partOfSpeech": "n.",
+      "meaning": "休息；睡眠",
+      "wordForms": "原文词形：rest",
+      "sentence": "\"Tell old Bones where the rest is,\" he growled.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/rest.mp3"
+    },
+    {
+      "id": "treasure",
+      "word": "treasure",
+      "forms": [
+        "treasure"
+      ],
+      "tier": "core",
+      "phonetic": "/'treʒә/",
+      "partOfSpeech": "n.",
+      "meaning": "宝物；财富",
+      "wordForms": "原文词形：treasure",
+      "sentence": "“The rest of the treasure!”",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/treasure.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "宝物；财富",
+        "失去的；遗失的",
+        "手枪；信号枪"
+      ]
+    },
+    {
+      "id": "roared",
+      "word": "roared",
+      "forms": [
+        "roared"
+      ],
+      "tier": "core",
+      "phonetic": "/rɔ:d/",
+      "partOfSpeech": "n.",
+      "meaning": "吼；咆哮",
+      "wordForms": "原文词形：roared",
+      "sentence": "roared Cap'n Bones.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/roared.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "吼；咆哮",
+        "手枪；信号枪",
+        "失去的；遗失的"
+      ]
+    },
+    {
+      "id": "island",
+      "word": "island",
+      "forms": [
+        "island"
+      ],
+      "tier": "core",
+      "phonetic": "/'ailәnd/",
+      "partOfSpeech": "n.",
+      "meaning": "岛；岛屿",
+      "wordForms": "原文词形：island",
+      "sentence": "“I know it’s on this island.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/island.mp3",
+      "phonics": [
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "岛；岛屿",
+        "手枪；信号枪",
+        "读；阅读"
+      ]
+    },
+    {
+      "id": "map",
+      "word": "map",
+      "forms": [
+        "map"
+      ],
+      "tier": "recognition",
+      "phonetic": "/mæp/",
+      "partOfSpeech": "n.",
+      "meaning": "地图；天体图",
+      "wordForms": "原文词形：map",
+      "sentence": "I have a map!”",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/map.mp3"
+    },
+    {
+      "id": "kids",
+      "word": "kid's",
+      "forms": [
+        "kid's"
+      ],
+      "tier": "recognition",
+      "phonetic": "/kɪdz/",
+      "partOfSpeech": "",
+      "meaning": "小孩的；（此处指海盗基德 Kidd 的）",
+      "wordForms": "原文词形：kid's",
+      "sentence": "Which kid's treasure?",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/kids.mp3"
+    },
+    {
+      "id": "read",
+      "word": "read",
+      "forms": [
+        "read"
+      ],
+      "tier": "core",
+      "phonetic": "/ri:d/",
+      "partOfSpeech": "v.",
+      "meaning": "读；阅读",
+      "wordForms": "原文词形：read",
+      "sentence": "Why don't you read the map?\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/read.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "读；阅读",
+        "手枪；信号枪",
+        "[医] 路布"
+      ]
+    },
+    {
+      "id": "beneath",
+      "word": "beneath",
+      "forms": [
+        "beneath"
+      ],
+      "tier": "core",
+      "phonetic": "/bi'ni:θ/",
+      "partOfSpeech": "prep.",
+      "meaning": "在...下方",
+      "wordForms": "原文词形：beneath",
+      "sentence": "The gold doth lie beneath the whale's eye.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/beneath.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "在...下方",
+        "失去的；遗失的",
+        "思想；愿望"
+      ]
+    },
+    {
+      "id": "lubber",
+      "word": "lubber",
+      "forms": [
+        "lubber"
+      ],
+      "tier": "core",
+      "phonetic": "/'lʌbә/",
+      "partOfSpeech": "adj.",
+      "meaning": "[医] 路布",
+      "wordForms": "原文词形：lubber",
+      "sentence": "\"Aye, lubber.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/lubber.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "[医] 路布",
+        "失去的；遗失的",
+        "宝物；财富"
+      ]
+    },
+    {
+      "id": "row",
+      "word": "Row",
+      "forms": [
+        "Row"
+      ],
+      "tier": "recognition",
+      "phonetic": "/rәu. rau/",
+      "partOfSpeech": "n.",
+      "meaning": "排；行",
+      "wordForms": "原文词形：Row",
+      "sentence": "Row, dogs, row!\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-05/row.mp3"
+    }
+  ]
+}

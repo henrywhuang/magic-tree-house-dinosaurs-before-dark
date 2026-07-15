@@ -1,0 +1,392 @@
+{
+  "book": 4,
+  "chapter": 10,
+  "title": "Treasure Again",
+  "words": [
+    {
+      "id": "about",
+      "word": "about",
+      "forms": [
+        "about"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ә'baut/",
+      "partOfSpeech": "prep.",
+      "meaning": "在...周围；大约",
+      "wordForms": "原文词形：about",
+      "sentence": "“I’ve read about Camelot.”",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-10/about.mp3"
+    },
+    {
+      "id": "witch",
+      "word": "witch",
+      "forms": [
+        "witch"
+      ],
+      "tier": "core",
+      "phonetic": "/witʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "巫婆；女巫",
+      "wordForms": "原文词形：witch",
+      "sentence": "You—you're a witch.\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-10/witch.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "巫婆；女巫",
+        "妖妇；女巫",
+        "魔术家；幻术家"
+      ]
+    },
+    {
+      "id": "magician",
+      "word": "magician",
+      "forms": [
+        "magician"
+      ],
+      "tier": "core",
+      "phonetic": "/mә'dʒiʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "魔术家；幻术家",
+      "wordForms": "原文词形：magician",
+      "sentence": "“But are you a magician?”",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-10/magician.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "魔术家；幻术家",
+        "图书馆员；图书管理员",
+        "沮丧"
+      ]
+    },
+    {
+      "id": "enchantress",
+      "word": "enchantress",
+      "forms": [
+        "enchantress"
+      ],
+      "tier": "core",
+      "phonetic": "/in'tʃæntris/",
+      "partOfSpeech": "n.",
+      "meaning": "妖妇；女巫",
+      "wordForms": "原文词形：enchantress",
+      "sentence": "Most call me an enchantress.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-10/enchantress.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "妖妇；女巫",
+        "沮丧",
+        "巫婆；女巫"
+      ]
+    },
+    {
+      "id": "also",
+      "word": "also",
+      "forms": [
+        "also"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'ɒ:lsәu/",
+      "partOfSpeech": "adv.",
+      "meaning": "也；并且",
+      "wordForms": "原文词形：also",
+      "sentence": "But I'm also alibrarian,\" said Morgan.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-10/also.mp3"
+    },
+    {
+      "id": "librarian",
+      "word": "librarian",
+      "forms": [
+        "librarian"
+      ],
+      "tier": "core",
+      "phonetic": "/lai'brєәriәn/",
+      "partOfSpeech": "n.",
+      "meaning": "图书馆员；图书管理员",
+      "wordForms": "原文词形：librarian",
+      "sentence": "But I'm also alibrarian,\" said Morgan.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-10/librarian.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "图书馆员；图书管理员",
+        "魔术家；幻术家",
+        "妖妇；女巫"
+      ]
+    },
+    {
+      "id": "collect",
+      "word": "collect",
+      "forms": [
+        "collect"
+      ],
+      "tier": "core",
+      "phonetic": "/kә'lekt/",
+      "partOfSpeech": "v.",
+      "meaning": "收集；聚集",
+      "wordForms": "原文词形：collect",
+      "sentence": "And I’ve come to the 20th century, your time, to collect books.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-10/collect.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ct",
+          "sound": "/ct/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "收集；聚集",
+        "妖妇；女巫",
+        "旅行；游历"
+      ]
+    },
+    {
+      "id": "travel",
+      "word": "travel",
+      "forms": [
+        "travel"
+      ],
+      "tier": "core",
+      "phonetic": "/'trævl/",
+      "partOfSpeech": "n.",
+      "meaning": "旅行；游历",
+      "wordForms": "原文词形：travel",
+      "sentence": "“I travel in this tree house to collect words from many different places around the world.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-10/travel.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "旅行；游历",
+        "巫婆；女巫",
+        "魔术家；幻术家"
+      ]
+    },
+    {
+      "id": "dismay",
+      "word": "dismay",
+      "forms": [
+        "dismay"
+      ],
+      "tier": "core",
+      "phonetic": "/dis'mei/",
+      "partOfSpeech": "n.",
+      "meaning": "沮丧",
+      "wordForms": "原文词形：dismay",
+      "sentence": "“You can’t imagine my dismay when you started to take off for dinosaur times.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-10/dismay.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sm",
+          "sound": "/sm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "沮丧",
+        "图书馆员；图书管理员",
+        "魔术家；幻术家"
+      ]
+    }
+  ]
+}

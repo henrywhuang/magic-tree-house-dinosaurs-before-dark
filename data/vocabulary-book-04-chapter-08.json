@@ -1,0 +1,338 @@
+{
+  "book": 4,
+  "chapter": 8,
+  "title": "Dig, Dogs, Dig",
+  "words": [
+    {
+      "id": "dig",
+      "word": "dig",
+      "forms": [
+        "dig"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dig/",
+      "partOfSpeech": "v.",
+      "meaning": "挖；翻土",
+      "wordForms": "原文词形：dig",
+      "sentence": "“Now let's dig where the rock was,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-08/dig.mp3"
+    },
+    {
+      "id": "thunderstorm",
+      "word": "thunderstorm",
+      "forms": [
+        "thunderstorm"
+      ],
+      "tier": "core",
+      "phonetic": "/'θʌndәstɒ:m/",
+      "partOfSpeech": "n.",
+      "meaning": "雷暴雨",
+      "wordForms": "原文词形：thunderstorm",
+      "sentence": "There was going to be a thunderstorm.\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-08/thunderstorm.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "雷暴雨",
+        "孔；洞",
+        "预兆；前兆"
+      ]
+    },
+    {
+      "id": "hurts",
+      "word": "hurts",
+      "forms": [
+        "hurts"
+      ],
+      "tier": "core",
+      "phonetic": "/hә:t/",
+      "partOfSpeech": "n.",
+      "meaning": "伤害；创伤",
+      "wordForms": "原文词形：hurts",
+      "sentence": "Me back hurts!\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-08/hurts.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "伤害；创伤",
+        "预兆；前兆",
+        "孔；洞"
+      ]
+    },
+    {
+      "id": "hole",
+      "word": "hole",
+      "forms": [
+        "hole"
+      ],
+      "tier": "core",
+      "phonetic": "/hәul/",
+      "partOfSpeech": "n.",
+      "meaning": "孔；洞",
+      "wordForms": "原文词形：hole",
+      "sentence": "It fell into the hole.\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-08/hole.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "孔；洞",
+        "雨滴；雨点",
+        "雷暴雨"
+      ]
+    },
+    {
+      "id": "circling",
+      "word": "circling",
+      "forms": [
+        "circling"
+      ],
+      "tier": "core",
+      "phonetic": "/'sә:kliŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "圆周；社交圈",
+      "wordForms": "原文词形：circling",
+      "sentence": "She was circling above them!",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-08/circling.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "圆周；社交圈",
+        "伤害；创伤",
+        "刷子；毛笔"
+      ]
+    },
+    {
+      "id": "omen",
+      "word": "omen",
+      "forms": [
+        "omen"
+      ],
+      "tier": "core",
+      "phonetic": "/'әumәn/",
+      "partOfSpeech": "n.",
+      "meaning": "预兆；前兆",
+      "wordForms": "原文词形：omen",
+      "sentence": "The bird's an omen, Cap'n!\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-08/omen.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "预兆；前兆",
+        "刷子；毛笔",
+        "伤害；创伤"
+      ]
+    },
+    {
+      "id": "raindrops",
+      "word": "raindrops",
+      "forms": [
+        "raindrops"
+      ],
+      "tier": "core",
+      "phonetic": "/'reɪndrɒps/",
+      "partOfSpeech": "n.",
+      "meaning": "雨滴；雨点",
+      "wordForms": "原文词形：raindrops",
+      "sentence": "Big, fat raindrops were falling into the hole, washing away the sand.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-08/raindrops.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "雨滴；雨点",
+        "雷暴雨",
+        "刷子；毛笔"
+      ]
+    },
+    {
+      "id": "brushed",
+      "word": "brushed",
+      "forms": [
+        "brushed"
+      ],
+      "tier": "core",
+      "phonetic": "/brʌʃt/",
+      "partOfSpeech": "n.",
+      "meaning": "刷子；毛笔",
+      "wordForms": "原文词形：brushed",
+      "sentence": "He brushed the rest of the muddy sand off the chest.\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-08/brushed.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "刷子；毛笔",
+        "孔；洞",
+        "雨滴；雨点"
+      ]
+    }
+  ]
+}

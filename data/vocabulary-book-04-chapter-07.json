@@ -1,0 +1,406 @@
+{
+  "book": 4,
+  "chapter": 7,
+  "title": "Gale's a-Blowin'",
+  "words": [
+    {
+      "id": "rock",
+      "word": "rock",
+      "forms": [
+        "rock"
+      ],
+      "tier": "core",
+      "phonetic": "/rɒk/",
+      "partOfSpeech": "n.",
+      "meaning": "岩石；岩礁",
+      "wordForms": "原文词形：rock",
+      "sentence": "\"So the treasure must be under that rock,\" said Annie.\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-07/rock.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "岩石；岩礁",
+        "今天；当今",
+        "投；掷"
+      ]
+    },
+    {
+      "id": "ugly",
+      "word": "ugly",
+      "forms": [
+        "ugly"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʌgli/",
+      "partOfSpeech": "adj.",
+      "meaning": "地下",
+      "wordForms": "原文词形：ugly",
+      "sentence": "Cap'n Bones stuck his ugly face through the window.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-07/ugly.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "地下",
+        "今天；当今",
+        "露齿笑"
+      ]
+    },
+    {
+      "id": "growled",
+      "word": "growled",
+      "forms": [
+        "growled"
+      ],
+      "tier": "core",
+      "phonetic": "/ɡrauld/",
+      "partOfSpeech": "n.",
+      "meaning": "吠声；咆哮声",
+      "wordForms": "原文词形：growled",
+      "sentence": "“Go ahead,” growled Cap'n Bones.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-07/growled.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "吠声；咆哮声",
+        "铲；铁铲",
+        "风；气息"
+      ]
+    },
+    {
+      "id": "shovels",
+      "word": "shovels",
+      "forms": [
+        "shovels"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈʃʌvlz/",
+      "partOfSpeech": "n.",
+      "meaning": "铲；铁铲",
+      "wordForms": "原文词形：shovels",
+      "sentence": "And shovels,\" said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-07/shovels.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "铲；铁铲",
+        "云；阴暗",
+        "地下"
+      ]
+    },
+    {
+      "id": "throw",
+      "word": "throw",
+      "forms": [
+        "throw"
+      ],
+      "tier": "core",
+      "phonetic": "/θrәu/",
+      "partOfSpeech": "v.",
+      "meaning": "投；掷",
+      "wordForms": "原文词形：throw",
+      "sentence": "“Then throw these lubbers in the boat!",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-07/throw.mp3",
+      "phonics": [
+        {
+          "letters": "thr",
+          "sound": "/θr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "投；掷",
+        "云；阴暗",
+        "风；气息"
+      ]
+    },
+    {
+      "id": "clouds",
+      "word": "clouds",
+      "forms": [
+        "clouds"
+      ],
+      "tier": "core",
+      "phonetic": "/klaud/",
+      "partOfSpeech": "n.",
+      "meaning": "云；阴暗",
+      "wordForms": "原文词形：clouds",
+      "sentence": "Back in the rowboat, Jack saw the sky had grown even darker with clouds.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-07/clouds.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "云；阴暗",
+        "岩石；岩礁",
+        "海岸；海滨"
+      ]
+    },
+    {
+      "id": "wind",
+      "word": "wind",
+      "forms": [
+        "wind"
+      ],
+      "tier": "core",
+      "phonetic": "/wind/",
+      "partOfSpeech": "n.",
+      "meaning": "风；气息",
+      "wordForms": "原文词形：wind",
+      "sentence": "The wind was howling.\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-07/wind.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "风；气息",
+        "海岸；海滨",
+        "露齿笑"
+      ]
+    },
+    {
+      "id": "gales",
+      "word": "Gale's",
+      "forms": [
+        "Gale's"
+      ],
+      "tier": "recognition",
+      "phonetic": "/geɪlz/",
+      "partOfSpeech": "",
+      "meaning": "大风的；狂风的",
+      "wordForms": "原文词形：Gale's",
+      "sentence": "Gale's a-blowin'!\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-07/gales.mp3"
+    },
+    {
+      "id": "today",
+      "word": "today",
+      "forms": [
+        "today"
+      ],
+      "tier": "core",
+      "phonetic": "/tә'dei/",
+      "partOfSpeech": "n.",
+      "meaning": "今天；当今",
+      "wordForms": "原文词形：today",
+      "sentence": "“You’ll see a gale if I don’t get me gold today, by thunder!”",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-07/today.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "今天；当今",
+        "云；阴暗",
+        "海岸；海滨"
+      ]
+    },
+    {
+      "id": "shore",
+      "word": "shore",
+      "forms": [
+        "shore"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃɒ:/",
+      "partOfSpeech": "n.",
+      "meaning": "海岸；海滨",
+      "wordForms": "原文词形：shore",
+      "sentence": "They all piled onto the shore.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-07/shore.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "海岸；海滨",
+        "铲；铁铲",
+        "云；阴暗"
+      ]
+    },
+    {
+      "id": "grin",
+      "word": "grin",
+      "forms": [
+        "grin"
+      ],
+      "tier": "core",
+      "phonetic": "/grin/",
+      "partOfSpeech": "n.",
+      "meaning": "露齿笑",
+      "wordForms": "原文词形：grin",
+      "sentence": "Cap'n Bones gave Jack a horrible grin.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-07/grin.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "露齿笑",
+        "吠声；咆哮声",
+        "岩石；岩礁"
+      ]
+    }
+  ]
+}

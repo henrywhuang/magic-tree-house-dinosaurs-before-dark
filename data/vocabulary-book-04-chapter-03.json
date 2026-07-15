@@ -1,0 +1,360 @@
+{
+  "book": 4,
+  "chapter": 3,
+  "title": "Three Men in a Boat",
+  "words": [
+    {
+      "id": "ship",
+      "word": "ship",
+      "forms": [
+        "ship"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃip/",
+      "partOfSpeech": "n.",
+      "meaning": "船；舰",
+      "wordForms": "原文词形：ship",
+      "sentence": "Jack flipped to the picture that showed the parrot,the sea and the ship.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-03/ship.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "船；舰",
+        "膝；膝盖",
+        "波；波浪"
+      ]
+    },
+    {
+      "id": "spanish",
+      "word": "Spanish",
+      "forms": [
+        "Spanish"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'spæniʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "西班牙人；西班牙语",
+      "wordForms": "原文词形：Spanish",
+      "sentence": "He read the caption under the picture:Three hundred years ago, pirates raided Spanish treasure ships in the Caribbean Sea.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-03/spanish.mp3"
+    },
+    {
+      "id": "pirate",
+      "word": "pirate",
+      "forms": [
+        "pirate"
+      ],
+      "tier": "core",
+      "phonetic": "/'paiәrәt/",
+      "partOfSpeech": "n.",
+      "meaning": "海盗；盗印者",
+      "wordForms": "原文词形：pirate",
+      "sentence": "There was a picture of a pirate flag.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-03/pirate.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "海盗；盗印者",
+        "膝；膝盖",
+        "船；舰"
+      ]
+    },
+    {
+      "id": "flag",
+      "word": "flag",
+      "forms": [
+        "flag"
+      ],
+      "tier": "core",
+      "phonetic": "/flæg/",
+      "partOfSpeech": "n.",
+      "meaning": "标志；旗标",
+      "wordForms": "原文词形：flag",
+      "sentence": "There was a picture of a pirate flag.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-03/flag.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "标志；旗标",
+        "刀子",
+        "波；波浪"
+      ]
+    },
+    {
+      "id": "jolly",
+      "word": "Jolly",
+      "forms": [
+        "Jolly"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'dʒɒli/",
+      "partOfSpeech": "adj.",
+      "meaning": "<阿拉伯>n.荒芜碎裂的石灰岩高地",
+      "wordForms": "原文词形：Jolly",
+      "sentence": "He read:The skull-and-crossbones flag was called the Jolly Roger.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-03/jolly.mp3"
+    },
+    {
+      "id": "roger",
+      "word": "Roger",
+      "forms": [
+        "Roger"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'rɔdʒә/",
+      "partOfSpeech": "n.",
+      "meaning": "（Jolly Roger）海盗旗",
+      "wordForms": "原文词形：Roger",
+      "sentence": "He read:The skull-and-crossbones flag was called the Jolly Roger.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-03/roger.mp3"
+    },
+    {
+      "id": "rowboat",
+      "word": "rowboat",
+      "forms": [
+        "rowboat"
+      ],
+      "tier": "core",
+      "phonetic": "/'rәubәut/",
+      "partOfSpeech": "n.",
+      "meaning": "划艇",
+      "wordForms": "原文词形：rowboat",
+      "sentence": "Jack, some pirates are getting into a rowboat,\" said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-03/rowboat.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "划艇",
+        "刀子",
+        "标志；旗标"
+      ]
+    },
+    {
+      "id": "knees",
+      "word": "knees",
+      "forms": [
+        "knees"
+      ],
+      "tier": "core",
+      "phonetic": "/ni:z/",
+      "partOfSpeech": "n.",
+      "meaning": "膝；膝盖",
+      "wordForms": "原文词形：knees",
+      "sentence": "Jack went down on his knees.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-03/knees.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "膝；膝盖",
+        "标志；旗标",
+        "刀子"
+      ]
+    },
+    {
+      "id": "man",
+      "word": "man",
+      "forms": [
+        "man"
+      ],
+      "tier": "recognition",
+      "phonetic": "/mæn/",
+      "partOfSpeech": "n.",
+      "meaning": "男人；人类",
+      "wordForms": "原文词形：man",
+      "sentence": "Oh man, I forgot the book!\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-03/man.mp3"
+    },
+    {
+      "id": "wave",
+      "word": "wave",
+      "forms": [
+        "wave"
+      ],
+      "tier": "core",
+      "phonetic": "/weiv/",
+      "partOfSpeech": "n.",
+      "meaning": "波；波浪",
+      "wordForms": "原文词形：wave",
+      "sentence": "Suddenly a giant wave carried the rowboat right onto the beach.\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-03/wave.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "波；波浪",
+        "船；舰",
+        "刀子"
+      ]
+    },
+    {
+      "id": "knives",
+      "word": "knives",
+      "forms": [
+        "knives"
+      ],
+      "tier": "core",
+      "phonetic": "/naivz/",
+      "partOfSpeech": "n.",
+      "meaning": "刀子",
+      "wordForms": "原文词形：knives",
+      "sentence": "They had knives in their teeth.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-03/knives.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "刀子",
+        "海盗；盗印者",
+        "标志；旗标"
+      ]
+    }
+  ]
+}

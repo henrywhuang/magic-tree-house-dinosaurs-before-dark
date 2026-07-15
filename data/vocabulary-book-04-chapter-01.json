@@ -1,0 +1,446 @@
+{
+  "book": 4,
+  "chapter": 1,
+  "title": "Too Late!",
+  "words": [
+    {
+      "id": "bedroom",
+      "word": "bedroom",
+      "forms": [
+        "bedroom"
+      ],
+      "tier": "core",
+      "phonetic": "/'bedrum/",
+      "partOfSpeech": "n.",
+      "meaning": "卧室",
+      "wordForms": "原文词形：bedroom",
+      "sentence": "Jack stared out his bedroom window.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-01/bedroom.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "卧室",
+        "舒适的；安逸的",
+        "[人名] 利思"
+      ]
+    },
+    {
+      "id": "rain",
+      "word": "rain",
+      "forms": [
+        "rain"
+      ],
+      "tier": "core",
+      "phonetic": "/rein/",
+      "partOfSpeech": "n.",
+      "meaning": "雨；下雨",
+      "wordForms": "原文词形：rain",
+      "sentence": "The rain kept falling.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-01/rain.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "雨；下雨",
+        "暴风雨的；粗暴的",
+        "雨衣"
+      ]
+    },
+    {
+      "id": "falling",
+      "word": "falling",
+      "forms": [
+        "falling"
+      ],
+      "tier": "core",
+      "phonetic": "/'fɒ:liŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "人名；法尔",
+      "wordForms": "原文词形：falling",
+      "sentence": "The rain kept falling.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-01/falling.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "人名；法尔",
+        "雨；下雨",
+        "卧室"
+      ]
+    },
+    {
+      "id": "boots",
+      "word": "boots",
+      "forms": [
+        "boots"
+      ],
+      "tier": "core",
+      "phonetic": "/bu:ts/",
+      "partOfSpeech": "n.",
+      "meaning": "长靴；踢",
+      "wordForms": "原文词形：boots",
+      "sentence": "\"You get our raincoats and boots.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-01/boots.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "长靴；踢",
+        "雨衣",
+        "鹦鹉；应声虫"
+      ]
+    },
+    {
+      "id": "leather",
+      "word": "leather",
+      "forms": [
+        "leather"
+      ],
+      "tier": "core",
+      "phonetic": "/'leðә/",
+      "partOfSpeech": "n.",
+      "meaning": "[人名] 利思",
+      "wordForms": "原文词形：leather",
+      "sentence": "It was made of blue leather.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-01/leather.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "[人名] 利思",
+        "卧室",
+        "人名；法尔"
+      ]
+    },
+    {
+      "id": "raincoat",
+      "word": "raincoat",
+      "forms": [
+        "raincoat"
+      ],
+      "tier": "core",
+      "phonetic": "/'reinkәut/",
+      "partOfSpeech": "n.",
+      "meaning": "雨衣",
+      "wordForms": "原文词形：raincoat",
+      "sentence": "Jack pulled on his raincoat and boots.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-01/raincoat.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "雨衣",
+        "雨；下雨",
+        "[人名] 利思"
+      ]
+    },
+    {
+      "id": "stormy",
+      "word": "stormy",
+      "forms": [
+        "stormy"
+      ],
+      "tier": "core",
+      "phonetic": "/'stɒ:mi/",
+      "partOfSpeech": "adj.",
+      "meaning": "暴风雨的；粗暴的",
+      "wordForms": "原文词形：stormy",
+      "sentence": "It looked dark and lonely against the stormy sky.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-01/stormy.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "暴风雨的；粗暴的",
+        "舒适的；安逸的",
+        "人名；法尔"
+      ]
+    },
+    {
+      "id": "stack",
+      "word": "stack",
+      "forms": [
+        "stack"
+      ],
+      "tier": "core",
+      "phonetic": "/stæk/",
+      "partOfSpeech": "n.",
+      "meaning": "堆叠；堆",
+      "wordForms": "原文词形：stack",
+      "sentence": "Annie picked up a castle book on top of one stack.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-01/stack.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "堆叠；堆",
+        "鹦鹉；应声虫",
+        "人名；法尔"
+      ]
+    },
+    {
+      "id": "cozy",
+      "word": "cozy",
+      "forms": [
+        "cozy"
+      ],
+      "tier": "core",
+      "phonetic": "/'kәuzi/",
+      "partOfSpeech": "adj.",
+      "meaning": "舒适的；安逸的",
+      "wordForms": "原文词形：cozy",
+      "sentence": "“It’s not very cozy today.”",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-01/cozy.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "舒适的；安逸的",
+        "人名；法尔",
+        "鹦鹉；应声虫"
+      ]
+    },
+    {
+      "id": "parrot",
+      "word": "parrot",
+      "forms": [
+        "parrot"
+      ],
+      "tier": "core",
+      "phonetic": "/'pærәt/",
+      "partOfSpeech": "n.",
+      "meaning": "鹦鹉；应声虫",
+      "wordForms": "原文词形：parrot",
+      "sentence": "A big green parrot sittingin a palm tree.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-01/parrot.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鹦鹉；应声虫",
+        "堆叠；堆",
+        "雨衣"
+      ]
+    },
+    {
+      "id": "late",
+      "word": "late",
+      "forms": [
+        "late"
+      ],
+      "tier": "recognition",
+      "phonetic": "/leit/",
+      "partOfSpeech": "adj.",
+      "meaning": "迟的；晚的",
+      "wordForms": "原文词形：late",
+      "sentence": "“Too late!”",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-01/late.mp3"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "book": 4,
+  "chapter": 9,
+  "title": "The Mysterious M",
+  "words": [
+    {
+      "id": "drip",
+      "word": "Drip",
+      "forms": [
+        "Drip"
+      ],
+      "tier": "core",
+      "phonetic": "/drip/",
+      "partOfSpeech": "n.",
+      "meaning": "水滴",
+      "wordForms": "原文词形：Drip",
+      "sentence": "Drip, drip.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-09/drip.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "水滴",
+        "岬；海角",
+        "翅膀；翼"
+      ]
+    },
+    {
+      "id": "with",
+      "word": "with",
+      "forms": [
+        "with"
+      ],
+      "tier": "recognition",
+      "phonetic": "/wið/",
+      "partOfSpeech": "prep.",
+      "meaning": "和...在一起；以",
+      "wordForms": "原文词形：with",
+      "sentence": "\"I was hoping she might come back with us.\"\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-09/with.mp3"
+    },
+    {
+      "id": "creature",
+      "word": "creature",
+      "forms": [
+        "creature"
+      ],
+      "tier": "core",
+      "phonetic": "/'kri:tʃә/",
+      "partOfSpeech": "n.",
+      "meaning": "人；动物",
+      "wordForms": "原文词形：creature",
+      "sentence": "No magic creature has ever come back with us,\" said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-09/creature.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ture",
+          "sound": "/tʃər/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "人；动物",
+        "翅膀；翼",
+        "岬；海角"
+      ]
+    },
+    {
+      "id": "damp",
+      "word": "damp",
+      "forms": [
+        "damp"
+      ],
+      "tier": "core",
+      "phonetic": "/dæmp/",
+      "partOfSpeech": "n.",
+      "meaning": "潮湿；湿气",
+      "wordForms": "原文词形：damp",
+      "sentence": "It was damp with rain and saltwater.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-09/damp.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "潮湿；湿气",
+        "翅膀；翼",
+        "刺穿；穿透"
+      ]
+    },
+    {
+      "id": "perched",
+      "word": "perched",
+      "forms": [
+        "perched"
+      ],
+      "tier": "core",
+      "phonetic": "/pɜ:tʃt/",
+      "partOfSpeech": "n.",
+      "meaning": "栖木；高位",
+      "wordForms": "原文词形：perched",
+      "sentence": "She perched on the stack of books.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-09/perched.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "栖木；高位",
+        "刺穿；穿透",
+        "名字；名称"
+      ]
+    },
+    {
+      "id": "wings",
+      "word": "wings",
+      "forms": [
+        "wings"
+      ],
+      "tier": "core",
+      "phonetic": "/wiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "翅膀；翼",
+      "wordForms": "原文词形：wings",
+      "sentence": "Slowly Polly raised her bright green wings.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-09/wings.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "翅膀；翼",
+        "名字；名称",
+        "水滴"
+      ]
+    },
+    {
+      "id": "cape",
+      "word": "cape",
+      "forms": [
+        "cape"
+      ],
+      "tier": "core",
+      "phonetic": "/keip/",
+      "partOfSpeech": "n.",
+      "meaning": "岬；海角",
+      "wordForms": "原文词形：cape",
+      "sentence": "They grew bigger and bigger until they spread out like a huge green cape.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-09/cape.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "岬；海角",
+        "翅膀；翼",
+        "栖木；高位"
+      ]
+    },
+    {
+      "id": "new",
+      "word": "new",
+      "forms": [
+        "new"
+      ],
+      "tier": "recognition",
+      "phonetic": "/nju:/",
+      "partOfSpeech": "adj.",
+      "meaning": "新的；陌生的",
+      "wordForms": "原文词形：new",
+      "sentence": "Then, in a great swirl of colors—in a blur of feathers and light—in a flapping and stretching andscreeching—a new being took shape.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-09/new.mp3"
+    },
+    {
+      "id": "piercing",
+      "word": "piercing",
+      "forms": [
+        "piercing"
+      ],
+      "tier": "core",
+      "phonetic": "/'piәsiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "刺穿；穿透",
+      "wordForms": "原文词形：piercing",
+      "sentence": "A beautiful old woman with long white hair and piercing eyes.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-09/piercing.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "刺穿；穿透",
+        "水滴",
+        "翅膀；翼"
+      ]
+    },
+    {
+      "id": "name",
+      "word": "name",
+      "forms": [
+        "name"
+      ],
+      "tier": "core",
+      "phonetic": "/neim/",
+      "partOfSpeech": "n.",
+      "meaning": "名字；名称",
+      "wordForms": "原文词形：name",
+      "sentence": "My name is Morgan le Fay.\"",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-09/name.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "名字；名称",
+        "刺穿；穿透",
+        "潮湿；湿气"
+      ]
+    }
+  ]
+}

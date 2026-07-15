@@ -1,0 +1,495 @@
+{
+  "book": 4,
+  "chapter": 2,
+  "title": "The Bright Blue Sea",
+  "words": [
+    {
+      "id": "sunlight",
+      "word": "sunlight",
+      "forms": [
+        "sunlight"
+      ],
+      "tier": "core",
+      "phonetic": "/'sʌnlait/",
+      "partOfSpeech": "n.",
+      "meaning": "日光",
+      "wordForms": "原文词形：sunlight",
+      "sentence": "Jack felt hot sunlight streaming into the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-02/sunlight.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "日光",
+        "地平线；眼界",
+        "寒冷；寒意"
+      ]
+    },
+    {
+      "id": "sea",
+      "word": "sea",
+      "forms": [
+        "sea"
+      ],
+      "tier": "recognition",
+      "phonetic": "/si:/",
+      "partOfSpeech": "n.",
+      "meaning": "海；海洋",
+      "wordForms": "原文词形：sea",
+      "sentence": "Beyond was abright blue sea.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-02/sea.mp3"
+    },
+    {
+      "id": "horizon",
+      "word": "horizon",
+      "forms": [
+        "horizon"
+      ],
+      "tier": "core",
+      "phonetic": "/hә'raizәn/",
+      "partOfSpeech": "n.",
+      "meaning": "地平线；眼界",
+      "wordForms": "原文词形：horizon",
+      "sentence": "A tall sailing ship was on the horizon.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-02/horizon.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "地平线；眼界",
+        "响而粗的叫声；夜鹭",
+        "日光"
+      ]
+    },
+    {
+      "id": "squawked",
+      "word": "squawked",
+      "forms": [
+        "squawked"
+      ],
+      "tier": "core",
+      "phonetic": "/skwɔ:kt/",
+      "partOfSpeech": "n.",
+      "meaning": "响而粗的叫声；夜鹭",
+      "wordForms": "原文词形：squawked",
+      "sentence": "squawked Polly.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-02/squawked.mp3",
+      "phonics": [
+        {
+          "letters": "squ",
+          "sound": "/skw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "aw",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "响而粗的叫声；夜鹭",
+        "寒冷；寒意",
+        "牛仔裤；牛仔布"
+      ]
+    },
+    {
+      "id": "flying",
+      "word": "flying",
+      "forms": [
+        "flying"
+      ],
+      "tier": "core",
+      "phonetic": "/'flaiiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "苍蝇；两翼昆虫",
+      "wordForms": "原文词形：flying",
+      "sentence": "Polly was flying in circles above the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-02/flying.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "苍蝇；两翼昆虫",
+        "响而粗的叫声；夜鹭",
+        "海洋；广阔"
+      ]
+    },
+    {
+      "id": "ocean",
+      "word": "ocean",
+      "forms": [
+        "ocean"
+      ],
+      "tier": "core",
+      "phonetic": "/'әuʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "海洋；广阔",
+      "wordForms": "原文词形：ocean",
+      "sentence": "Then she swooped down to the ocean.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-02/ocean.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "海洋；广阔",
+        "鱼；鱼肉",
+        "寒冷；寒意"
+      ]
+    },
+    {
+      "id": "beach",
+      "word": "beach",
+      "forms": [
+        "beach"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bi:tʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "海滩",
+      "wordForms": "原文词形：beach",
+      "sentence": "You can read it on the beach,\" she said.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-02/beach.mp3"
+    },
+    {
+      "id": "socks",
+      "word": "socks",
+      "forms": [
+        "socks"
+      ],
+      "tier": "core",
+      "phonetic": "/sɒk/",
+      "partOfSpeech": "n.",
+      "meaning": "短袜；鞋垫",
+      "wordForms": "原文词形：socks",
+      "sentence": "Jack took off his boots and socks.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-02/socks.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "短袜；鞋垫",
+        "寒冷；寒意",
+        "地平线；眼界"
+      ]
+    },
+    {
+      "id": "jeans",
+      "word": "jeans",
+      "forms": [
+        "jeans"
+      ],
+      "tier": "core",
+      "phonetic": "/dʒi:nz/",
+      "partOfSpeech": "n.",
+      "meaning": "牛仔裤；牛仔布",
+      "wordForms": "原文词形：jeans",
+      "sentence": "Then he rolled up his jeans.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-02/jeans.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "牛仔裤；牛仔布",
+        "寒冷；寒意",
+        "交叉的股骨图形"
+      ]
+    },
+    {
+      "id": "fishes",
+      "word": "fishes",
+      "forms": [
+        "fishes"
+      ],
+      "tier": "core",
+      "phonetic": "/'fiʃiz/",
+      "partOfSpeech": "n.",
+      "meaning": "鱼；鱼肉",
+      "wordForms": "原文词形：fishes",
+      "sentence": "Jack could see shells and tiny fishes.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-02/fishes.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鱼；鱼肉",
+        "交叉的股骨图形",
+        "海洋；广阔"
+      ]
+    },
+    {
+      "id": "chill",
+      "word": "chill",
+      "forms": [
+        "chill"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃil/",
+      "partOfSpeech": "n.",
+      "meaning": "寒冷；寒意",
+      "wordForms": "原文词形：chill",
+      "sentence": "As he stared at the ship's flag, a chill went through him.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-02/chill.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "寒冷；寒意",
+        "苍蝇；两翼昆虫",
+        "交叉的股骨图形"
+      ]
+    },
+    {
+      "id": "crossbones",
+      "word": "crossbones",
+      "forms": [
+        "crossbones"
+      ],
+      "tier": "core",
+      "phonetic": "/'krɒsbәunz/",
+      "partOfSpeech": "n.",
+      "meaning": "交叉的股骨图形",
+      "wordForms": "原文词形：crossbones",
+      "sentence": "With a skull and crossbones.",
+      "sentenceAudio": "assets/audio/sentences/book-04-chapter-02/crossbones.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "交叉的股骨图形",
+        "日光",
+        "苍蝇；两翼昆虫"
+      ]
+    }
+  ]
+}
