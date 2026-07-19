@@ -291,15 +291,18 @@
     },
     {
       "id": "vanished",
-      "word": "vanished",
+      "word": "vanish",
       "forms": [
-        "vanished"
+        "vanished",
+        "vanish",
+        "vanishes",
+        "vanishing"
       ],
       "tier": "core",
       "phonetic": "/'væniʃ/",
       "partOfSpeech": "v.",
       "meaning": "消失；不见",
-      "wordForms": "原文词形：vanished",
+      "wordForms": "第三人称单数 vanishes · 过去式 vanished · 现在分词 vanishing",
       "sentence": "He had vanished below the treetops.",
       "sentenceAudio": "assets/audio/sentences/book-06-chapter-09/vanished.mp3",
       "phonics": [
@@ -327,11 +330,6 @@
           "letters": "sh",
           "sound": "/ʃ/",
           "rule": "辅音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [

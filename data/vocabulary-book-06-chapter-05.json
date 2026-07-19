@@ -11,8 +11,8 @@
       ],
       "tier": "core",
       "phonetic": "/'rivә/",
-      "partOfSpeech": "v.",
-      "meaning": "radio influence voltage 无线电感应电压；river 河",
+      "partOfSpeech": "n.",
+      "meaning": "河流；江河",
       "wordForms": "原文词形：river",
       "sentence": "The ants can't get us in the river.",
       "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/river.mp3",
@@ -39,7 +39,7 @@
         }
       ],
       "options": [
-        "radio influence voltage 无线电感应电压；river 河",
+        "河流；江河",
         "独木舟；轻舟",
         "贝利"
       ]
@@ -353,13 +353,16 @@
       "id": "eat",
       "word": "eat",
       "forms": [
-        "eat"
+        "eat",
+        "eats",
+        "ate",
+        "eating"
       ],
       "tier": "recognition",
       "phonetic": "/i:t/",
       "partOfSpeech": "v.",
       "meaning": "吃；腐蚀",
-      "wordForms": "原文词形：eat",
+      "wordForms": "第三人称单数 eats · 过去式 ate · 现在分词 eating",
       "sentence": "They'll eat anything!",
       "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/eat.mp3"
     },
@@ -401,15 +404,18 @@
     },
     {
       "id": "wiggled",
-      "word": "wiggled",
+      "word": "wiggle",
       "forms": [
-        "wiggled"
+        "wiggled",
+        "wiggle",
+        "wiggles",
+        "wiggling"
       ],
       "tier": "core",
-      "phonetic": "/ˈwɪgəld/",
+      "phonetic": "/'wigl/",
       "partOfSpeech": "v.",
       "meaning": "扭动着行进；摆动",
-      "wordForms": "原文词形：wiggled",
+      "wordForms": "第三人称单数 wiggles · 过去式 wiggled · 现在分词 wiggling",
       "sentence": "It wiggled and jerked!\"",
       "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/wiggled.mp3",
       "phonics": [
@@ -434,9 +440,9 @@
           "rule": "辅音连缀"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [

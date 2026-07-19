@@ -84,13 +84,16 @@
       "id": "know",
       "word": "know",
       "forms": [
-        "know"
+        "know",
+        "knows",
+        "knew",
+        "knowing"
       ],
       "tier": "core",
       "phonetic": "/nәu/",
       "partOfSpeech": "v.",
       "meaning": "知道；了解",
-      "wordForms": "原文词形：know",
+      "wordForms": "第三人称单数 knows · 过去式 knew · 现在分词 knowing",
       "sentence": "I know,\" said Jack.",
       "sentenceAudio": "assets/audio/sentences/book-06-chapter-02/know.mp3",
       "phonics": [
@@ -195,15 +198,18 @@
     },
     {
       "id": "shivered",
-      "word": "shivered",
+      "word": "shiver",
       "forms": [
-        "shivered"
+        "shivered",
+        "shiver",
+        "shivers",
+        "shivering"
       ],
       "tier": "core",
-      "phonetic": "/ˈʃivəd/",
+      "phonetic": "/'ʃivә/",
       "partOfSpeech": "v.",
       "meaning": "颤抖；哆嗦",
-      "wordForms": "原文词形：shivered",
+      "wordForms": "第三人称单数 shivers · 过去式 shivered · 现在分词 shivering",
       "sentence": "She shivered.\"",
       "sentenceAudio": "assets/audio/sentences/book-06-chapter-02/shivered.mp3",
       "phonics": [
@@ -226,11 +232,6 @@
           "letters": "er",
           "sound": "/ər/",
           "rule": "元音组合"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [

@@ -5,15 +5,18 @@
   "words": [
     {
       "id": "beckoned",
-      "word": "beckoned",
+      "word": "beckon",
       "forms": [
-        "beckoned"
+        "beckoned",
+        "beckon",
+        "beckons",
+        "beckoning"
       ],
       "tier": "core",
-      "phonetic": "/ˈbekənd/",
+      "phonetic": "/'bekәn/",
       "partOfSpeech": "v.",
       "meaning": "招手示意；召唤",
-      "wordForms": "原文词形：beckoned",
+      "wordForms": "第三人称单数 beckons · 过去式 beckoned · 现在分词 beckoning",
       "sentence": "He screeched and beckoned to Jack and Annie.",
       "sentenceAudio": "assets/audio/sentences/book-06-chapter-07/beckoned.mp3",
       "phonics": [
@@ -41,11 +44,6 @@
           "letters": "n",
           "sound": "/n/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -58,13 +56,16 @@
       "id": "find",
       "word": "find",
       "forms": [
-        "find"
+        "find",
+        "finds",
+        "found",
+        "finding"
       ],
       "tier": "core",
       "phonetic": "/faind/",
       "partOfSpeech": "v.",
       "meaning": "发现；感到",
-      "wordForms": "原文词形：find",
+      "wordForms": "第三人称单数 finds · 过去式 found · 现在分词 finding",
       "sentence": "We have to find the special thing.",
       "sentenceAudio": "assets/audio/sentences/book-06-chapter-07/find.mp3",
       "phonics": [
@@ -414,15 +415,19 @@
     },
     {
       "id": "freeze",
-      "word": "Freeze",
+      "word": "freeze",
       "forms": [
-        "Freeze"
+        "Freeze",
+        "freeze",
+        "freezes",
+        "froze",
+        "freezing"
       ],
       "tier": "core",
       "phonetic": "/fri:z/",
       "partOfSpeech": "v.",
       "meaning": "冻结；冷冻",
-      "wordForms": "原文词形：Freeze",
+      "wordForms": "第三人称单数 freezes · 过去式 froze · 现在分词 freezing",
       "sentence": "Freeze!\"",
       "sentenceAudio": "assets/audio/sentences/book-06-chapter-07/freeze.mp3",
       "phonics": [
