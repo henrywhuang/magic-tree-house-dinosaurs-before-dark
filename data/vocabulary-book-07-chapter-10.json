@@ -1,0 +1,541 @@
+{
+  "book": 7,
+  "chapter": 10,
+  "title": "This Age",
+  "words": [
+    {
+      "id": "soft",
+      "word": "soft",
+      "forms": [
+        "soft"
+      ],
+      "tier": "recognition",
+      "phonetic": "/sɒft/",
+      "partOfSpeech": "adj.",
+      "meaning": "软的；温和的",
+      "wordForms": "原文词形：soft",
+      "sentence": "The air was soft and warm.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/soft.mp3"
+    },
+    {
+      "id": "secret",
+      "word": "secret",
+      "forms": [
+        "secret"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'si:krit/",
+      "partOfSpeech": "n.",
+      "meaning": "秘密；机密",
+      "wordForms": "原文词形：secret",
+      "sentence": "“It’s a secret, huh?”",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/secret.mp3"
+    },
+    {
+      "id": "mammoth",
+      "word": "mammoth",
+      "forms": [
+        "mammoth"
+      ],
+      "tier": "core",
+      "phonetic": "/'mæmәθ/",
+      "partOfSpeech": "n.",
+      "meaning": "猛犸；庞然大物",
+      "wordForms": "原文词形：mammoth",
+      "sentence": "He held up the mammoth bone.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/mammoth.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "猛犸；庞然大物",
+        "集合；聚集",
+        "蔷薇色的；玫瑰红色的"
+      ]
+    },
+    {
+      "id": "bone",
+      "word": "bone",
+      "forms": [
+        "bone"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bәun/",
+      "partOfSpeech": "n.",
+      "meaning": "骨头；骨",
+      "wordForms": "原文词形：bone",
+      "sentence": "He held up the mammoth bone.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/bone.mp3"
+    },
+    {
+      "id": "free",
+      "word": "free",
+      "forms": [
+        "free"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fri:/",
+      "partOfSpeech": "adj.",
+      "meaning": "自由的；享受政治权力的",
+      "wordForms": "原文词形：free",
+      "sentence": "Then Morgan will be free from her spell.”",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/free.mp3"
+    },
+    {
+      "id": "spell",
+      "word": "spell",
+      "forms": [
+        "spell"
+      ],
+      "tier": "core",
+      "phonetic": "/spel/",
+      "partOfSpeech": "n.",
+      "meaning": "符咒；魅力",
+      "wordForms": "原文词形：spell",
+      "sentence": "Then Morgan will be free from her spell.”",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/spell.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "符咒；魅力",
+        "人行道",
+        "狩猎；追捕"
+      ]
+    },
+    {
+      "id": "gathered",
+      "word": "gathered",
+      "forms": [
+        "gathered"
+      ],
+      "tier": "core",
+      "phonetic": "/'gaðəd/",
+      "partOfSpeech": "n.",
+      "meaning": "集合；聚集",
+      "wordForms": "原文词形：gathered",
+      "sentence": "Jack gathered his things.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/gathered.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "集合；聚集",
+        "符咒；魅力",
+        "狩猎；追捕"
+      ]
+    },
+    {
+      "id": "paused",
+      "word": "paused",
+      "forms": [
+        "paused"
+      ],
+      "tier": "core",
+      "phonetic": "/pɔ:zd/",
+      "partOfSpeech": "n.",
+      "meaning": "[人名] 波斯",
+      "wordForms": "原文词形：paused",
+      "sentence": "He paused and glanced at the mouse.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/paused.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "au",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "[人名] 波斯",
+        "集合；聚集",
+        "猛犸；庞然大物"
+      ]
+    },
+    {
+      "id": "glanced",
+      "word": "glanced",
+      "forms": [
+        "glanced"
+      ],
+      "tier": "core",
+      "phonetic": "/ɡlɑ:nst/",
+      "partOfSpeech": "n.",
+      "meaning": "一瞥；闪光",
+      "wordForms": "原文词形：glanced",
+      "sentence": "He paused and glanced at the mouse.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/glanced.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "一瞥；闪光",
+        "猛犸；庞然大物",
+        "狩猎；追捕"
+      ]
+    },
+    {
+      "id": "rosy",
+      "word": "rosy",
+      "forms": [
+        "rosy"
+      ],
+      "tier": "core",
+      "phonetic": "/'rәuzi/",
+      "partOfSpeech": "adj.",
+      "meaning": "蔷薇色的；玫瑰红色的",
+      "wordForms": "原文词形：rosy",
+      "sentence": "Their neighborhood looked rosy in the sunset.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/rosy.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蔷薇色的；玫瑰红色的",
+        "符咒；魅力",
+        "[人名] 波斯"
+      ]
+    },
+    {
+      "id": "age",
+      "word": "age",
+      "forms": [
+        "age"
+      ],
+      "tier": "recognition",
+      "phonetic": "/eidʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "年龄；老年",
+      "wordForms": "原文词形：age",
+      "sentence": "It’s great to be back in this age, Jack thought.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/age.mp3"
+    },
+    {
+      "id": "safe",
+      "word": "safe",
+      "forms": [
+        "safe"
+      ],
+      "tier": "recognition",
+      "phonetic": "/seif/",
+      "partOfSpeech": "n.",
+      "meaning": "保险箱；冷藏室",
+      "wordForms": "原文词形：safe",
+      "sentence": "Warm and safe and almost home.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/safe.mp3"
+    },
+    {
+      "id": "hunting",
+      "word": "hunting",
+      "forms": [
+        "hunting"
+      ],
+      "tier": "core",
+      "phonetic": "/'hʌntiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "狩猎；追捕",
+      "wordForms": "原文词形：hunting",
+      "sentence": "“I’m glad we don’t have to go hunting for dinner,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/hunting.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "狩猎；追捕",
+        "饿死；挨饿",
+        "符咒；魅力"
+      ]
+    },
+    {
+      "id": "trapped",
+      "word": "trapped",
+      "forms": [
+        "trapped"
+      ],
+      "tier": "core",
+      "phonetic": "/'træpid/",
+      "partOfSpeech": "n.",
+      "meaning": "圈套；陷阱",
+      "wordForms": "原文词形：trapped",
+      "sentence": "“I hope they trapped some spaghetti and meatballs,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/trapped.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "圈套；陷阱",
+        "符咒；魅力",
+        "饿死；挨饿"
+      ]
+    },
+    {
+      "id": "starving",
+      "word": "starving",
+      "forms": [
+        "starving"
+      ],
+      "tier": "core",
+      "phonetic": "/stɑ:v/",
+      "partOfSpeech": "v.",
+      "meaning": "饿死；挨饿",
+      "wordForms": "原文词形：starving",
+      "sentence": "“Hurry, I’m starving,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/starving.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "饿死；挨饿",
+        "一瞥；闪光",
+        "集合；聚集"
+      ]
+    },
+    {
+      "id": "sidewalk",
+      "word": "sidewalk",
+      "forms": [
+        "sidewalk"
+      ],
+      "tier": "core",
+      "phonetic": "/'saidwɒ:k/",
+      "partOfSpeech": "n.",
+      "meaning": "人行道",
+      "wordForms": "原文词形：sidewalk",
+      "sentence": "They ran up their sidewalk and through their front door.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/sidewalk.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ew",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "人行道",
+        "狩猎；追捕",
+        "猛犸；庞然大物"
+      ]
+    }
+  ]
+}

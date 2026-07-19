@@ -1,0 +1,473 @@
+{
+  "book": 7,
+  "chapter": 5,
+  "title": "Snow Tracks",
+  "words": [
+    {
+      "id": "gallery",
+      "word": "gallery",
+      "forms": [
+        "gallery"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'gælәri/",
+      "partOfSpeech": "n.",
+      "meaning": "走廊；最高楼座",
+      "wordForms": "原文词形：gallery",
+      "sentence": "“Maybe it’s an art gallery,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/gallery.mp3"
+    },
+    {
+      "id": "beasts",
+      "word": "beasts",
+      "forms": [
+        "beasts"
+      ],
+      "tier": "core",
+      "phonetic": "/bi:st/",
+      "partOfSpeech": "n.",
+      "meaning": "畜生；动物",
+      "wordForms": "原文词形：beasts",
+      "sentence": "He read about the cave paintings:These Ice Age beasts were painted 25,000 years ago.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/beasts.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "畜生；动物",
+        "阴影；荫",
+        "油漆；颜料"
+      ]
+    },
+    {
+      "id": "power",
+      "word": "power",
+      "forms": [
+        "power"
+      ],
+      "tier": "core",
+      "phonetic": "/'pauә/",
+      "partOfSpeech": "n.",
+      "meaning": "战俘",
+      "wordForms": "原文词形：power",
+      "sentence": "They may have believed the paintings would give them power over the animals.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/power.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "战俘",
+        "男巫士；魔术师",
+        "轨迹；足迹"
+      ]
+    },
+    {
+      "id": "painting",
+      "word": "painting",
+      "forms": [
+        "painting"
+      ],
+      "tier": "core",
+      "phonetic": "/'peintiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "油漆；颜料",
+      "wordForms": "原文词形：painting",
+      "sentence": "She pointed at a painting farther down the wall.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/painting.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "油漆；颜料",
+        "面具；假面具",
+        "畜生；动物"
+      ]
+    },
+    {
+      "id": "human",
+      "word": "human",
+      "forms": [
+        "human"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'hju:mәn/",
+      "partOfSpeech": "n.",
+      "meaning": "人；人类",
+      "wordForms": "原文词形：human",
+      "sentence": "It showed a figure with human arms and legs, reindeer antlers, and an owl face.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/human.mp3"
+    },
+    {
+      "id": "antlers",
+      "word": "antlers",
+      "forms": [
+        "antlers"
+      ],
+      "tier": "core",
+      "phonetic": "/'æntləz/",
+      "partOfSpeech": "n.",
+      "meaning": "鹿角",
+      "wordForms": "原文词形：antlers",
+      "sentence": "It showed a figure with human arms and legs, reindeer antlers, and an owl face.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/antlers.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ers",
+          "sound": "/ərz/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "鹿角",
+        "面具；假面具",
+        "同等的人；匹敌"
+      ]
+    },
+    {
+      "id": "owl",
+      "word": "owl",
+      "forms": [
+        "owl"
+      ],
+      "tier": "recognition",
+      "phonetic": "/aul/",
+      "partOfSpeech": "n.",
+      "meaning": "猫头鹰",
+      "wordForms": "原文词形：owl",
+      "sentence": "It showed a figure with human arms and legs, reindeer antlers, and an owl face.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/owl.mp3"
+    },
+    {
+      "id": "flute",
+      "word": "flute",
+      "forms": [
+        "flute"
+      ],
+      "tier": "core",
+      "phonetic": "/flu:t/",
+      "partOfSpeech": "n.",
+      "meaning": "笛；横笛",
+      "wordForms": "原文词形：flute",
+      "sentence": "It seemed to be holding a flute.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/flute.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "笛；横笛",
+        "轨迹；足迹",
+        "面具；假面具"
+      ]
+    },
+    {
+      "id": "sorcerer",
+      "word": "sorcerer",
+      "forms": [
+        "sorcerer"
+      ],
+      "tier": "core",
+      "phonetic": "/'sɒ:sәrә/",
+      "partOfSpeech": "n.",
+      "meaning": "男巫士；魔术师",
+      "wordForms": "原文词形：sorcerer",
+      "sentence": "He found a picture of the figure and read:Cave men may have been led by a sorcerer, or “Master of the Animals.”",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/sorcerer.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "男巫士；魔术师",
+        "笛；横笛",
+        "阴影；荫"
+      ]
+    },
+    {
+      "id": "mask",
+      "word": "mask",
+      "forms": [
+        "mask"
+      ],
+      "tier": "core",
+      "phonetic": "/mæsk/",
+      "partOfSpeech": "n.",
+      "meaning": "面具；假面具",
+      "wordForms": "原文词形：mask",
+      "sentence": "He may have worn reindeer antlers so he could run like a reindeer—and an owl mask so he could see like an owl.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/mask.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sk",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "面具；假面具",
+        "笛；横笛",
+        "轨迹；足迹"
+      ]
+    },
+    {
+      "id": "friend",
+      "word": "friend",
+      "forms": [
+        "friend"
+      ],
+      "tier": "recognition",
+      "phonetic": "/frend/",
+      "partOfSpeech": "n.",
+      "meaning": "朋友；支持者",
+      "wordForms": "原文词形：friend",
+      "sentence": "“Maybe he’s a friend of Morgan’s,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/friend.mp3"
+    },
+    {
+      "id": "shadows",
+      "word": "shadows",
+      "forms": [
+        "shadows"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃædәu/",
+      "partOfSpeech": "n.",
+      "meaning": "阴影；荫",
+      "wordForms": "原文词形：shadows",
+      "sentence": "Annie walked slowly around the cave, looking into the shadows.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/shadows.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "阴影；荫",
+        "男巫士；魔术师",
+        "鹿角"
+      ]
+    },
+    {
+      "id": "peered",
+      "word": "peered",
+      "forms": [
+        "peered"
+      ],
+      "tier": "core",
+      "phonetic": "/piəd/",
+      "partOfSpeech": "n.",
+      "meaning": "同等的人；匹敌",
+      "wordForms": "原文词形：peered",
+      "sentence": "Jack peered around the fire and under each of the furry skins.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/peered.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "同等的人；匹敌",
+        "畜生；动物",
+        "战俘"
+      ]
+    },
+    {
+      "id": "tracks",
+      "word": "tracks",
+      "forms": [
+        "tracks"
+      ],
+      "tier": "core",
+      "phonetic": "/træk/",
+      "partOfSpeech": "n.",
+      "meaning": "轨迹；足迹",
+      "wordForms": "原文词形：tracks",
+      "sentence": "In the snow were tiny tracks.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-05/tracks.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "轨迹；足迹",
+        "同等的人；匹敌",
+        "阴影；荫"
+      ]
+    }
+  ]
+}

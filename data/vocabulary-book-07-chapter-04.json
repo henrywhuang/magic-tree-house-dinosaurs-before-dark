@@ -1,0 +1,527 @@
+{
+  "book": 7,
+  "chapter": 4,
+  "title": "Cave Kids",
+  "words": [
+    {
+      "id": "stone",
+      "word": "stone",
+      "forms": [
+        "stone"
+      ],
+      "tier": "recognition",
+      "phonetic": "/stәun/",
+      "partOfSpeech": "n.",
+      "meaning": "石头；宝石",
+      "wordForms": "原文词形：stone",
+      "sentence": "Their shadows danced on the stone walls.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/stone.mp3"
+    },
+    {
+      "id": "mammoth",
+      "word": "mammoth",
+      "forms": [
+        "mammoth"
+      ],
+      "tier": "core",
+      "phonetic": "/'mæmәθ/",
+      "partOfSpeech": "n.",
+      "meaning": "猛犸；庞然大物",
+      "wordForms": "原文词形：mammoth",
+      "sentence": "They made flute-like musical instruments from mammoth bones.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/mammoth.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "猛犸；庞然大物",
+        "灯芯；油绳",
+        "纤维；构造"
+      ]
+    },
+    {
+      "id": "braiding",
+      "word": "braiding",
+      "forms": [
+        "braiding"
+      ],
+      "tier": "core",
+      "phonetic": "/'breidiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "辫子；穗带",
+      "wordForms": "原文词形：braiding",
+      "sentence": "They made ropes by braiding plant fibers.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/braiding.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "辫子；穗带",
+        "布料；织品",
+        "巨穴；洞窟"
+      ]
+    },
+    {
+      "id": "plant",
+      "word": "plant",
+      "forms": [
+        "plant"
+      ],
+      "tier": "recognition",
+      "phonetic": "/plænt. plɑ:nt/",
+      "partOfSpeech": "n.",
+      "meaning": "植物；作物",
+      "wordForms": "原文词形：plant",
+      "sentence": "They made ropes by braiding plant fibers.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/plant.mp3"
+    },
+    {
+      "id": "fibers",
+      "word": "fibers",
+      "forms": [
+        "fibers"
+      ],
+      "tier": "core",
+      "phonetic": "/'faibә/",
+      "partOfSpeech": "n.",
+      "meaning": "纤维；构造",
+      "wordForms": "原文词形：fibers",
+      "sentence": "They made ropes by braiding plant fibers.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/fibers.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ers",
+          "sound": "/ərz/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "纤维；构造",
+        "辫子；穗带",
+        "猛犸；庞然大物"
+      ]
+    },
+    {
+      "id": "clothes",
+      "word": "clothes",
+      "forms": [
+        "clothes"
+      ],
+      "tier": "core",
+      "phonetic": "/klәuðz/",
+      "partOfSpeech": "n.",
+      "meaning": "布料；织品",
+      "wordForms": "原文词形：clothes",
+      "sentence": "“These must be their clothes.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/clothes.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "布料；织品",
+        "纤维；构造",
+        "猛犸；庞然大物"
+      ]
+    },
+    {
+      "id": "flint",
+      "word": "flint",
+      "forms": [
+        "flint"
+      ],
+      "tier": "core",
+      "phonetic": "/flint/",
+      "partOfSpeech": "n.",
+      "meaning": "打火石；燧石",
+      "wordForms": "原文词形：flint",
+      "sentence": "He read:Cro-Magnons scraped reindeer skins with flint rocks to make them soft.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/flint.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "打火石；燧石",
+        "猛犸；庞然大物",
+        "布料；织品"
+      ]
+    },
+    {
+      "id": "needles",
+      "word": "needles",
+      "forms": [
+        "needles"
+      ],
+      "tier": "core",
+      "phonetic": "/'ni:dl/",
+      "partOfSpeech": "n.",
+      "meaning": "针；尖",
+      "wordForms": "原文词形：needles",
+      "sentence": "They used bone needles to sew the skins together for clothing.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/needles.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "针；尖",
+        "巨穴；洞窟",
+        "纤维；构造"
+      ]
+    },
+    {
+      "id": "borrow",
+      "word": "borrow",
+      "forms": [
+        "borrow"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'bɒrәu/",
+      "partOfSpeech": "v.",
+      "meaning": "借；借入",
+      "wordForms": "原文词形：borrow",
+      "sentence": "Jack added to his list:“I hope the cave people won’t mind if we borrow their coats,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/borrow.mp3"
+    },
+    {
+      "id": "wick",
+      "word": "wick",
+      "forms": [
+        "wick"
+      ],
+      "tier": "core",
+      "phonetic": "/wik/",
+      "partOfSpeech": "n.",
+      "meaning": "灯芯；油绳",
+      "wordForms": "原文词形：wick",
+      "sentence": "They hollowed out a rock, filled it with animal fat, then burned a wick made from moss.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/wick.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "灯芯；油绳",
+        "历史以前的；史前的",
+        "巨穴；洞窟"
+      ]
+    },
+    {
+      "id": "moss",
+      "word": "moss",
+      "forms": [
+        "moss"
+      ],
+      "tier": "core",
+      "phonetic": "/mɒs/",
+      "partOfSpeech": "n.",
+      "meaning": "[计] 管理操作系统；金属氧化物半导体",
+      "wordForms": "原文词形：moss",
+      "sentence": "They hollowed out a rock, filled it with animal fat, then burned a wick made from moss.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/moss.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "[计] 管理操作系统；金属氧化物半导体",
+        "历史以前的；史前的",
+        "巨穴；洞窟"
+      ]
+    },
+    {
+      "id": "hollow",
+      "word": "hollow",
+      "forms": [
+        "hollow"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'hɒlәu/",
+      "partOfSpeech": "n.",
+      "meaning": "洞；窟窿",
+      "wordForms": "原文词形：hollow",
+      "sentence": "In the hollow of each was gooey white stuff and a pile of moss.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/hollow.mp3"
+    },
+    {
+      "id": "careful",
+      "word": "careful",
+      "forms": [
+        "careful"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'kєәful/",
+      "partOfSpeech": "adj.",
+      "meaning": "小心的；谨慎的",
+      "wordForms": "原文词形：careful",
+      "sentence": "“We have to be careful,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/careful.mp3"
+    },
+    {
+      "id": "cavern",
+      "word": "cavern",
+      "forms": [
+        "cavern"
+      ],
+      "tier": "core",
+      "phonetic": "/'kævәn/",
+      "partOfSpeech": "n.",
+      "meaning": "巨穴；洞窟",
+      "wordForms": "原文词形：cavern",
+      "sentence": "At the end of the tunnel was a huge cavern with a high ceiling.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/cavern.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "巨穴；洞窟",
+        "布料；织品",
+        "针；尖"
+      ]
+    },
+    {
+      "id": "prehistoric",
+      "word": "prehistoric",
+      "forms": [
+        "prehistoric"
+      ],
+      "tier": "core",
+      "phonetic": "/'pri:his'tɔrik/",
+      "partOfSpeech": "adj.",
+      "meaning": "历史以前的；史前的",
+      "wordForms": "原文词形：prehistoric",
+      "sentence": "In the flickering light, the prehistoric beasts looked alive.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/prehistoric.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "历史以前的；史前的",
+        "猛犸；庞然大物",
+        "针；尖"
+      ]
+    }
+  ]
+}

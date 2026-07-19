@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Rebuild data/words.js to cover EVERY word in all available books' reading text
 (not just Book1), so tapping any word shows a real meaning + phonetic — and the
-"add to vocabulary" feature captures a usable definition. Source: ECDICT
-(surface first, lemma fallback) + manual names. Existing entries are preserved.
+"add to vocabulary" feature captures a usable definition and dictionary lemma.
+Source: ECDICT (including its ``exchange`` lemma mapping) + manual names.
 """
 import csv, glob, json, re, sys
 from pathlib import Path
@@ -29,10 +29,34 @@ MANUAL = {
     'jaguar': ('/ˈdʒæɡwɑːr/', 'n. 美洲虎'), 'caiman': ('/ˈkeɪmən/', 'n. 凯门鳄'),
     'capuchin': ('/ˈkæpjʊtʃɪn/', 'n. 卷尾猴'), 'mango': ('/ˈmæŋɡəʊ/', 'n. 芒果'),
     'canoe': ('/kəˈnuː/', 'n. 独木舟；小划艇'), 'moonstone': ('/ˈmuːnstəʊn/', 'n. 月光石'),
+    'sabertooth': ('/ˈseɪbərtuːθ/', 'n. 剑齿虎'),
+    'cro-magnon': ('/ˌkroʊ mæɡˈnɒn/', 'n. 克罗马农人'),
+    'mammoth': ('/ˈmæməθ/', 'n. 猛犸象'), 'lulu': ('/ˈluːluː/', '露露（猛犸象的名字）'),
+    'sorcerer': ('/ˈsɔːrsərər/', 'n. 巫师；术士'),
+    'reindeer': ('/ˈreɪndɪər/', 'n. 驯鹿'), 'bison': ('/ˈbaɪsən/', 'n. 野牛'),
+    "that'll": ('/ðætəl/', '那将会（that will 的缩写）'),
+    "there're": ('/ðeərər/', '有（there are 的缩写）'),
+}
+
+# ECDICT occasionally chooses an unrelated homograph or an obsolete spelling
+# for a valid story word.  These overrides are intentionally small and audited.
+LEMMA_OVERRIDES = {
+    'does': 'do',
+    'ragged': 'ragged',
+    'sled': 'sled',
+    'untied': 'untie',
+    'yikes': 'yikes',
 }
 
 def norm(w):
-    return re.sub(r"[^a-z'-]", '', w.lower())
+    return re.sub(r"[^a-z'-]", '', w.lower().replace('’', "'").replace('‘', "'"))
+
+def candidate_forms(w):
+    forms = list(base_forms(w))
+    # Possessives are surface forms, not separate dictionary headwords.
+    if w.endswith("'s") and len(w) > 2:
+        forms.append(w[:-2])
+    return list(dict.fromkeys(forms))
 
 POS_LINE = re.compile(r'^\s*(n|vt|vi|v|adj|adv|a|ad|prep|conj|pron|int|num|art|aux|pl)\b\.?', re.I)
 
@@ -48,7 +72,7 @@ def clean_meaning(translation):
             out.append('；'.join(uniq[:3]))                        # up to three senses each
     return ' / '.join(out)
 
-# 1) all reading-text words across 4 books
+# 1) all reading-text words across every available book
 words = set()
 for f in glob.glob(str(ROOT / 'data' / '*chapter-*.json')):
     if 'vocabulary' in f:
@@ -61,7 +85,7 @@ for f in glob.glob(str(ROOT / 'data' / '*chapter-*.json')):
 # 2) load ECDICT rows for surfaces + lemma candidates in one scan
 need = set()
 for w in words:
-    need.update(base_forms(w))
+    need.update(candidate_forms(w))
     need.add(w)
 rows = {}
 with open(ROOT / '.ecdict/ecdict.csv', encoding='utf-8', newline='') as fh:
@@ -70,18 +94,48 @@ with open(ROOT / '.ecdict/ecdict.csv', encoding='utf-8', newline='') as fh:
         if lw in need and lw not in rows:
             rows[lw] = row
 
+# A surface row can point to an irregular lemma (went -> go, mice -> mouse)
+# which simple suffix rules cannot predict. Fetch those headwords in one extra scan.
+exchange_need = set()
+for row in rows.values():
+    match = re.search(r'(?:^|/)0:([^/]+)', row.get('exchange') or '')
+    if match:
+        lemma = norm(match.group(1))
+        if lemma and lemma not in rows:
+            exchange_need.add(lemma)
+if exchange_need:
+    with open(ROOT / '.ecdict/ecdict.csv', encoding='utf-8', newline='') as fh:
+        for row in csv.DictReader(fh):
+            lw = row['word'].strip().lower()
+            if lw in exchange_need and lw not in rows:
+                rows[lw] = row
+
+def exchange_lemma(row):
+    """ECDICT stores the dictionary headword as ``0:lemma`` for inflections."""
+    match = re.search(r'(?:^|/)0:([^/]+)', (row or {}).get('exchange') or '')
+    return norm(match.group(1)) if match else ''
+
 def lookup(w):
-    forms = base_forms(w)
+    surface = rows.get(w)
+    mapped = LEMMA_OVERRIDES.get(w) or exchange_lemma(surface)
+    forms = list(dict.fromkeys(([mapped] if mapped else []) + candidate_forms(w)))
+    possessive_base = w[:-2] if w.endswith("'s") else ''
+    if possessive_base in MANUAL:
+        phonetic, meaning = MANUAL[possessive_base]
+        return phonetic, meaning, possessive_base
     cands = [(b, rows[b]) for b in forms if b in rows and (rows[b].get('translation') or '').strip()]
     if not cands:
         return None
-    # prefer a real definition over an abbreviation (gets->GETS), then the shortest
-    # base form (boots->boot 靴子, happened->happen 发生) for a clean learner meaning
-    cands.sort(key=lambda br: (1 if re.match(r'^\s*abbr', br[1].get('translation', ''), re.I) else 0, len(br[0])))
-    row = cands[0][1]
-    surf = rows.get(forms[0])          # phonetic from the surface form when available
-    ph = ((surf and surf.get('phonetic')) or row.get('phonetic') or w).strip()
-    return f'/{ph}/', clean_meaning(row['translation'])
+    # Prefer ECDICT's explicit inflection mapping.  Without such a mapping, keep
+    # the exact headword before trying suffix guesses; otherwise ordinary words
+    # such as water/wave could be shortened to unrelated entries (wat/wav).
+    cands.sort(key=lambda br: (0 if mapped and br[0] == mapped else 1,
+                               0 if not mapped and br[0] == w else 1,
+                               1 if re.match(r'^\s*abbr', br[1].get('translation', ''), re.I) else 0,
+                               len(br[0])))
+    lemma, row = cands[0]
+    ph = ((surface and surface.get('phonetic')) or row.get('phonetic') or w).strip()
+    return f'/{ph}/', clean_meaning(row['translation']), lemma
 
 # 3) build entries fresh from every reading-text word (+ manual names)
 entries = {}
@@ -89,10 +143,10 @@ covered = 0
 for w in sorted(words):
     res = lookup(w)
     if res:
-        entries[w] = {'phonetic': res[0], 'meaning': res[1]}
+        entries[w] = {'phonetic': res[0], 'meaning': res[1], 'lemma': res[2]}
         covered += 1
 for w, (ph, meaning) in MANUAL.items():
-    entries[w] = {'phonetic': ph, 'meaning': meaning}
+    entries[w] = {'phonetic': ph, 'meaning': meaning, 'lemma': w}
 
 # normalize meanings across ALL entries (incl. preserved legacy) — no literal \n / \r
 for e in entries.values():

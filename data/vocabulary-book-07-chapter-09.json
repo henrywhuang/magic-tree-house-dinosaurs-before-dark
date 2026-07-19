@@ -1,0 +1,507 @@
+{
+  "book": 7,
+  "chapter": 9,
+  "title": "Master of the Animals",
+  "words": [
+    {
+      "id": "horror",
+      "word": "horror",
+      "forms": [
+        "horror"
+      ],
+      "tier": "core",
+      "phonetic": "/'hɒrә/",
+      "partOfSpeech": "n.",
+      "meaning": "惊骇；恐怖",
+      "wordForms": "原文词形：horror",
+      "sentence": "Jack stared in horror.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/horror.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "惊骇；恐怖",
+        "笔划；打",
+        "辐射源监管信息系统；红外反射-吸收光谱学"
+      ]
+    },
+    {
+      "id": "glared",
+      "word": "glared",
+      "forms": [
+        "glared"
+      ],
+      "tier": "core",
+      "phonetic": "/ɡlɛəd/",
+      "partOfSpeech": "n.",
+      "meaning": "闪耀光；刺眼",
+      "wordForms": "原文词形：glared",
+      "sentence": "He glared at Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/glared.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "闪耀光；刺眼",
+        "历史以前的；史前的",
+        "吼叫；怒骂"
+      ]
+    },
+    {
+      "id": "growled",
+      "word": "growled",
+      "forms": [
+        "growled"
+      ],
+      "tier": "core",
+      "phonetic": "/ɡrauld/",
+      "partOfSpeech": "n.",
+      "meaning": "吠声；咆哮声",
+      "wordForms": "原文词形：growled",
+      "sentence": "The tiger growled.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/growled.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "吠声；咆哮声",
+        "惊骇；恐怖",
+        "历史以前的；史前的"
+      ]
+    },
+    {
+      "id": "stomped",
+      "word": "stomped",
+      "forms": [
+        "stomped"
+      ],
+      "tier": "core",
+      "phonetic": "/stɔmpt/",
+      "partOfSpeech": "n.",
+      "meaning": "跺脚",
+      "wordForms": "原文词形：stomped",
+      "sentence": "The mammoth roared and stomped the ground.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/stomped.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "跺脚",
+        "历史以前的；史前的",
+        "矛；枪"
+      ]
+    },
+    {
+      "id": "breath",
+      "word": "breath",
+      "forms": [
+        "breath"
+      ],
+      "tier": "recognition",
+      "phonetic": "/breθ/",
+      "partOfSpeech": "n.",
+      "meaning": "呼吸；气息",
+      "wordForms": "原文词形：breath",
+      "sentence": "Jack kept blowing until he ran out of breath.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/breath.mp3"
+    },
+    {
+      "id": "snarled",
+      "word": "snarled",
+      "forms": [
+        "snarled"
+      ],
+      "tier": "core",
+      "phonetic": "/snɑ:rld/",
+      "partOfSpeech": "v.",
+      "meaning": "吼叫；怒骂",
+      "wordForms": "原文词形：snarled",
+      "sentence": "The tiger snarled.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/snarled.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "吼叫；怒骂",
+        "木材；破旧家俱",
+        "笔划；打"
+      ]
+    },
+    {
+      "id": "world",
+      "word": "world",
+      "forms": [
+        "world"
+      ],
+      "tier": "recognition",
+      "phonetic": "/wә:ld/",
+      "partOfSpeech": "n.",
+      "meaning": "世界；地球",
+      "wordForms": "原文词形：world",
+      "sentence": "The music sounded strange—as if it were coming from another world.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/world.mp3"
+    },
+    {
+      "id": "raised",
+      "word": "raised",
+      "forms": [
+        "raised"
+      ],
+      "tier": "core",
+      "phonetic": "/reizd/",
+      "partOfSpeech": "n.",
+      "meaning": "辐射源监管信息系统；红外反射-吸收光谱学",
+      "wordForms": "原文词形：raised",
+      "sentence": "Jack raised his eyes.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/raised.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "辐射源监管信息系统；红外反射-吸收光谱学",
+        "吠声；咆哮声",
+        "笔划；打"
+      ]
+    },
+    {
+      "id": "lumbered",
+      "word": "lumbered",
+      "forms": [
+        "lumbered"
+      ],
+      "tier": "core",
+      "phonetic": "/'lʌmbә/",
+      "partOfSpeech": "n.",
+      "meaning": "木材；破旧家俱",
+      "wordForms": "原文词形：lumbered",
+      "sentence": "Then she lumbered over to the tallest tree.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/lumbered.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "木材；破旧家俱",
+        "惊骇；恐怖",
+        "历史以前的；史前的"
+      ]
+    },
+    {
+      "id": "stroked",
+      "word": "stroked",
+      "forms": [
+        "stroked"
+      ],
+      "tier": "core",
+      "phonetic": "/strәuk/",
+      "partOfSpeech": "n.",
+      "meaning": "笔划；打",
+      "wordForms": "原文词形：stroked",
+      "sentence": "She stroked the mammoth’s giant ear.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/stroked.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "笔划；打",
+        "木材；破旧家俱",
+        "辐射源监管信息系统；红外反射-吸收光谱学"
+      ]
+    },
+    {
+      "id": "positive",
+      "word": "positive",
+      "forms": [
+        "positive"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'pɒzitiv/",
+      "partOfSpeech": "adj.",
+      "meaning": "肯定的；积极的",
+      "wordForms": "原文词形：positive",
+      "sentence": "Now he was positive they had found the third M thing.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/positive.mp3"
+    },
+    {
+      "id": "prehistoric",
+      "word": "prehistoric",
+      "forms": [
+        "prehistoric"
+      ],
+      "tier": "core",
+      "phonetic": "/'pri:his'tɔrik/",
+      "partOfSpeech": "adj.",
+      "meaning": "历史以前的；史前的",
+      "wordForms": "原文词形：prehistoric",
+      "sentence": "He wanted to take one last look at the prehistoric world.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/prehistoric.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "历史以前的；史前的",
+        "吠声；咆哮声",
+        "惊骇；恐怖"
+      ]
+    },
+    {
+      "id": "direction",
+      "word": "direction",
+      "forms": [
+        "direction"
+      ],
+      "tier": "recognition",
+      "phonetic": "/di'rekʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "方向；指导",
+      "wordForms": "原文词形：direction",
+      "sentence": "The Cro-Magnons stopped and peered in Annie and Jack’s direction.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/direction.mp3"
+    },
+    {
+      "id": "spear",
+      "word": "spear",
+      "forms": [
+        "spear"
+      ],
+      "tier": "core",
+      "phonetic": "/spiә/",
+      "partOfSpeech": "n.",
+      "meaning": "矛；枪",
+      "wordForms": "原文词形：spear",
+      "sentence": "The tallest person stepped forward and raised a spear.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/spear.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "矛；枪",
+        "笔划；打",
+        "惊骇；恐怖"
+      ]
+    },
+    {
+      "id": "absolutely",
+      "word": "Absolutely",
+      "forms": [
+        "Absolutely"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'æbsәlu:tli/",
+      "partOfSpeech": "adj.",
+      "meaning": "绝对的；专制的",
+      "wordForms": "原文词形：Absolutely",
+      "sentence": "Absolutely still.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/absolutely.mp3"
+    }
+  ]
+}

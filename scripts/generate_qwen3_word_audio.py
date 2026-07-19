@@ -45,14 +45,15 @@ def load_words() -> list[str]:
         raise RuntimeError(f"Cannot parse {WORDS_JS}")
     data = json.loads(match.group(1))
     words = {w.lower() for w in data if re.fullmatch(r"[a-z]+(?:['-][a-z]+)*", w)}
+    words.update(entry.get("lemma", "") for entry in data.values())
     for pattern in CHAPTER_PATTERNS:
         for chapter_path in sorted((ROOT / "data").glob(pattern)):
             chapter = json.loads(chapter_path.read_text(encoding="utf-8"))
             for item in chapter.get("words", []):
-                word = re.sub(r"[^A-Za-z'-]", "", item.get("word", "")).lower()
+                word = normalize_word(item.get("word", ""))
                 if re.fullmatch(r"[a-z]+(?:['-][a-z]+)*", word):
                     words.add(word)
-    return sorted(words)
+    return sorted(word for word in words if re.fullmatch(r"[a-z]+(?:['-][a-z]+)*", word))
 
 
 def load_book_words(book: int) -> list[str]:
@@ -64,14 +65,22 @@ def load_book_words(book: int) -> list[str]:
         for chapter_path in sorted((ROOT / "data").glob(pattern)):
             chapter = json.loads(chapter_path.read_text(encoding="utf-8"))
             for item in chapter.get("words", []):
-                word = re.sub(r"[^A-Za-z'-]", "", item.get("word", "")).lower()
+                word = normalize_word(item.get("word", ""))
                 if re.fullmatch(r"[a-z]+(?:['-][a-z]+)*", word):
                     words.add(word)
-    return sorted(words)
+    raw = WORDS_JS.read_text(encoding="utf-8")
+    match = re.fullmatch(r"\s*window\.WORDS=(.*);\s*", raw, re.S)
+    dictionary = json.loads(match.group(1)) if match else {}
+    words.update(dictionary.get(word, {}).get("lemma", "") for word in list(words))
+    return sorted(word for word in words if re.fullmatch(r"[a-z]+(?:['-][a-z]+)*", word))
 
 
 def output_path(word: str) -> Path:
     return OUTPUT_DIR / f"{word}.mp3"
+
+
+def normalize_word(word: str) -> str:
+    return re.sub(r"[^a-z'-]", "", str(word).lower().replace('’', "'").replace('‘', "'"))
 
 
 def pick_device(requested: str) -> tuple[str, torch.dtype]:

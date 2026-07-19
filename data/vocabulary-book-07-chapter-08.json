@@ -1,0 +1,521 @@
+{
+  "book": 7,
+  "chapter": 8,
+  "title": "The Great Parade",
+  "words": [
+    {
+      "id": "herd",
+      "word": "herd",
+      "forms": [
+        "herd"
+      ],
+      "tier": "recognition",
+      "phonetic": "/hә:d/",
+      "partOfSpeech": "n.",
+      "meaning": "兽群；人群",
+      "wordForms": "原文词形：herd",
+      "sentence": "She pointed to a herd of elk in the distance.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/herd.mp3"
+    },
+    {
+      "id": "elk",
+      "word": "elk",
+      "forms": [
+        "elk"
+      ],
+      "tier": "recognition",
+      "phonetic": "/elk/",
+      "partOfSpeech": "n.",
+      "meaning": "麋鹿",
+      "wordForms": "原文词形：elk",
+      "sentence": "She pointed to a herd of elk in the distance.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/elk.mp3"
+    },
+    {
+      "id": "distance",
+      "word": "distance",
+      "forms": [
+        "distance"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'distәns/",
+      "partOfSpeech": "n.",
+      "meaning": "距离；远方",
+      "wordForms": "原文词形：distance",
+      "sentence": "She pointed to a herd of elk in the distance.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/distance.mp3"
+    },
+    {
+      "id": "reindeer",
+      "word": "reindeer",
+      "forms": [
+        "reindeer"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'rein.diә/",
+      "partOfSpeech": "n.",
+      "meaning": "驯鹿",
+      "wordForms": "原文词形：reindeer",
+      "sentence": "said Jack as a herd of reindeer came into view.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/reindeer.mp3"
+    },
+    {
+      "id": "pranced",
+      "word": "pranced",
+      "forms": [
+        "pranced"
+      ],
+      "tier": "core",
+      "phonetic": "/p'rɑ:nst/",
+      "partOfSpeech": "n.",
+      "meaning": "腾跃；昂首阔步",
+      "wordForms": "原文词形：pranced",
+      "sentence": "They pranced gracefully across the snow.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/pranced.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "腾跃；昂首阔步",
+        "闪耀；火花",
+        "跃；回跳"
+      ]
+    },
+    {
+      "id": "joined",
+      "word": "joined",
+      "forms": [
+        "joined"
+      ],
+      "tier": "core",
+      "phonetic": "/dʒɒin/",
+      "partOfSpeech": "v.",
+      "meaning": "参加；结合",
+      "wordForms": "原文词形：joined",
+      "sentence": "Then a woolly rhino joined them on the open plain.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/joined.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oi",
+          "sound": "/ɔɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "参加；结合",
+        "闪光；一闪",
+        "护送者；护卫者"
+      ]
+    },
+    {
+      "id": "bison",
+      "word": "bison",
+      "forms": [
+        "bison"
+      ],
+      "tier": "core",
+      "phonetic": "/'baisәn/",
+      "partOfSpeech": "n.",
+      "meaning": "野牛",
+      "wordForms": "原文词形：bison",
+      "sentence": "Then a bison!",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/bison.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "野牛",
+        "闪光；一闪",
+        "塞子；插头 vt.塞"
+      ]
+    },
+    {
+      "id": "escorting",
+      "word": "escorting",
+      "forms": [
+        "escorting"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈeskɔ:tɪŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "护送者；护卫者",
+      "wordForms": "原文词形：escorting",
+      "sentence": "They seemed to be escorting Jack and Annie back to the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/escorting.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "护送者；护卫者",
+        "闪耀；火花",
+        "塞子；插头 vt.塞"
+      ]
+    },
+    {
+      "id": "sparkled",
+      "word": "sparkled",
+      "forms": [
+        "sparkled"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈspɑ:kld/",
+      "partOfSpeech": "n.",
+      "meaning": "闪耀；火花",
+      "wordForms": "原文词形：sparkled",
+      "sentence": "The snow sparkled with sunlight.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/sparkled.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "闪耀；火花",
+        "跃；回跳",
+        "护送者；护卫者"
+      ]
+    },
+    {
+      "id": "sunlight",
+      "word": "sunlight",
+      "forms": [
+        "sunlight"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'sʌnlait/",
+      "partOfSpeech": "n.",
+      "meaning": "日光",
+      "wordForms": "原文词形：sunlight",
+      "sentence": "The snow sparkled with sunlight.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/sunlight.mp3"
+    },
+    {
+      "id": "closer",
+      "word": "closer",
+      "forms": [
+        "closer"
+      ],
+      "tier": "core",
+      "phonetic": "/'klәuzә/",
+      "partOfSpeech": "adv.",
+      "meaning": "秘密地",
+      "wordForms": "原文词形：closer",
+      "sentence": "They were getting closer and closer to the grove of tall trees.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/closer.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "秘密地",
+        "野牛",
+        "参加；结合"
+      ]
+    },
+    {
+      "id": "bounded",
+      "word": "bounded",
+      "forms": [
+        "bounded"
+      ],
+      "tier": "core",
+      "phonetic": "/'baundid/",
+      "partOfSpeech": "n.",
+      "meaning": "跃；回跳",
+      "wordForms": "原文词形：bounded",
+      "sentence": "All the other animals bounded off.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/bounded.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "跃；回跳",
+        "秘密地",
+        "参加；结合"
+      ]
+    },
+    {
+      "id": "slinking",
+      "word": "slinking",
+      "forms": [
+        "slinking"
+      ],
+      "tier": "core",
+      "phonetic": "/slɪŋkɪŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "鬼鬼祟祟地走；早产",
+      "wordForms": "原文词形：slinking",
+      "sentence": "Behind them the sabertooth was slinking across the sunlit snow!",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/slinking.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "鬼鬼祟祟地走；早产",
+        "塞子；插头 vt.塞",
+        "腾跃；昂首阔步"
+      ]
+    },
+    {
+      "id": "plunged",
+      "word": "plunged",
+      "forms": [
+        "plunged"
+      ],
+      "tier": "core",
+      "phonetic": "/plʌndʒd/",
+      "partOfSpeech": "n.",
+      "meaning": "塞子；插头 vt.塞",
+      "wordForms": "原文词形：plunged",
+      "sentence": "The woolly mammoth roared and plunged forward.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/plunged.mp3",
+      "phonics": [
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "塞子；插头 vt.塞",
+        "鬼鬼祟祟地走；早产",
+        "跃；回跳"
+      ]
+    },
+    {
+      "id": "wildly",
+      "word": "wildly",
+      "forms": [
+        "wildly"
+      ],
+      "tier": "recognition",
+      "phonetic": "/waild/",
+      "partOfSpeech": "n.",
+      "meaning": "荒野；荒地",
+      "wordForms": "原文词形：wildly",
+      "sentence": "The mammoth thundered wildly over the ground.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/wildly.mp3"
+    },
+    {
+      "id": "glinted",
+      "word": "glinted",
+      "forms": [
+        "glinted"
+      ],
+      "tier": "core",
+      "phonetic": "/glɪntid/",
+      "partOfSpeech": "n.",
+      "meaning": "闪光；一闪",
+      "wordForms": "原文词形：glinted",
+      "sentence": "His long white fangs glinted in the sunlight.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/glinted.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "闪光；一闪",
+        "跃；回跳",
+        "护送者；护卫者"
+      ]
+    }
+  ]
+}

@@ -1,50 +1,71 @@
 const BOOKS = [
   {
-    id:'book-01', number:1, title:'Dinosaurs Before Dark', cn:'勇闯恐龙谷',
+    id:'book-01', number:1, title:'Dinosaurs Before Dark', cn:'勇闯恐龙谷', world:'恐龙时代', badge:'🦕',
+    cardImage:'assets/images/scenes/chapter-01-scene-03.webp', cardAlt:'杰克和安妮在树屋里发现神秘图书',
     chapters:['Into the Woods','The Monster','Where Is Here?','Henry','Gold in the Grass','Dinosaur Valley','Ready, Set, Go!','A Giant Shadow','The Amazing Ride','Home Before Dark'],
     audioStarts:[37.06,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/chapter-${String(i+1).padStart(2,'0')}.json`
   },
   {
-    id:'book-02', number:2, title:'The Knight at Dawn', cn:'古堡惊魂夜',
+    id:'book-02', number:2, title:'The Knight at Dawn', cn:'古堡惊魂夜', world:'中世纪古堡', badge:'🏰',
+    cardImage:'assets/images/book-02-scenes/chapter-02-scene-03.webp', cardAlt:'杰克和安妮在雾中发现古堡和黑马骑士',
     chapters:['The Dark Woods','Leaving Again','Across the Bridge','Into the Castle','Trapped','Ta-da!','A Secret Passage','The Knight','Under the Moon','One Mystery Solved'],
     audioStarts:[0,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/book-02-chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/book-02-chapter-${String(i+1).padStart(2,'0')}.json`
   },
   {
-    id:'book-03', number:3, title:'Mummies in the Morning', cn:'木乃伊之谜',
+    id:'book-03', number:3, title:'Mummies in the Morning', cn:'木乃伊之谜', world:'古埃及', badge:'🏛️',
+    cardImage:'assets/images/book-03-scenes/chapter-02-scene-03.webp', cardAlt:'《木乃伊之谜》古埃及金字塔历险',
     chapters:['Meow!','Oh, Man. Mummies!',"It's Alive!",'Back from the Dead','The Ghost-Queen','The Writing on the Wall','The Scroll','The Mummy','Follow the Leader','Another Clue'],
     audioStarts:[0,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/book-03-chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/book-03-chapter-${String(i+1).padStart(2,'0')}.json`
   },
   {
-    id:'book-04', number:4, title:'Pirates Past Noon', cn:'加勒比海盗',
+    id:'book-04', number:4, title:'Pirates Past Noon', cn:'加勒比海盗', world:'加勒比海', badge:'🏴‍☠️',
+    cardImage:'assets/images/book-04-scenes/chapter-02-scene-03.webp', cardAlt:'《加勒比海盗》热带海岛与海盗帆船历险',
     chapters:['Too Late!','The Bright Blue Sea','Three Men in a Boat','Vile Booty',"The Kid's Treasure","The Whale's Eye","Gale's a-Blowin'",'Dig, Dogs, Dig','The Mysterious M','Treasure Again'],
     audioStarts:[0,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/book-04-chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/book-04-chapter-${String(i+1).padStart(2,'0')}.json`
   },
   {
-    id:'book-05', number:5, title:'Night of the Ninjas', cn:'忍者的秘密',
+    id:'book-05', number:5, title:'Night of the Ninjas', cn:'忍者的秘密', world:'古代日本', badge:'🥷',
+    cardImage:'assets/images/book-05-scenes/chapter-01-scene-01.webp', cardAlt:'《忍者的秘密》月光下的日本山林冒险',
     chapters:['Back into the Woods','The Open Book','E-hy!','Captured','Flames in the Mist','Shadow Warrior','To the East','Dragon Water','Mouse-walk',"'Night, Peanut"],
     audioStarts:[0,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/book-05-chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/book-05-chapter-${String(i+1).padStart(2,'0')}.json`
   },
   {
-    id:'book-06', number:6, title:'Afternoon on the Amazon', cn:'亚马孙探险',
+    id:'book-06', number:6, title:'Afternoon on the Amazon', cn:'亚马孙探险', world:'亚马孙雨林', badge:'🌿',
+    cardImage:'assets/images/book-06-scenes/chapter-01-scene-03.webp', cardAlt:'《亚马孙探险》杰克和安妮发现热带雨林之书',
     chapters:["Where's Peanut?",'Big Bugs','Yikes!','Millions of Them!','Pretty Fish','Monkey Trouble','Freeze!','Vampire Bats?','The Thing','Halfway There'],
     audioStarts:[0,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/book-06-chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/book-06-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-07', number:7, title:'Sunset of the Sabertooth', cn:'勇斗剑齿虎', world:'冰河时代', badge:'🦣',
+    cardImage:'assets/images/book-07-scenes/chapter-02-scene-03.webp', cardAlt:'《勇斗剑齿虎》杰克和安妮在冰河时代发现动物骸骨',
+    chapters:["The 'M' Things",'Bones','Brrr!','Cave Kids','Snow Tracks','Song on the Wind',"The Sorcerer's Gift",'The Great Parade','Master of the Animals','This Age'],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-07-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-07-chapter-${String(i+1).padStart(2,'0')}.json`
   }
 ];
 
+const REWARD_CONFIG={chaptersPerLevel:10};
 function readStoredJSON(key,fallback){try{return JSON.parse(localStorage.getItem(key)||'null')??fallback}catch{return fallback}}
-const savedComplete=readStoredJSON('mth-complete',[]).map(x=>typeof x==='number'?`0-${x}`:String(x));
+function normalizeCompletionRecord(value){
+  if(typeof value==='number')return BOOKS[0]?.id?`${BOOKS[0].id}:${value}`:null;
+  const raw=String(value),stable=raw.match(/^(.+):(\d+)$/);if(stable){const book=BOOKS.find(item=>item.id===stable[1]);return book&&Number(stable[2])<book.chapters.length?raw:null}
+  const legacy=raw.match(/^(\d+)-(\d+)$/);if(legacy){const book=BOOKS[Number(legacy[1])],chapter=Number(legacy[2]);return book&&chapter<book.chapters.length?`${book.id}:${chapter}`:null}
+  return null;
+}
+const rawComplete=readStoredJSON('mth-complete',[]),savedComplete=[...new Set(rawComplete.map(normalizeCompletionRecord).filter(Boolean))];
 const quizStore=readStoredJSON('mth-quiz-v1',{});
 const addedStore=readStoredJSON('mth-added-vocab-v1',{});
 const state={book:0,chapter:0,page:0,pages:[],scenes:[],words:[],view:'home',lockedWord:null,completed:new Set(savedComplete),questionBank:null,quiz:null,debugTab:'skills',vocabulary:null,vocabLesson:null};
@@ -56,16 +77,16 @@ pronunciationAudio.preload='auto';
 let activeTTS=null;
 
 function currentBook(){return BOOKS[state.book]}
-function completionKey(chapter=state.chapter,book=state.book){return `${book}-${chapter}`}
-function chapterRoman(n){return ['ONE','TWO','THREE','FOUR','FIVE','SIX','SEVEN','EIGHT','NINE','TEN'][n-1]}
+function completionKey(chapter=state.chapter,book=state.book){return `${BOOKS[book].id}:${chapter}`}
+function chapterRoman(n){return ['ONE','TWO','THREE','FOUR','FIVE','SIX','SEVEN','EIGHT','NINE','TEN'][n-1]||String(n)}
 function audioPath(i=state.chapter,bookIndex=state.book){return BOOKS[bookIndex].audio(i)}
 function dataPath(i=state.chapter,bookIndex=state.book){return BOOKS[bookIndex].data(i)}
-function vocabularyPath(i=state.chapter,bookIndex=state.book){return `data/vocabulary-book-${String(bookIndex+1).padStart(2,'0')}-chapter-${String(i+1).padStart(2,'0')}.json`}
+function vocabularyPath(i=state.chapter,bookIndex=state.book){return `data/vocabulary-${BOOKS[bookIndex].id}-chapter-${String(i+1).padStart(2,'0')}.json`}
 function audioStart(){return Number.isFinite(state.words[0]?.start)?state.words[0].start:(currentBook().audioStarts[state.chapter]||0)}
 function hasVocabulary(bookIndex=state.book,chapterIndex=state.chapter){return bookIndex>=0&&bookIndex<BOOKS.length&&chapterIndex>=0&&chapterIndex<BOOKS[bookIndex].chapters.length}
 
 function pronunciationStatus(text,isError=false){const el=$('#pronunciationStatus');el.textContent=text;el.classList.toggle('error',isError)}
-function wordAudioPath(word){const key=String(word||'').toLowerCase().replace(/[^a-z'-]/g,'');return key?`assets/audio/words/${encodeURIComponent(key)}.mp3`:''}
+function wordAudioPath(word){const key=String(word||'').toLowerCase().replace(/[’‘]/g,"'").replace(/[^a-z'-]/g,'');return key?`assets/audio/words/${encodeURIComponent(key)}.mp3`:''}
 function clearTTS(){pronunciationAudio.pause();pronunciationAudio.currentTime=0;activeTTS?.button?.classList.remove('speaking');activeTTS=null}
 function finishTTS(isError=false){const current=activeTTS;if(!current)return;pronunciationAudio.pause();current.button?.classList.remove('speaking');if(current.showStatus)pronunciationStatus(isError?'音频加载失败，请刷新后重试':current.endMessage,isError);activeTTS=null}
 function playTTS(path,button,{startMessage='正在播放…',endMessage='播放完毕 · 可再次点击',showStatus=false}={}){
@@ -82,6 +103,30 @@ function pronounceCurrentSentence(event){event.preventDefault();event.stopPropag
 pronunciationAudio.onended=()=>finishTTS(false);
 pronunciationAudio.onerror=()=>finishTTS(true);
 
+function collectionName(){return `${BOOKS.length}册原著精读营`}
+function completedCountForBook(bookIndex){return BOOKS[bookIndex].chapters.reduce((count,_title,chapterIndex)=>count+(state.completed.has(completionKey(chapterIndex,bookIndex))?1:0),0)}
+function rewardSnapshot(){
+  const completedChapters=BOOKS.reduce((sum,_book,bookIndex)=>sum+completedCountForBook(bookIndex),0),size=REWARD_CONFIG.chaptersPerLevel,level=Math.floor(completedChapters/size)+1,levelProgress=completedChapters%size;
+  const completedBooks=BOOKS.reduce((sum,book,bookIndex)=>sum+(completedCountForBook(bookIndex)===book.chapters.length?1:0),0);
+  return{completedChapters,completedBooks,level,levelProgress,size,nextLevelIn:size-levelProgress};
+}
+function renderLibrary(){
+  $('#bookGrid').innerHTML=BOOKS.map((book,bookIndex)=>{const done=completedCountForBook(bookIndex),complete=done===book.chapters.length,image=book.cardImage||'assets/images/prehistoric-adventure.png';return `<article class="book-entry ${complete?'is-complete':''}">${complete?'<em class="book-complete-tag">✦ 已完成</em>':''}<img src="${escapeHTML(image)}" alt="${escapeHTML(book.cardAlt||book.title)}"><div><span>BOOK ${book.number} · ${escapeHTML(book.world||book.cn)}</span><h3>${escapeHTML(book.title)}</h3><p>《${escapeHTML(book.cn)}》</p><small>${book.chapters.length} 章 · ${book.chapters.length*3} 个剧情场景 · ${done}/${book.chapters.length} 章已完成</small><button data-book-start="${bookIndex}">${complete?'重温':'进入'}第${book.number}册 <b>→</b></button></div></article>`}).join('');
+}
+function renderRewards(){
+  const reward=rewardSnapshot(),pct=Math.round(reward.levelProgress/reward.size*100);
+  $('#rewardLevel').textContent=reward.level;$('#rewardChapters').textContent=reward.completedChapters;$('#rewardBooks').textContent=reward.completedBooks;$('#rewardBar').style.width=pct+'%';$('#rewardTrackLabel').textContent=`${reward.levelProgress} / ${reward.size} 章`;
+  $('#rewardNext').textContent=`再完成 ${reward.nextLevelIn} 章升到 Lv.${reward.level+1}。新书上线只会扩展探索地图，不会降低已获得的等级。`;
+  $('#bookBadges').innerHTML=BOOKS.map((book,bookIndex)=>{const done=completedCountForBook(bookIndex),earned=done===book.chapters.length;return `<article class="book-badge ${earned?'earned':''}" title="${earned?'已获得':'完成本册后获得'}"><span>${book.badge||'✦'}</span><div><b>BOOK ${book.number} · ${escapeHTML(book.cn)}</b><small>${earned?'✦ 已收藏读物徽章':`${done}/${book.chapters.length} 章 · 继续探索`}</small></div></article>`}).join('');
+}
+let rewardToastTimer=null;
+function showRewardToast(message){const toast=$('#rewardToast');toast.innerHTML=`<span>✦</span><div><b>探索记录已更新</b><small>${escapeHTML(message)}</small></div>`;toast.classList.add('show');clearTimeout(rewardToastTimer);rewardToastTimer=setTimeout(()=>toast.classList.remove('show'),4200)}
+function persistCompleted(){localStorage.setItem('mth-complete',JSON.stringify([...state.completed]))}
+function markChapterComplete(){
+  const key=completionKey();if(state.completed.has(key))return;const before=rewardSnapshot();state.completed.add(key);persistCompleted();const after=rewardSnapshot(),book=currentBook(),bookComplete=completedCountForBook(state.book)===book.chapters.length;
+  updateProgress();renderNav();showRewardToast(after.level>before.level?`升到 Lv.${after.level}！已完成 ${after.completedChapters} 章。`:bookComplete?`《${book.cn}》徽章已解锁！`:`《${book.cn}》第 ${state.chapter+1} 章已完成。`);
+}
+
 function renderNav(){
   const book=currentBook();
   const tabs=`<div class="book-tabs">${BOOKS.map((item,i)=>`<button class="book-tab ${state.book===i?'active':''}" data-book="${i}"><strong>BOOK ${item.number}</strong><span>${item.cn}</span></button>`).join('')}</div><p class="book-nav-title">${book.title}<small>《${book.cn}》</small></p>`;
@@ -89,16 +134,16 @@ function renderNav(){
   els.nav.innerHTML=tabs+chapters;
 }
 function setView(view){state.view=view;els.home.classList.toggle('hidden',view!=='home');els.reader.classList.toggle('hidden',view!=='reader');els.exercise.classList.toggle('hidden',view!=='exercise');els.vocabulary.classList.toggle('hidden',view!=='vocabulary');els.debug.classList.toggle('hidden',view!=='debug');els.player.classList.toggle('hidden',view!=='reader');$('.home-link').classList.toggle('active',view==='home');closeMenu();renderNav();window.scrollTo({top:0,behavior:'smooth'})}
-function showHome(){document.title='Magic Tree House · 六册原著精读营';$('#brandSubtitle').textContent='六册原著精读营';setView('home')}
+function showHome(){document.title=`Magic Tree House · ${collectionName()}`;$('#brandSubtitle').textContent=collectionName();setView('home')}
 function setBook(bookIndex,openFirst=false){state.book=bookIndex;state.chapter=0;state.page=0;renderNav();if(openFirst)openChapter(0,false,bookIndex)}
 async function openChapter(i,keepTime=false,bookIndex=state.book){
   const requestId=++chapterRequestId;
   const changedBook=state.book!==bookIndex;state.book=bookIndex;state.chapter=i;state.page=0;
   const book=currentBook();setView('reader');
   $('#chapterNumber').textContent=i+1;$('#chapterLabel').textContent=`BOOK ${book.number} · CHAPTER ${chapterRoman(i+1)}`;$('#chapterKicker').textContent=`BOOK ${book.number} · CHAPTER ${chapterRoman(i+1)}`;$('#chapterTitle').textContent=book.chapters[i];$('#trackTitle').textContent=`Book ${book.number} · Chapter ${i+1} · ${book.chapters[i]}`;$('#currentBookLabel').textContent=`BOOK ${book.number} · 《${book.cn}》`;$('#brandSubtitle').textContent=`Book ${book.number} · ${book.title}`;document.title=`${book.chapters[i]} · ${book.cn} · Magic Tree House`;
-  try{const r=await fetch(`${dataPath(i,bookIndex)}?v=20260719-book6`,{cache:'no-store'});if(!r.ok)throw 0;const d=await r.json();if(requestId!==chapterRequestId)return;state.words=d.words||[];state.pages=d.pages||[];state.scenes=d.scenes||[];}catch{if(requestId!==chapterRequestId)return;state.words=[];state.scenes=[];state.pages=[[{text:'本章内容正在制作中，敬请期待～（若为已上线章节请检查网络后重试）',words:[]}]]}
+  try{const r=await fetch(`${dataPath(i,bookIndex)}?v=20260720-book7-lemma`,{cache:'no-store'});if(!r.ok)throw 0;const d=await r.json();if(requestId!==chapterRequestId)return;state.words=d.words||[];state.pages=d.pages||[];state.scenes=d.scenes||[];}catch{if(requestId!==chapterRequestId)return;state.words=[];state.scenes=[];state.pages=[[{text:'本章内容正在制作中，敬请期待～（若为已上线章节请检查网络后重试）',words:[]}]]}
   state.vocabulary=null;state.vocabLesson=null;
-  if(hasVocabulary(bookIndex,i)){try{const r=await fetch(`${vocabularyPath(i,bookIndex)}?v=20260719-vocab-book6`,{cache:'no-store'});if(!r.ok)throw 0;const vocabulary=await r.json();if(requestId!==chapterRequestId)return;state.vocabulary=vocabulary}catch{state.vocabulary={words:[]}}}
+  if(hasVocabulary(bookIndex,i)){try{const r=await fetch(`${vocabularyPath(i,bookIndex)}?v=20260720-book7-lemma`,{cache:'no-store'});if(!r.ok)throw 0;const vocabulary=await r.json();if(requestId!==chapterRequestId)return;state.vocabulary=vocabulary}catch{state.vocabulary={words:[]}}}
   mergeAddedVocabulary(bookIndex,i);
   $('#vocabularyButton').classList.toggle('hidden',!state.vocabulary?.words?.length);
   renderPage();
@@ -123,16 +168,17 @@ function tick(){
 }
 function findWord(t){let lo=0,hi=state.words.length-1,best=-1;while(lo<=hi){const m=(lo+hi)>>1;if(state.words[m].start<=t){best=m;lo=m+1}else hi=m-1}return best}
 function togglePlay(){if(audio.paused)audio.play();else audio.pause()}
-function normalizeWord(word){return String(word||'').toLowerCase().replace(/[^a-z'-]/g,'')}
+function normalizeWord(word){return String(word||'').toLowerCase().replace(/[’‘]/g,"'").replace(/[^a-z'-]/g,'')}
+function lemmaForWord(word){const normalized=normalizeWord(word),mapped=normalizeWord((window.WORDS||{})[normalized]?.lemma);return mapped||normalized}
 function findVocabByForm(word){const normalized=normalizeWord(word);return state.vocabulary?.words?.find(item=>item.forms.some(form=>normalizeWord(form)===normalized))||null}
 function vocabById(id){return state.vocabulary?.words?.find(item=>item.id===id)||null}
 function showWordCard(target,lock=false){
-  const sourceWord=(target.dataset.word||'').replace(/[^A-Za-z’'-]/g,'');if(!sourceWord)return;const normalized=normalizeWord(sourceWord),vocab=vocabById(target.dataset.vocabId)||findVocabByForm(sourceWord),dictionary=(window.WORDS||{})[normalized]||{};const displayWord=vocab?.word||sourceWord;
-  const meaningText=vocab?.meaning||dictionary.meaning||'专有名词或变形词，请结合上下文理解';
-  $('#cardWord').textContent=displayWord;els.card.dataset.wordIndex=target.dataset.index;els.card.dataset.audioWord=displayWord;els.card.dataset.sentenceAudio=vocab?.sentenceAudio||'';$('#cardPhonetic').textContent=vocab?.phonetic||dictionary.phonetic||phoneticFallback(displayWord);$('#cardMeaning').textContent=meaningText;
-  $('#cardTier').textContent=vocab?(vocab.added?'MY WORD · 我的生词':vocab.tier==='core'?'CORE WORD · 核心掌握':'READING WORD · 阅读认识'):'WORD CARD';$('#cardPartOfSpeech').textContent=vocab?.partOfSpeech||'';$('#cardSourceForm').textContent=vocab&&normalizeWord(displayWord)!==normalized?`原文：${sourceWord}`:'';
+  const sourceWord=(target.dataset.word||'').replace(/[^A-Za-z’'-]/g,'');if(!sourceWord)return;const normalized=normalizeWord(sourceWord),vocab=vocabById(target.dataset.vocabId)||findVocabByForm(sourceWord),dictionary=(window.WORDS||{})[normalized]||{},lemma=vocab?.word||lemmaForWord(sourceWord),lemmaDictionary=(window.WORDS||{})[normalizeWord(lemma)]||dictionary,displayWord=vocab?.word||sourceWord;
+  const meaningText=vocab?.meaning||lemmaDictionary.meaning||dictionary.meaning||'专有名词或变形词，请结合上下文理解';
+  $('#cardWord').textContent=displayWord;els.card.dataset.wordIndex=target.dataset.index;els.card.dataset.audioWord=vocab?.word||sourceWord;els.card.dataset.sentenceAudio=vocab?.sentenceAudio||'';$('#cardPhonetic').textContent=vocab?.phonetic||dictionary.phonetic||lemmaDictionary.phonetic||phoneticFallback(displayWord);$('#cardMeaning').textContent=meaningText;
+  $('#cardTier').textContent=vocab?(vocab.added?'MY WORD · 我的生词':vocab.tier==='core'?'CORE WORD · 核心掌握':'READING WORD · 阅读认识'):'WORD CARD';$('#cardPartOfSpeech').textContent=vocab?.partOfSpeech||'';$('#cardSourceForm').textContent=normalizeWord(displayWord)!==normalized?`原文：${sourceWord}`:!vocab&&normalizeWord(lemma)!==normalized?`原形：${lemma}`:'';
   $('#cardForms').textContent=vocab?.wordForms||'';$('#cardFormsRow').classList.toggle('hidden',!vocab?.wordForms);$('#cardSentence').textContent=vocab?.sentence||'';$('#speakSentence').classList.toggle('hidden',!vocab?.sentenceAudio);$('#cardDetails').classList.toggle('hidden',!(vocab&&(vocab.wordForms||vocab.sentence)));
-  const canAdd=!vocab&&!!dictionary.meaning,already=!!(vocab&&vocab.added);els.card.dataset.addWord=displayWord;els.card.dataset.addSource=sourceWord;els.card.dataset.addMeaning=meaningText;els.card.dataset.addPhonetic=$('#cardPhonetic').textContent;els.card.dataset.addSentence=readingSentence(target.dataset.index);
+  const canAdd=!vocab&&!!(lemmaDictionary.meaning||dictionary.meaning),already=!!(vocab&&vocab.added);els.card.dataset.addWord=lemma;els.card.dataset.addSource=sourceWord;els.card.dataset.addMeaning=meaningText;els.card.dataset.addPhonetic=vocab?.phonetic||lemmaDictionary.phonetic||dictionary.phonetic||phoneticFallback(lemma);els.card.dataset.addSentence=readingSentence(target.dataset.index);
   $('#wordAddButton').classList.toggle('hidden',!(canAdd||already));if(canAdd||already)updateAddButton(already);
   pronunciationStatus(vocab?'单词和原文例句均可点击播放':canAdd?'可加入本章生词本 · 点击喇叭听发音':'点击喇叭听美式标准发音');
   els.card.classList.remove('hidden');const rect=target.getBoundingClientRect();if(innerWidth>650){const left=Math.min(innerWidth-310,Math.max(12,rect.left));const desiredTop=rect.bottom+12;const top=desiredTop+els.card.offsetHeight<innerHeight-12?desiredTop:rect.top-els.card.offsetHeight-12;els.card.style.left=`${left}px`;els.card.style.top=`${Math.max(78,top)}px`}if(lock)state.lockedWord=target;
@@ -141,7 +187,7 @@ function phoneticFallback(word){return `/ ${word.toLowerCase()} /`}
 function hideCard(){if(activeTTS?.button?.closest('.word-card'))clearTTS();els.card.classList.add('hidden');state.lockedWord=null}
 async function loadQuestionBank(){
   if(state.questionBank)return state.questionBank;
-  const r=await fetch('data/questions.json?v=20260719-book6',{cache:'no-store'});if(!r.ok)throw new Error('题库加载失败');state.questionBank=await r.json();return state.questionBank;
+  const r=await fetch('data/questions.json?v=20260720-book7-lemma',{cache:'no-store'});if(!r.ok)throw new Error('题库加载失败');state.questionBank=await r.json();return state.questionBank;
 }
 function chapterQuestions(bookIndex=state.book,chapterIndex=state.chapter){return state.questionBank?.books?.[bookIndex]?.chapters?.[chapterIndex]?.questions||[]}
 function persistQuiz(){const q=state.quiz;if(!q)return;const checkedCount=Object.keys(q.checked).length;const score=q.questions.filter(item=>q.checked[item.id]&&q.answers[item.id]===item.answer).length;quizStore[q.key]={answers:q.answers,checked:q.checked,index:q.index,completed:checkedCount===q.questions.length,score};localStorage.setItem('mth-quiz-v1',JSON.stringify(quizStore))}
@@ -164,6 +210,7 @@ function addedKey(b=state.book,c=state.chapter){return `${b}-${c}`}
 function addedListFor(b=state.book,c=state.chapter){return addedStore[addedKey(b,c)]||[]}
 function addedWordId(word){return 'u-'+normalizeWord(word)}
 function persistAdded(){localStorage.setItem('mth-added-vocab-v1',JSON.stringify(addedStore))}
+function migrateAddedVocabulary(){let changed=false;Object.keys(addedStore).forEach(key=>{const migrated=[];for(const old of Array.isArray(addedStore[key])?addedStore[key]:[]){const sourceForms=[...(old.forms||[]),old.word].map(normalizeWord).filter(Boolean),lemma=lemmaForWord(old.word),dictionary=(window.WORDS||{})[lemma]||{},id=addedWordId(lemma),existing=migrated.find(item=>item.id===id);if(existing){existing.forms=[...new Set([...existing.forms,...sourceForms,lemma])];changed=true;continue}const originalForms=[...new Set(sourceForms.filter(form=>form!==lemma))];const item={...old,id,word:lemma,forms:[lemma,...originalForms],audioWord:lemma,phonetic:dictionary.phonetic||old.phonetic||'',meaning:dictionary.meaning||old.meaning||'',wordForms:originalForms.length?`原文词形：${originalForms.join(' / ')}`:'',tier:'added',added:true};if(item.id!==old.id||item.word!==old.word||item.wordForms!==old.wordForms)changed=true;migrated.push(item)}if(migrated.length)addedStore[key]=migrated;else delete addedStore[key]});if(changed)persistAdded()}
 function mergeAddedVocabulary(b=state.book,c=state.chapter){if(!state.vocabulary)state.vocabulary={words:[]};if(!Array.isArray(state.vocabulary.words))state.vocabulary.words=[];state.vocabulary.words=state.vocabulary.words.filter(w=>!w.added);const have=new Set(state.vocabulary.words.map(w=>w.id));addedListFor(b,c).forEach(w=>{if(!have.has(w.id))state.vocabulary.words.push({...w,tier:'added',added:true})})}
 function readingSentence(index){index=Number(index);if(!Number.isInteger(index)||!state.words[index])return '';let a=index,b=index;while(a>0&&!/[.!?]/.test(state.words[a-1].after||''))a--;while(b<state.words.length-1&&!/[.!?]/.test(state.words[b].after||''))b++;let s='';for(let j=a;j<=b;j++){const w=state.words[j];s+=(w.before||'')+w.word+(w.after||'')}return s.trim()}
 function previewList(){const t=state.vocabLesson?.previewTier;return t==='recognition'?recognitionVocabulary():t==='added'?addedVocabulary():coreVocabulary()}
@@ -172,7 +219,7 @@ function toggleAddCurrentWord(){
   const key=addedKey(),id=addedWordId(word),list=addedStore[key]||(addedStore[key]=[]);
   const idx=list.findIndex(w=>w.id===id);let addedNow;
   if(idx>=0){list.splice(idx,1);if(!list.length)delete addedStore[key];addedNow=false}
-  else{list.push({id,word,forms:[word,els.card.dataset.addSource].filter((v,i,a)=>v&&a.indexOf(v)===i),tier:'added',added:true,phonetic:els.card.dataset.addPhonetic||'',partOfSpeech:els.card.dataset.addPos||'',meaning:els.card.dataset.addMeaning||'',wordForms:'',sentence:els.card.dataset.addSentence||'',sentenceAudio:''});addedNow=true}
+  else{const source=normalizeWord(els.card.dataset.addSource),originalForms=source&&source!==normalizeWord(word)?[source]:[];list.push({id,word,forms:[word,...originalForms],audioWord:word,tier:'added',added:true,phonetic:els.card.dataset.addPhonetic||'',partOfSpeech:els.card.dataset.addPos||'',meaning:els.card.dataset.addMeaning||'',wordForms:originalForms.length?`原文词形：${originalForms.join(' / ')}`:'',sentence:els.card.dataset.addSentence||'',sentenceAudio:''});addedNow=true}
   persistAdded();mergeAddedVocabulary();updateAddButton(addedNow);
   pronunciationStatus(addedNow?'已加入本章生词本，可在「词汇学习 · 我的生词」复习':'已从本章生词本移除');
   $('#vocabularyButton').classList.toggle('hidden',!state.vocabulary?.words?.length);
@@ -256,19 +303,19 @@ const DEBUG_SKILLS=[
 async function showDebug(tab=state.debugTab){state.debugTab=tab;setView('debug');document.title='Developer Debug · Magic Tree House';$('#debugPanel').innerHTML='<div class="quiz-loading"><span></span><p>正在读取项目资料…</p></div>';try{await loadQuestionBank();const chapters=state.questionBank.books.reduce((n,b)=>n+b.chapters.length,0),questions=state.questionBank.books.reduce((n,b)=>n+b.chapters.reduce((m,c)=>m+c.questions.length,0),0);$('#debugStats').innerHTML=`<div><b>${DEBUG_SKILLS.length}</b><span>Skills</span></div><div><b>${state.questionBank.books.length}</b><span>Books</span></div><div><b>${chapters}</b><span>Chapters</span></div><div><b>${questions}</b><span>Questions</span></div>`;document.querySelectorAll('[data-debug-tab]').forEach(b=>b.classList.toggle('active',b.dataset.debugTab===tab));if(tab==='skills')await renderDebugSkills();if(tab==='questions')renderDebugQuestions();if(tab==='data')await renderDebugData()}catch(error){$('#debugPanel').innerHTML=`<div class="quiz-error"><b>Debug 数据读取失败</b><p>${escapeHTML(error.message)}</p></div>`}}
 async function renderDebugSkills(){const contents=await Promise.all(DEBUG_SKILLS.map(async skill=>{try{const r=await fetch(`${skill.path}?v=20260714`,{cache:'no-store'});return r.ok?await r.text():'文件未找到'}catch{return'读取失败'}}));$('#debugPanel').innerHTML=`<div class="skill-grid">${DEBUG_SKILLS.map((skill,i)=>`<details class="skill-card" ${i===0?'open':''}><summary><span>SKILL ${i+1}</span><h2>${escapeHTML(skill.cn)}</h2><p>${escapeHTML(skill.title)}</p><code>${escapeHTML(skill.path)}</code></summary><pre>${escapeHTML(contents[i])}</pre></details>`).join('')}</div>`}
 function allQuestions(){return state.questionBank.books.flatMap((book,bi)=>book.chapters.flatMap((chapter,ci)=>chapter.questions.map(q=>({...q,bookIndex:bi,chapterIndex:ci,bookTitle:book.book_title_cn,chapterTitle:chapter.chapter_title}))))}
-function renderDebugQuestions(){const standards=[...new Set(allQuestions().map(q=>q.standard))].sort();$('#debugPanel').innerHTML=`<div class="question-tools"><select id="debugBook"><option value="all">全部册</option>${state.questionBank.books.map((b,i)=>`<option value="${i}">Book ${b.book} · ${escapeHTML(b.book_title_cn)}</option>`).join('')}</select><select id="debugChapter"><option value="all">全部章节</option>${Array.from({length:10},(_,i)=>`<option value="${i}">Chapter ${i+1}</option>`).join('')}</select><select id="debugStandard"><option value="all">全部标准</option>${standards.map(s=>`<option>${escapeHTML(s)}</option>`).join('')}</select><input id="debugSearch" type="search" placeholder="搜索题干、技能或标签…"><span id="debugResultCount"></span></div><div class="question-inspector" id="questionInspector"></div>`;['debugBook','debugChapter','debugStandard','debugSearch'].forEach(id=>$('#'+id).addEventListener('input',filterDebugQuestions));filterDebugQuestions()}
+function renderDebugQuestions(){const standards=[...new Set(allQuestions().map(q=>q.standard))].sort(),chapterCount=Math.max(0,...state.questionBank.books.map(book=>book.chapters.length));$('#debugPanel').innerHTML=`<div class="question-tools"><select id="debugBook"><option value="all">全部册</option>${state.questionBank.books.map((b,i)=>`<option value="${i}">Book ${b.book} · ${escapeHTML(b.book_title_cn)}</option>`).join('')}</select><select id="debugChapter"><option value="all">全部章节</option>${Array.from({length:chapterCount},(_,i)=>`<option value="${i}">Chapter ${i+1}</option>`).join('')}</select><select id="debugStandard"><option value="all">全部标准</option>${standards.map(s=>`<option>${escapeHTML(s)}</option>`).join('')}</select><input id="debugSearch" type="search" placeholder="搜索题干、技能或标签…"><span id="debugResultCount"></span></div><div class="question-inspector" id="questionInspector"></div>`;['debugBook','debugChapter','debugStandard','debugSearch'].forEach(id=>$('#'+id).addEventListener('input',filterDebugQuestions));filterDebugQuestions()}
 function filterDebugQuestions(){const book=$('#debugBook').value,chapter=$('#debugChapter').value,standard=$('#debugStandard').value,query=$('#debugSearch').value.trim().toLowerCase();const list=allQuestions().filter(q=>(book==='all'||q.bookIndex===+book)&&(chapter==='all'||q.chapterIndex===+chapter)&&(standard==='all'||q.standard===standard)&&(!query||[q.id,q.stem,q.skill,q.difficulty,q.standard].join(' ').toLowerCase().includes(query)));$('#debugResultCount').textContent=`${list.length} 题`;$('#questionInspector').innerHTML=list.map(q=>`<details class="question-debug-card"><summary><div><span>${q.id}</span><b>${escapeHTML(q.stem)}</b></div><i>${escapeHTML(q.bookTitle)} · Ch.${q.chapterIndex+1}</i></summary><div class="question-debug-body"><div class="quiz-meta"><span>${escapeHTML(q.standard)}</span><span>${escapeHTML(q.skill)}</span><span>DOK ${q.dok} · ${escapeHTML(q.difficulty)}</span></div><ol type="A">${Object.entries(q.options).map(([letter,text])=>`<li class="${letter===q.answer?'answer':''}">${escapeHTML(text)} ${letter===q.answer?'<b>✓ 正确答案</b>':''}</li>`).join('')}</ol><p><b>解析：</b>${escapeHTML(q.rationale)}</p><div><b>证据：</b>${q.evidence.map(e=>`<blockquote>${escapeHTML(e)}</blockquote>`).join('')}</div></div></details>`).join('')||'<div class="empty-state">没有符合筛选条件的题目。</div>'}
 async function renderDebugData(){const checks=await Promise.all(BOOKS.flatMap((book,bi)=>book.chapters.map(async(title,ci)=>{try{const r=await fetch(`${dataPath(ci,bi)}?v=20260714`,{cache:'no-store'});if(!r.ok)throw new Error(String(r.status));const d=await r.json();return{ok:true,book:bi+1,chapter:ci+1,title,pages:d.pages?.length||0,scenes:d.scenes?.length||0,words:d.words?.length||0,questions:chapterQuestions(bi,ci).length}}catch(error){return{ok:false,book:bi+1,chapter:ci+1,title,error:error.message}}})));$('#debugPanel').innerHTML=`<div class="data-summary ${checks.every(x=>x.ok&&x.pages>1&&x.questions===5)?'healthy':'warning'}"><b>${checks.filter(x=>x.ok&&x.pages>1&&x.questions===5).length} / ${checks.length}</b><span>章节正文与题目检查通过</span></div><div class="data-grid">${checks.map(x=>`<article class="data-card ${x.ok&&x.pages>1&&x.questions===5?'ok':'bad'}"><span>${x.ok&&x.pages>1&&x.questions===5?'✓':'!'}</span><div><small>BOOK ${x.book} · CHAPTER ${x.chapter}</small><h3>${escapeHTML(x.title)}</h3>${x.ok?`<p>${x.pages} 页 · ${x.scenes} 场景 · ${x.words} 词 · ${x.questions} 题</p>`:`<p>加载失败：${escapeHTML(x.error)}</p>`}</div></article>`).join('')}</div>`}
-function updateProgress(){const total=BOOKS.reduce((sum,book)=>sum+book.chapters.length,0);const pct=Math.round(state.completed.size/total*100);$('#progressLabel').textContent=`六册进度 ${state.completed.size}/${total}`;$('#progressBar').style.width=pct+'%'}
+function updateProgress(){const reward=rewardSnapshot(),pct=Math.round(reward.levelProgress/reward.size*100);$('#progressLabel').textContent=`探索等级 Lv.${reward.level} · ${reward.levelProgress}/${reward.size}`;$('#progressBar').style.width=pct+'%';renderRewards();renderLibrary()}
 function openMenu(){els.sidebar.classList.add('open');els.scrim.classList.add('show')} function closeMenu(){els.sidebar.classList.remove('open');els.scrim.classList.remove('show')}
 
-$('#startButton').onclick=()=>openChapter(0,false,0);$('#brandButton').onclick=showHome;$('#backHome').onclick=showHome;$('#menuButton').onclick=openMenu;$('#closeMenu').onclick=closeMenu;els.scrim.onclick=closeMenu;$('.home-link').onclick=showHome;
+$('#startButton').onclick=()=>openChapter(0,false,0);$('#brandButton').onclick=showHome;$('#backHome').onclick=showHome;$('#menuButton').onclick=openMenu;$('#closeMenu').onclick=closeMenu;els.scrim.onclick=closeMenu;$('.home-link').onclick=showHome;$('#rewardButton').onclick=()=>{if(state.view!=='home')showHome();setTimeout(()=>$('#rewardHub').scrollIntoView({behavior:'smooth',block:'center'}),0)};
 document.querySelector('.book-library').onclick=e=>{const button=e.target.closest('[data-book-start]');if(button)openChapter(0,false,+button.dataset.bookStart)};
 els.nav.onclick=e=>{const b=e.target.closest('[data-book]'),c=e.target.closest('[data-chapter]'),p=e.target.closest('[data-practice]'),v=e.target.closest('[data-vocabulary]');if(b){const index=+b.dataset.book;if(state.view==='home')setBook(index,false);else openChapter(0,false,index);return}if(c){openChapter(+c.dataset.chapter);return}if(p){showExercise(+p.dataset.practice);return}if(v)showChapterVocabulary(+v.dataset.vocabulary)};
 $('#exerciseButton').onclick=()=>showExercise(state.chapter);$('#backToReading').onclick=()=>openChapter(state.chapter,true);$('#vocabularyButton').onclick=()=>showVocabulary();$('#backFromVocabulary').onclick=()=>openChapter(state.chapter,true,state.book);$('#playButton').onclick=()=>{hideCard();togglePlay()};
 $('#exerciseContent').onclick=e=>{const answer=e.target.closest('[data-answer]'),action=e.target.closest('[data-quiz-action]');if(answer&&state.quiz){const q=state.quiz.questions[state.quiz.index];if(!state.quiz.checked[q.id]){state.quiz.answers[q.id]=answer.dataset.answer;persistQuiz();renderQuiz()}}if(action)handleQuizAction(action.dataset.quizAction)};
 const vocabularyContent=$('#vocabularyContent');let suppressPhonicsClick=false,phonicsPointerDrag=null;
-vocabularyContent.onclick=e=>{const audioButton=e.target.closest('[data-vocab-audio]'),meaning=e.target.closest('[data-vocab-meaning]'),phonicsPiece=e.target.closest('[data-phonics-piece]'),spellingKey=e.target.closest('[data-spelling-key]'),action=e.target.closest('[data-vocab-action]');if(audioButton){const item=vocabById(audioButton.dataset.vocabId);if(item){const sentence=audioButton.dataset.vocabAudio==='sentence';playTTS(sentence?item.sentenceAudio:wordAudioPath(item.word),audioButton)}return}if(phonicsPiece){if(!suppressPhonicsClick)clickPhonicsPiece(+phonicsPiece.dataset.phonicsPiece,phonicsPiece.dataset.phonicsSource);return}if(spellingKey&&state.vocabLesson?.stage==='spell'&&!state.vocabLesson.spellingSolved){const item=coreVocabulary()[state.vocabLesson.index];if(state.vocabLesson.spellingValue.length<item.word.length){state.vocabLesson.spellingValue+=spellingKey.dataset.spellingKey;renderVocabulary()}return}if(meaning&&state.vocabLesson&&!state.vocabLesson.meaningChecked){state.vocabLesson.meaningChoice=meaning.dataset.vocabMeaning;renderVocabulary();return}if(action)handleVocabularyAction(action.dataset.vocabAction)};
+vocabularyContent.onclick=e=>{const audioButton=e.target.closest('[data-vocab-audio]'),meaning=e.target.closest('[data-vocab-meaning]'),phonicsPiece=e.target.closest('[data-phonics-piece]'),spellingKey=e.target.closest('[data-spelling-key]'),action=e.target.closest('[data-vocab-action]');if(audioButton){const item=vocabById(audioButton.dataset.vocabId);if(item){const sentence=audioButton.dataset.vocabAudio==='sentence';playTTS(sentence?item.sentenceAudio:wordAudioPath(item.audioWord||item.word),audioButton)}return}if(phonicsPiece){if(!suppressPhonicsClick)clickPhonicsPiece(+phonicsPiece.dataset.phonicsPiece,phonicsPiece.dataset.phonicsSource);return}if(spellingKey&&state.vocabLesson?.stage==='spell'&&!state.vocabLesson.spellingSolved){const item=coreVocabulary()[state.vocabLesson.index];if(state.vocabLesson.spellingValue.length<item.word.length){state.vocabLesson.spellingValue+=spellingKey.dataset.spellingKey;renderVocabulary()}return}if(meaning&&state.vocabLesson&&!state.vocabLesson.meaningChecked){state.vocabLesson.meaningChoice=meaning.dataset.vocabMeaning;renderVocabulary();return}if(action)handleVocabularyAction(action.dataset.vocabAction)};
 vocabularyContent.addEventListener('dragstart',e=>{const piece=e.target.closest('[data-phonics-piece]');if(!piece)return;e.dataTransfer.effectAllowed='move';e.dataTransfer.setData('text/plain',piece.dataset.phonicsPiece);piece.classList.add('dragging')});
 vocabularyContent.addEventListener('dragend',e=>e.target.closest('[data-phonics-piece]')?.classList.remove('dragging'));
 vocabularyContent.addEventListener('dragover',e=>{const slot=e.target.closest('[data-phonics-slot]');if(slot){e.preventDefault();e.dataTransfer.dropEffect='move'}});
@@ -278,10 +325,10 @@ vocabularyContent.addEventListener('pointermove',e=>{if(!phonicsPointerDrag||pho
 vocabularyContent.addEventListener('pointerup',e=>{if(!phonicsPointerDrag||phonicsPointerDrag.pointerId!==e.pointerId)return;const drag=phonicsPointerDrag;phonicsPointerDrag=null;drag.piece.classList.remove('dragging');if(!drag.moved)return;suppressPhonicsClick=true;const slot=document.elementFromPoint(e.clientX,e.clientY)?.closest('[data-phonics-slot]');if(slot)placePhonicsPiece(drag.index,+slot.dataset.phonicsSlot);else if(drag.source==='slot')clickPhonicsPiece(drag.index,'slot');setTimeout(()=>suppressPhonicsClick=false,0)});
 $('#debugLink').onclick=()=>showDebug('skills');$('#debugBack').onclick=showHome;document.querySelector('.debug-tabs').onclick=e=>{const tab=e.target.closest('[data-debug-tab]');if(tab)showDebug(tab.dataset.debugTab)};
 audio.defaultPlaybackRate=audio.playbackRate=.9;audio.onplay=()=>$('#playButton').textContent='❚❚';audio.onpause=()=>$('#playButton').textContent='▶';audio.ontimeupdate=tick;
-audio.onended=()=>{state.completed.add(completionKey());localStorage.setItem('mth-complete',JSON.stringify([...state.completed]));updateProgress();renderNav()};
+audio.onended=markChapterComplete;
 audio.onloadedmetadata=()=>{const start=audioStart();if(audio.currentTime<start)audio.currentTime=start;audio.playbackRate=+document.querySelector('.speed-group button.active').dataset.speed;$('#duration').textContent=formatTime(audio.duration-start)};
 $('#seek').oninput=e=>{if(audio.duration){const start=audioStart();audio.currentTime=start+e.target.value/1000*(audio.duration-start)}};
 document.querySelector('.speed-group').onclick=e=>{const b=e.target.closest('[data-speed]');if(!b)return;audio.playbackRate=+b.dataset.speed;document.querySelectorAll('.speed-group button').forEach(x=>x.classList.toggle('active',x===b))};
 $('#prevPage').onclick=()=>{if(state.page>0){state.page--;renderPage()}};$('#nextPage').onclick=()=>{if(state.page<state.pages.length-1){state.page++;renderPage()}};
 els.story.addEventListener('mouseover',e=>{const w=e.target.closest('.word');if(w&&!state.lockedWord)showWordCard(w)});els.story.addEventListener('mouseout',()=>{if(!state.lockedWord)els.card.classList.add('hidden')});els.story.addEventListener('click',e=>{const w=e.target.closest('.word');if(w){e.stopPropagation();showWordCard(w,true)}});$('#wordClose').onclick=hideCard;document.addEventListener('click',e=>{if(!e.target.closest('.word-card')&&!e.target.closest('.word'))hideCard()});$('#speakWord').addEventListener('click',pronounceCurrentWord);$('#speakSentence').addEventListener('click',pronounceCurrentSentence);$('#wordAddButton').addEventListener('click',e=>{e.preventDefault();e.stopPropagation();toggleAddCurrentWord()});
-renderNav();updateProgress();
+migrateAddedVocabulary();persistCompleted();$('#brandSubtitle').textContent=collectionName();document.title=`Magic Tree House · ${collectionName()}`;renderNav();updateProgress();

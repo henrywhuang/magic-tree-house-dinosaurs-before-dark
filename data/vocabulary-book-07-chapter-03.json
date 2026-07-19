@@ -1,0 +1,503 @@
+{
+  "book": 7,
+  "chapter": 3,
+  "title": "Brrr!",
+  "words": [
+    {
+      "id": "answer",
+      "word": "answer",
+      "forms": [
+        "answer"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɑ:nsә/",
+      "partOfSpeech": "n.",
+      "meaning": "antinuclear submarine warfare 反核潜艇战争",
+      "wordForms": "原文词形：answer",
+      "sentence": "No answer.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/answer.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sw",
+          "sound": "/sw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "antinuclear submarine warfare 反核潜艇战争",
+        "强壮的；坚固的",
+        "缺口；突出端"
+      ]
+    },
+    {
+      "id": "stronger",
+      "word": "stronger",
+      "forms": [
+        "stronger"
+      ],
+      "tier": "core",
+      "phonetic": "/strɒŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "强壮的；坚固的",
+      "wordForms": "原文词形：stronger",
+      "sentence": "The wet dog smell grew stronger.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/stronger.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "强壮的；坚固的",
+        "碎片；粉碎",
+        "舒适的；安逸的"
+      ]
+    },
+    {
+      "id": "blackness",
+      "word": "blackness",
+      "forms": [
+        "blackness"
+      ],
+      "tier": "core",
+      "phonetic": "/'blæknis/",
+      "partOfSpeech": "n.",
+      "meaning": "黑；黑色",
+      "wordForms": "原文词形：blackness",
+      "sentence": "He kept going, deeper into the smelly blackness.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/blackness.mp3",
+      "phonics": [
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ness",
+          "sound": "/nəs/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "黑；黑色",
+        "呻吟；悲叹",
+        "缺口；突出端"
+      ]
+    },
+    {
+      "id": "gasped",
+      "word": "gasped",
+      "forms": [
+        "gasped"
+      ],
+      "tier": "core",
+      "phonetic": "/ɡɑ:spt/",
+      "partOfSpeech": "n.",
+      "meaning": "喘气",
+      "wordForms": "原文词形：gasped",
+      "sentence": "He gasped.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/gasped.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "喘气",
+        "繁荣；隆隆声",
+        "缺口；突出端"
+      ]
+    },
+    {
+      "id": "moaning",
+      "word": "moaning",
+      "forms": [
+        "moaning"
+      ],
+      "tier": "core",
+      "phonetic": "/'məʊnɪŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "呻吟；悲叹",
+      "wordForms": "原文词形：moaning",
+      "sentence": "Jack heard a low, deep moaning.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/moaning.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "呻吟；悲叹",
+        "舒适的；安逸的",
+        "足迹"
+      ]
+    },
+    {
+      "id": "booming",
+      "word": "booming",
+      "forms": [
+        "booming"
+      ],
+      "tier": "core",
+      "phonetic": "/'bu:miŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "繁荣；隆隆声",
+      "wordForms": "原文词形：booming",
+      "sentence": "A booming snore shattered the air.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/booming.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "繁荣；隆隆声",
+        "黑；黑色",
+        "喘气"
+      ]
+    },
+    {
+      "id": "shattered",
+      "word": "shattered",
+      "forms": [
+        "shattered"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃætә/",
+      "partOfSpeech": "n.",
+      "meaning": "碎片；粉碎",
+      "wordForms": "原文词形：shattered",
+      "sentence": "A booming snore shattered the air.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/shattered.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "碎片；粉碎",
+        "强壮的；坚固的",
+        "舒适的；安逸的"
+      ]
+    },
+    {
+      "id": "jagged",
+      "word": "jagged",
+      "forms": [
+        "jagged"
+      ],
+      "tier": "core",
+      "phonetic": "/'dʒægd/",
+      "partOfSpeech": "n.",
+      "meaning": "缺口；突出端",
+      "wordForms": "原文词形：jagged",
+      "sentence": "They ran between fallen rocks and under jagged cliffs.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/jagged.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "缺口；突出端",
+        "强壮的；坚固的",
+        "呻吟；悲叹"
+      ]
+    },
+    {
+      "id": "footprints",
+      "word": "footprints",
+      "forms": [
+        "footprints"
+      ],
+      "tier": "core",
+      "phonetic": "/'futprint/",
+      "partOfSpeech": "n.",
+      "meaning": "足迹",
+      "wordForms": "原文词形：footprints",
+      "sentence": "All they could see was snow and rocks and their own footprints.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/footprints.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "足迹",
+        "呻吟；悲叹",
+        "强壮的；坚固的"
+      ]
+    },
+    {
+      "id": "panic",
+      "word": "panic",
+      "forms": [
+        "panic"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'pænik/",
+      "partOfSpeech": "n.",
+      "meaning": "恐慌；惊慌",
+      "wordForms": "原文词形：panic",
+      "sentence": "We just got in a panic.”",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/panic.mp3"
+    },
+    {
+      "id": "bare",
+      "word": "bare",
+      "forms": [
+        "bare"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bєә/",
+      "partOfSpeech": "adj.",
+      "meaning": "赤裸的；缺少的",
+      "wordForms": "原文词形：bare",
+      "sentence": "The cold wind blew against his bare legs.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/bare.mp3"
+    },
+    {
+      "id": "ledge",
+      "word": "ledge",
+      "forms": [
+        "ledge"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ledʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "突出部分；暗礁",
+      "wordForms": "原文词形：ledge",
+      "sentence": "Under a cliff was a wide ledge.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/ledge.mp3"
+    },
+    {
+      "id": "cozy",
+      "word": "cozy",
+      "forms": [
+        "cozy"
+      ],
+      "tier": "core",
+      "phonetic": "/'kәuzi/",
+      "partOfSpeech": "adj.",
+      "meaning": "舒适的；安逸的",
+      "wordForms": "原文词形：cozy",
+      "sentence": "This one looked cozy and safe and warm.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/cozy.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "舒适的；安逸的",
+        "足迹",
+        "antinuclear submarine warfare 反核潜艇战争"
+      ]
+    },
+    {
+      "id": "safe",
+      "word": "safe",
+      "forms": [
+        "safe"
+      ],
+      "tier": "recognition",
+      "phonetic": "/seif/",
+      "partOfSpeech": "n.",
+      "meaning": "保险箱；冷藏室",
+      "wordForms": "原文词形：safe",
+      "sentence": "This one looked cozy and safe and warm.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-03/safe.mp3"
+    }
+  ]
+}

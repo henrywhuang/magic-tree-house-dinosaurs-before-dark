@@ -1,0 +1,508 @@
+{
+  "book": 7,
+  "chapter": 2,
+  "title": "Bones",
+  "words": [
+    {
+      "id": "grove",
+      "word": "grove",
+      "forms": [
+        "grove"
+      ],
+      "tier": "core",
+      "phonetic": "/grәuv/",
+      "partOfSpeech": "n.",
+      "meaning": "小树林",
+      "wordForms": "原文词形：grove",
+      "sentence": "The tree house was in the tallest tree in a grove of tall, bare trees.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/grove.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "小树林",
+        "祖先；祖宗",
+        "杂乱一团；混乱"
+      ]
+    },
+    {
+      "id": "plain",
+      "word": "plain",
+      "forms": [
+        "plain"
+      ],
+      "tier": "recognition",
+      "phonetic": "/plein/",
+      "partOfSpeech": "n.",
+      "meaning": "平原；草原",
+      "wordForms": "原文词形：plain",
+      "sentence": "The grove was on a wide, white plain.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/plain.mp3"
+    },
+    {
+      "id": "chattered",
+      "word": "chattered",
+      "forms": [
+        "chattered"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈtʃætəd/",
+      "partOfSpeech": "n.",
+      "meaning": "饶舌；啁啾",
+      "wordForms": "原文词形：chattered",
+      "sentence": "Her teeth chattered.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/chattered.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "饶舌；啁啾",
+        "矛；枪",
+        "杂乱一团；混乱"
+      ]
+    },
+    {
+      "id": "mission",
+      "word": "mission",
+      "forms": [
+        "mission"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'miʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "任务；代表团",
+      "wordForms": "原文词形：mission",
+      "sentence": "Not until our mission is complete.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/mission.mp3"
+    },
+    {
+      "id": "cliff",
+      "word": "cliff",
+      "forms": [
+        "cliff"
+      ],
+      "tier": "core",
+      "phonetic": "/klif/",
+      "partOfSpeech": "n.",
+      "meaning": "悬崖；绝壁",
+      "wordForms": "原文词形：cliff",
+      "sentence": "Jack saw them, too: four figures on a cliff.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/cliff.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "悬崖；绝壁",
+        "饶舌；啁啾",
+        "凶猛的；猛烈的"
+      ]
+    },
+    {
+      "id": "spears",
+      "word": "spears",
+      "forms": [
+        "spears"
+      ],
+      "tier": "core",
+      "phonetic": "/spiә/",
+      "partOfSpeech": "n.",
+      "meaning": "矛；枪",
+      "wordForms": "原文词形：spears",
+      "sentence": "Two big figures and two little ones—all holding long spears.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/spears.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "矛；枪",
+        "悬崖；绝壁",
+        "用力的投掷"
+      ]
+    },
+    {
+      "id": "caption",
+      "word": "caption",
+      "forms": [
+        "caption"
+      ],
+      "tier": "core",
+      "phonetic": "/'kæpʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "说明；字幕",
+      "wordForms": "原文词形：caption",
+      "sentence": "He read the caption to Annie:Early modern humans were called Cro-Magnons.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/caption.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tion",
+          "sound": "/ʃən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "说明；字幕",
+        "饶舌；啁啾",
+        "凶猛的；猛烈的"
+      ]
+    },
+    {
+      "id": "modern",
+      "word": "modern",
+      "forms": [
+        "modern"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'mɒdәn/",
+      "partOfSpeech": "n.",
+      "meaning": "现代人；有思想的人",
+      "wordForms": "原文词形：modern",
+      "sentence": "He read the caption to Annie:Early modern humans were called Cro-Magnons.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/modern.mp3"
+    },
+    {
+      "id": "traps",
+      "word": "traps",
+      "forms": [
+        "traps"
+      ],
+      "tier": "core",
+      "phonetic": "/træp/",
+      "partOfSpeech": "n.",
+      "meaning": "圈套；陷阱",
+      "wordForms": "原文词形：traps",
+      "sentence": "Then they drove reindeer and mammoths into the traps.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/traps.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "圈套；陷阱",
+        "凶猛的；猛烈的",
+        "矛；枪"
+      ]
+    },
+    {
+      "id": "enemy",
+      "word": "enemy",
+      "forms": [
+        "enemy"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'enimi/",
+      "partOfSpeech": "n.",
+      "meaning": "敌人；仇敌",
+      "wordForms": "原文词形：enemy",
+      "sentence": "They’ll think we’re some enemy and hurl their spears.”",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/enemy.mp3"
+    },
+    {
+      "id": "hurl",
+      "word": "hurl",
+      "forms": [
+        "hurl"
+      ],
+      "tier": "core",
+      "phonetic": "/hә:l/",
+      "partOfSpeech": "n.",
+      "meaning": "用力的投掷",
+      "wordForms": "原文词形：hurl",
+      "sentence": "They’ll think we’re some enemy and hurl their spears.”",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/hurl.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "用力的投掷",
+        "说明；字幕",
+        "矛；枪"
+      ]
+    },
+    {
+      "id": "huddled",
+      "word": "huddled",
+      "forms": [
+        "huddled"
+      ],
+      "tier": "core",
+      "phonetic": "/'hʌdl/",
+      "partOfSpeech": "n.",
+      "meaning": "杂乱一团；混乱",
+      "wordForms": "原文词形：huddled",
+      "sentence": "On the icy ground, they huddled together.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/huddled.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "杂乱一团；混乱",
+        "小树林",
+        "饶舌；啁啾"
+      ]
+    },
+    {
+      "id": "fiercer",
+      "word": "fiercer",
+      "forms": [
+        "fiercer"
+      ],
+      "tier": "core",
+      "phonetic": "/fiəsə/",
+      "partOfSpeech": "adj.",
+      "meaning": "凶猛的；猛烈的",
+      "wordForms": "原文词形：fiercer",
+      "sentence": "These bears were larger and fiercer than today’s grizzlies.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/fiercer.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "凶猛的；猛烈的",
+        "杂乱一团；混乱",
+        "饶舌；啁啾"
+      ]
+    },
+    {
+      "id": "ancestors",
+      "word": "ancestors",
+      "forms": [
+        "ancestors"
+      ],
+      "tier": "core",
+      "phonetic": "/'ænsestəz/",
+      "partOfSpeech": "n.",
+      "meaning": "祖先；祖宗",
+      "wordForms": "原文词形：ancestors",
+      "sentence": "Their caves were filled with the bones of their ancestors.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-02/ancestors.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "祖先；祖宗",
+        "悬崖；绝壁",
+        "用力的投掷"
+      ]
+    }
+  ]
+}

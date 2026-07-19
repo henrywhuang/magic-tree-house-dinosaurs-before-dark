@@ -1,0 +1,511 @@
+{
+  "book": 7,
+  "chapter": 7,
+  "title": "The Sorcerer's Gift",
+  "words": [
+    {
+      "id": "tug",
+      "word": "Tug",
+      "forms": [
+        "Tug"
+      ],
+      "tier": "recognition",
+      "phonetic": "/tʌg/",
+      "partOfSpeech": "n.",
+      "meaning": "用力拉；拖曳",
+      "wordForms": "原文词形：Tug",
+      "sentence": "“Tug on the rope,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/tug.mp3"
+    },
+    {
+      "id": "tight",
+      "word": "tight",
+      "forms": [
+        "tight"
+      ],
+      "tier": "recognition",
+      "phonetic": "/tait/",
+      "partOfSpeech": "adj.",
+      "meaning": "紧的；密封的",
+      "wordForms": "原文词形：tight",
+      "sentence": "But hold on tight,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/tight.mp3"
+    },
+    {
+      "id": "puzzled",
+      "word": "puzzled",
+      "forms": [
+        "puzzled"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'pʌzl/",
+      "partOfSpeech": "n.",
+      "meaning": "难题；迷惑",
+      "wordForms": "原文词形：puzzled",
+      "sentence": "Jack was puzzled.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/puzzled.mp3"
+    },
+    {
+      "id": "burned",
+      "word": "burned",
+      "forms": [
+        "burned"
+      ],
+      "tier": "core",
+      "phonetic": "/bә:n/",
+      "partOfSpeech": "v.",
+      "meaning": "烧；烧毁",
+      "wordForms": "原文词形：burned",
+      "sentence": "His hands burned.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/burned.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "烧；烧毁",
+        "羊毛；毛织物",
+        "小袋；小包"
+      ]
+    },
+    {
+      "id": "sockets",
+      "word": "sockets",
+      "forms": [
+        "sockets"
+      ],
+      "tier": "core",
+      "phonetic": "/'sɒkit/",
+      "partOfSpeech": "n.",
+      "meaning": "窝；穴",
+      "wordForms": "原文词形：sockets",
+      "sentence": "His arms felt as if they were being pulled out of their sockets.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/sockets.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "窝；穴",
+        "羊毛；毛织物",
+        "烧；烧毁"
+      ]
+    },
+    {
+      "id": "robe",
+      "word": "robe",
+      "forms": [
+        "robe"
+      ],
+      "tier": "recognition",
+      "phonetic": "/rәub/",
+      "partOfSpeech": "n.",
+      "meaning": "宽松长袍；礼服",
+      "wordForms": "原文词形：robe",
+      "sentence": "He wore a long fur robe.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/robe.mp3"
+    },
+    {
+      "id": "woolly",
+      "word": "woolly",
+      "forms": [
+        "woolly"
+      ],
+      "tier": "core",
+      "phonetic": "/'wuli/",
+      "partOfSpeech": "n.",
+      "meaning": "羊毛；毛织物",
+      "wordForms": "原文词形：woolly",
+      "sentence": "Annie was sitting on a woolly mammoth.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/woolly.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "羊毛；毛织物",
+        "长牙；獠牙",
+        "小袋；小包"
+      ]
+    },
+    {
+      "id": "tusks",
+      "word": "tusks",
+      "forms": [
+        "tusks"
+      ],
+      "tier": "core",
+      "phonetic": "/tʌsks/",
+      "partOfSpeech": "n.",
+      "meaning": "长牙；獠牙",
+      "wordForms": "原文词形：tusks",
+      "sentence": "The mammoth looked like a giant elephant with shaggy reddish hair and long, curved tusks.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/tusks.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sk",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "长牙；獠牙",
+        "斜视眼；斜着",
+        "羊毛；毛织物"
+      ]
+    },
+    {
+      "id": "knelt",
+      "word": "knelt",
+      "forms": [
+        "knelt"
+      ],
+      "tier": "core",
+      "phonetic": "/nelt/",
+      "partOfSpeech": "v.",
+      "meaning": "跪下",
+      "wordForms": "原文词形：knelt",
+      "sentence": "The great creature knelt down, just like a circus elephant.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/knelt.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lt",
+          "sound": "/lt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "跪下",
+        "小袋；小包",
+        "洞；窟窿"
+      ]
+    },
+    {
+      "id": "pouch",
+      "word": "pouch",
+      "forms": [
+        "pouch"
+      ],
+      "tier": "core",
+      "phonetic": "/pautʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "小袋；小包",
+      "wordForms": "原文词形：pouch",
+      "sentence": "Then the sorcerer reached into a pouch.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/pouch.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "小袋；小包",
+        "窝；穴",
+        "美国石油工程师协会；专用设备"
+      ]
+    },
+    {
+      "id": "smooth",
+      "word": "smooth",
+      "forms": [
+        "smooth"
+      ],
+      "tier": "recognition",
+      "phonetic": "/smu:ð/",
+      "partOfSpeech": "adj.",
+      "meaning": "平滑的；平稳的",
+      "wordForms": "原文词形：smooth",
+      "sentence": "He pulled out a smooth white bone and handed it to Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/smooth.mp3"
+    },
+    {
+      "id": "hollow",
+      "word": "hollow",
+      "forms": [
+        "hollow"
+      ],
+      "tier": "core",
+      "phonetic": "/'hɒlәu/",
+      "partOfSpeech": "n.",
+      "meaning": "洞；窟窿",
+      "wordForms": "原文词形：hollow",
+      "sentence": "The bone was hollow.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/hollow.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "洞；窟窿",
+        "美国石油工程师协会；专用设备",
+        "烧；烧毁"
+      ]
+    },
+    {
+      "id": "kindness",
+      "word": "kindness",
+      "forms": [
+        "kindness"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'kaindnis/",
+      "partOfSpeech": "n.",
+      "meaning": "仁慈；亲切",
+      "wordForms": "原文词形：kindness",
+      "sentence": "But his eyes sparkled with kindness.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/kindness.mp3"
+    },
+    {
+      "id": "plodding",
+      "word": "plodding",
+      "forms": [
+        "plodding"
+      ],
+      "tier": "core",
+      "phonetic": "/'plɒdiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "沉重的步伐；辛勤工作",
+      "wordForms": "原文词形：plodding",
+      "sentence": "The mammoth took slow, plodding steps across the snow, then picked up speed.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/plodding.mp3",
+      "phonics": [
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "沉重的步伐；辛勤工作",
+        "窝；穴",
+        "美国石油工程师协会；专用设备"
+      ]
+    },
+    {
+      "id": "speed",
+      "word": "speed",
+      "forms": [
+        "speed"
+      ],
+      "tier": "core",
+      "phonetic": "/spi:d/",
+      "partOfSpeech": "n.",
+      "meaning": "美国石油工程师协会；专用设备",
+      "wordForms": "原文词形：speed",
+      "sentence": "The mammoth took slow, plodding steps across the snow, then picked up speed.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/speed.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "美国石油工程师协会；专用设备",
+        "羊毛；毛织物",
+        "跪下"
+      ]
+    },
+    {
+      "id": "squinted",
+      "word": "squinted",
+      "forms": [
+        "squinted"
+      ],
+      "tier": "core",
+      "phonetic": "/skwɪntid/",
+      "partOfSpeech": "n.",
+      "meaning": "斜视眼；斜着",
+      "wordForms": "原文词形：squinted",
+      "sentence": "He squinted to see—but the sorcerer had vanished.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/squinted.mp3",
+      "phonics": [
+        {
+          "letters": "squ",
+          "sound": "/skw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "斜视眼；斜着",
+        "小袋；小包",
+        "羊毛；毛织物"
+      ]
+    }
+  ]
+}

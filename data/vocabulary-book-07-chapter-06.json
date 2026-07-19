@@ -1,0 +1,519 @@
+{
+  "book": 7,
+  "chapter": 6,
+  "title": "Song on the Wind",
+  "words": [
+    {
+      "id": "freezes",
+      "word": "freezes",
+      "forms": [
+        "freezes"
+      ],
+      "tier": "core",
+      "phonetic": "/fri:z/",
+      "partOfSpeech": "v.",
+      "meaning": "冻结；冷冻",
+      "wordForms": "原文词形：freezes",
+      "sentence": "“We have to find her before she freezes.”",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/freezes.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "冻结；冷冻",
+        "漩涡；涡动",
+        "消失；不见"
+      ]
+    },
+    {
+      "id": "swirled",
+      "word": "swirled",
+      "forms": [
+        "swirled"
+      ],
+      "tier": "core",
+      "phonetic": "/swɜ:ld/",
+      "partOfSpeech": "n.",
+      "meaning": "漩涡；涡动",
+      "wordForms": "原文词形：swirled",
+      "sentence": "Snow swirled over the ground, covering the tiny footprints.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/swirled.mp3",
+      "phonics": [
+        {
+          "letters": "sw",
+          "sound": "/sw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "漩涡；涡动",
+        "尖牙；犬牙",
+        "<美> = sabre-toothed tiger"
+      ]
+    },
+    {
+      "id": "ground",
+      "word": "ground",
+      "forms": [
+        "ground"
+      ],
+      "tier": "recognition",
+      "phonetic": "/graund/",
+      "partOfSpeech": "n.",
+      "meaning": "土地；战场",
+      "wordForms": "原文词形：ground",
+      "sentence": "Snow swirled over the ground, covering the tiny footprints.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/ground.mp3"
+    },
+    {
+      "id": "covering",
+      "word": "covering",
+      "forms": [
+        "covering"
+      ],
+      "tier": "core",
+      "phonetic": "/'kʌvәriŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "盖子；封面",
+      "wordForms": "原文词形：covering",
+      "sentence": "Snow swirled over the ground, covering the tiny footprints.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/covering.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "盖子；封面",
+        "消失；不见",
+        "常到的地方；生息地"
+      ]
+    },
+    {
+      "id": "footprints",
+      "word": "footprints",
+      "forms": [
+        "footprints"
+      ],
+      "tier": "core",
+      "phonetic": "/'futprint/",
+      "partOfSpeech": "n.",
+      "meaning": "足迹",
+      "wordForms": "原文词形：footprints",
+      "sentence": "Snow swirled over the ground, covering the tiny footprints.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/footprints.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "足迹",
+        "<美> = sabre-toothed tiger",
+        "消失；不见"
+      ]
+    },
+    {
+      "id": "vanished",
+      "word": "vanished",
+      "forms": [
+        "vanished"
+      ],
+      "tier": "core",
+      "phonetic": "/'væniʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "消失；不见",
+      "wordForms": "原文词形：vanished",
+      "sentence": "The mouse’s tracks had vanished.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/vanished.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "消失；不见",
+        "盖子；封面",
+        "尖牙；犬牙"
+      ]
+    },
+    {
+      "id": "fangs",
+      "word": "fangs",
+      "forms": [
+        "fangs"
+      ],
+      "tier": "core",
+      "phonetic": "/fæŋz/",
+      "partOfSpeech": "n.",
+      "meaning": "尖牙；犬牙",
+      "wordForms": "原文词形：fangs",
+      "sentence": "A giant tiger with two long, sharp fangs.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/fangs.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "尖牙；犬牙",
+        "距离；远方",
+        "盖子；封面"
+      ]
+    },
+    {
+      "id": "sabertooth",
+      "word": "sabertooth",
+      "forms": [
+        "sabertooth"
+      ],
+      "tier": "core",
+      "phonetic": "/'seibәtu:θ/",
+      "partOfSpeech": "n.",
+      "meaning": "<美> = sabre-toothed tiger",
+      "wordForms": "原文词形：sabertooth",
+      "sentence": "The sabertooth was gone.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/sabertooth.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "<美> = sabre-toothed tiger",
+        "冻结；冷冻",
+        "堆；许多"
+      ]
+    },
+    {
+      "id": "distance",
+      "word": "distance",
+      "forms": [
+        "distance"
+      ],
+      "tier": "core",
+      "phonetic": "/'distәns/",
+      "partOfSpeech": "n.",
+      "meaning": "距离；远方",
+      "wordForms": "原文词形：distance",
+      "sentence": "They ran over the snowy plain, heading toward the tall, bare trees in the distance.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/distance.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "距离；远方",
+        "尖牙；犬牙",
+        "漩涡；涡动"
+      ]
+    },
+    {
+      "id": "heap",
+      "word": "heap",
+      "forms": [
+        "heap"
+      ],
+      "tier": "core",
+      "phonetic": "/hi:p/",
+      "partOfSpeech": "n.",
+      "meaning": "堆；许多",
+      "wordForms": "原文词形：heap",
+      "sentence": "They crashed down onto a heap of branches, snow, and earth.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/heap.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "堆；许多",
+        "足迹",
+        "漩涡；涡动"
+      ]
+    },
+    {
+      "id": "pit",
+      "word": "pit",
+      "forms": [
+        "pit"
+      ],
+      "tier": "recognition",
+      "phonetic": "/pit/",
+      "partOfSpeech": "n.",
+      "meaning": "深坑；矿井",
+      "wordForms": "原文词形：pit",
+      "sentence": "The pit was too deep to climb out of.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/pit.mp3"
+    },
+    {
+      "id": "sound",
+      "word": "sound",
+      "forms": [
+        "sound"
+      ],
+      "tier": "recognition",
+      "phonetic": "/saund/",
+      "partOfSpeech": "n.",
+      "meaning": "声音；语音",
+      "wordForms": "原文词形：sound",
+      "sentence": "But this time he heard another sound, too.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/sound.mp3"
+    },
+    {
+      "id": "haunting",
+      "word": "haunting",
+      "forms": [
+        "haunting"
+      ],
+      "tier": "core",
+      "phonetic": "/'hɒ:ntiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "常到的地方；生息地",
+      "wordForms": "原文词形：haunting",
+      "sentence": "Strange, haunting music.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-06/haunting.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "au",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "常到的地方；生息地",
+        "<美> = sabre-toothed tiger",
+        "尖牙；犬牙"
+      ]
+    }
+  ]
+}

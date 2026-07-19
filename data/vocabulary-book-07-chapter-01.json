@@ -1,0 +1,474 @@
+{
+  "book": 7,
+  "chapter": 1,
+  "title": "The 'M' Things",
+  "words": [
+    {
+      "id": "darted",
+      "word": "darted",
+      "forms": [
+        "darted"
+      ],
+      "tier": "core",
+      "phonetic": "/dɑ:tid/",
+      "partOfSpeech": "n.",
+      "meaning": "飞镖；投射",
+      "wordForms": "原文词形：darted",
+      "sentence": "She darted into the woods.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/darted.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "飞镖；投射",
+        "玉蜀黍；谷类",
+        "旅程；旅行"
+      ]
+    },
+    {
+      "id": "sighed",
+      "word": "sighed",
+      "forms": [
+        "sighed"
+      ],
+      "tier": "core",
+      "phonetic": "/said/",
+      "partOfSpeech": "n.",
+      "meaning": "叹息",
+      "wordForms": "原文词形：sighed",
+      "sentence": "Jack sighed.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/sighed.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "叹息",
+        "雕刻；切开",
+        "玉蜀黍；谷类"
+      ]
+    },
+    {
+      "id": "patches",
+      "word": "patches",
+      "forms": [
+        "patches"
+      ],
+      "tier": "core",
+      "phonetic": "/pætʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "片；补缀",
+      "wordForms": "原文词形：patches",
+      "sentence": "He moved through patches of sunlight and shadow.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/patches.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "片；补缀",
+        "沉默的；安静的",
+        "叹息"
+      ]
+    },
+    {
+      "id": "shadow",
+      "word": "shadow",
+      "forms": [
+        "shadow"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'ʃædәu/",
+      "partOfSpeech": "n.",
+      "meaning": "阴影；荫",
+      "wordForms": "原文词形：shadow",
+      "sentence": "He moved through patches of sunlight and shadow.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/shadow.mp3"
+    },
+    {
+      "id": "clearing",
+      "word": "clearing",
+      "forms": [
+        "clearing"
+      ],
+      "tier": "core",
+      "phonetic": "/'kliәriŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "清楚的；明确的",
+      "wordForms": "原文词形：clearing",
+      "sentence": "Soon he came to a small clearing.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/clearing.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "清楚的；明确的",
+        "旋转；自旋",
+        "片；补缀"
+      ]
+    },
+    {
+      "id": "carved",
+      "word": "carved",
+      "forms": [
+        "carved"
+      ],
+      "tier": "core",
+      "phonetic": "/kɑ:v/",
+      "partOfSpeech": "v.",
+      "meaning": "雕刻；切开",
+      "wordForms": "原文词形：carved",
+      "sentence": "Jack stared at the large M carved into the wooden floor.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/carved.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "雕刻；切开",
+        "叹息",
+        "片；补缀"
+      ]
+    },
+    {
+      "id": "special",
+      "word": "special",
+      "forms": [
+        "special"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'speʃәl/",
+      "partOfSpeech": "n.",
+      "meaning": "专辑；专车",
+      "wordForms": "原文词形：special",
+      "sentence": "On the M were a moonstone and a mango, the special things they’d found on their last two journeys.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/special.mp3"
+    },
+    {
+      "id": "journeys",
+      "word": "journeys",
+      "forms": [
+        "journeys"
+      ],
+      "tier": "core",
+      "phonetic": "/'dʒә:ni/",
+      "partOfSpeech": "n.",
+      "meaning": "旅程；旅行",
+      "wordForms": "原文词形：journeys",
+      "sentence": "On the M were a moonstone and a mango, the special things they’d found on their last two journeys.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/journeys.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ey",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "旅程；旅行",
+        "飞镖；投射",
+        "雕刻；切开"
+      ]
+    },
+    {
+      "id": "stacks",
+      "word": "stacks",
+      "forms": [
+        "stacks"
+      ],
+      "tier": "core",
+      "phonetic": "/stæk/",
+      "partOfSpeech": "n.",
+      "meaning": "堆叠；堆",
+      "wordForms": "原文词形：stacks",
+      "sentence": "She and Jack stared at the stacks of books in the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/stacks.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "堆叠；堆",
+        "玉蜀黍；谷类",
+        "片；补缀"
+      ]
+    },
+    {
+      "id": "corner",
+      "word": "corner",
+      "forms": [
+        "corner"
+      ],
+      "tier": "core",
+      "phonetic": "/'kɒ:nә/",
+      "partOfSpeech": "n.",
+      "meaning": "玉蜀黍；谷类",
+      "wordForms": "原文词形：corner",
+      "sentence": "Only one book lay open in the corner.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/corner.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "玉蜀黍；谷类",
+        "清楚的；明确的",
+        "沉默的；安静的"
+      ]
+    },
+    {
+      "id": "prepared",
+      "word": "prepared",
+      "forms": [
+        "prepared"
+      ],
+      "tier": "recognition",
+      "phonetic": "/pri'pєәd/",
+      "partOfSpeech": "v.",
+      "meaning": "准备；筹备",
+      "wordForms": "原文词形：prepared",
+      "sentence": "“We’re not prepared.”",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/prepared.mp3"
+    },
+    {
+      "id": "spin",
+      "word": "spin",
+      "forms": [
+        "spin"
+      ],
+      "tier": "core",
+      "phonetic": "/spin/",
+      "partOfSpeech": "n.",
+      "meaning": "旋转；自旋",
+      "wordForms": "原文词形：spin",
+      "sentence": "The tree house started to spin.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/spin.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "旋转；自旋",
+        "沉默的；安静的",
+        "片；补缀"
+      ]
+    },
+    {
+      "id": "silent",
+      "word": "silent",
+      "forms": [
+        "silent"
+      ],
+      "tier": "core",
+      "phonetic": "/'sailәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "沉默的；安静的",
+      "wordForms": "原文词形：silent",
+      "sentence": "Then everything was silent.",
+      "sentenceAudio": "assets/audio/sentences/book-07-chapter-01/silent.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "沉默的；安静的",
+        "堆叠；堆",
+        "叹息"
+      ]
+    }
+  ]
+}
