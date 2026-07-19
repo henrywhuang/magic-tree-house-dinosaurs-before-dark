@@ -1,0 +1,475 @@
+{
+  "book": 6,
+  "chapter": 10,
+  "title": "Halfway There",
+  "words": [
+    {
+      "id": "mango",
+      "word": "mango",
+      "forms": [
+        "mango"
+      ],
+      "tier": "core",
+      "phonetic": "/'mæŋgәu/",
+      "partOfSpeech": "n.",
+      "meaning": "芒果",
+      "wordForms": "原文词形：mango",
+      "sentence": "He read out loud:\"The mango has a sweet taste like that of a peach.\"\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-10/mango.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "芒果",
+        "标签；附属物",
+        "两者的"
+      ]
+    },
+    {
+      "id": "taste",
+      "word": "taste",
+      "forms": [
+        "taste"
+      ],
+      "tier": "recognition",
+      "phonetic": "/teist/",
+      "partOfSpeech": "n.",
+      "meaning": "味道；品味",
+      "wordForms": "原文词形：taste",
+      "sentence": "He read out loud:\"The mango has a sweet taste like that of a peach.\"\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-10/taste.mp3"
+    },
+    {
+      "id": "peach",
+      "word": "peach",
+      "forms": [
+        "peach"
+      ],
+      "tier": "core",
+      "phonetic": "/pi:tʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "桃子；桃树",
+      "wordForms": "原文词形：peach",
+      "sentence": "He read out loud:\"The mango has a sweet taste like that of a peach.\"\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-10/peach.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "桃子；桃树",
+        "月长石",
+        "证据；证明"
+      ]
+    },
+    {
+      "id": "moonstone",
+      "word": "moonstone",
+      "forms": [
+        "moonstone"
+      ],
+      "tier": "core",
+      "phonetic": "/'mu:nstәun/",
+      "partOfSpeech": "n.",
+      "meaning": "月长石",
+      "wordForms": "原文词形：moonstone",
+      "sentence": "We have to put it with the moonstone.\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-10/moonstone.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "月长石",
+        "证据；证明",
+        "两者的"
+      ]
+    },
+    {
+      "id": "halfway",
+      "word": "halfway",
+      "forms": [
+        "halfway"
+      ],
+      "tier": "core",
+      "phonetic": "/'hɑ:f'wei/",
+      "partOfSpeech": "adj.",
+      "meaning": "中途的；不彻底的",
+      "wordForms": "原文词形：halfway",
+      "sentence": "“We’re halfway there,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-10/halfway.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lf",
+          "sound": "/lf/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "中途的；不彻底的",
+        "老鼠；胆小羞怯的人",
+        "桃子；桃树"
+      ]
+    },
+    {
+      "id": "proof",
+      "word": "proof",
+      "forms": [
+        "proof"
+      ],
+      "tier": "core",
+      "phonetic": "/pru:f/",
+      "partOfSpeech": "n.",
+      "meaning": "证据；证明",
+      "wordForms": "原文词形：proof",
+      "sentence": "He needed more proof than that.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-10/proof.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "证据；证明",
+        "阴影；荫",
+        "两者的"
+      ]
+    },
+    {
+      "id": "mouse",
+      "word": "mouse",
+      "forms": [
+        "mouse"
+      ],
+      "tier": "core",
+      "phonetic": "/maus/",
+      "partOfSpeech": "n.",
+      "meaning": "老鼠；胆小羞怯的人",
+      "wordForms": "原文词形：mouse",
+      "sentence": "We have to leave you now,\" Jack said to the mouse.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-10/mouse.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "老鼠；胆小羞怯的人",
+        "证据；证明",
+        "中途的；不彻底的"
+      ]
+    },
+    {
+      "id": "shadows",
+      "word": "shadows",
+      "forms": [
+        "shadows"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃædәu/",
+      "partOfSpeech": "n.",
+      "meaning": "阴影；荫",
+      "wordForms": "原文词形：shadows",
+      "sentence": "Leaf shadows danced in the light.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-10/shadows.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "阴影；荫",
+        "芒果",
+        "证据；证明"
+      ]
+    },
+    {
+      "id": "shuddered",
+      "word": "shuddered",
+      "forms": [
+        "shuddered"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈʃʌdəd/",
+      "partOfSpeech": "n.",
+      "meaning": "战栗；发抖",
+      "wordForms": "原文词形：shuddered",
+      "sentence": "Annie shuddered.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-10/shuddered.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "战栗；发抖",
+        "证据；证明",
+        "两者的"
+      ]
+    },
+    {
+      "id": "bother",
+      "word": "bother",
+      "forms": [
+        "bother"
+      ],
+      "tier": "core",
+      "phonetic": "/'bɒðә/",
+      "partOfSpeech": "adj.",
+      "meaning": "两者的",
+      "wordForms": "原文词形：bother",
+      "sentence": "And they won’t bother you.”",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-10/bother.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "两者的",
+        "桃子；桃树",
+        "证据；证明"
+      ]
+    },
+    {
+      "id": "golden",
+      "word": "golden",
+      "forms": [
+        "golden"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'gәuldn/",
+      "partOfSpeech": "adj.",
+      "meaning": "金的；含金的",
+      "wordForms": "原文词形：golden",
+      "sentence": "It was lit with a golden light.\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-10/golden.mp3"
+    },
+    {
+      "id": "tagging",
+      "word": "tagging",
+      "forms": [
+        "tagging"
+      ],
+      "tier": "core",
+      "phonetic": "/'tæ^iŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "标签；附属物",
+      "wordForms": "原文词形：tagging",
+      "sentence": "they shouted together, tagging their front door.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-10/tagging.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "标签；附属物",
+        "战栗；发抖",
+        "桃子；桃树"
+      ]
+    }
+  ]
+}

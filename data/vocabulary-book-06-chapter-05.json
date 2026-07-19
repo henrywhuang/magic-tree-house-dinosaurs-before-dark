@@ -1,0 +1,490 @@
+{
+  "book": 6,
+  "chapter": 5,
+  "title": "Pretty Fish",
+  "words": [
+    {
+      "id": "river",
+      "word": "river",
+      "forms": [
+        "river"
+      ],
+      "tier": "core",
+      "phonetic": "/'rivә/",
+      "partOfSpeech": "v.",
+      "meaning": "radio influence voltage 无线电感应电压；river 河",
+      "wordForms": "原文词形：river",
+      "sentence": "The ants can't get us in the river.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/river.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "radio influence voltage 无线电感应电压；river 河",
+        "独木舟；轻舟",
+        "贝利"
+      ]
+    },
+    {
+      "id": "canoe",
+      "word": "canoe",
+      "forms": [
+        "canoe"
+      ],
+      "tier": "core",
+      "phonetic": "/kә'nu:/",
+      "partOfSpeech": "n.",
+      "meaning": "独木舟；轻舟",
+      "wordForms": "原文词形：canoe",
+      "sentence": "“But where is this canoe going?”",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/canoe.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oe",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "独木舟；轻舟",
+        "亚马孙河",
+        "锋利的；犀利的"
+      ]
+    },
+    {
+      "id": "amazon",
+      "word": "Amazon",
+      "forms": [
+        "Amazon"
+      ],
+      "tier": "core",
+      "phonetic": "/'æmәzɒn/",
+      "partOfSpeech": "n.",
+      "meaning": "亚马孙河",
+      "wordForms": "原文词形：Amazon",
+      "sentence": "He read:The Amazon River stretches over 4,000 miles from the mountains of Peru, across Brazil, to the Atlantic Ocean.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/amazon.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "亚马孙河",
+        "radio influence voltage 无线电感应电压；river 河",
+        "美国科学俱乐部联合会"
+      ]
+    },
+    {
+      "id": "miles",
+      "word": "miles",
+      "forms": [
+        "miles"
+      ],
+      "tier": "core",
+      "phonetic": "/mil/",
+      "partOfSpeech": "n.",
+      "meaning": "千分之一英寸",
+      "wordForms": "原文词形：miles",
+      "sentence": "He read:The Amazon River stretches over 4,000 miles from the mountains of Peru, across Brazil, to the Atlantic Ocean.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/miles.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "千分之一英寸",
+        "一瞥；闪光",
+        "美国科学俱乐部联合会"
+      ]
+    },
+    {
+      "id": "pretty",
+      "word": "pretty",
+      "forms": [
+        "pretty"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'priti/",
+      "partOfSpeech": "adj.",
+      "meaning": "漂亮的；优美的",
+      "wordForms": "原文词形：pretty",
+      "sentence": "He wrote:\"Jack, look at those pretty fish with the teeth,\" said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/pretty.mp3"
+    },
+    {
+      "id": "glanced",
+      "word": "glanced",
+      "forms": [
+        "glanced"
+      ],
+      "tier": "core",
+      "phonetic": "/ɡlɑ:nst/",
+      "partOfSpeech": "n.",
+      "meaning": "一瞥；闪光",
+      "wordForms": "原文词形：glanced",
+      "sentence": "Jack glanced up from his writing.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/glanced.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "一瞥；闪光",
+        "radio influence voltage 无线电感应电压；river 河",
+        "美国科学俱乐部联合会"
+      ]
+    },
+    {
+      "id": "bellies",
+      "word": "bellies",
+      "forms": [
+        "bellies"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈbeliz/",
+      "partOfSpeech": "n.",
+      "meaning": "贝利",
+      "wordForms": "原文词形：bellies",
+      "sentence": "The fish had red bellies and razor-sharp teeth.\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/bellies.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "贝利",
+        "一瞥；闪光",
+        "radio influence voltage 无线电感应电压；river 河"
+      ]
+    },
+    {
+      "id": "razorsharp",
+      "word": "razor-sharp",
+      "forms": [
+        "razor-sharp"
+      ],
+      "tier": "core",
+      "phonetic": "/'reizәʃɑ:p/",
+      "partOfSpeech": "adj.",
+      "meaning": "锋利的；犀利的",
+      "wordForms": "原文词形：razor-sharp",
+      "sentence": "The fish had red bellies and razor-sharp teeth.\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/razorsharp.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "锋利的；犀利的",
+        "千分之一英寸",
+        "扭动着行进；摆动"
+      ]
+    },
+    {
+      "id": "eat",
+      "word": "eat",
+      "forms": [
+        "eat"
+      ],
+      "tier": "recognition",
+      "phonetic": "/i:t/",
+      "partOfSpeech": "v.",
+      "meaning": "吃；腐蚀",
+      "wordForms": "原文词形：eat",
+      "sentence": "They'll eat anything!",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/eat.mp3"
+    },
+    {
+      "id": "scaly",
+      "word": "scaly",
+      "forms": [
+        "scaly"
+      ],
+      "tier": "core",
+      "phonetic": "/'skeili/",
+      "partOfSpeech": "adj.",
+      "meaning": "美国科学俱乐部联合会",
+      "wordForms": "原文词形：scaly",
+      "sentence": "It was cold and scaly.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/scaly.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "美国科学俱乐部联合会",
+        "独木舟；轻舟",
+        "亚马孙河"
+      ]
+    },
+    {
+      "id": "wiggled",
+      "word": "wiggled",
+      "forms": [
+        "wiggled"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈwɪgəld/",
+      "partOfSpeech": "v.",
+      "meaning": "扭动着行进；摆动",
+      "wordForms": "原文词形：wiggled",
+      "sentence": "It wiggled and jerked!\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/wiggled.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "扭动着行进；摆动",
+        "蛇；阴险的人",
+        "亚马孙河"
+      ]
+    },
+    {
+      "id": "snake",
+      "word": "snake",
+      "forms": [
+        "snake"
+      ],
+      "tier": "core",
+      "phonetic": "/sneik/",
+      "partOfSpeech": "n.",
+      "meaning": "蛇；阴险的人",
+      "wordForms": "原文词形：snake",
+      "sentence": "It was a long green snake!",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-05/snake.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蛇；阴险的人",
+        "锋利的；犀利的",
+        "扭动着行进；摆动"
+      ]
+    }
+  ]
+}

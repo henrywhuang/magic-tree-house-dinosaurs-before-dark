@@ -4,10 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#173f35">
-  <title>Magic Tree House · 五册原著精读营</title>
+  <title>Magic Tree House · 六册原著精读营</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/images/cover.jpg">
-  <link rel="stylesheet" href="styles.css?v=20260715-book5">
+  <link rel="stylesheet" href="styles.css?v=20260719-book6">
 </head>
 <body>
   <div class="app-shell">
@@ -15,7 +15,7 @@
       <button class="icon-button menu-button" id="menuButton" aria-label="打开目录">☰</button>
       <button class="brand" id="brandButton" aria-label="返回首页">
         <span class="brand-mark">✦</span>
-        <span><b>Magic Tree House</b><small id="brandSubtitle">五册原著精读营</small></span>
+        <span><b>Magic Tree House</b><small id="brandSubtitle">六册原著精读营</small></span>
       </button>
       <div class="progress-pill"><span id="progressLabel">学习进度 0%</span><i><b id="progressBar"></b></i></div>
     </header>
@@ -74,6 +74,10 @@
             <article class="book-entry book-five">
               <img src="assets/images/book-05-scenes/chapter-01-scene-01.webp" alt="《忍者的秘密》月光下的日本山林冒险">
               <div><span>BOOK 5 · 古代日本</span><h3>Night of the Ninjas</h3><p>《忍者的秘密》</p><small>10 章 · 30 个剧情场景 · 原版有声书</small><button data-book-start="4">进入第五册 <b>→</b></button></div>
+            </article>
+            <article class="book-entry book-six">
+              <img src="assets/images/book-06-scenes/chapter-01-scene-03.webp" alt="《亚马孙探险》杰克和安妮发现热带雨林之书">
+              <div><span>BOOK 6 · 亚马孙雨林</span><h3>Afternoon on the Amazon</h3><p>《亚马孙探险》</p><small>10 章 · 30 个剧情场景 · 逐章同步音频</small><button data-book-start="5">进入第六册 <b>→</b></button></div>
             </article>
           </div>
         </section>
@@ -159,8 +163,8 @@
     </div>
     <small class="card-tip" id="pronunciationStatus" aria-live="polite">点击喇叭听美式标准发音</small>
   </div>
-  <script src="data/words.js?v=20260715-alltext"></script>
-  <script src="app.js?v=20260715-book5"></script>
+  <script src="data/words.js?v=20260719-book6"></script>
+  <script src="app.js?v=20260719-book6"></script>
   <script>if('serviceWorker' in navigator) addEventListener('load',()=>navigator.serviceWorker.register('./sw.js',{updateViaCache:'none'}))</script>
 </body>
 </html>

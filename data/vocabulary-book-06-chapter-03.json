@@ -1,0 +1,486 @@
+{
+  "book": 6,
+  "chapter": 3,
+  "title": "Yikes!",
+  "words": [
+    {
+      "id": "air",
+      "word": "air",
+      "forms": [
+        "air"
+      ],
+      "tier": "recognition",
+      "phonetic": "/єә/",
+      "partOfSpeech": "n.",
+      "meaning": "空气；旋律",
+      "wordForms": "原文词形：air",
+      "sentence": "The air was hot and steamy.\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-03/air.mp3"
+    },
+    {
+      "id": "steamy",
+      "word": "steamy",
+      "forms": [
+        "steamy"
+      ],
+      "tier": "core",
+      "phonetic": "/'sti:mi/",
+      "partOfSpeech": "adj.",
+      "meaning": "蒸汽的；充满蒸汽的",
+      "wordForms": "原文词形：steamy",
+      "sentence": "The air was hot and steamy.\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-03/steamy.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蒸汽的；充满蒸汽的",
+        "树稍",
+        "植物"
+      ]
+    },
+    {
+      "id": "land",
+      "word": "land",
+      "forms": [
+        "land"
+      ],
+      "tier": "core",
+      "phonetic": "/lænd/",
+      "partOfSpeech": "n.",
+      "meaning": "陆地；地面",
+      "wordForms": "原文词形：land",
+      "sentence": "“I wonder why we didn't land in a tree.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-03/land.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "陆地；地面",
+        "潮湿；湿气",
+        "放置；产"
+      ]
+    },
+    {
+      "id": "treetops",
+      "word": "treetops",
+      "forms": [
+        "treetops"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈtri:ˌtɔps/",
+      "partOfSpeech": "n.",
+      "meaning": "树稍",
+      "wordForms": "原文词形：treetops",
+      "sentence": "Thick treetops, often over 150 feet in the air, make up the top layer.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-03/treetops.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "树稍",
+        "潮湿；湿气",
+        "植物"
+      ]
+    },
+    {
+      "id": "layer",
+      "word": "layer",
+      "forms": [
+        "layer"
+      ],
+      "tier": "core",
+      "phonetic": "/'leiә/",
+      "partOfSpeech": "v.",
+      "meaning": "放置；产",
+      "wordForms": "原文词形：layer",
+      "sentence": "Thick treetops, often over 150 feet in the air, make up the top layer.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-03/layer.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "放置；产",
+        "紧急的；浮现的",
+        "植物"
+      ]
+    },
+    {
+      "id": "emergent",
+      "word": "emergent",
+      "forms": [
+        "emergent"
+      ],
+      "tier": "core",
+      "phonetic": "/i'mә:dʒәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "紧急的；浮现的",
+      "wordForms": "原文词形：emergent",
+      "sentence": "This is called the emergent layer.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-03/emergent.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "紧急的；浮现的",
+        "林下叶层",
+        "陆地；地面"
+      ]
+    },
+    {
+      "id": "canopy",
+      "word": "canopy",
+      "forms": [
+        "canopy"
+      ],
+      "tier": "core",
+      "phonetic": "/'kænәpi/",
+      "partOfSpeech": "n.",
+      "meaning": "天篷；遮篷",
+      "wordForms": "原文词形：canopy",
+      "sentence": "Below the emergent layer is the forest canopy, a deep layer of vegetation.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-03/canopy.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "天篷；遮篷",
+        "树稍",
+        "植物"
+      ]
+    },
+    {
+      "id": "vegetation",
+      "word": "vegetation",
+      "forms": [
+        "vegetation"
+      ],
+      "tier": "core",
+      "phonetic": "/.vedʒi'teiʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "植物",
+      "wordForms": "原文词形：vegetation",
+      "sentence": "Below the emergent layer is the forest canopy, a deep layer of vegetation.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-03/vegetation.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tion",
+          "sound": "/ʃən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "植物",
+        "蒸汽的；充满蒸汽的",
+        "潮湿；湿气"
+      ]
+    },
+    {
+      "id": "understory",
+      "word": "understory",
+      "forms": [
+        "understory"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʌndә,stɔ:ri/",
+      "partOfSpeech": "",
+      "meaning": "林下叶层",
+      "wordForms": "原文词形：understory",
+      "sentence": "Below the canopy is the understory, then the forest floor.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-03/understory.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "林下叶层",
+        "潮湿；湿气",
+        "放置；产"
+      ]
+    },
+    {
+      "id": "different",
+      "word": "different",
+      "forms": [
+        "different"
+      ],
+      "tier": "core",
+      "phonetic": "/'difәrәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "不同的",
+      "wordForms": "原文词形：different",
+      "sentence": "This world was completely different from the one above the treetops.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-03/different.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "不同的",
+        "紧急的；浮现的",
+        "潮湿；湿气"
+      ]
+    },
+    {
+      "id": "damp",
+      "word": "damp",
+      "forms": [
+        "damp"
+      ],
+      "tier": "core",
+      "phonetic": "/dæmp/",
+      "partOfSpeech": "n.",
+      "meaning": "潮湿；湿气",
+      "wordForms": "原文词形：damp",
+      "sentence": "It was also damp and very quiet.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-03/damp.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "潮湿；湿气",
+        "林下叶层",
+        "陆地；地面"
+      ]
+    }
+  ]
+}

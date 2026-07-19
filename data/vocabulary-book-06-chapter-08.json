@@ -1,0 +1,405 @@
+{
+  "book": 6,
+  "chapter": 8,
+  "title": "Vampire Bats?",
+  "words": [
+    {
+      "id": "forgot",
+      "word": "forgot",
+      "forms": [
+        "forgot"
+      ],
+      "tier": "core",
+      "phonetic": "/fә'gɒt/",
+      "partOfSpeech": "",
+      "meaning": "forget的过去式和过去分词",
+      "wordForms": "原文词形：forgot",
+      "sentence": "I almost forgot you!”",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-08/forgot.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "forget的过去式和过去分词",
+        "一看；神色",
+        "吸血鬼"
+      ]
+    },
+    {
+      "id": "vampire",
+      "word": "Vampire",
+      "forms": [
+        "Vampire"
+      ],
+      "tier": "core",
+      "phonetic": "/'væmpaiә/",
+      "partOfSpeech": "n.",
+      "meaning": "吸血鬼",
+      "wordForms": "原文词形：Vampire",
+      "sentence": "It said:Vampire bats live in the Amazon rain forest.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-08/vampire.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "吸血鬼",
+        "蝙蝠；球棒",
+        "沙沙声；瑟瑟声"
+      ]
+    },
+    {
+      "id": "bats",
+      "word": "bats",
+      "forms": [
+        "bats"
+      ],
+      "tier": "core",
+      "phonetic": "/bæts/",
+      "partOfSpeech": "n.",
+      "meaning": "蝙蝠；球棒",
+      "wordForms": "原文词形：bats",
+      "sentence": "It said:Vampire bats live in the Amazon rain forest.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-08/bats.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蝙蝠；球棒",
+        "吸血鬼",
+        "叶茂盛的；多叶的"
+      ]
+    },
+    {
+      "id": "victims",
+      "word": "victims",
+      "forms": [
+        "victims"
+      ],
+      "tier": "core",
+      "phonetic": "/'viktim/",
+      "partOfSpeech": "n.",
+      "meaning": "受害人；牺牲者",
+      "wordForms": "原文词形：victims",
+      "sentence": "At night, they quietly bite their victims and suck their blood.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-08/victims.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ct",
+          "sound": "/ct/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "受害人；牺牲者",
+        "一看；神色",
+        "叶茂盛的；多叶的"
+      ]
+    },
+    {
+      "id": "mission",
+      "word": "mission",
+      "forms": [
+        "mission"
+      ],
+      "tier": "core",
+      "phonetic": "/'miʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "任务；代表团",
+      "wordForms": "原文词形：mission",
+      "sentence": "“But what about our mission?”",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-08/mission.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sion",
+          "sound": "/ʒən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "任务；代表团",
+        "一看；神色",
+        "沙沙声；瑟瑟声"
+      ]
+    },
+    {
+      "id": "pat",
+      "word": "pat",
+      "forms": [
+        "pat"
+      ],
+      "tier": "recognition",
+      "phonetic": "/pæt/",
+      "partOfSpeech": "n.",
+      "meaning": "轻拍",
+      "wordForms": "原文词形：pat",
+      "sentence": "Annie started to pat the mouse again.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-08/pat.mp3"
+    },
+    {
+      "id": "leafy",
+      "word": "leafy",
+      "forms": [
+        "leafy"
+      ],
+      "tier": "core",
+      "phonetic": "/'li:fi/",
+      "partOfSpeech": "adj.",
+      "meaning": "叶茂盛的；多叶的",
+      "wordForms": "原文词形：leafy",
+      "sentence": "The way she helped us in the time of ninjas—\"Annie placed the mouse on the leafy forest floor.\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-08/leafy.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "叶茂盛的；多叶的",
+        "条理；斑纹",
+        "沙沙声；瑟瑟声"
+      ]
+    },
+    {
+      "id": "rustling",
+      "word": "rustling",
+      "forms": [
+        "rustling"
+      ],
+      "tier": "core",
+      "phonetic": "/'rʌsliθ/",
+      "partOfSpeech": "n.",
+      "meaning": "沙沙声；瑟瑟声",
+      "wordForms": "原文词形：rustling",
+      "sentence": "He pointed to leaves rustling on the ground.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-08/rustling.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "沙沙声；瑟瑟声",
+        "条理；斑纹",
+        "forget的过去式和过去分词"
+      ]
+    },
+    {
+      "id": "streak",
+      "word": "streak",
+      "forms": [
+        "streak"
+      ],
+      "tier": "core",
+      "phonetic": "/stri:k/",
+      "partOfSpeech": "n.",
+      "meaning": "条理；斑纹",
+      "wordForms": "原文词形：streak",
+      "sentence": "A streak of white passed over the leaves.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-08/streak.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "条理；斑纹",
+        "forget的过去式和过去分词",
+        "任务；代表团"
+      ]
+    },
+    {
+      "id": "look",
+      "word": "Look",
+      "forms": [
+        "Look"
+      ],
+      "tier": "core",
+      "phonetic": "/luk/",
+      "partOfSpeech": "n.",
+      "meaning": "一看；神色",
+      "wordForms": "原文词形：Look",
+      "sentence": "Look.”",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-08/look.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "一看；神色",
+        "蝙蝠；球棒",
+        "吸血鬼"
+      ]
+    }
+  ]
+}

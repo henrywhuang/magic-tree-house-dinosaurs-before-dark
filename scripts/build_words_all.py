@@ -24,6 +24,11 @@ MANUAL = {
     'peanut': ('/ˈpiːnʌt/', '花生米（小老鼠的名字）'),
     'ninja': ('/ˈnɪndʒə/', 'n. 忍者'), 'ninjas': ('/ˈnɪndʒəz/', 'n. 忍者（复数）'),
     'samurai': ('/ˈsæmuraɪ/', 'n. 日本武士'), 'japan': ('/dʒəˈpæn/', 'n. 日本'),
+    'amazon': ('/ˈæməzən/', 'n. 亚马孙河；亚马孙雨林'),
+    'piranha': ('/pɪˈrɑːnə/', 'n. 食人鱼；水虎鱼'), 'piranhas': ('/pɪˈrɑːnəz/', 'n. 食人鱼；水虎鱼（复数）'),
+    'jaguar': ('/ˈdʒæɡwɑːr/', 'n. 美洲虎'), 'caiman': ('/ˈkeɪmən/', 'n. 凯门鳄'),
+    'capuchin': ('/ˈkæpjʊtʃɪn/', 'n. 卷尾猴'), 'mango': ('/ˈmæŋɡəʊ/', 'n. 芒果'),
+    'canoe': ('/kəˈnuː/', 'n. 独木舟；小划艇'), 'moonstone': ('/ˈmuːnstəʊn/', 'n. 月光石'),
 }
 
 def norm(w):

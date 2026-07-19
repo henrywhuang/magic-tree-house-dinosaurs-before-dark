@@ -1,0 +1,317 @@
+{
+  "book": 6,
+  "chapter": 1,
+  "title": "Where's Peanut?",
+  "words": [
+    {
+      "id": "her",
+      "word": "her",
+      "forms": [
+        "her"
+      ],
+      "tier": "recognition",
+      "phonetic": "/hә:/",
+      "partOfSpeech": "pron.",
+      "meaning": "她的；她",
+      "wordForms": "原文词形：her",
+      "sentence": "Jack followed her.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-01/her.mp3"
+    },
+    {
+      "id": "she",
+      "word": "She",
+      "forms": [
+        "She"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ʃi:/",
+      "partOfSpeech": "pron.",
+      "meaning": "她",
+      "wordForms": "原文词形：She",
+      "sentence": "She stood beside a tall oak tree.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-01/she.mp3"
+    },
+    {
+      "id": "afternoon",
+      "word": "afternoon",
+      "forms": [
+        "afternoon"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɑ:ftә'nu:n/",
+      "partOfSpeech": "n.",
+      "meaning": "午后；下午",
+      "wordForms": "原文词形：afternoon",
+      "sentence": "The magic tree house was shining in the afternoon sunlight.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-01/afternoon.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ft",
+          "sound": "/ft/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "午后；下午",
+        "微光；闪光",
+        "块；瘤"
+      ]
+    },
+    {
+      "id": "said",
+      "word": "said",
+      "forms": [
+        "said"
+      ],
+      "tier": "core",
+      "phonetic": "/sed/",
+      "partOfSpeech": "adj.",
+      "meaning": "上述的",
+      "wordForms": "原文词形：said",
+      "sentence": "said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-01/said.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "上述的",
+        "微光；闪光",
+        "堆叠；堆"
+      ]
+    },
+    {
+      "id": "stack",
+      "word": "stack",
+      "forms": [
+        "stack"
+      ],
+      "tier": "core",
+      "phonetic": "/stæk/",
+      "partOfSpeech": "n.",
+      "meaning": "堆叠；堆",
+      "wordForms": "原文词形：stack",
+      "sentence": "Sunlight slanted across a stack of books—books about ninjas, pirates, mummies, knights, and dinosaurs.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-01/stack.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "堆叠；堆",
+        "上述的",
+        "微光；闪光"
+      ]
+    },
+    {
+      "id": "shimmered",
+      "word": "shimmered",
+      "forms": [
+        "shimmered"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈʃɪməd/",
+      "partOfSpeech": "n.",
+      "meaning": "微光；闪光",
+      "wordForms": "原文词形：shimmered",
+      "sentence": "The letter M shimmered on the wooden floor.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-01/shimmered.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "微光；闪光",
+        "线索；暗示",
+        "堆叠；堆"
+      ]
+    },
+    {
+      "id": "lump",
+      "word": "lump",
+      "forms": [
+        "lump"
+      ],
+      "tier": "core",
+      "phonetic": "/lʌmp/",
+      "partOfSpeech": "n.",
+      "meaning": "块；瘤",
+      "wordForms": "原文词形：lump",
+      "sentence": "Annie picked up the tiny lump.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-01/lump.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "块；瘤",
+        "事物；东西",
+        "上述的"
+      ]
+    },
+    {
+      "id": "things",
+      "word": "things",
+      "forms": [
+        "things"
+      ],
+      "tier": "core",
+      "phonetic": "/θiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "事物；东西",
+      "wordForms": "原文词形：things",
+      "sentence": "We have to find three more things for Morgan,\" said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-01/things.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "事物；东西",
+        "上述的",
+        "线索；暗示"
+      ]
+    },
+    {
+      "id": "clue",
+      "word": "clue",
+      "forms": [
+        "clue"
+      ],
+      "tier": "core",
+      "phonetic": "/klu:/",
+      "partOfSpeech": "n.",
+      "meaning": "线索；暗示",
+      "wordForms": "原文词形：clue",
+      "sentence": "\"First we have to find a clue that tells us where to begin,\" he said.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-01/clue.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ue",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "线索；暗示",
+        "块；瘤",
+        "午后；下午"
+      ]
+    }
+  ]
+}

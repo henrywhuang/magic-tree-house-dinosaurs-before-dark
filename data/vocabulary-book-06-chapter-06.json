@@ -1,0 +1,385 @@
+{
+  "book": 6,
+  "chapter": 6,
+  "title": "Monkey Trouble",
+  "words": [
+    {
+      "id": "poked",
+      "word": "poked",
+      "forms": [
+        "poked"
+      ],
+      "tier": "core",
+      "phonetic": "/pəukt/",
+      "partOfSpeech": "n.",
+      "meaning": "博克",
+      "wordForms": "原文词形：poked",
+      "sentence": "Peanut poked her head out from Annie's pocket.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-06/poked.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "博克",
+        "水果；果类",
+        "岩石；岩礁"
+      ]
+    },
+    {
+      "id": "monkey",
+      "word": "monkey",
+      "forms": [
+        "monkey"
+      ],
+      "tier": "core",
+      "phonetic": "/'mʌŋki/",
+      "partOfSpeech": "n.",
+      "meaning": "猴子；猿",
+      "wordForms": "原文词形：monkey",
+      "sentence": "She seemed to be yelling at the monkey.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-06/monkey.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ey",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "猴子；猿",
+        "矛；枪",
+        "水果；果类"
+      ]
+    },
+    {
+      "id": "fruit",
+      "word": "fruit",
+      "forms": [
+        "fruit"
+      ],
+      "tier": "core",
+      "phonetic": "/fru:t/",
+      "partOfSpeech": "n.",
+      "meaning": "水果；果类",
+      "wordForms": "原文词形：fruit",
+      "sentence": "But suddenly the monkey grabbed a big red fruit hanging from the tree.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-06/fruit.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ui",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "水果；果类",
+        "雨滴；雨点",
+        "猴子；猿"
+      ]
+    },
+    {
+      "id": "ducked",
+      "word": "ducked",
+      "forms": [
+        "ducked"
+      ],
+      "tier": "core",
+      "phonetic": "/dʌk/",
+      "partOfSpeech": "n.",
+      "meaning": "鸭子",
+      "wordForms": "原文词形：ducked",
+      "sentence": "Jack and Annie ducked again.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-06/ducked.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "鸭子",
+        "猴子；猿",
+        "雷；雷声"
+      ]
+    },
+    {
+      "id": "rocked",
+      "word": "rocked",
+      "forms": [
+        "rocked"
+      ],
+      "tier": "core",
+      "phonetic": "/rɔkt/",
+      "partOfSpeech": "n.",
+      "meaning": "岩石；岩礁",
+      "wordForms": "原文词形：rocked",
+      "sentence": "The canoe rocked.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-06/rocked.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "岩石；岩礁",
+        "水果；果类",
+        "用力的投掷"
+      ]
+    },
+    {
+      "id": "raindrop",
+      "word": "raindrop",
+      "forms": [
+        "raindrop"
+      ],
+      "tier": "core",
+      "phonetic": "/'reindrɒp/",
+      "partOfSpeech": "n.",
+      "meaning": "雨滴；雨点",
+      "wordForms": "原文词形：raindrop",
+      "sentence": "A raindrop hit him in the eye.\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-06/raindrop.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "雨滴；雨点",
+        "博克",
+        "猴子；猿"
+      ]
+    },
+    {
+      "id": "thunder",
+      "word": "Thunder",
+      "forms": [
+        "Thunder"
+      ],
+      "tier": "core",
+      "phonetic": "/'θʌndә/",
+      "partOfSpeech": "n.",
+      "meaning": "雷；雷声",
+      "wordForms": "原文词形：Thunder",
+      "sentence": "Thunder rolled in the sky.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-06/thunder.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "雷；雷声",
+        "水果；果类",
+        "雨滴；雨点"
+      ]
+    },
+    {
+      "id": "bad",
+      "word": "bad",
+      "forms": [
+        "bad"
+      ],
+      "tier": "recognition",
+      "phonetic": "/bæd/",
+      "partOfSpeech": "adj.",
+      "meaning": "坏的",
+      "wordForms": "原文词形：bad",
+      "sentence": "“A river’s a bad place to be in a storm,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-06/bad.mp3"
+    },
+    {
+      "id": "hurl",
+      "word": "hurl",
+      "forms": [
+        "hurl"
+      ],
+      "tier": "core",
+      "phonetic": "/hә:l/",
+      "partOfSpeech": "n.",
+      "meaning": "用力的投掷",
+      "wordForms": "原文词形：hurl",
+      "sentence": "Was the monkey going to hurl the stick at them?",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-06/hurl.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "用力的投掷",
+        "矛；枪",
+        "博克"
+      ]
+    },
+    {
+      "id": "spear",
+      "word": "spear",
+      "forms": [
+        "spear"
+      ],
+      "tier": "core",
+      "phonetic": "/spiә/",
+      "partOfSpeech": "n.",
+      "meaning": "矛；枪",
+      "wordForms": "原文词形：spear",
+      "sentence": "Like a spear?",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-06/spear.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "矛；枪",
+        "博克",
+        "水果；果类"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "book": 6,
+  "chapter": 9,
+  "title": "The Thing",
+  "words": [
+    {
+      "id": "thanks",
+      "word": "Thanks",
+      "forms": [
+        "Thanks"
+      ],
+      "tier": "core",
+      "phonetic": "/θæŋk/",
+      "partOfSpeech": "n.",
+      "meaning": "谢意；感谢",
+      "wordForms": "原文词形：Thanks",
+      "sentence": "\"Thanks,\" she said softly.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-09/thanks.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "谢意；感谢",
+        "砰的一声；重击",
+        "拍手；拍手声"
+      ]
+    },
+    {
+      "id": "thud",
+      "word": "Thud",
+      "forms": [
+        "Thud"
+      ],
+      "tier": "core",
+      "phonetic": "/θʌd/",
+      "partOfSpeech": "n.",
+      "meaning": "砰的一声；重击",
+      "wordForms": "原文词形：Thud",
+      "sentence": "Thud.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-09/thud.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "砰的一声；重击",
+        "谢意；感谢",
+        "符咒；魅力"
+      ]
+    },
+    {
+      "id": "cocked",
+      "word": "cocked",
+      "forms": [
+        "cocked"
+      ],
+      "tier": "core",
+      "phonetic": "/kɔkt/",
+      "partOfSpeech": "n.",
+      "meaning": "公鸡；雄禽",
+      "wordForms": "原文词形：cocked",
+      "sentence": "His head was cocked to one side.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-09/cocked.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "公鸡；雄禽",
+        "快乐的；幸福的",
+        "砰的一声；重击"
+      ]
+    },
+    {
+      "id": "special",
+      "word": "special",
+      "forms": [
+        "special"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'speʃәl/",
+      "partOfSpeech": "n.",
+      "meaning": "专辑；专车",
+      "wordForms": "原文词形：special",
+      "sentence": "One of the special things we're supposed to find for Morgan,\" Annie said.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-09/special.mp3"
+    },
+    {
+      "id": "free",
+      "word": "free",
+      "forms": [
+        "free"
+      ],
+      "tier": "core",
+      "phonetic": "/fri:/",
+      "partOfSpeech": "adj.",
+      "meaning": "自由的；享受政治权力的",
+      "wordForms": "原文词形：free",
+      "sentence": "\"To free her from the spell.\"\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-09/free.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "自由的；享受政治权力的",
+        "谢意；感谢",
+        "拍手；拍手声"
+      ]
+    },
+    {
+      "id": "spell",
+      "word": "spell",
+      "forms": [
+        "spell"
+      ],
+      "tier": "core",
+      "phonetic": "/spel/",
+      "partOfSpeech": "n.",
+      "meaning": "符咒；魅力",
+      "wordForms": "原文词形：spell",
+      "sentence": "\"To free her from the spell.\"\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-09/spell.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "符咒；魅力",
+        "自由的；享受政治权力的",
+        "公鸡；雄禽"
+      ]
+    },
+    {
+      "id": "clapping",
+      "word": "clapping",
+      "forms": [
+        "clapping"
+      ],
+      "tier": "core",
+      "phonetic": "/klæp/",
+      "partOfSpeech": "n.",
+      "meaning": "拍手；拍手声",
+      "wordForms": "原文词形：clapping",
+      "sentence": "He was clapping his hands together.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-09/clapping.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "拍手；拍手声",
+        "战栗；颤抖",
+        "符咒；魅力"
+      ]
+    },
+    {
+      "id": "swung",
+      "word": "swung",
+      "forms": [
+        "swung"
+      ],
+      "tier": "core",
+      "phonetic": "/swʌŋ/",
+      "partOfSpeech": "",
+      "meaning": "swing的过去式和过去分词",
+      "wordForms": "原文词形：swung",
+      "sentence": "Then he turned and swung away out of the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-09/swung.mp3",
+      "phonics": [
+        {
+          "letters": "sw",
+          "sound": "/sw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "swing的过去式和过去分词",
+        "快乐的；幸福的",
+        "自由的；享受政治权力的"
+      ]
+    },
+    {
+      "id": "vanished",
+      "word": "vanished",
+      "forms": [
+        "vanished"
+      ],
+      "tier": "core",
+      "phonetic": "/'væniʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "消失；不见",
+      "wordForms": "原文词形：vanished",
+      "sentence": "He had vanished below the treetops.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-09/vanished.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "消失；不见",
+        "快乐的；幸福的",
+        "拍手；拍手声"
+      ]
+    },
+    {
+      "id": "happy",
+      "word": "happy",
+      "forms": [
+        "happy"
+      ],
+      "tier": "core",
+      "phonetic": "/'hæpi/",
+      "partOfSpeech": "adj.",
+      "meaning": "快乐的；幸福的",
+      "wordForms": "原文词形：happy",
+      "sentence": "A happy screech came from the mysterious world below.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-09/happy.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "快乐的；幸福的",
+        "符咒；魅力",
+        "swing的过去式和过去分词"
+      ]
+    },
+    {
+      "id": "tremble",
+      "word": "tremble",
+      "forms": [
+        "tremble"
+      ],
+      "tier": "core",
+      "phonetic": "/'trembl/",
+      "partOfSpeech": "n.",
+      "meaning": "战栗；颤抖",
+      "wordForms": "原文词形：tremble",
+      "sentence": "The leaves began to tremble.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-09/tremble.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "战栗；颤抖",
+        "公鸡；雄禽",
+        "砰的一声；重击"
+      ]
+    }
+  ]
+}

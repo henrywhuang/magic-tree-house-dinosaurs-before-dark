@@ -1,0 +1,325 @@
+{
+  "book": 6,
+  "chapter": 2,
+  "title": "Big Bugs",
+  "words": [
+    {
+      "id": "forest",
+      "word": "forest",
+      "forms": [
+        "forest"
+      ],
+      "tier": "core",
+      "phonetic": "/'fɒrist/",
+      "partOfSpeech": "prep.",
+      "meaning": "为；因为",
+      "wordForms": "原文词形：forest",
+      "sentence": "It showed a picture of a green forest.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-02/forest.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "est",
+          "sound": "/ɪst/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "为；因为",
+        "爬行的；令人毛骨悚然的",
+        "颤抖；哆嗦"
+      ]
+    },
+    {
+      "id": "bugs",
+      "word": "bugs",
+      "forms": [
+        "bugs"
+      ],
+      "tier": "core",
+      "phonetic": "/bʌgz/",
+      "partOfSpeech": "n.",
+      "meaning": "错误；虫",
+      "wordForms": "原文词形：bugs",
+      "sentence": "“It’s filled with big bugs and spiders.”\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-02/bugs.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "错误；虫",
+        "整洁的；巧妙的",
+        "爬行的；令人毛骨悚然的"
+      ]
+    },
+    {
+      "id": "know",
+      "word": "know",
+      "forms": [
+        "know"
+      ],
+      "tier": "core",
+      "phonetic": "/nәu/",
+      "partOfSpeech": "v.",
+      "meaning": "知道；了解",
+      "wordForms": "原文词形：know",
+      "sentence": "I know,\" said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-02/know.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "知道；了解",
+        "整洁的；巧妙的",
+        "错误；虫"
+      ]
+    },
+    {
+      "id": "creepy",
+      "word": "creepy",
+      "forms": [
+        "creepy"
+      ],
+      "tier": "core",
+      "phonetic": "/'kri:pi/",
+      "partOfSpeech": "adj.",
+      "meaning": "爬行的；令人毛骨悚然的",
+      "wordForms": "原文词形：creepy",
+      "sentence": "It's creepy,\" said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-02/creepy.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "爬行的；令人毛骨悚然的",
+        "颤抖；哆嗦",
+        "知道；了解"
+      ]
+    },
+    {
+      "id": "neat",
+      "word": "neat",
+      "forms": [
+        "neat"
+      ],
+      "tier": "core",
+      "phonetic": "/ni:t/",
+      "partOfSpeech": "adj.",
+      "meaning": "整洁的；巧妙的",
+      "wordForms": "原文词形：neat",
+      "sentence": "“It’s neat,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-02/neat.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "整洁的；巧妙的",
+        "爬行的；令人毛骨悚然的",
+        "颤抖；哆嗦"
+      ]
+    },
+    {
+      "id": "shivered",
+      "word": "shivered",
+      "forms": [
+        "shivered"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈʃivəd/",
+      "partOfSpeech": "v.",
+      "meaning": "颤抖；哆嗦",
+      "wordForms": "原文词形：shivered",
+      "sentence": "She shivered.\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-02/shivered.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "颤抖；哆嗦",
+        "整洁的；巧妙的",
+        "错误；虫"
+      ]
+    },
+    {
+      "id": "afraid",
+      "word": "afraid",
+      "forms": [
+        "afraid"
+      ],
+      "tier": "core",
+      "phonetic": "/ә'freid/",
+      "partOfSpeech": "adj.",
+      "meaning": "害怕的；恐怕的",
+      "wordForms": "原文词形：afraid",
+      "sentence": "\"You weren't afraid of dinosaurs.\"",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-02/afraid.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "害怕的；恐怕的",
+        "错误；虫",
+        "皱眉"
+      ]
+    },
+    {
+      "id": "frowning",
+      "word": "frowning",
+      "forms": [
+        "frowning"
+      ],
+      "tier": "core",
+      "phonetic": "/fraunɪŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "皱眉",
+      "wordForms": "原文词形：frowning",
+      "sentence": "“I know that,” said Annie, frowning.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-02/frowning.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "皱眉",
+        "害怕的；恐怕的",
+        "爬行的；令人毛骨悚然的"
+      ]
+    }
+  ]
+}

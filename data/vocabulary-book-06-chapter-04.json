@@ -1,0 +1,476 @@
+{
+  "book": 6,
+  "chapter": 4,
+  "title": "Millions of Them!",
+  "words": [
+    {
+      "id": "rays",
+      "word": "rays",
+      "forms": [
+        "rays"
+      ],
+      "tier": "core",
+      "phonetic": "/rei/",
+      "partOfSpeech": "n.",
+      "meaning": "光线；射线",
+      "wordForms": "原文词形：rays",
+      "sentence": "Only a few rays of light slanted through the gloom.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-04/rays.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "光线；射线",
+        "蚂蚁",
+        "忧郁；暗处"
+      ]
+    },
+    {
+      "id": "gloom",
+      "word": "gloom",
+      "forms": [
+        "gloom"
+      ],
+      "tier": "core",
+      "phonetic": "/glu:m/",
+      "partOfSpeech": "n.",
+      "meaning": "忧郁；暗处",
+      "wordForms": "原文词形：gloom",
+      "sentence": "Only a few rays of light slanted through the gloom.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-04/gloom.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "忧郁；暗处",
+        "酒；葡萄酒",
+        "劈啪响；裂纹"
+      ]
+    },
+    {
+      "id": "vines",
+      "word": "Vines",
+      "forms": [
+        "Vines"
+      ],
+      "tier": "core",
+      "phonetic": "/væŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "酒；葡萄酒",
+      "wordForms": "原文词形：Vines",
+      "sentence": "Vines and moss were hanging everywhere.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-04/vines.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "酒；葡萄酒",
+        "环境",
+        "蚂蚁"
+      ]
+    },
+    {
+      "id": "moss",
+      "word": "moss",
+      "forms": [
+        "moss"
+      ],
+      "tier": "core",
+      "phonetic": "/mɒs/",
+      "partOfSpeech": "n.",
+      "meaning": "[计] 管理操作系统；金属氧化物半导体",
+      "wordForms": "原文词形：moss",
+      "sentence": "Vines and moss were hanging everywhere.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-04/moss.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "[计] 管理操作系统；金属氧化物半导体",
+        "蚂蚁",
+        "劈啪响；裂纹"
+      ]
+    },
+    {
+      "id": "surroundings",
+      "word": "surroundings",
+      "forms": [
+        "surroundings"
+      ],
+      "tier": "core",
+      "phonetic": "/sә'rajndiŋz/",
+      "partOfSpeech": "n.",
+      "meaning": "环境",
+      "wordForms": "原文词形：surroundings",
+      "sentence": "He read:In the rain forest, many living creatures blend in with their surroundings.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-04/surroundings.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "环境",
+        "伪装；掩饰",
+        "忧郁；暗处"
+      ]
+    },
+    {
+      "id": "camouflage",
+      "word": "camouflage",
+      "forms": [
+        "camouflage"
+      ],
+      "tier": "core",
+      "phonetic": "/'kæmuflɑ:ʒ/",
+      "partOfSpeech": "v.",
+      "meaning": "伪装；掩饰",
+      "wordForms": "原文词形：camouflage",
+      "sentence": "This is called camouflage.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-04/camouflage.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "伪装；掩饰",
+        "蚂蚁",
+        "军队；陆军"
+      ]
+    },
+    {
+      "id": "crackling",
+      "word": "crackling",
+      "forms": [
+        "crackling"
+      ],
+      "tier": "core",
+      "phonetic": "/'krækliŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "劈啪响；裂纹",
+      "wordForms": "原文词形：crackling",
+      "sentence": "He heard a crackling sound.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-04/crackling.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "劈啪响；裂纹",
+        "忧郁；暗处",
+        "酒；葡萄酒"
+      ]
+    },
+    {
+      "id": "million",
+      "word": "million",
+      "forms": [
+        "million"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'miljәn/",
+      "partOfSpeech": "n.",
+      "meaning": "百万；无数",
+      "wordForms": "原文词形：million",
+      "sentence": "The sound means that 30 million flesh-eating army ants are marching through the dead leaves.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-04/million.mp3"
+    },
+    {
+      "id": "army",
+      "word": "army",
+      "forms": [
+        "army"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɑ:mi/",
+      "partOfSpeech": "n.",
+      "meaning": "军队；陆军",
+      "wordForms": "原文词形：army",
+      "sentence": "The sound means that 30 million flesh-eating army ants are marching through the dead leaves.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-04/army.mp3",
+      "phonics": [
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "军队；陆军",
+        "光线；射线",
+        "酒；葡萄酒"
+      ]
+    },
+    {
+      "id": "ants",
+      "word": "ants",
+      "forms": [
+        "ants"
+      ],
+      "tier": "core",
+      "phonetic": "/ænt/",
+      "partOfSpeech": "n.",
+      "meaning": "蚂蚁",
+      "wordForms": "原文词形：ants",
+      "sentence": "The sound means that 30 million flesh-eating army ants are marching through the dead leaves.",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-04/ants.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蚂蚁",
+        "桨；划桨",
+        "劈啪响；裂纹"
+      ]
+    },
+    {
+      "id": "paddles",
+      "word": "paddles",
+      "forms": [
+        "paddles"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈpædlz/",
+      "partOfSpeech": "n.",
+      "meaning": "桨；划桨",
+      "wordForms": "原文词形：paddles",
+      "sentence": "“We don’t have paddles!”",
+      "sentenceAudio": "assets/audio/sentences/book-06-chapter-04/paddles.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "桨；划桨",
+        "[计] 管理操作系统；金属氧化物半导体",
+        "伪装；掩饰"
+      ]
+    }
+  ]
+}

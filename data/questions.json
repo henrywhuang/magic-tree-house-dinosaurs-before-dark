@@ -5591,6 +5591,1093 @@
           ]
         }
       ]
+    },
+    {
+      "book": 6,
+      "book_title": "Afternoon on the Amazon",
+      "book_title_cn": "亚马孙探险",
+      "chapters": [
+        {
+          "book": 6,
+          "chapter": 1,
+          "chapter_title": "Where's Peanut?",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "\"Was it here before we left home?\" said Jack.",
+                "B": "Annie picked up the tiny lump.",
+                "C": "She stood up and threw it back at the monkey.",
+                "D": "He pulled out the rain forest book and flipped through it."
+              },
+              "answer": "B",
+              "evidence": [
+                "Annie picked up the tiny lump."
+              ],
+              "rationale": "原文直接写到：Annie picked up the tiny lump.",
+              "id": "B6C1Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "In old Japan, Peanut had helped them when they'd gotten lost.",
+                "B": "She pointed at a corner of the tree house.",
+                "C": "Annie picked up the tiny lump.",
+                "D": "She grabbed the rope ladder and started up."
+              },
+              "answer": "D",
+              "evidence": [
+                "She grabbed the rope ladder and started up."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：She grabbed the rope ladder and started up.",
+              "id": "B6C1Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: Yesterday Annie had turned her sock into a bed for Peanut.",
+              "options": {
+                "A": "He let go and took off.",
+                "B": "Jack screamed and fell back into the canoe.",
+                "C": "Jack pushed his glasses into place.",
+                "D": "She grabbed the rope ladder and started up."
+              },
+              "answer": "C",
+              "evidence": [
+                "Yesterday Annie had turned her sock into a bed for Peanut.",
+                "Jack pushed his glasses into place."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：Jack pushed his glasses into place.",
+              "id": "B6C1Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"grabbed\" most likely mean? Sentence: She grabbed the rope ladder and started up.",
+              "options": {
+                "A": "made a deep, loud sound",
+                "B": "took hold of something quickly",
+                "C": "disappeared suddenly",
+                "D": "looked steadily for some time"
+              },
+              "answer": "B",
+              "evidence": [
+                "She grabbed the rope ladder and started up."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“took hold of something quickly”。",
+              "id": "B6C1Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can the reader infer about Annie from this detail? Evidence: Annie ran into the Frog Creek woods.",
+              "options": {
+                "A": "She cares more about rules than adventure.",
+                "B": "She avoids every unfamiliar situation.",
+                "C": "She is curious and willing to act quickly.",
+                "D": "She waits for Jack to do everything first."
+              },
+              "answer": "C",
+              "evidence": [
+                "Annie ran into the Frog Creek woods."
+              ],
+              "rationale": "原文细节支持这一推断：She is curious and willing to act quickly.",
+              "id": "B6C1Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 6,
+          "chapter": 2,
+          "chapter_title": "Big Bugs",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "Jack put the rain forest book on top of the book about ninjas.",
+                "B": "Maybe he could even name some unknown bugs.",
+                "C": "He pulled his notebook out of his pack.",
+                "D": "He read: The rain forest is in four layers."
+              },
+              "answer": "B",
+              "evidence": [
+                "Maybe he could even name some unknown bugs."
+              ],
+              "rationale": "原文直接写到：Maybe he could even name some unknown bugs.",
+              "id": "B6C2Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "Jack closed the book and looked at the cover.",
+                "B": "\"Stay here, Peanut,\" said Annie as she put the mouse in her pocket.",
+                "C": "Maybe he could even name some unknown bugs.",
+                "D": "He pointed to a picture that showed blue sky, green leaves, and bright flowers."
+              },
+              "answer": "A",
+              "evidence": [
+                "Jack closed the book and looked at the cover."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：Jack closed the book and looked at the cover.",
+              "id": "B6C2Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: He wanted to take lots of notes in the rain forest.",
+              "options": {
+                "A": "And he and Annie left the tree house.",
+                "B": "\"I wish we could go there,\" he said.",
+                "C": "Jack closed the book and looked at the cover.",
+                "D": "Annie pointed at the rope ladder."
+              },
+              "answer": "B",
+              "evidence": [
+                "He wanted to take lots of notes in the rain forest.",
+                "\"I wish we could go there,\" he said."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：\"I wish we could go there,\" he said.",
+              "id": "B6C2Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"frowning\" most likely mean? Sentence: \"I know that,\" said Annie, frowning.",
+              "options": {
+                "A": "shone with a soft, clear light",
+                "B": "shook from fear",
+                "C": "flew high in the air",
+                "D": "drawing the eyebrows together to show displeasure"
+              },
+              "answer": "D",
+              "evidence": [
+                "\"I know that,\" said Annie, frowning."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“drawing the eyebrows together to show displeasure”。",
+              "id": "B6C2Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: Annie held the fruit up to the afternoon light. Later: Jack and Annie stepped out of the Frog Creek woods.",
+                "B": "First: Annie held the fruit up to the afternoon light. Later: \"Stay here, Peanut,\" said Annie as she put the mouse in her pocket.",
+                "C": "First: Jack closed the book and looked at the cover. Later: \"Stay here, Peanut,\" said Annie as she put the mouse in her pocket.",
+                "D": "First: Jack closed the book and looked at the cover. Later: Jack and Annie stepped out of the Frog Creek woods."
+              },
+              "answer": "C",
+              "evidence": [
+                "First: Jack closed the book and looked at the cover. Later: \"Stay here, Peanut,\" said Annie as she put the mouse in her pocket."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: Jack closed the book and looked at the cover. Later: \"Stay here, Peanut,\" said Annie as she put the mouse in her pocket.",
+              "id": "B6C2Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 6,
+          "chapter": 3,
+          "chapter_title": "Yikes!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "\"Was it here before we left home?\" said Jack.",
+                "B": "Maybe he could even name some unknown bugs.",
+                "C": "He read: The rain forest is in four layers.",
+                "D": "They crept between the huge trees and past hanging vines."
+              },
+              "answer": "C",
+              "evidence": [
+                "He read: The rain forest is in four layers."
+              ],
+              "rationale": "原文直接写到：He read: The rain forest is in four layers.",
+              "id": "B6C3Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "\"It looks like we landed in some bushes,\" said Annie.",
+                "B": "Now that they were out of the sun, it was cooler.",
+                "C": "He read: The rain forest is in four layers.",
+                "D": "Jack put the rain forest book in his backpack."
+              },
+              "answer": "A",
+              "evidence": [
+                "\"It looks like we landed in some bushes,\" said Annie."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：\"It looks like we landed in some bushes,\" said Annie.",
+              "id": "B6C3Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: They had landed in a sea of shiny green leaves.",
+              "options": {
+                "A": "\"It looks like we landed in some bushes,\" said Annie.",
+                "B": "Annie pointed at the rope ladder.",
+                "C": "Jack found a picture of an animal with gold fur and black spots.",
+                "D": "He came to the understory below the canopy."
+              },
+              "answer": "D",
+              "evidence": [
+                "They had landed in a sea of shiny green leaves.",
+                "He came to the understory below the canopy."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：He came to the understory below the canopy.",
+              "id": "B6C3Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"steamy\" most likely mean? Sentence: The air was hot and steamy.",
+              "options": {
+                "A": "broken or not working properly",
+                "B": "feeling as if things are spinning",
+                "C": "hot and filled with water vapor",
+                "D": "very old"
+              },
+              "answer": "C",
+              "evidence": [
+                "The air was hot and steamy."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“hot and filled with water vapor”。",
+              "id": "B6C3Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: Jack closed the book and looked at the cover. Later: \"Stay here, Peanut,\" said Annie as she put the mouse in her pocket.",
+                "B": "First: \"It looks like we landed in some bushes,\" said Annie. Later: Now that they were out of the sun, it was cooler.",
+                "C": "First: Jack closed the book and looked at the cover. Later: Now that they were out of the sun, it was cooler.",
+                "D": "First: \"It looks like we landed in some bushes,\" said Annie. Later: \"Stay here, Peanut,\" said Annie as she put the mouse in her pocket."
+              },
+              "answer": "B",
+              "evidence": [
+                "First: \"It looks like we landed in some bushes,\" said Annie. Later: Now that they were out of the sun, it was cooler."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: \"It looks like we landed in some bushes,\" said Annie. Later: Now that they were out of the sun, it was cooler.",
+              "id": "B6C3Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 6,
+          "chapter": 4,
+          "chapter_title": "Millions of Them!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "Maybe he could even name some unknown bugs.",
+                "B": "\"Was it here before we left home?\" said Jack.",
+                "C": "They crept between the huge trees and past hanging vines.",
+                "D": "Annie started to pat the mouse again."
+              },
+              "answer": "C",
+              "evidence": [
+                "They crept between the huge trees and past hanging vines."
+              ],
+              "rationale": "原文直接写到：They crept between the huge trees and past hanging vines.",
+              "id": "B6C4Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "They crept between the huge trees and past hanging vines.",
+                "B": "Jack and Annie climbed down through the under- story.",
+                "C": "They ran past the hanging vines and mosses.",
+                "D": "He and Annie carefully climbed into the dug-out log."
+              },
+              "answer": "B",
+              "evidence": [
+                "Jack and Annie climbed down through the under- story."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：Jack and Annie climbed down through the under- story.",
+              "id": "B6C4Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: He found a picture of the dark world under the treetops.",
+              "options": {
+                "A": "She pointed to a big log rocking at the edge of the river.",
+                "B": "Jack found a picture of an animal with gold fur and black spots.",
+                "C": "Jack pushed his glasses into place.",
+                "D": "Jack and Annie climbed down through the under- story."
+              },
+              "answer": "A",
+              "evidence": [
+                "He found a picture of the dark world under the treetops.",
+                "She pointed to a big log rocking at the edge of the river."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：She pointed to a big log rocking at the edge of the river.",
+              "id": "B6C4Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"shoved\" most likely mean? Sentence: Jack shoved the book into his backpack.",
+              "options": {
+                "A": "moved the head to show agreement",
+                "B": "moved quietly and carefully",
+                "C": "stopped moving suddenly from fear or surprise",
+                "D": "pushed roughly"
+              },
+              "answer": "D",
+              "evidence": [
+                "Jack shoved the book into his backpack."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“pushed roughly”。",
+              "id": "B6C4Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: Jack and Annie climbed down through the under- story. Later: He and Annie carefully climbed into the dug-out log.",
+                "B": "First: Jack closed the book and looked at the cover. Later: \"Stay here, Peanut,\" said Annie as she put the mouse in her pocket.",
+                "C": "First: Jack closed the book and looked at the cover. Later: He and Annie carefully climbed into the dug-out log.",
+                "D": "First: Jack and Annie climbed down through the under- story. Later: \"Stay here, Peanut,\" said Annie as she put the mouse in her pocket."
+              },
+              "answer": "A",
+              "evidence": [
+                "First: Jack and Annie climbed down through the under- story. Later: He and Annie carefully climbed into the dug-out log."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: Jack and Annie climbed down through the under- story. Later: He and Annie carefully climbed into the dug-out log.",
+              "id": "B6C4Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 6,
+          "chapter": 5,
+          "chapter_title": "Pretty Fish",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "He pulled out the rain forest book and flipped through it.",
+                "B": "They crept between the huge trees and past hanging vines.",
+                "C": "He pulled his notebook out of his pack.",
+                "D": "Annie started to pat the mouse again."
+              },
+              "answer": "C",
+              "evidence": [
+                "He pulled his notebook out of his pack."
+              ],
+              "rationale": "原文直接写到：He pulled his notebook out of his pack.",
+              "id": "B6C5Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "He pulled his notebook out of his pack.",
+                "B": "He pulled the rain forest book out of his backpack and flipped through it.",
+                "C": "\"Help!\" screamed Annie, and she fell back into the canoe.",
+                "D": "But all he saw was a small brown monkey, hanging by its tail from a tree."
+              },
+              "answer": "B",
+              "evidence": [
+                "He pulled the rain forest book out of his backpack and flipped through it."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：He pulled the rain forest book out of his backpack and flipped through it.",
+              "id": "B6C5Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: He found a picture of a river.",
+              "options": {
+                "A": "It moved past the canoe and swam up the river.",
+                "B": "She looked from Annie to Jack with her big eyes.",
+                "C": "He pulled the rain forest book out of his backpack and flipped through it.",
+                "D": "In fact, that's true about the whole rain forest, Jack thought."
+              },
+              "answer": "A",
+              "evidence": [
+                "He found a picture of a river.",
+                "It moved past the canoe and swam up the river."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：It moved past the canoe and swam up the river.",
+              "id": "B6C5Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"glanced\" most likely mean? Sentence: Jack glanced up from his writing.",
+              "options": {
+                "A": "looked quickly",
+                "B": "made a very loud, deep sound",
+                "C": "turned something over quickly",
+                "D": "pushed roughly"
+              },
+              "answer": "A",
+              "evidence": [
+                "Jack glanced up from his writing."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“looked quickly”。",
+              "id": "B6C5Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What does this detail suggest about Annie? Evidence: Annie patted the little mouse in her pocket.",
+              "options": {
+                "A": "She feels comfortable with animals and treats them kindly.",
+                "B": "She tries to frighten every animal she meets.",
+                "C": "She refuses to go near unfamiliar creatures.",
+                "D": "She is interested only in taking notes."
+              },
+              "answer": "A",
+              "evidence": [
+                "Annie patted the little mouse in her pocket."
+              ],
+              "rationale": "原文细节支持这一推断：She feels comfortable with animals and treats them kindly.",
+              "id": "B6C5Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 6,
+          "chapter": 6,
+          "chapter_title": "Monkey Trouble",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "She stood up and threw it back at the monkey.",
+                "B": "They crept between the huge trees and past hanging vines.",
+                "C": "Annie picked up the tiny lump.",
+                "D": "He pulled his notebook out of his pack."
+              },
+              "answer": "A",
+              "evidence": [
+                "She stood up and threw it back at the monkey."
+              ],
+              "rationale": "原文直接写到：She stood up and threw it back at the monkey.",
+              "id": "B6C6Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "But suddenly the monkey grabbed a big red fruit hanging from the tree.",
+                "B": "She stood up and threw it back at the monkey.",
+                "C": "The monkey pulled the canoe all the way to the bank of the river.",
+                "D": "After a long moment, the monkey seemed to smile."
+              },
+              "answer": "A",
+              "evidence": [
+                "But suddenly the monkey grabbed a big red fruit hanging from the tree."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：But suddenly the monkey grabbed a big red fruit hanging from the tree.",
+              "id": "B6C6Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: The monkey grabbed a third fruit and hurled it at Jack and Annie.",
+              "options": {
+                "A": "But suddenly the monkey grabbed a big red fruit hanging from the tree.",
+                "B": "The monkey pulled on the stick.",
+                "C": "Jack screamed and fell back into the canoe.",
+                "D": "He turned and swung away out of the tree house."
+              },
+              "answer": "B",
+              "evidence": [
+                "The monkey grabbed a third fruit and hurled it at Jack and Annie.",
+                "The monkey pulled on the stick."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：The monkey pulled on the stick.",
+              "id": "B6C6Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"hurled\" most likely mean? Sentence: He hurled it at the canoe.",
+              "options": {
+                "A": "moved forward in big jumps",
+                "B": "make something clear or understandable",
+                "C": "moved or fell suddenly downward",
+                "D": "threw with great force"
+              },
+              "answer": "D",
+              "evidence": [
+                "He hurled it at the canoe."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“threw with great force”。",
+              "id": "B6C6Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: But suddenly the monkey grabbed a big red fruit hanging from the tree. Later: The monkey pulled the canoe all the way to the bank of the river.",
+                "B": "First: She grabbed the rope ladder and started up. Later: She pointed at a corner of the tree house.",
+                "C": "First: But suddenly the monkey grabbed a big red fruit hanging from the tree. Later: She pointed at a corner of the tree house.",
+                "D": "First: She grabbed the rope ladder and started up. Later: The monkey pulled the canoe all the way to the bank of the river."
+              },
+              "answer": "A",
+              "evidence": [
+                "First: But suddenly the monkey grabbed a big red fruit hanging from the tree. Later: The monkey pulled the canoe all the way to the bank of the river."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: But suddenly the monkey grabbed a big red fruit hanging from the tree. Later: The monkey pulled the canoe all the way to the bank of the river.",
+              "id": "B6C6Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 6,
+          "chapter": 7,
+          "chapter_title": "Freeze!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "He pulled out the rain forest book and flipped through it.",
+                "B": "Annie started to pat the mouse again.",
+                "C": "Maybe he could even name some unknown bugs.",
+                "D": "They crept between the huge trees and past hanging vines."
+              },
+              "answer": "A",
+              "evidence": [
+                "He pulled out the rain forest book and flipped through it."
+              ],
+              "rationale": "原文直接写到：He pulled out the rain forest book and flipped through it.",
+              "id": "B6C7Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "Jack and Annie jumped out of the canoe.",
+                "B": "He pulled out the rain forest book and flipped through it.",
+                "C": "Jack and Annie took off through the rain forest.",
+                "D": "He read: The jaguar is the biggest predator in the western hemisphere."
+              },
+              "answer": "A",
+              "evidence": [
+                "Jack and Annie jumped out of the canoe."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：Jack and Annie jumped out of the canoe.",
+              "id": "B6C7Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: She was playing with an animal that looked like a giant kitten.",
+              "options": {
+                "A": "He let go and took off.",
+                "B": "Jack and Annie jumped out of the canoe.",
+                "C": "In fact, that's true about the whole rain forest, Jack thought.",
+                "D": "Annie took a deep breath and slowly nodded."
+              },
+              "answer": "A",
+              "evidence": [
+                "She was playing with an animal that looked like a giant kitten.",
+                "He let go and took off."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：He let go and took off.",
+              "id": "B6C7Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"roared\" most likely mean? Sentence: The cat roared and spun around.",
+              "options": {
+                "A": "broke or interrupted suddenly and completely",
+                "B": "went in a leaning direction",
+                "C": "made a very loud, deep sound",
+                "D": "ran as fast as possible"
+              },
+              "answer": "C",
+              "evidence": [
+                "The cat roared and spun around."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“made a very loud, deep sound”。",
+              "id": "B6C7Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What does this detail suggest about Jack? Evidence: Jack found a picture of an animal with gold fur and black spots.",
+              "options": {
+                "A": "He uses information and observation to understand problems.",
+                "B": "He dislikes learning from books.",
+                "C": "He expects Annie to make every decision.",
+                "D": "He always acts before thinking."
+              },
+              "answer": "A",
+              "evidence": [
+                "Jack found a picture of an animal with gold fur and black spots."
+              ],
+              "rationale": "原文细节支持这一推断：He uses information and observation to understand problems.",
+              "id": "B6C7Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 6,
+          "chapter": 8,
+          "chapter_title": "Vampire Bats?",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "Annie picked up the tiny lump.",
+                "B": "He pulled out the rain forest book and flipped through it.",
+                "C": "He read: The rain forest is in four layers.",
+                "D": "Annie started to pat the mouse again."
+              },
+              "answer": "D",
+              "evidence": [
+                "Annie started to pat the mouse again."
+              ],
+              "rationale": "原文直接写到：Annie started to pat the mouse again.",
+              "id": "B6C8Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "Annie started to pat the mouse again.",
+                "B": "Jack and Annie followed the moving leaves.",
+                "C": "They followed Peanut all the way up to the canopy of the rain forest.",
+                "D": "He stopped at a picture of a scary creature."
+              },
+              "answer": "D",
+              "evidence": [
+                "He stopped at a picture of a scary creature."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：He stopped at a picture of a scary creature.",
+              "id": "B6C8Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: At night, they quietly bite their victims and suck their blood.",
+              "options": {
+                "A": "Jack screamed and fell back into the canoe.",
+                "B": "Annie pointed at the rope ladder.",
+                "C": "He stopped at a picture of a scary creature.",
+                "D": "She pointed to a big log rocking at the edge of the river."
+              },
+              "answer": "B",
+              "evidence": [
+                "At night, they quietly bite their victims and suck their blood.",
+                "Annie pointed at the rope ladder."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：Annie pointed at the rope ladder.",
+              "id": "B6C8Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"mission\" most likely mean? Sentence: \"But what about our mission?\" said Annie.",
+              "options": {
+                "A": "a point or area far away",
+                "B": "an important task someone is sent to complete",
+                "C": "magic words or power that cause an effect",
+                "D": "the plant layer below a forest canopy"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"But what about our mission?\" said Annie."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“an important task someone is sent to complete”。",
+              "id": "B6C8Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: He stopped at a picture of a scary creature. Later: She pointed at a corner of the tree house.",
+                "B": "First: She grabbed the rope ladder and started up. Later: She pointed at a corner of the tree house.",
+                "C": "First: He stopped at a picture of a scary creature. Later: They followed Peanut all the way up to the canopy of the rain forest.",
+                "D": "First: She grabbed the rope ladder and started up. Later: They followed Peanut all the way up to the canopy of the rain forest."
+              },
+              "answer": "C",
+              "evidence": [
+                "First: He stopped at a picture of a scary creature. Later: They followed Peanut all the way up to the canopy of the rain forest."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: He stopped at a picture of a scary creature. Later: They followed Peanut all the way up to the canopy of the rain forest.",
+              "id": "B6C8Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 6,
+          "chapter": 9,
+          "chapter_title": "The Thing",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "They crept between the huge trees and past hanging vines.",
+                "B": "Annie picked up the tiny lump.",
+                "C": "She stood up and threw it back at the monkey.",
+                "D": "\"Was it here before we left home?\" said Jack."
+              },
+              "answer": "D",
+              "evidence": [
+                "\"Was it here before we left home?\" said Jack."
+              ],
+              "rationale": "原文直接写到：\"Was it here before we left home?\" said Jack.",
+              "id": "B6C9Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "\"Was it here before we left home?\" said Jack.",
+                "B": "Before Annie could answer, Jack saw the Pennsylvania book.",
+                "C": "She turned to the picture of the Frog Creek woods.",
+                "D": "Jack and Annie climbed into the tree house."
+              },
+              "answer": "D",
+              "evidence": [
+                "Jack and Annie climbed into the tree house."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：Jack and Annie climbed into the tree house.",
+              "id": "B6C9Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: Annie began searching for the Pennsylvania book-the book that always took them home.",
+              "options": {
+                "A": "Jack and Annie climbed into the tree house.",
+                "B": "He found a picture of different animals running together.",
+                "C": "The monkey pulled on the stick.",
+                "D": "He turned and swung away out of the tree house."
+              },
+              "answer": "D",
+              "evidence": [
+                "Annie began searching for the Pennsylvania book-the book that always took them home.",
+                "He turned and swung away out of the tree house."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：He turned and swung away out of the tree house.",
+              "id": "B6C9Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"spell\" most likely mean? Sentence: \"To free her from the spell.\"",
+              "options": {
+                "A": "magic words or power that cause an effect",
+                "B": "an important task someone is sent to complete",
+                "C": "a rolled piece of material used for writing",
+                "D": "letters or a design cut into a surface"
+              },
+              "answer": "A",
+              "evidence": [
+                "\"To free her from the spell.\""
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“magic words or power that cause an effect”。",
+              "id": "B6C9Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: Jack and Annie climbed into the tree house. Later: She turned to the picture of the Frog Creek woods.",
+                "B": "First: Jack closed the book and looked at the cover. Later: \"Stay here, Peanut,\" said Annie as she put the mouse in her pocket.",
+                "C": "First: Jack and Annie climbed into the tree house. Later: \"Stay here, Peanut,\" said Annie as she put the mouse in her pocket.",
+                "D": "First: Jack closed the book and looked at the cover. Later: She turned to the picture of the Frog Creek woods."
+              },
+              "answer": "A",
+              "evidence": [
+                "First: Jack and Annie climbed into the tree house. Later: She turned to the picture of the Frog Creek woods."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: Jack and Annie climbed into the tree house. Later: She turned to the picture of the Frog Creek woods.",
+              "id": "B6C9Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 6,
+          "chapter": 10,
+          "chapter_title": "Halfway There",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "Jack put the rain forest book on top of the book about ninjas.",
+                "B": "He pulled his notebook out of his pack.",
+                "C": "Maybe he could even name some unknown bugs.",
+                "D": "He pulled out the rain forest book and flipped through it."
+              },
+              "answer": "A",
+              "evidence": [
+                "Jack put the rain forest book on top of the book about ninjas."
+              ],
+              "rationale": "原文直接写到：Jack put the rain forest book on top of the book about ninjas.",
+              "id": "B6C10Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "Jack and Annie stepped out of the Frog Creek woods.",
+                "B": "Annie held the fruit up to the afternoon light.",
+                "C": "Jack put the rain forest book on top of the book about ninjas.",
+                "D": "They started walking through the Frog Creek woods."
+              },
+              "answer": "B",
+              "evidence": [
+                "Annie held the fruit up to the afternoon light."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：Annie held the fruit up to the afternoon light.",
+              "id": "B6C10Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: He came to a picture of the red fruit.",
+              "options": {
+                "A": "Annie held the fruit up to the afternoon light.",
+                "B": "He pointed to leaves rustling on the ground.",
+                "C": "He came to the understory below the canopy.",
+                "D": "In fact, that's true about the whole rain forest, Jack thought."
+              },
+              "answer": "D",
+              "evidence": [
+                "He came to a picture of the red fruit.",
+                "In fact, that's true about the whole rain forest, Jack thought."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：In fact, that's true about the whole rain forest, Jack thought.",
+              "id": "B6C10Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"exactly\" most likely mean? Sentence: \"What exactly is this?\" she asked.",
+              "options": {
+                "A": "only just; almost not",
+                "B": "precisely or in every detail",
+                "C": "carefully to avoid danger",
+                "D": "quickly"
+              },
+              "answer": "B",
+              "evidence": [
+                "\"What exactly is this?\" she asked."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“precisely or in every detail”。",
+              "id": "B6C10Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: \"It looks like we landed in some bushes,\" said Annie. Later: Jack and Annie stepped out of the Frog Creek woods.",
+                "B": "First: Annie held the fruit up to the afternoon light. Later: Jack and Annie stepped out of the Frog Creek woods.",
+                "C": "First: Annie held the fruit up to the afternoon light. Later: Now that they were out of the sun, it was cooler.",
+                "D": "First: \"It looks like we landed in some bushes,\" said Annie. Later: Now that they were out of the sun, it was cooler."
+              },
+              "answer": "B",
+              "evidence": [
+                "First: Annie held the fruit up to the afternoon light. Later: Jack and Annie stepped out of the Frog Creek woods."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: Annie held the fruit up to the afternoon light. Later: Jack and Annie stepped out of the Frog Creek woods.",
+              "id": "B6C10Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
