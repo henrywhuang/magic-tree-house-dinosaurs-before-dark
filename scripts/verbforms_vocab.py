@@ -12,7 +12,7 @@ For each entry whose partOfSpeech starts with 'v':
   forms     -> [surface, base, 3sg, past, ing]  (any inflection in the text still links)
 Nouns / adjectives / adverbs are left untouched.
 """
-import json, re, glob, sys
+import argparse, json, re, glob, sys
 sys.path.insert(0, 'scripts')
 from gen_vocab_book4 import base_forms, load_ecdict, get_phonetic, phonics
 
@@ -89,7 +89,12 @@ def resolve_lemma(surface, ec):
     return None            # not a conjugatable verb -> leave entry unchanged
 
 def main():
-    files = sorted(glob.glob('data/vocabulary-book-0*-chapter-*.json'))
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--book', type=int, help='only rewrite one book number')
+    args = parser.parse_args()
+    pattern = (f'data/vocabulary-book-{args.book:02d}-chapter-*.json'
+               if args.book else 'data/vocabulary-book-0*-chapter-*.json')
+    files = sorted(glob.glob(pattern))
     data = {f: json.load(open(f, encoding='utf-8')) for f in files}
     entries = [w for d in data.values() for w in d['words']]
     ec = load_ecdict([w['word'] for w in entries])
@@ -139,7 +144,9 @@ def main():
             changed += 1
             if len(samples) < 12 and surface != lemma:
                 samples.append(f'{surface}->{lemma} [{third}/{past}/{ing}]')
-        json.dump(d, open(f, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+        with open(f, 'w', encoding='utf-8') as out:
+            json.dump(d, out, ensure_ascii=False, indent=2)
+            out.write('\n')
     print(f'transformed {changed} verb entries across {len(files)} files')
     print('samples:', '; '.join(samples))
     if skipped:

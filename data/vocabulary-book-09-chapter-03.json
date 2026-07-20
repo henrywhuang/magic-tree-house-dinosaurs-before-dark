@@ -1,0 +1,458 @@
+{
+  "book": 9,
+  "chapter": 3,
+  "title": "Mini-Sub",
+  "words": [
+    {
+      "id": "row",
+      "word": "row",
+      "forms": [
+        "row"
+      ],
+      "tier": "recognition",
+      "phonetic": "/rәu. rau/",
+      "partOfSpeech": "n.",
+      "meaning": "排；行",
+      "wordForms": "原文词形：row",
+      "sentence": "He saw a row of pictures at the top of the screen.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-03/row.mp3"
+    },
+    {
+      "id": "screen",
+      "word": "screen",
+      "forms": [
+        "screen"
+      ],
+      "tier": "core",
+      "phonetic": "/skri:n/",
+      "partOfSpeech": "n.",
+      "meaning": "屏幕；显示屏",
+      "wordForms": "原文词形：screen",
+      "sentence": "He saw a row of pictures at the top of the screen.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-03/screen.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "屏幕；显示屏",
+        "驾驶；操纵",
+        "山谷；谷地"
+      ]
+    },
+    {
+      "id": "command",
+      "word": "command",
+      "forms": [
+        "command"
+      ],
+      "tier": "core",
+      "phonetic": "/kә'mɑ:nd/",
+      "partOfSpeech": "n.",
+      "meaning": "命令；指挥",
+      "wordForms": "原文词形：command",
+      "sentence": "“That must be the command to go under the water,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-03/command.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "命令；指挥",
+        "行星",
+        "驾驶；操纵"
+      ]
+    },
+    {
+      "id": "arrow",
+      "word": "arrow",
+      "forms": [
+        "arrow"
+      ],
+      "tier": "core",
+      "phonetic": "/'ærәu/",
+      "partOfSpeech": "n.",
+      "meaning": "箭头；方向标记",
+      "wordForms": "原文词形：arrow",
+      "sentence": "Annie pressed a key with an arrow pointing right.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-03/arrow.mp3",
+      "phonics": [
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "箭头；方向标记",
+        "颜色；面色",
+        "洞穴；山洞"
+      ]
+    },
+    {
+      "id": "relief",
+      "word": "relief",
+      "forms": [
+        "relief"
+      ],
+      "tier": "core",
+      "phonetic": "/ri'li:f/",
+      "partOfSpeech": "n.",
+      "meaning": "宽慰；安心",
+      "wordForms": "原文词形：relief",
+      "sentence": "said Jack with relief.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-03/relief.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "宽慰；安心",
+        "山谷；谷地",
+        "驾驶；操纵"
+      ]
+    },
+    {
+      "id": "steer",
+      "word": "steer",
+      "forms": [
+        "steer",
+        "steers",
+        "steered",
+        "steering"
+      ],
+      "tier": "core",
+      "phonetic": "/stiә/",
+      "partOfSpeech": "v.",
+      "meaning": "驾驶；操纵",
+      "wordForms": "第三人称单数 steers · 过去式 steered · 现在分词 steering",
+      "sentence": "“You press the arrows to steer the mini-sub.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-03/steer.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "驾驶；操纵",
+        "紧盯着的；目不转睛的",
+        "行星"
+      ]
+    },
+    {
+      "id": "glued",
+      "word": "glued",
+      "forms": [
+        "glued"
+      ],
+      "tier": "core",
+      "phonetic": "/ɡluːd/",
+      "partOfSpeech": "adj.",
+      "meaning": "紧盯着的；目不转睛的",
+      "wordForms": "原文词形：glued",
+      "sentence": "His eyes were still glued to the computer screen.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-03/glued.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "紧盯着的；目不转睛的",
+        "颜色；面色",
+        "行星"
+      ]
+    },
+    {
+      "id": "color",
+      "word": "color",
+      "forms": [
+        "color"
+      ],
+      "tier": "core",
+      "phonetic": "/'kʌlә/",
+      "partOfSpeech": "n.",
+      "meaning": "颜色；面色",
+      "wordForms": "原文词形：color",
+      "sentence": "Outside the glass was a strange world of bright moving color.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-03/color.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "颜色；面色",
+        "箭头；方向标记",
+        "洞穴；山洞"
+      ]
+    },
+    {
+      "id": "planet",
+      "word": "planet",
+      "forms": [
+        "planet"
+      ],
+      "tier": "core",
+      "phonetic": "/'plænit/",
+      "partOfSpeech": "n.",
+      "meaning": "行星",
+      "wordForms": "原文词形：planet",
+      "sentence": "It looked like another planet.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-03/planet.mp3",
+      "phonics": [
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "行星",
+        "颜色；面色",
+        "山谷；谷地"
+      ]
+    },
+    {
+      "id": "valleys",
+      "word": "valley",
+      "forms": [
+        "valley",
+        "valleys"
+      ],
+      "tier": "core",
+      "phonetic": "/'væli/",
+      "partOfSpeech": "n.",
+      "meaning": "山谷；谷地",
+      "wordForms": "原文词形：valleys",
+      "sentence": "The mini-sub was moving past red, yellow, and blue coral—past little coral mountains, valleys, and caves—past fishes of every color and size.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-03/valleys.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ey",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "山谷；谷地",
+        "宽慰；安心",
+        "颜色；面色"
+      ]
+    },
+    {
+      "id": "caves",
+      "word": "cave",
+      "forms": [
+        "cave",
+        "caves"
+      ],
+      "tier": "core",
+      "phonetic": "/keiv/",
+      "partOfSpeech": "n.",
+      "meaning": "洞穴；山洞",
+      "wordForms": "原文词形：caves",
+      "sentence": "The mini-sub was moving past red, yellow, and blue coral—past little coral mountains, valleys, and caves—past fishes of every color and size.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-03/caves.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "洞穴；山洞",
+        "屏幕；显示屏",
+        "箭头；方向标记"
+      ]
+    },
+    {
+      "id": "visit",
+      "word": "visit",
+      "forms": [
+        "visit",
+        "visits",
+        "visited",
+        "visiting"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'vizit/",
+      "partOfSpeech": "v.",
+      "meaning": "参观；游览",
+      "wordForms": "第三人称单数 visits · 过去式 visited · 现在分词 visiting",
+      "sentence": "Besides, when would they ever get to visit a place like this again?",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-03/visit.mp3"
+    }
+  ]
+}

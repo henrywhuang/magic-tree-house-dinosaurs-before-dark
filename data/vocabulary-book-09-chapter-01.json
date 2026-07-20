@@ -1,0 +1,473 @@
+{
+  "book": 9,
+  "chapter": 1,
+  "title": "Master Librarians",
+  "words": [
+    {
+      "id": "dream",
+      "word": "dream",
+      "forms": [
+        "dream"
+      ],
+      "tier": "core",
+      "phonetic": "/dri:m/",
+      "partOfSpeech": "n.",
+      "meaning": "梦；空想",
+      "wordForms": "原文词形：dream",
+      "sentence": "He had been thinking about the dream he’d had—the dream about Morgan le Fay.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-01/dream.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "梦；空想",
+        "早；提早",
+        "大叫；呼喊"
+      ]
+    },
+    {
+      "id": "exclaimed",
+      "word": "exclaim",
+      "forms": [
+        "exclaimed",
+        "exclaim",
+        "exclaims",
+        "exclaiming"
+      ],
+      "tier": "core",
+      "phonetic": "/iks'kleim/",
+      "partOfSpeech": "v.",
+      "meaning": "大叫；呼喊",
+      "wordForms": "第三人称单数 exclaims · 过去式 exclaimed · 现在分词 exclaiming",
+      "sentence": "exclaimed Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-01/exclaimed.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "x",
+          "sound": "/ks/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "大叫；呼喊",
+        "可爱的；美好的",
+        "卷轴；画卷"
+      ]
+    },
+    {
+      "id": "early",
+      "word": "early",
+      "forms": [
+        "early"
+      ],
+      "tier": "core",
+      "phonetic": "/'ә:li/",
+      "partOfSpeech": "adv.",
+      "meaning": "早；提早",
+      "wordForms": "原文词形：early",
+      "sentence": "“Where are you going so early?”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-01/early.mp3",
+      "phonics": [
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "早；提早",
+        "大叫；呼喊",
+        "纸；纸张"
+      ]
+    },
+    {
+      "id": "pale",
+      "word": "pale",
+      "forms": [
+        "pale"
+      ],
+      "tier": "core",
+      "phonetic": "/peil/",
+      "partOfSpeech": "adj.",
+      "meaning": "浅色的；苍白的",
+      "wordForms": "原文词形：pale",
+      "sentence": "The sky was pale gray.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-01/pale.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "浅色的；苍白的",
+        "宽松长袍；礼服",
+        "大叫；呼喊"
+      ]
+    },
+    {
+      "id": "lovely",
+      "word": "lovely",
+      "forms": [
+        "lovely"
+      ],
+      "tier": "core",
+      "phonetic": "/'lʌvli/",
+      "partOfSpeech": "adj.",
+      "meaning": "可爱的；美好的",
+      "wordForms": "原文词形：lovely",
+      "sentence": "Someone looked out the window of the tree house—a lovely old woman with long white hair.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-01/lovely.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ely",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "可爱的；美好的",
+        "梦；空想",
+        "谜；谜语"
+      ]
+    },
+    {
+      "id": "robe",
+      "word": "robe",
+      "forms": [
+        "robe"
+      ],
+      "tier": "core",
+      "phonetic": "/rәub/",
+      "partOfSpeech": "n.",
+      "meaning": "宽松长袍；礼服",
+      "wordForms": "原文词形：robe",
+      "sentence": "She looked beautiful in a red velvet robe.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-01/robe.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "宽松长袍；礼服",
+        "早；提早",
+        "神秘地"
+      ]
+    },
+    {
+      "id": "library",
+      "word": "library",
+      "forms": [
+        "library"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'laibrәri/",
+      "partOfSpeech": "n.",
+      "meaning": "图书馆；藏书",
+      "wordForms": "原文词形：library",
+      "sentence": "“So I haven’t had any time to collect books for Camelot’s library.”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-01/library.mp3"
+    },
+    {
+      "id": "research",
+      "word": "research",
+      "forms": [
+        "research"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ri'sә:tʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "研究；调查",
+      "wordForms": "原文词形：research",
+      "sentence": "“You must show that you know how to do research,” said Morgan, “and show that you can find answers to hard questions.”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-01/research.mp3"
+    },
+    {
+      "id": "paper",
+      "word": "paper",
+      "forms": [
+        "paper"
+      ],
+      "tier": "core",
+      "phonetic": "/'peipә/",
+      "partOfSpeech": "n.",
+      "meaning": "纸；纸张",
+      "wordForms": "原文词形：paper",
+      "sentence": "She reached into the folds of her robe and pulled out a rolled-up paper.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-01/paper.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "纸；纸张",
+        "梦；空想",
+        "卷轴；画卷"
+      ]
+    },
+    {
+      "id": "riddle",
+      "word": "riddle",
+      "forms": [
+        "riddle"
+      ],
+      "tier": "core",
+      "phonetic": "/'ridl/",
+      "partOfSpeech": "n.",
+      "meaning": "谜；谜语",
+      "wordForms": "原文词形：riddle",
+      "sentence": "“The first riddle is written on this ancient scroll,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-01/riddle.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "谜；谜语",
+        "卷轴；画卷",
+        "纸；纸张"
+      ]
+    },
+    {
+      "id": "scroll",
+      "word": "scroll",
+      "forms": [
+        "scroll"
+      ],
+      "tier": "core",
+      "phonetic": "/skrәul/",
+      "partOfSpeech": "n.",
+      "meaning": "卷轴；画卷",
+      "wordForms": "原文词形：scroll",
+      "sentence": "“The first riddle is written on this ancient scroll,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-01/scroll.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "卷轴；画卷",
+        "大叫；呼喊",
+        "浅色的；苍白的"
+      ]
+    },
+    {
+      "id": "mysteriously",
+      "word": "mysteriously",
+      "forms": [
+        "mysteriously"
+      ],
+      "tier": "core",
+      "phonetic": "/mɪ'stɪərɪəslɪ/",
+      "partOfSpeech": "adv.",
+      "meaning": "神秘地",
+      "wordForms": "原文词形：mysteriously",
+      "sentence": "“You will know,” Morgan said mysteriously.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-01/mysteriously.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "神秘地",
+        "卷轴；画卷",
+        "大叫；呼喊"
+      ]
+    }
+  ]
+}

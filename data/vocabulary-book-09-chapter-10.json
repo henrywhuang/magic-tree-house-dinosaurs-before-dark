@@ -1,0 +1,446 @@
+{
+  "book": 9,
+  "chapter": 10,
+  "title": "The True Pearl",
+  "words": [
+    {
+      "id": "slanted",
+      "word": "slant",
+      "forms": [
+        "slanted",
+        "slant",
+        "slants",
+        "slanting"
+      ],
+      "tier": "core",
+      "phonetic": "/slænt/",
+      "partOfSpeech": "v.",
+      "meaning": "斜射；倾斜",
+      "wordForms": "第三人称单数 slants · 过去式 slanted · 现在分词 slanting",
+      "sentence": "Dawn light slanted into the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-10/slanted.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "斜射；倾斜",
+        "追赶；追逐",
+        "阴影；树荫"
+      ]
+    },
+    {
+      "id": "ancient",
+      "word": "ancient",
+      "forms": [
+        "ancient"
+      ],
+      "tier": "core",
+      "phonetic": "/'einʃәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "古代的；古老的",
+      "wordForms": "原文词形：ancient",
+      "sentence": "Jack rolled up the ancient scroll.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-10/ancient.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "古代的；古老的",
+        "一小块；斑片",
+        "斜射；倾斜"
+      ]
+    },
+    {
+      "id": "tucked",
+      "word": "tuck",
+      "forms": [
+        "tucked",
+        "tuck",
+        "tucks",
+        "tucking"
+      ],
+      "tier": "core",
+      "phonetic": "/tʌk/",
+      "partOfSpeech": "v.",
+      "meaning": "塞进；收好",
+      "wordForms": "第三人称单数 tucks · 过去式 tucked · 现在分词 tucking",
+      "sentence": "He tucked it into the corner.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-10/tucked.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "塞进；收好",
+        "阴影；树荫",
+        "叶茂盛的；多叶的"
+      ]
+    },
+    {
+      "id": "soaked",
+      "word": "soaked",
+      "forms": [
+        "soaked"
+      ],
+      "tier": "core",
+      "phonetic": "/sәuk/",
+      "partOfSpeech": "adj.",
+      "meaning": "湿透的；浸透的",
+      "wordForms": "原文词形：soaked",
+      "sentence": "His T-shirt and shorts were still soaked.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-10/soaked.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "湿透的；浸透的",
+        "阴影；树荫",
+        "挤压；紧紧夹住"
+      ]
+    },
+    {
+      "id": "patch",
+      "word": "patch",
+      "forms": [
+        "patch"
+      ],
+      "tier": "core",
+      "phonetic": "/pætʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "一小块；斑片",
+      "wordForms": "原文词形：patch",
+      "sentence": "She put the wet ocean book in a patch of sunlight.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-10/patch.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "一小块；斑片",
+        "塞进；收好",
+        "阴影；树荫"
+      ]
+    },
+    {
+      "id": "leafy",
+      "word": "leafy",
+      "forms": [
+        "leafy"
+      ],
+      "tier": "core",
+      "phonetic": "/'li:fi/",
+      "partOfSpeech": "adj.",
+      "meaning": "叶茂盛的；多叶的",
+      "wordForms": "原文词形：leafy",
+      "sentence": "They walked through the woods, through leafy shadows and golden light.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-10/leafy.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "叶茂盛的；多叶的",
+        "阴影；树荫",
+        "咧嘴笑"
+      ]
+    },
+    {
+      "id": "shadows",
+      "word": "shadow",
+      "forms": [
+        "shadow",
+        "shadows"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃædәu/",
+      "partOfSpeech": "n.",
+      "meaning": "阴影；树荫",
+      "wordForms": "原文词形：shadows",
+      "sentence": "They walked through the woods, through leafy shadows and golden light.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-10/shadows.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "阴影；树荫",
+        "一小块；斑片",
+        "追赶；追逐"
+      ]
+    },
+    {
+      "id": "along",
+      "word": "along",
+      "forms": [
+        "along"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ә'lɒŋ/",
+      "partOfSpeech": "adv.",
+      "meaning": "一直；自始至终",
+      "wordForms": "原文词形：along",
+      "sentence": "“The oyster was on the reef all along.”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-10/along.mp3"
+    },
+    {
+      "id": "squeezed",
+      "word": "squeeze",
+      "forms": [
+        "squeezed",
+        "squeeze",
+        "squeezes",
+        "squeezing"
+      ],
+      "tier": "core",
+      "phonetic": "/skwi:z/",
+      "partOfSpeech": "v.",
+      "meaning": "挤压；紧紧夹住",
+      "wordForms": "第三人称单数 squeezes · 过去式 squeezed · 现在分词 squeezing",
+      "sentence": "“You call being squeezed by an octopus and chased by a shark fun?”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-10/squeezed.mp3",
+      "phonics": [
+        {
+          "letters": "squ",
+          "sound": "/skw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "挤压；紧紧夹住",
+        "叶茂盛的；多叶的",
+        "古代的；古老的"
+      ]
+    },
+    {
+      "id": "chased",
+      "word": "chase",
+      "forms": [
+        "chased",
+        "chase",
+        "chases",
+        "chasing"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃeis/",
+      "partOfSpeech": "v.",
+      "meaning": "追赶；追逐",
+      "wordForms": "第三人称单数 chases · 过去式 chased · 现在分词 chasing",
+      "sentence": "“You call being squeezed by an octopus and chased by a shark fun?”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-10/chased.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "追赶；追逐",
+        "叶茂盛的；多叶的",
+        "塞进；收好"
+      ]
+    },
+    {
+      "id": "true",
+      "word": "true",
+      "forms": [
+        "true"
+      ],
+      "tier": "recognition",
+      "phonetic": "/tru:/",
+      "partOfSpeech": "adj.",
+      "meaning": "真正的；真实的",
+      "wordForms": "原文词形：true",
+      "sentence": "“I guess they were the true pearl in the oyster,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-10/true.mp3"
+    },
+    {
+      "id": "grinned",
+      "word": "grin",
+      "forms": [
+        "grinned",
+        "grin",
+        "grins",
+        "grinning"
+      ],
+      "tier": "core",
+      "phonetic": "/grin/",
+      "partOfSpeech": "v.",
+      "meaning": "咧嘴笑",
+      "wordForms": "第三人称单数 grins · 过去式 grinned · 现在分词 grinning",
+      "sentence": "Annie grinned at him.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-10/grinned.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "咧嘴笑",
+        "叶茂盛的；多叶的",
+        "挤压；紧紧夹住"
+      ]
+    }
+  ]
+}

@@ -62,6 +62,14 @@ const BOOKS = [
     audioStarts:[0,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/book-08-chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/book-08-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-09', number:9, title:'Dolphins at Daybreak', cn:'与海豚共舞', world:'珊瑚海', badge:'🐬',
+    cardImage:'assets/images/book-09-scenes/chapter-08-scene-03.webp', cardAlt:'《与海豚共舞》杰克和安妮被两只海豚救回珊瑚礁',
+    chapters:['Master Librarians','The Reef','Mini-Sub','Fish City','Two Eyes','C-R-A-C-K','Remain Calm','Swim for Your Life!','Ouch!','The True Pearl'],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-09-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-09-chapter-${String(i+1).padStart(2,'0')}.json`
   }
 ];
 
@@ -149,9 +157,9 @@ async function openChapter(i,keepTime=false,bookIndex=state.book){
   const changedBook=state.book!==bookIndex;state.book=bookIndex;state.chapter=i;state.page=0;
   const book=currentBook();setView('reader');
   $('#chapterNumber').textContent=i+1;$('#chapterLabel').textContent=`BOOK ${book.number} · CHAPTER ${chapterRoman(i+1)}`;$('#chapterKicker').textContent=`BOOK ${book.number} · CHAPTER ${chapterRoman(i+1)}`;$('#chapterTitle').textContent=book.chapters[i];$('#trackTitle').textContent=`Book ${book.number} · Chapter ${i+1} · ${book.chapters[i]}`;$('#currentBookLabel').textContent=`BOOK ${book.number} · 《${book.cn}》`;$('#brandSubtitle').textContent=`Book ${book.number} · ${book.title}`;document.title=`${book.chapters[i]} · ${book.cn} · Magic Tree House`;
-  try{const r=await fetch(`${dataPath(i,bookIndex)}?v=20260720-book8`,{cache:'no-store'});if(!r.ok)throw 0;const d=await r.json();if(requestId!==chapterRequestId)return;state.words=d.words||[];state.pages=d.pages||[];state.scenes=d.scenes||[];}catch{if(requestId!==chapterRequestId)return;state.words=[];state.scenes=[];state.pages=[[{text:'本章内容正在制作中，敬请期待～（若为已上线章节请检查网络后重试）',words:[]}]]}
+  try{const r=await fetch(`${dataPath(i,bookIndex)}?v=20260720-book9`,{cache:'no-store'});if(!r.ok)throw 0;const d=await r.json();if(requestId!==chapterRequestId)return;state.words=d.words||[];state.pages=d.pages||[];state.scenes=d.scenes||[];}catch{if(requestId!==chapterRequestId)return;state.words=[];state.scenes=[];state.pages=[[{text:'本章内容正在制作中，敬请期待～（若为已上线章节请检查网络后重试）',words:[]}]]}
   state.vocabulary=null;state.vocabLesson=null;
-  if(hasVocabulary(bookIndex,i)){try{const r=await fetch(`${vocabularyPath(i,bookIndex)}?v=20260720-book8`,{cache:'no-store'});if(!r.ok)throw 0;const vocabulary=await r.json();if(requestId!==chapterRequestId)return;state.vocabulary=vocabulary}catch{state.vocabulary={words:[]}}}
+  if(hasVocabulary(bookIndex,i)){try{const r=await fetch(`${vocabularyPath(i,bookIndex)}?v=20260720-book9`,{cache:'no-store'});if(!r.ok)throw 0;const vocabulary=await r.json();if(requestId!==chapterRequestId)return;state.vocabulary=vocabulary}catch{state.vocabulary={words:[]}}}
   mergeAddedVocabulary(bookIndex,i);
   $('#vocabularyButton').classList.toggle('hidden',!state.vocabulary?.words?.length);
   renderPage();
@@ -195,7 +203,7 @@ function phoneticFallback(word){return `/ ${word.toLowerCase()} /`}
 function hideCard(){if(activeTTS?.button?.closest('.word-card'))clearTTS();els.card.classList.add('hidden');state.lockedWord=null}
 async function loadQuestionBank(){
   if(state.questionBank)return state.questionBank;
-  const r=await fetch('data/questions.json?v=20260720-book8',{cache:'no-store'});if(!r.ok)throw new Error('题库加载失败');state.questionBank=await r.json();return state.questionBank;
+  const r=await fetch('data/questions.json?v=20260720-book9',{cache:'no-store'});if(!r.ok)throw new Error('题库加载失败');state.questionBank=await r.json();return state.questionBank;
 }
 function chapterQuestions(bookIndex=state.book,chapterIndex=state.chapter){return state.questionBank?.books?.[bookIndex]?.chapters?.[chapterIndex]?.questions||[]}
 function persistQuiz(){const q=state.quiz;if(!q)return;const checkedCount=Object.keys(q.checked).length;const score=q.questions.filter(item=>q.checked[item.id]&&q.answers[item.id]===item.answer).length;quizStore[q.key]={answers:q.answers,checked:q.checked,index:q.index,completed:checkedCount===q.questions.length,score};localStorage.setItem('mth-quiz-v1',JSON.stringify(quizStore))}

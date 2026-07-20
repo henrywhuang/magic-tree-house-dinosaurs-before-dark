@@ -36,6 +36,11 @@ MANUAL = {
     'reindeer': ('/ˈreɪndɪər/', 'n. 驯鹿'), 'bison': ('/ˈbaɪsən/', 'n. 野牛'),
     'moondust': ('/ˈmuːndʌst/', 'n. 月尘；月球表面的细尘'),
     'mini-spaceship': ('/ˈmɪni ˈspeɪsʃɪp/', 'n. 小型宇宙飞船'),
+    'mini-sub': ('/ˈmɪni sʌb/', 'n. 迷你潜艇；小型潜水器'),
+    'sukie': ('/ˈsuːki/', '苏琪（海豚的名字）'), 'sam': ('/sæm/', '山姆（海豚的名字）'),
+    'oceanographer': ('/ˌoʊʃəˈnɑːɡrəfər/', 'n. 海洋学家'),
+    'submersible': ('/səbˈmɜːrsəbəl/', 'n. 潜水器；可潜水的船只'),
+    'hammerhead': ('/ˈhæmərhed/', 'n. 双髻鲨；锤头鲨'),
     "that'll": ('/ðætəl/', '那将会（that will 的缩写）'),
     "there're": ('/ðeərər/', '有（there are 的缩写）'),
 }

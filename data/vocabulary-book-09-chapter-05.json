@@ -1,0 +1,511 @@
+{
+  "book": 9,
+  "chapter": 5,
+  "title": "Two Eyes",
+  "words": [
+    {
+      "id": "diary",
+      "word": "diary",
+      "forms": [
+        "diary"
+      ],
+      "tier": "core",
+      "phonetic": "/'daiәri/",
+      "partOfSpeech": "n.",
+      "meaning": "日记",
+      "wordForms": "原文词形：diary",
+      "sentence": "“It’s a diary of an ocean trip,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-05/diary.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "日记",
+        "直升机",
+        "喘着气说；倒吸气"
+      ]
+    },
+    {
+      "id": "crack",
+      "word": "crack",
+      "forms": [
+        "crack",
+        "CRACK"
+      ],
+      "tier": "core",
+      "phonetic": "/kræk/",
+      "partOfSpeech": "n.",
+      "meaning": "裂缝；裂纹",
+      "wordForms": "原文词形：CRACK",
+      "sentence": "He read further:COLLECTED ROCK AND SHELL SAMPLES MAPPED OCEAN FLOOR FOUND TINY CRACK IN HULL“This is like your notebook,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-05/crack.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "裂缝；裂纹",
+        "惊恐；恐惧",
+        "章鱼"
+      ]
+    },
+    {
+      "id": "hull",
+      "word": "hull",
+      "forms": [
+        "hull",
+        "HULL"
+      ],
+      "tier": "core",
+      "phonetic": "/hʌl/",
+      "partOfSpeech": "n.",
+      "meaning": "船体；艇身",
+      "wordForms": "原文词形：HULL",
+      "sentence": "He read further:COLLECTED ROCK AND SHELL SAMPLES MAPPED OCEAN FLOOR FOUND TINY CRACK IN HULL“This is like your notebook,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-05/hull.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "船体；艇身",
+        "惊恐；恐惧",
+        "废品场；旧货场"
+      ]
+    },
+    {
+      "id": "defective",
+      "word": "defective",
+      "forms": [
+        "defective",
+        "DEFECTIVE"
+      ],
+      "tier": "core",
+      "phonetic": "/di'fektiv/",
+      "partOfSpeech": "adj.",
+      "meaning": "有缺陷的；故障的",
+      "wordForms": "原文词形：DEFECTIVE",
+      "sentence": "He read further:THURSDAY, JULY 8 DEFECTIVE SUB RETURN TO REEF LEAVE FOR HELICOPTER TO TRANSPORT TO JUNKYARD“‘Defective’ means broken, right?”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-05/defective.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ct",
+          "sound": "/ct/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "有缺陷的；故障的",
+        "船体；艇身",
+        "裂缝；裂纹"
+      ]
+    },
+    {
+      "id": "helicopter",
+      "word": "helicopter",
+      "forms": [
+        "helicopter",
+        "HELICOPTER"
+      ],
+      "tier": "core",
+      "phonetic": "/'helikɒptә/",
+      "partOfSpeech": "n.",
+      "meaning": "直升机",
+      "wordForms": "原文词形：HELICOPTER",
+      "sentence": "He read further:THURSDAY, JULY 8 DEFECTIVE SUB RETURN TO REEF LEAVE FOR HELICOPTER TO TRANSPORT TO JUNKYARD“‘Defective’ means broken, right?”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-05/helicopter.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pt",
+          "sound": "/pt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "直升机",
+        "有缺陷的；故障的",
+        "章鱼"
+      ]
+    },
+    {
+      "id": "junkyard",
+      "word": "junkyard",
+      "forms": [
+        "junkyard",
+        "JUNKYARD"
+      ],
+      "tier": "core",
+      "phonetic": "/'dʒʌŋkjɑ:d/",
+      "partOfSpeech": "n.",
+      "meaning": "废品场；旧货场",
+      "wordForms": "原文词形：JUNKYARD",
+      "sentence": "He read further:THURSDAY, JULY 8 DEFECTIVE SUB RETURN TO REEF LEAVE FOR HELICOPTER TO TRANSPORT TO JUNKYARD“‘Defective’ means broken, right?”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-05/junkyard.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "废品场；旧货场",
+        "喘着气说；倒吸气",
+        "损坏的；破裂的"
+      ]
+    },
+    {
+      "id": "broken",
+      "word": "broken",
+      "forms": [
+        "broken"
+      ],
+      "tier": "core",
+      "phonetic": "/'brәukәn/",
+      "partOfSpeech": "adj.",
+      "meaning": "损坏的；破裂的",
+      "wordForms": "原文词形：broken",
+      "sentence": "He read further:THURSDAY, JULY 8 DEFECTIVE SUB RETURN TO REEF LEAVE FOR HELICOPTER TO TRANSPORT TO JUNKYARD“‘Defective’ means broken, right?”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-05/broken.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "损坏的；破裂的",
+        "有缺陷的；故障的",
+        "喘着气说；倒吸气"
+      ]
+    },
+    {
+      "id": "rise",
+      "word": "rise",
+      "forms": [
+        "rise",
+        "rises",
+        "rose",
+        "rising"
+      ],
+      "tier": "recognition",
+      "phonetic": "/raiz/",
+      "partOfSpeech": "v.",
+      "meaning": "上升；升起",
+      "wordForms": "第三人称单数 rises · 过去式 rose · 现在分词 rising",
+      "sentence": "The mini-sub began to rise slowly.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-05/rise.mp3"
+    },
+    {
+      "id": "gasped",
+      "word": "gasp",
+      "forms": [
+        "gasped",
+        "gasp",
+        "gasps",
+        "gasping"
+      ],
+      "tier": "core",
+      "phonetic": "/gæsp/",
+      "partOfSpeech": "v.",
+      "meaning": "喘着气说；倒吸气",
+      "wordForms": "第三人称单数 gasps · 过去式 gasped · 现在分词 gasping",
+      "sentence": "gasped Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-05/gasped.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "喘着气说；倒吸气",
+        "日记",
+        "惊恐；恐惧"
+      ]
+    },
+    {
+      "id": "plant",
+      "word": "plant",
+      "forms": [
+        "plant"
+      ],
+      "tier": "recognition",
+      "phonetic": "/plænt. plɑ:nt/",
+      "partOfSpeech": "n.",
+      "meaning": "植物",
+      "wordForms": "原文词形：plant",
+      "sentence": "Two eyes were staring out from behind a giant sea plant.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-05/plant.mp3"
+    },
+    {
+      "id": "horror",
+      "word": "horror",
+      "forms": [
+        "horror"
+      ],
+      "tier": "core",
+      "phonetic": "/'hɒrә/",
+      "partOfSpeech": "n.",
+      "meaning": "惊恐；恐惧",
+      "wordForms": "原文词形：horror",
+      "sentence": "Jack and Annie stared in horror at a giant octopus.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-05/horror.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "惊恐；恐惧",
+        "章鱼",
+        "船体；艇身"
+      ]
+    },
+    {
+      "id": "octopus",
+      "word": "octopus",
+      "forms": [
+        "octopus"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɒktәpәs/",
+      "partOfSpeech": "n.",
+      "meaning": "章鱼",
+      "wordForms": "原文词形：octopus",
+      "sentence": "Jack and Annie stared in horror at a giant octopus.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-05/octopus.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ct",
+          "sound": "/ct/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "章鱼",
+        "损坏的；破裂的",
+        "日记"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "book": 9,
+  "chapter": 2,
+  "title": "The Reef",
+  "words": [
+    {
+      "id": "pink",
+      "word": "pink",
+      "forms": [
+        "pink"
+      ],
+      "tier": "core",
+      "phonetic": "/piŋk/",
+      "partOfSpeech": "adj.",
+      "meaning": "粉红色的",
+      "wordForms": "原文词形：pink",
+      "sentence": "“Why is the ground pink?”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-02/pink.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "粉红色的",
+        "珊瑚；珊瑚色",
+        "座位"
+      ]
+    },
+    {
+      "id": "coral",
+      "word": "coral",
+      "forms": [
+        "coral"
+      ],
+      "tier": "core",
+      "phonetic": "/'kɒrәl/",
+      "partOfSpeech": "n.",
+      "meaning": "珊瑚；珊瑚色",
+      "wordForms": "原文词形：coral",
+      "sentence": "He read:This is a coral reef.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-02/coral.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "珊瑚；珊瑚色",
+        "座位",
+        "礁；珊瑚礁"
+      ]
+    },
+    {
+      "id": "reef",
+      "word": "reef",
+      "forms": [
+        "reef"
+      ],
+      "tier": "core",
+      "phonetic": "/ri:f/",
+      "partOfSpeech": "n.",
+      "meaning": "礁；珊瑚礁",
+      "wordForms": "原文词形：reef",
+      "sentence": "He read:This is a coral reef.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-02/reef.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "礁；珊瑚礁",
+        "粉红色的",
+        "舱口；舱盖"
+      ]
+    },
+    {
+      "id": "skeletons",
+      "word": "skeleton",
+      "forms": [
+        "skeleton",
+        "skeletons"
+      ],
+      "tier": "core",
+      "phonetic": "/'skelәtn/",
+      "partOfSpeech": "n.",
+      "meaning": "骨骼；骨架",
+      "wordForms": "原文词形：skeletons",
+      "sentence": "After they die, their skeletons remain.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-02/skeletons.mp3",
+      "phonics": [
+        {
+          "letters": "sk",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "骨骼；骨架",
+        "珊瑚；珊瑚色",
+        "礁；珊瑚礁"
+      ]
+    },
+    {
+      "id": "machine",
+      "word": "machine",
+      "forms": [
+        "machine"
+      ],
+      "tier": "recognition",
+      "phonetic": "/mә'ʃi:n/",
+      "partOfSpeech": "n.",
+      "meaning": "机器；机械装置",
+      "wordForms": "原文词形：machine",
+      "sentence": "Beside her was a strange-looking machine.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-02/machine.mp3"
+    },
+    {
+      "id": "oceanographers",
+      "word": "oceanographer",
+      "forms": [
+        "oceanographer",
+        "oceanographers"
+      ],
+      "tier": "core",
+      "phonetic": "/.әuʃiә'nɒgrәfә/",
+      "partOfSpeech": "n.",
+      "meaning": "海洋学家",
+      "wordForms": "原文词形：oceanographers",
+      "sentence": "He read:Scientists who study the ocean are called oceanographers.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-02/oceanographers.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ph",
+          "sound": "/f/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "海洋学家",
+        "舱口；舱盖",
+        "礁；珊瑚礁"
+      ]
+    },
+    {
+      "id": "submersibles",
+      "word": "submersible",
+      "forms": [
+        "submersible",
+        "submersibles"
+      ],
+      "tier": "core",
+      "phonetic": "/sәb'mә:sәbl/",
+      "partOfSpeech": "n.",
+      "meaning": "潜水器",
+      "wordForms": "原文词形：submersibles",
+      "sentence": "Sometimes they travel in small diving vessels called submersibles, or “mini-subs,” to study the ocean floor.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-02/submersibles.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "潜水器",
+        "舱口；舱盖",
+        "计算机；电脑"
+      ]
+    },
+    {
+      "id": "handle",
+      "word": "handle",
+      "forms": [
+        "handle"
+      ],
+      "tier": "recognition",
+      "phonetic": "/hændl/",
+      "partOfSpeech": "n.",
+      "meaning": "柄；把手",
+      "wordForms": "原文词形：handle",
+      "sentence": "Annie turned the handle on the hatch of the mini-sub.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-02/handle.mp3"
+    },
+    {
+      "id": "hatch",
+      "word": "hatch",
+      "forms": [
+        "hatch"
+      ],
+      "tier": "core",
+      "phonetic": "/hætʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "舱口；舱盖",
+      "wordForms": "原文词形：hatch",
+      "sentence": "Annie turned the handle on the hatch of the mini-sub.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-02/hatch.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "舱口；舱盖",
+        "潜水器",
+        "控制面板；仪表板"
+      ]
+    },
+    {
+      "id": "seats",
+      "word": "seat",
+      "forms": [
+        "seat",
+        "seats"
+      ],
+      "tier": "core",
+      "phonetic": "/si:t/",
+      "partOfSpeech": "n.",
+      "meaning": "座位",
+      "wordForms": "原文词形：seats",
+      "sentence": "Two seats faced the big window.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-02/seats.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "座位",
+        "计算机；电脑",
+        "控制面板；仪表板"
+      ]
+    },
+    {
+      "id": "computer",
+      "word": "computer",
+      "forms": [
+        "computer"
+      ],
+      "tier": "core",
+      "phonetic": "/kәm'pju:tә/",
+      "partOfSpeech": "n.",
+      "meaning": "计算机；电脑",
+      "wordForms": "原文词形：computer",
+      "sentence": "In front of the seats was a computer built into a control panel.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-02/computer.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "计算机；电脑",
+        "粉红色的",
+        "舱口；舱盖"
+      ]
+    },
+    {
+      "id": "panel",
+      "word": "panel",
+      "forms": [
+        "panel"
+      ],
+      "tier": "core",
+      "phonetic": "/'pænl/",
+      "partOfSpeech": "n.",
+      "meaning": "控制面板；仪表板",
+      "wordForms": "原文词形：panel",
+      "sentence": "In front of the seats was a computer built into a control panel.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-02/panel.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "控制面板；仪表板",
+        "海洋学家",
+        "粉红色的"
+      ]
+    }
+  ]
+}

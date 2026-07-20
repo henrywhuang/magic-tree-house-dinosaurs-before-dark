@@ -1,0 +1,495 @@
+{
+  "book": 9,
+  "chapter": 8,
+  "title": "Swim for Your Life!",
+  "words": [
+    {
+      "id": "breast",
+      "word": "breast",
+      "forms": [
+        "breast"
+      ],
+      "tier": "core",
+      "phonetic": "/brest/",
+      "partOfSpeech": "n.",
+      "meaning": "胸部；（breast stroke）蛙泳",
+      "wordForms": "原文词形：breast",
+      "sentence": "He gently pushed the water out of his way as he did the breast stroke.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-08/breast.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "胸部；（breast stroke）蛙泳",
+        "紧紧抓住；依附",
+        "挣扎；艰难前进"
+      ]
+    },
+    {
+      "id": "fin",
+      "word": "fin",
+      "forms": [
+        "fin"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fin/",
+      "partOfSpeech": "n.",
+      "meaning": "鱼鳍；鳍",
+      "wordForms": "原文词形：fin",
+      "sentence": "A dark fin was zigzagging through the water.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-08/fin.mp3"
+    },
+    {
+      "id": "zigzagging",
+      "word": "zigzag",
+      "forms": [
+        "zigzagging",
+        "zigzag",
+        "zigzags",
+        "zigzagged"
+      ],
+      "tier": "core",
+      "phonetic": "/'zigzæg/",
+      "partOfSpeech": "v.",
+      "meaning": "曲折前进；之字形移动",
+      "wordForms": "第三人称单数 zigzags · 过去式 zigzagged · 现在分词 zigzagging",
+      "sentence": "A dark fin was zigzagging through the water.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-08/zigzagging.mp3",
+      "phonics": [
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "曲折前进；之字形移动",
+        "挣扎；艰难前进",
+        "锤头鲨"
+      ]
+    },
+    {
+      "id": "life",
+      "word": "life",
+      "forms": [
+        "life"
+      ],
+      "tier": "recognition",
+      "phonetic": "/laif/",
+      "partOfSpeech": "n.",
+      "meaning": "生命",
+      "wordForms": "原文词形：life",
+      "sentence": "He was swimming for his life—and for Annie’s life, too.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-08/life.mp3"
+    },
+    {
+      "id": "distance",
+      "word": "distance",
+      "forms": [
+        "distance"
+      ],
+      "tier": "core",
+      "phonetic": "/'distәns/",
+      "partOfSpeech": "n.",
+      "meaning": "距离；远方",
+      "wordForms": "原文词形：distance",
+      "sentence": "He just kept his eye on the tree house in the distance.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-08/distance.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "距离；远方",
+        "漂浮；浮在水面",
+        "平稳地；顺畅地"
+      ]
+    },
+    {
+      "id": "struggling",
+      "word": "struggle",
+      "forms": [
+        "struggling",
+        "struggle",
+        "struggles",
+        "struggled"
+      ],
+      "tier": "core",
+      "phonetic": "/'strʌgl/",
+      "partOfSpeech": "v.",
+      "meaning": "挣扎；艰难前进",
+      "wordForms": "第三人称单数 struggles · 过去式 struggled · 现在分词 struggling",
+      "sentence": "Annie was struggling, too.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-08/struggling.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "挣扎；艰难前进",
+        "平稳地；顺畅地",
+        "紧紧抓住；依附"
+      ]
+    },
+    {
+      "id": "float",
+      "word": "float",
+      "forms": [
+        "float",
+        "floats",
+        "floated",
+        "floating"
+      ],
+      "tier": "core",
+      "phonetic": "/flәut/",
+      "partOfSpeech": "v.",
+      "meaning": "漂浮；浮在水面",
+      "wordForms": "第三人称单数 floats · 过去式 floated · 现在分词 floating",
+      "sentence": "“Float!”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-08/float.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "漂浮；浮在水面",
+        "紧紧抓住；依附",
+        "曲折前进；之字形移动"
+      ]
+    },
+    {
+      "id": "sink",
+      "word": "sink",
+      "forms": [
+        "sink",
+        "sinks",
+        "sank",
+        "sinking"
+      ],
+      "tier": "core",
+      "phonetic": "/siŋk/",
+      "partOfSpeech": "v.",
+      "meaning": "下沉；沉没",
+      "wordForms": "第三人称单数 sinks · 过去式 sank · 现在分词 sinking",
+      "sentence": "He started to sink.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-08/sink.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "下沉；沉没",
+        "紧紧抓住；依附",
+        "挣扎；艰难前进"
+      ]
+    },
+    {
+      "id": "slippery",
+      "word": "slippery",
+      "forms": [
+        "slippery"
+      ],
+      "tier": "core",
+      "phonetic": "/'slipәri/",
+      "partOfSpeech": "adj.",
+      "meaning": "滑的；光滑的",
+      "wordForms": "原文词形：slippery",
+      "sentence": "It was slippery and alive.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-08/slippery.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "滑的；光滑的",
+        "胸部；（breast stroke）蛙泳",
+        "曲折前进；之字形移动"
+      ]
+    },
+    {
+      "id": "hammerhead",
+      "word": "hammerhead",
+      "forms": [
+        "hammerhead"
+      ],
+      "tier": "core",
+      "phonetic": "/'hæmәhed/",
+      "partOfSpeech": "n.",
+      "meaning": "锤头鲨",
+      "wordForms": "原文词形：hammerhead",
+      "sentence": "Had the hammerhead caught up with them?",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-08/hammerhead.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "锤头鲨",
+        "挣扎；艰难前进",
+        "滑的；光滑的"
+      ]
+    },
+    {
+      "id": "clinging",
+      "word": "cling",
+      "forms": [
+        "clinging",
+        "cling",
+        "clings",
+        "clung"
+      ],
+      "tier": "core",
+      "phonetic": "/kliŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "紧紧抓住；依附",
+      "wordForms": "第三人称单数 clings · 过去式 clung · 现在分词 clinging",
+      "sentence": "She was clinging to the fin of another dolphin!",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-08/clinging.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "紧紧抓住；依附",
+        "胸部；（breast stroke）蛙泳",
+        "下沉；沉没"
+      ]
+    },
+    {
+      "id": "smoothly",
+      "word": "smoothly",
+      "forms": [
+        "smoothly"
+      ],
+      "tier": "core",
+      "phonetic": "/'smu:ðli/",
+      "partOfSpeech": "adv.",
+      "meaning": "平稳地；顺畅地",
+      "wordForms": "原文词形：smoothly",
+      "sentence": "Then the two dolphins swam smoothly through the water, pulling Jack and Annie toward the reef.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-08/smoothly.mp3",
+      "phonics": [
+        {
+          "letters": "sm",
+          "sound": "/sm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "平稳地；顺畅地",
+        "锤头鲨",
+        "紧紧抓住；依附"
+      ]
+    }
+  ]
+}

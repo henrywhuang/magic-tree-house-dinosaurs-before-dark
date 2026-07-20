@@ -8849,6 +8849,1091 @@
           ]
         }
       ]
+    },
+    {
+      "book": 9,
+      "book_title": "Dolphins at Daybreak",
+      "book_title_cn": "与海豚共舞",
+      "chapters": [
+        {
+          "book": 9,
+          "chapter": 1,
+          "chapter_title": "Master Librarians",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "It went past schools of fish and waving plants.",
+                "B": "She pointed at the biggest shell Jack had ever seen.",
+                "C": "They came to the tallest oak in the woods.",
+                "D": "Jack and Annie climbed down the ladder."
+              },
+              "answer": "C",
+              "evidence": [
+                "They came to the tallest oak in the woods."
+              ],
+              "rationale": "原文直接写到：They came to the tallest oak in the woods.",
+              "id": "B9C1Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "She looked beautiful in a red velvet robe.",
+                "B": "They came to the tallest oak in the woods.",
+                "C": "He grabbed his backpack and threw his notebook and pencil into it.",
+                "D": "\"How will we know if we've found the right answer to the riddle?\" he asked Morgan."
+              },
+              "answer": "C",
+              "evidence": [
+                "He grabbed his backpack and threw his notebook and pencil into it."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：He grabbed his backpack and threw his notebook and pencil into it.",
+              "id": "B9C1Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: Jack and Annie ran up their quiet street to the Frog Creek woods.",
+              "options": {
+                "A": "He grabbed his backpack and threw his notebook and pencil into it.",
+                "B": "She reached into the folds of her robe and pulled out a rolled-up paper.",
+                "C": "Jack found a picture of the machine in the ocean book.",
+                "D": "He was afraid someone might be looking for the mini-sub."
+              },
+              "answer": "B",
+              "evidence": [
+                "Jack and Annie ran up their quiet street to the Frog Creek woods.",
+                "She reached into the folds of her robe and pulled out a rolled-up paper."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：She reached into the folds of her robe and pulled out a rolled-up paper.",
+              "id": "B9C1Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"stared\" most likely mean? Sentence: Jack stared out the kitchen window.",
+              "options": {
+                "A": "moved smoothly without much effort",
+                "B": "looked fixedly for a long time",
+                "C": "made a long, loud cry",
+                "D": "drawing the eyebrows together to show displeasure"
+              },
+              "answer": "B",
+              "evidence": [
+                "Jack stared out the kitchen window."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“looked fixedly for a long time”。",
+              "id": "B9C1Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: She threw her arms around her dolphin and gave her a big hug. Later: \"How will we know if we've found the right answer to the riddle?\" he asked Morgan.",
+                "B": "First: She threw her arms around her dolphin and gave her a big hug. Later: She pointed to a picture of the Frog Creek woods.",
+                "C": "First: He grabbed his backpack and threw his notebook and pencil into it. Later: \"How will we know if we've found the right answer to the riddle?\" he asked Morgan.",
+                "D": "First: He grabbed his backpack and threw his notebook and pencil into it. Later: She pointed to a picture of the Frog Creek woods."
+              },
+              "answer": "C",
+              "evidence": [
+                "First: He grabbed his backpack and threw his notebook and pencil into it. Later: \"How will we know if we've found the right answer to the riddle?\" he asked Morgan."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: He grabbed his backpack and threw his notebook and pencil into it. Later: \"How will we know if we've found the right answer to the riddle?\" he asked Morgan.",
+              "id": "B9C1Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 9,
+          "chapter": 2,
+          "chapter_title": "The Reef",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "She pointed at the biggest shell Jack had ever seen.",
+                "B": "Jack threw his notebook and the ocean book into his pack.",
+                "C": "The real mini-sub turned to the right, also.",
+                "D": "He found a picture of an octopus and read aloud: The octopus tends to be a gentle, shy creature."
+              },
+              "answer": "B",
+              "evidence": [
+                "Jack threw his notebook and the ocean book into his pack."
+              ],
+              "rationale": "原文直接写到：Jack threw his notebook and the ocean book into his pack.",
+              "id": "B9C2Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "Jack picked up the ocean book and flipped through it.",
+                "B": "Actually, he did want to see what the sub looked like inside.",
+                "C": "Annie turned the handle on the hatch of the mini-sub.",
+                "D": "Jack threw his notebook and the ocean book into his pack."
+              },
+              "answer": "A",
+              "evidence": [
+                "Jack picked up the ocean book and flipped through it."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：Jack picked up the ocean book and flipped through it.",
+              "id": "B9C2Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why did Jack tell Annie to take off her shoes?",
+              "options": {
+                "A": "To leave them for the dolphins.",
+                "B": "To make her run more slowly.",
+                "C": "To fill them with sand.",
+                "D": "To keep her shoes from getting wet."
+              },
+              "answer": "D",
+              "evidence": [
+                "To keep her shoes from getting wet."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：To keep her shoes from getting wet.",
+              "id": "B9C2Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"reef\" most likely mean? Sentence: The mini-sub slid off the reef.",
+              "options": {
+                "A": "a narrow flat surface that sticks out from a wall or cliff",
+                "B": "a ridge of rock or coral under the sea",
+                "C": "an important task someone is sent to complete",
+                "D": "the upper layer formed by tree branches and leaves"
+              },
+              "answer": "B",
+              "evidence": [
+                "The mini-sub slid off the reef."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“a ridge of rock or coral under the sea”。",
+              "id": "B9C2Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What does this detail suggest about Jack? Evidence: Together she and Jack read the riddle: Rough and gray as rock, I'm plain as plain can be.",
+              "options": {
+                "A": "He dislikes learning from books.",
+                "B": "He always acts before thinking.",
+                "C": "He expects Annie to make every decision.",
+                "D": "He uses information and observation to understand problems."
+              },
+              "answer": "D",
+              "evidence": [
+                "Together she and Jack read the riddle: Rough and gray as rock, I'm plain as plain can be."
+              ],
+              "rationale": "原文细节支持这一推断：He uses information and observation to understand problems.",
+              "id": "B9C2Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 9,
+          "chapter": 3,
+          "chapter_title": "Mini-Sub",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "She pointed at the biggest shell Jack had ever seen.",
+                "B": "Jack threw his notebook and the ocean book into his pack.",
+                "C": "The real mini-sub turned to the right, also.",
+                "D": "It went past schools of fish and waving plants."
+              },
+              "answer": "C",
+              "evidence": [
+                "The real mini-sub turned to the right, also."
+              ],
+              "rationale": "原文直接写到：The real mini-sub turned to the right, also.",
+              "id": "B9C3Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "He pushed his glasses into place and looked up.",
+                "B": "She might be right, he thought.",
+                "C": "The real mini-sub turned to the right, also.",
+                "D": "He saw a row of pictures at the top of the screen."
+              },
+              "answer": "D",
+              "evidence": [
+                "He saw a row of pictures at the top of the screen."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：He saw a row of pictures at the top of the screen.",
+              "id": "B9C3Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: Annie pressed a key with an arrow pointing right.",
+              "options": {
+                "A": "Jack and Annie climbed up the rope ladder and into the tree house.",
+                "B": "Outside the glass was a strange world of bright moving color.",
+                "C": "He saw a row of pictures at the top of the screen.",
+                "D": "He and Annie slipped off their shoes and socks and threw them toward the tree house."
+              },
+              "answer": "B",
+              "evidence": [
+                "Annie pressed a key with an arrow pointing right.",
+                "Outside the glass was a strange world of bright moving color."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：Outside the glass was a strange world of bright moving color.",
+              "id": "B9C3Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"reef\" most likely mean? Sentence: \"We have to get back to the reef,\" said Jack.",
+              "options": {
+                "A": "a group of animals living or moving together",
+                "B": "an important task someone is sent to complete",
+                "C": "a deep water-filled ditch around a castle",
+                "D": "a ridge of rock or coral under the sea"
+              },
+              "answer": "D",
+              "evidence": [
+                "\"We have to get back to the reef,\" said Jack."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“a ridge of rock or coral under the sea”。",
+              "id": "B9C3Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: He saw a row of pictures at the top of the screen. Later: She might be right, he thought.",
+                "B": "First: Jack picked up the ocean book and flipped through it. Later: She might be right, he thought.",
+                "C": "First: He saw a row of pictures at the top of the screen. Later: Annie turned the handle on the hatch of the mini-sub.",
+                "D": "First: Jack picked up the ocean book and flipped through it. Later: Annie turned the handle on the hatch of the mini-sub."
+              },
+              "answer": "A",
+              "evidence": [
+                "First: He saw a row of pictures at the top of the screen. Later: She might be right, he thought."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: He saw a row of pictures at the top of the screen. Later: She might be right, he thought.",
+              "id": "B9C3Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 9,
+          "chapter": 4,
+          "chapter_title": "Fish City",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "She pointed at the biggest shell Jack had ever seen.",
+                "B": "He pulled his notebook out of his pack.",
+                "C": "Jack threw his notebook and the ocean book into his pack.",
+                "D": "They came to the tallest oak in the woods."
+              },
+              "answer": "A",
+              "evidence": [
+                "She pointed at the biggest shell Jack had ever seen."
+              ],
+              "rationale": "原文直接写到：She pointed at the biggest shell Jack had ever seen.",
+              "id": "B9C4Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "They swam off into the light blue water.",
+                "B": "He studied the row of pictures at the top of the screen.",
+                "C": "Jack saw a creature that looked like a giant pancake with a long tail.",
+                "D": "She pointed at the biggest shell Jack had ever seen."
+              },
+              "answer": "C",
+              "evidence": [
+                "Jack saw a creature that looked like a giant pancake with a long tail."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：Jack saw a creature that looked like a giant pancake with a long tail.",
+              "id": "B9C4Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: He put that on his list as well.",
+              "options": {
+                "A": "Jack saw a creature that looked like a giant pancake with a long tail.",
+                "B": "He calmly put his pack on his back.",
+                "C": "Jack and Annie climbed up the rope ladder and into the tree house.",
+                "D": "He was afraid someone might be looking for the mini-sub."
+              },
+              "answer": "D",
+              "evidence": [
+                "He put that on his list as well.",
+                "He was afraid someone might be looking for the mini-sub."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：He was afraid someone might be looking for the mini-sub.",
+              "id": "B9C4Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"species\" most likely mean? Sentence: Nearly 5,000 different species of fish live around coral reefs in the Indian and Pacific Oceans.",
+              "options": {
+                "A": "the feeling when worry or pain ends",
+                "B": "a very steep cliff",
+                "C": "a group of the same kind of living thing",
+                "D": "an important task someone is sent to complete"
+              },
+              "answer": "C",
+              "evidence": [
+                "Nearly 5,000 different species of fish live around coral reefs in the Indian and Pacific Oceans."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“a group of the same kind of living thing”。",
+              "id": "B9C4Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What does this detail suggest about Jack? Evidence: Jack read in the book: Coral reefs are only found in warm, tropical waters.",
+              "options": {
+                "A": "He expects Annie to make every decision.",
+                "B": "He dislikes learning from books.",
+                "C": "He uses information and observation to understand problems.",
+                "D": "He always acts before thinking."
+              },
+              "answer": "C",
+              "evidence": [
+                "Jack read in the book: Coral reefs are only found in warm, tropical waters."
+              ],
+              "rationale": "原文细节支持这一推断：He uses information and observation to understand problems.",
+              "id": "B9C4Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 9,
+          "chapter": 5,
+          "chapter_title": "Two Eyes",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "She pointed at the biggest shell Jack had ever seen.",
+                "B": "He pulled his notebook out of his pack.",
+                "C": "It went past schools of fish and waving plants.",
+                "D": "They both swam as fast, and as calmly, as they could."
+              },
+              "answer": "C",
+              "evidence": [
+                "It went past schools of fish and waving plants."
+              ],
+              "rationale": "原文直接写到：It went past schools of fish and waving plants.",
+              "id": "B9C5Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "It went past schools of fish and waving plants.",
+                "B": "She pressed the waves picture on the computer screen.",
+                "C": "Its eight arms reached for the mini-sub.",
+                "D": "A long arm came out from behind it."
+              },
+              "answer": "B",
+              "evidence": [
+                "She pressed the waves picture on the computer screen."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：She pressed the waves picture on the computer screen.",
+              "id": "B9C5Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: The sub went past a small coral mountain.",
+              "options": {
+                "A": "She pressed the waves picture on the computer screen.",
+                "B": "Jack and Annie stared in horror at a giant octopus.",
+                "C": "They walked through the woods, through leafy shadows and golden light.",
+                "D": "Outside the glass was a strange world of bright moving color."
+              },
+              "answer": "B",
+              "evidence": [
+                "The sub went past a small coral mountain.",
+                "Jack and Annie stared in horror at a giant octopus."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：Jack and Annie stared in horror at a giant octopus.",
+              "id": "B9C5Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"relief\" most likely mean? Sentence: Jack breathed a sigh of relief.",
+              "options": {
+                "A": "the plant layer below a forest canopy",
+                "B": "a point or area far away",
+                "C": "the feeling when worry or pain ends",
+                "D": "a rolled piece of material used for writing"
+              },
+              "answer": "C",
+              "evidence": [
+                "Jack breathed a sigh of relief."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“the feeling when worry or pain ends”。",
+              "id": "B9C5Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: Jack picked up the ocean book and flipped through it. Later: Annie turned the handle on the hatch of the mini-sub.",
+                "B": "First: She pressed the waves picture on the computer screen. Later: Annie turned the handle on the hatch of the mini-sub.",
+                "C": "First: Jack picked up the ocean book and flipped through it. Later: Its eight arms reached for the mini-sub.",
+                "D": "First: She pressed the waves picture on the computer screen. Later: Its eight arms reached for the mini-sub."
+              },
+              "answer": "D",
+              "evidence": [
+                "First: She pressed the waves picture on the computer screen. Later: Its eight arms reached for the mini-sub."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: She pressed the waves picture on the computer screen. Later: Its eight arms reached for the mini-sub.",
+              "id": "B9C5Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 9,
+          "chapter": 6,
+          "chapter_title": "C-R-A-C-K",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "The real mini-sub turned to the right, also.",
+                "B": "Jack threw his notebook and the ocean book into his pack.",
+                "C": "He found a picture of an octopus and read aloud: The octopus tends to be a gentle, shy creature.",
+                "D": "It went past schools of fish and waving plants."
+              },
+              "answer": "C",
+              "evidence": [
+                "He found a picture of an octopus and read aloud: The octopus tends to be a gentle, shy creature."
+              ],
+              "rationale": "原文直接写到：He found a picture of an octopus and read aloud: The octopus tends to be a gentle, shy creature.",
+              "id": "B9C6Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "He found a picture of an octopus and read aloud: The octopus tends to be a gentle, shy creature.",
+                "B": "Jack felt a drop hit his arm.",
+                "C": "\"We found the cracks,\" said Annie.",
+                "D": "The octopus stared at Jack and Annie with huge, human-like eyes."
+              },
+              "answer": "D",
+              "evidence": [
+                "The octopus stared at Jack and Annie with huge, human-like eyes."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：The octopus stared at Jack and Annie with huge, human-like eyes.",
+              "id": "B9C6Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: His hands shook as he flipped through the pages of the ocean book.",
+              "options": {
+                "A": "Jack found a picture of the machine in the ocean book.",
+                "B": "He looked up at the ceiling.",
+                "C": "The octopus stared at Jack and Annie with huge, human-like eyes.",
+                "D": "He was afraid someone might be looking for the mini-sub."
+              },
+              "answer": "B",
+              "evidence": [
+                "His hands shook as he flipped through the pages of the ocean book.",
+                "He looked up at the ceiling."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：He looked up at the ceiling.",
+              "id": "B9C6Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"whispered\" most likely mean? Sentence: \"I don't think it wants to hurt us,\" whispered Annie.",
+              "options": {
+                "A": "spoke very softly",
+                "B": "moved the head to show agreement",
+                "C": "moved slowly without control",
+                "D": "took a sudden breath from surprise or fear"
+              },
+              "answer": "A",
+              "evidence": [
+                "\"I don't think it wants to hurt us,\" whispered Annie."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“spoke very softly”。",
+              "id": "B9C6Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: She threw her arms around her dolphin and gave her a big hug. Later: She pointed to a picture of the Frog Creek woods.",
+                "B": "First: The octopus stared at Jack and Annie with huge, human-like eyes. Later: She pointed to a picture of the Frog Creek woods.",
+                "C": "First: She threw her arms around her dolphin and gave her a big hug. Later: \"We found the cracks,\" said Annie.",
+                "D": "First: The octopus stared at Jack and Annie with huge, human-like eyes. Later: \"We found the cracks,\" said Annie."
+              },
+              "answer": "D",
+              "evidence": [
+                "First: The octopus stared at Jack and Annie with huge, human-like eyes. Later: \"We found the cracks,\" said Annie."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: The octopus stared at Jack and Annie with huge, human-like eyes. Later: \"We found the cracks,\" said Annie.",
+              "id": "B9C6Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 9,
+          "chapter": 7,
+          "chapter_title": "Remain Calm",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "He read aloud: If you ever see a shark in the water, don't splash.",
+                "B": "It went past schools of fish and waving plants.",
+                "C": "The real mini-sub turned to the right, also.",
+                "D": "He pulled his notebook out of his pack."
+              },
+              "answer": "A",
+              "evidence": [
+                "He read aloud: If you ever see a shark in the water, don't splash."
+              ],
+              "rationale": "原文直接写到：He read aloud: If you ever see a shark in the water, don't splash.",
+              "id": "B9C7Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "He saw the reef in the distance.",
+                "B": "He calmly lowered himself into the ocean.",
+                "C": "He calmly put them and the book into his pack.",
+                "D": "He read aloud: If you ever see a shark in the water, don't splash."
+              },
+              "answer": "A",
+              "evidence": [
+                "He saw the reef in the distance."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：He saw the reef in the distance.",
+              "id": "B9C7Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: Jack quickly found the picture of the shark in the book.",
+              "options": {
+                "A": "He calmly put his pack on his back.",
+                "B": "They looked human-except they were as big as golf balls.",
+                "C": "\"You know, we should have found the answer to the riddle right away,\" said Jack.",
+                "D": "He saw the reef in the distance."
+              },
+              "answer": "A",
+              "evidence": [
+                "Jack quickly found the picture of the shark in the book.",
+                "He calmly put his pack on his back."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：He calmly put his pack on his back.",
+              "id": "B9C7Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"distance\" most likely mean? Sentence: He saw the reef in the distance.",
+              "options": {
+                "A": "a point or area far away",
+                "B": "letters or a design cut into a surface",
+                "C": "a wide area of open grassland",
+                "D": "large bowl-shaped holes in the ground"
+              },
+              "answer": "A",
+              "evidence": [
+                "He saw the reef in the distance."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“a point or area far away”。",
+              "id": "B9C7Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: He saw the reef in the distance. Later: He calmly lowered himself into the ocean.",
+                "B": "First: He saw the reef in the distance. Later: \"We found the cracks,\" said Annie.",
+                "C": "First: The octopus stared at Jack and Annie with huge, human-like eyes. Later: He calmly lowered himself into the ocean.",
+                "D": "First: The octopus stared at Jack and Annie with huge, human-like eyes. Later: \"We found the cracks,\" said Annie."
+              },
+              "answer": "A",
+              "evidence": [
+                "First: He saw the reef in the distance. Later: He calmly lowered himself into the ocean."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: He saw the reef in the distance. Later: He calmly lowered himself into the ocean.",
+              "id": "B9C7Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 9,
+          "chapter": 8,
+          "chapter_title": "Swim for Your Life!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "They both swam as fast, and as calmly, as they could.",
+                "B": "Jack and Annie climbed down the ladder.",
+                "C": "They came to the tallest oak in the woods.",
+                "D": "It went past schools of fish and waving plants."
+              },
+              "answer": "A",
+              "evidence": [
+                "They both swam as fast, and as calmly, as they could."
+              ],
+              "rationale": "原文直接写到：They both swam as fast, and as calmly, as they could.",
+              "id": "B9C8Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "He gently pushed the water out of his way as he did the breast stroke.",
+                "B": "The two dolphins swam smoothly through the water, pulling Jack and Annie toward the reef.",
+                "C": "Jack and Annie swam and swam and swam.",
+                "D": "They both swam as fast, and as calmly, as they could."
+              },
+              "answer": "A",
+              "evidence": [
+                "He gently pushed the water out of his way as he did the breast stroke."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：He gently pushed the water out of his way as he did the breast stroke.",
+              "id": "B9C8Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: Jack saw something out of the corner of his eye.",
+              "options": {
+                "A": "He looked up at the ceiling.",
+                "B": "He gently pushed the water out of his way as he did the breast stroke.",
+                "C": "Jack grabbed the fin of his dolphin.",
+                "D": "He calmly took off his glasses."
+              },
+              "answer": "C",
+              "evidence": [
+                "Jack saw something out of the corner of his eye.",
+                "Jack grabbed the fin of his dolphin."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：Jack grabbed the fin of his dolphin.",
+              "id": "B9C8Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"grabbed\" most likely mean? Sentence: Jack grabbed the fin of his dolphin.",
+              "options": {
+                "A": "moved forward in big jumps",
+                "B": "took hold of something quickly",
+                "C": "lost balance while moving",
+                "D": "moved very quickly"
+              },
+              "answer": "B",
+              "evidence": [
+                "Jack grabbed the fin of his dolphin."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“took hold of something quickly”。",
+              "id": "B9C8Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: He gently pushed the water out of his way as he did the breast stroke. Later: He calmly lowered himself into the ocean.",
+                "B": "First: He saw the reef in the distance. Later: He calmly lowered himself into the ocean.",
+                "C": "First: He saw the reef in the distance. Later: The two dolphins swam smoothly through the water, pulling Jack and Annie toward the reef.",
+                "D": "First: He gently pushed the water out of his way as he did the breast stroke. Later: The two dolphins swam smoothly through the water, pulling Jack and Annie toward the reef."
+              },
+              "answer": "D",
+              "evidence": [
+                "First: He gently pushed the water out of his way as he did the breast stroke. Later: The two dolphins swam smoothly through the water, pulling Jack and Annie toward the reef."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: He gently pushed the water out of his way as he did the breast stroke. Later: The two dolphins swam smoothly through the water, pulling Jack and Annie toward the reef.",
+              "id": "B9C8Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 9,
+          "chapter": 9,
+          "chapter_title": "Ouch!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "He pulled his notebook out of his pack.",
+                "B": "They came to the tallest oak in the woods.",
+                "C": "She pointed at the biggest shell Jack had ever seen.",
+                "D": "They both swam as fast, and as calmly, as they could."
+              },
+              "answer": "A",
+              "evidence": [
+                "He pulled his notebook out of his pack."
+              ],
+              "rationale": "原文直接写到：He pulled his notebook out of his pack.",
+              "id": "B9C9Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "She gently put the oyster back in the water.",
+                "B": "He pulled his notebook out of his pack.",
+                "C": "She threw her arms around her dolphin and gave her a big hug.",
+                "D": "She pointed to a picture of the Frog Creek woods."
+              },
+              "answer": "C",
+              "evidence": [
+                "She threw her arms around her dolphin and gave her a big hug."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：She threw her arms around her dolphin and gave her a big hug.",
+              "id": "B9C9Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "What result is described in this sentence?",
+              "options": {
+                "A": "A pearly material forms around the grain of sand.",
+                "B": "The oyster stops making any material.",
+                "C": "The grain of sand leaves the shell at once.",
+                "D": "The shell turns into a piece of coral."
+              },
+              "answer": "A",
+              "evidence": [
+                "A pearly material forms around the grain of sand."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：A pearly material forms around the grain of sand.",
+              "id": "B9C9Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"scroll\" most likely mean? Sentence: Morgan's scroll was lying on the floor.",
+              "options": {
+                "A": "the feeling when worry or pain ends",
+                "B": "large bowl-shaped holes in the ground",
+                "C": "a small door or opening",
+                "D": "a rolled piece of material used for writing"
+              },
+              "answer": "D",
+              "evidence": [
+                "Morgan's scroll was lying on the floor."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“a rolled piece of material used for writing”。",
+              "id": "B9C9Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: He saw a row of pictures at the top of the screen. Later: She might be right, he thought.",
+                "B": "First: She threw her arms around her dolphin and gave her a big hug. Later: She might be right, he thought.",
+                "C": "First: She threw her arms around her dolphin and gave her a big hug. Later: She pointed to a picture of the Frog Creek woods.",
+                "D": "First: He saw a row of pictures at the top of the screen. Later: She pointed to a picture of the Frog Creek woods."
+              },
+              "answer": "C",
+              "evidence": [
+                "First: She threw her arms around her dolphin and gave her a big hug. Later: She pointed to a picture of the Frog Creek woods."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: She threw her arms around her dolphin and gave her a big hug. Later: She pointed to a picture of the Frog Creek woods.",
+              "id": "B9C9Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 9,
+          "chapter": 10,
+          "chapter_title": "The True Pearl",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which statement is true according to this chapter?",
+              "options": {
+                "A": "Jack threw his notebook and the ocean book into his pack.",
+                "B": "He found a picture of an octopus and read aloud: The octopus tends to be a gentle, shy creature.",
+                "C": "Jack and Annie climbed down the ladder.",
+                "D": "They came to the tallest oak in the woods."
+              },
+              "answer": "C",
+              "evidence": [
+                "Jack and Annie climbed down the ladder."
+              ],
+              "rationale": "原文直接写到：Jack and Annie climbed down the ladder.",
+              "id": "B9C10Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens first in this chapter?",
+              "options": {
+                "A": "They climbed their steps and went into their house.",
+                "B": "They left the woods and started down their street.",
+                "C": "No time at all had passed since they'd left.",
+                "D": "Jack and Annie climbed down the ladder."
+              },
+              "answer": "C",
+              "evidence": [
+                "No time at all had passed since they'd left."
+              ],
+              "rationale": "按照本章事件先后顺序，最先发生的是：No time at all had passed since they'd left.",
+              "id": "B9C10Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Which event occurs later in the chapter? Earlier event: She put the wet ocean book in a patch of sunlight.",
+              "options": {
+                "A": "No time at all had passed since they'd left.",
+                "B": "\"We have to get back to the reef,\" said Jack.",
+                "C": "\"You know, we should have found the answer to the riddle right away,\" said Jack.",
+                "D": "He and Annie slipped off their shoes and socks and threw them toward the tree house."
+              },
+              "answer": "C",
+              "evidence": [
+                "She put the wet ocean book in a patch of sunlight.",
+                "\"You know, we should have found the answer to the riddle right away,\" said Jack."
+              ],
+              "rationale": "在题干给出的较早事件之后，故事接着发生了：\"You know, we should have found the answer to the riddle right away,\" said Jack.",
+              "id": "B9C10Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In the sentence below, what does the word \"ancient\" most likely mean? Sentence: Jack rolled up the ancient scroll.",
+              "options": {
+                "A": "no longer worried",
+                "B": "extremely large",
+                "C": "difficult to explain or understand",
+                "D": "very old"
+              },
+              "answer": "D",
+              "evidence": [
+                "Jack rolled up the ancient scroll."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“very old”。",
+              "id": "B9C10Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which option best summarizes the chapter's movement from an early event to a later event?",
+              "options": {
+                "A": "First: He gently pushed the water out of his way as he did the breast stroke. Later: They climbed their steps and went into their house.",
+                "B": "First: He gently pushed the water out of his way as he did the breast stroke. Later: The two dolphins swam smoothly through the water, pulling Jack and Annie toward the reef.",
+                "C": "First: No time at all had passed since they'd left. Later: The two dolphins swam smoothly through the water, pulling Jack and Annie toward the reef.",
+                "D": "First: No time at all had passed since they'd left. Later: They climbed their steps and went into their house."
+              },
+              "answer": "D",
+              "evidence": [
+                "First: No time at all had passed since they'd left. Later: They climbed their steps and went into their house."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：First: No time at all had passed since they'd left. Later: They climbed their steps and went into their house.",
+              "id": "B9C10Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

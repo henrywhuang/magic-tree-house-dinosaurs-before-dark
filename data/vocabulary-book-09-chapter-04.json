@@ -1,0 +1,476 @@
+{
+  "book": 9,
+  "chapter": 4,
+  "title": "Fish City",
+  "words": [
+    {
+      "id": "sandy",
+      "word": "sandy",
+      "forms": [
+        "sandy"
+      ],
+      "tier": "core",
+      "phonetic": "/'sændi/",
+      "partOfSpeech": "adj.",
+      "meaning": "沙的；沙地的",
+      "wordForms": "原文词形：sandy",
+      "sentence": "There were fish everywhere: floating over the swaying sea grass, eating on the white sandy bottom, peeping out of coral caves.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-04/sandy.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "沙的；沙地的",
+        "闪现；突然显示",
+        "蛤蜊；蛤"
+      ]
+    },
+    {
+      "id": "peeping",
+      "word": "peep",
+      "forms": [
+        "peeping",
+        "peep",
+        "peeps",
+        "peeped"
+      ],
+      "tier": "core",
+      "phonetic": "/pi:p/",
+      "partOfSpeech": "v.",
+      "meaning": "窥看；探头看",
+      "wordForms": "第三人称单数 peeps · 过去式 peeped · 现在分词 peeping",
+      "sentence": "There were fish everywhere: floating over the swaying sea grass, eating on the white sandy bottom, peeping out of coral caves.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-04/peeping.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "窥看；探头看",
+        "滑的；光滑的",
+        "蛤蜊；蛤"
+      ]
+    },
+    {
+      "id": "coral",
+      "word": "coral",
+      "forms": [
+        "coral"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'kɒrәl/",
+      "partOfSpeech": "n.",
+      "meaning": "珊瑚；珊瑚色",
+      "wordForms": "原文词形：coral",
+      "sentence": "There were fish everywhere: floating over the swaying sea grass, eating on the white sandy bottom, peeping out of coral caves.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-04/coral.mp3"
+    },
+    {
+      "id": "antlers",
+      "word": "antler",
+      "forms": [
+        "antler",
+        "antlers"
+      ],
+      "tier": "core",
+      "phonetic": "/'æntlә/",
+      "partOfSpeech": "n.",
+      "meaning": "鹿角",
+      "wordForms": "原文词形：antlers",
+      "sentence": "Others looked like deer antlers or lettuce leaves or mushrooms or trees.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-04/antlers.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "鹿角",
+        "沙的；沙地的",
+        "脚凳"
+      ]
+    },
+    {
+      "id": "footstool",
+      "word": "footstool",
+      "forms": [
+        "footstool"
+      ],
+      "tier": "core",
+      "phonetic": "/'futstu:l/",
+      "partOfSpeech": "n.",
+      "meaning": "脚凳",
+      "wordForms": "原文词形：footstool",
+      "sentence": "It was as big as a footstool.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-04/footstool.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "脚凳",
+        "谜；谜语",
+        "鹿角"
+      ]
+    },
+    {
+      "id": "clam",
+      "word": "clam",
+      "forms": [
+        "clam"
+      ],
+      "tier": "core",
+      "phonetic": "/klæm/",
+      "partOfSpeech": "n.",
+      "meaning": "蛤蜊；蛤",
+      "wordForms": "原文词形：clam",
+      "sentence": "When he got to the page about clams, he read aloud:The giant clam of the coral reef is three feet wide and weighs up to 200 pounds.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-04/clam.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蛤蜊；蛤",
+        "沙的；沙地的",
+        "窥看；探头看"
+      ]
+    },
+    {
+      "id": "dolphins",
+      "word": "dolphin",
+      "forms": [
+        "dolphin",
+        "dolphins"
+      ],
+      "tier": "core",
+      "phonetic": "/'dɒlfin/",
+      "partOfSpeech": "n.",
+      "meaning": "海豚",
+      "wordForms": "原文词形：dolphins",
+      "sentence": "Two dolphins were peering in the window.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-04/dolphins.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ph",
+          "sound": "/f/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "海豚",
+        "沙的；沙地的",
+        "蛤蜊；蛤"
+      ]
+    },
+    {
+      "id": "peering",
+      "word": "peer",
+      "forms": [
+        "peering",
+        "peer",
+        "peers",
+        "peered"
+      ],
+      "tier": "core",
+      "phonetic": "/piә/",
+      "partOfSpeech": "v.",
+      "meaning": "仔细看；凝视",
+      "wordForms": "第三人称单数 peers · 过去式 peered · 现在分词 peering",
+      "sentence": "Two dolphins were peering in the window.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-04/peering.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "仔细看；凝视",
+        "谜；谜语",
+        "蛤蜊；蛤"
+      ]
+    },
+    {
+      "id": "riddle",
+      "word": "riddle",
+      "forms": [
+        "riddle"
+      ],
+      "tier": "core",
+      "phonetic": "/'ridl/",
+      "partOfSpeech": "n.",
+      "meaning": "谜；谜语",
+      "wordForms": "原文词形：riddle",
+      "sentence": "“Hey, I know the answer to the riddle—dolphins!”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-04/riddle.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "谜；谜语",
+        "海豚",
+        "沙的；沙地的"
+      ]
+    },
+    {
+      "id": "smooth",
+      "word": "smooth",
+      "forms": [
+        "smooth"
+      ],
+      "tier": "recognition",
+      "phonetic": "/smu:ð/",
+      "partOfSpeech": "adj.",
+      "meaning": "平滑的；平稳的",
+      "wordForms": "原文词形：smooth",
+      "sentence": "“Dolphin skin looks smooth and slippery.”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-04/smooth.mp3"
+    },
+    {
+      "id": "slippery",
+      "word": "slippery",
+      "forms": [
+        "slippery"
+      ],
+      "tier": "core",
+      "phonetic": "/'slipәri/",
+      "partOfSpeech": "adj.",
+      "meaning": "滑的；光滑的",
+      "wordForms": "原文词形：slippery",
+      "sentence": "“Dolphin skin looks smooth and slippery.”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-04/slippery.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "滑的；光滑的",
+        "脚凳",
+        "鹿角"
+      ]
+    },
+    {
+      "id": "flashed",
+      "word": "flash",
+      "forms": [
+        "flashed",
+        "flash",
+        "flashes",
+        "flashing"
+      ],
+      "tier": "core",
+      "phonetic": "/flæʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "闪现；突然显示",
+      "wordForms": "第三人称单数 flashes · 过去式 flashed · 现在分词 flashing",
+      "sentence": "The words SHIP’S LOG flashed onto the screen.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-04/flashed.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "闪现；突然显示",
+        "仔细看；凝视",
+        "蛤蜊；蛤"
+      ]
+    }
+  ]
+}

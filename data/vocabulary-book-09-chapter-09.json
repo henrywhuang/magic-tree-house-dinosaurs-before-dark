@@ -1,0 +1,497 @@
+{
+  "book": 9,
+  "chapter": 9,
+  "title": "Ouch!",
+  "words": [
+    {
+      "id": "sparkled",
+      "word": "sparkle",
+      "forms": [
+        "sparkled",
+        "sparkle",
+        "sparkles",
+        "sparkling"
+      ],
+      "tier": "core",
+      "phonetic": "/'spɑ:kl/",
+      "partOfSpeech": "v.",
+      "meaning": "闪耀；闪闪发光",
+      "wordForms": "第三人称单数 sparkles · 过去式 sparkled · 现在分词 sparkling",
+      "sentence": "It sparkled like a diamond.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-09/sparkled.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "闪耀；闪闪发光",
+        "隆起的纹路；脊",
+        "宝物；财富"
+      ]
+    },
+    {
+      "id": "flippers",
+      "word": "flipper",
+      "forms": [
+        "flipper",
+        "flippers"
+      ],
+      "tier": "core",
+      "phonetic": "/'flipә/",
+      "partOfSpeech": "n.",
+      "meaning": "鳍状肢",
+      "wordForms": "原文词形：flippers",
+      "sentence": "Then he put his flippers around Jack’s neck.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-09/flippers.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "鳍状肢",
+        "浅的；水浅的",
+        "珍珠"
+      ]
+    },
+    {
+      "id": "resist",
+      "word": "resist",
+      "forms": [
+        "resist",
+        "resists",
+        "resisted",
+        "resisting"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ri'zist/",
+      "partOfSpeech": "v.",
+      "meaning": "抵抗；耐得住",
+      "wordForms": "第三人称单数 resists · 过去式 resisted · 现在分词 resisting",
+      "sentence": "Jack couldn’t resist.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-09/resist.mp3"
+    },
+    {
+      "id": "chattered",
+      "word": "chatter",
+      "forms": [
+        "chattered",
+        "chatter",
+        "chatters",
+        "chattering"
+      ],
+      "tier": "core",
+      "phonetic": "/'tʃætә/",
+      "partOfSpeech": "v.",
+      "meaning": "吱吱叫；快速交谈",
+      "wordForms": "第三人称单数 chatters · 过去式 chattered · 现在分词 chattering",
+      "sentence": "The two dolphins chattered to each other for a moment.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-09/chattered.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "吱吱叫；快速交谈",
+        "宝物；财富",
+        "隆起的纹路；脊"
+      ]
+    },
+    {
+      "id": "gracefully",
+      "word": "gracefully",
+      "forms": [
+        "gracefully"
+      ],
+      "tier": "core",
+      "phonetic": "/'greisful/",
+      "partOfSpeech": "adv.",
+      "meaning": "优美地；轻盈地",
+      "wordForms": "原文词形：gracefully",
+      "sentence": "They nodded at Jack and Annie and swam gracefully away.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-09/gracefully.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "优美地；轻盈地",
+        "吱吱叫；快速交谈",
+        "珍珠"
+      ]
+    },
+    {
+      "id": "shallow",
+      "word": "shallow",
+      "forms": [
+        "shallow"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃælәu/",
+      "partOfSpeech": "adj.",
+      "meaning": "浅的；水浅的",
+      "wordForms": "原文词形：shallow",
+      "sentence": "He sat down in the shallow water.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-09/shallow.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "浅的；水浅的",
+        "珍珠",
+        "隆起的纹路；脊"
+      ]
+    },
+    {
+      "id": "soaked",
+      "word": "soaked",
+      "forms": [
+        "soaked"
+      ],
+      "tier": "core",
+      "phonetic": "/sәuk/",
+      "partOfSpeech": "adj.",
+      "meaning": "湿透的；浸透的",
+      "wordForms": "原文词形：soaked",
+      "sentence": "It was soaked.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-09/soaked.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "湿透的；浸透的",
+        "隆起的纹路；脊",
+        "浅的；水浅的"
+      ]
+    },
+    {
+      "id": "shell",
+      "word": "shell",
+      "forms": [
+        "shell"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃel/",
+      "partOfSpeech": "n.",
+      "meaning": "贝壳；壳",
+      "wordForms": "原文词形：shell",
+      "sentence": "“A shell?”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-09/shell.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "贝壳；壳",
+        "宝物；财富",
+        "鳍状肢"
+      ]
+    },
+    {
+      "id": "ridges",
+      "word": "ridge",
+      "forms": [
+        "ridge",
+        "ridges"
+      ],
+      "tier": "core",
+      "phonetic": "/ridʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "隆起的纹路；脊",
+      "wordForms": "原文词形：ridges",
+      "sentence": "The shell looked like a clamshell—only bigger and with more ridges.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-09/ridges.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dge",
+          "sound": "/dʒ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "隆起的纹路；脊",
+        "贝壳；壳",
+        "珍珠"
+      ]
+    },
+    {
+      "id": "pearl",
+      "word": "pearl",
+      "forms": [
+        "pearl"
+      ],
+      "tier": "core",
+      "phonetic": "/pә:l/",
+      "partOfSpeech": "n.",
+      "meaning": "珍珠",
+      "wordForms": "原文词形：pearl",
+      "sentence": "Inside some oysters you can find a pearl.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-09/pearl.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "珍珠",
+        "贝壳；壳",
+        "宝物；财富"
+      ]
+    },
+    {
+      "id": "treasure",
+      "word": "treasure",
+      "forms": [
+        "treasure"
+      ],
+      "tier": "core",
+      "phonetic": "/'treʒә/",
+      "partOfSpeech": "n.",
+      "meaning": "宝物；财富",
+      "wordForms": "原文词形：treasure",
+      "sentence": "The pearl’s natural beauty makes it a treasure.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-09/treasure.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "宝物；财富",
+        "贝壳；壳",
+        "珍珠"
+      ]
+    },
+    {
+      "id": "oysters",
+      "word": "oyster",
+      "forms": [
+        "oyster",
+        "oyster’s"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'ɒistә/",
+      "partOfSpeech": "n.",
+      "meaning": "牡蛎；蚝",
+      "wordForms": "原文词形：oyster’s",
+      "sentence": "Jack read aloud from the wet page:Sometimes a grain of sand will get between the oyster’s shell and its skin.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-09/oysters.mp3"
+    }
+  ]
+}

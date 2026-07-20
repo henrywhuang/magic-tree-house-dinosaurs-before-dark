@@ -1,0 +1,468 @@
+{
+  "book": 9,
+  "chapter": 7,
+  "title": "Remain Calm",
+  "words": [
+    {
+      "id": "spurting",
+      "word": "spurt",
+      "forms": [
+        "spurting",
+        "spurt",
+        "spurts",
+        "spurted"
+      ],
+      "tier": "core",
+      "phonetic": "/spә:t/",
+      "partOfSpeech": "v.",
+      "meaning": "喷涌；喷射",
+      "wordForms": "第三人称单数 spurts · 过去式 spurted · 现在分词 spurting",
+      "sentence": "The water wasn’t dripping now—it was spurting.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-07/spurting.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "喷涌；喷射",
+        "脚踝",
+        "上下浮动"
+      ]
+    },
+    {
+      "id": "suddenly",
+      "word": "suddenly",
+      "forms": [
+        "suddenly",
+        "Suddenly"
+      ],
+      "tier": "core",
+      "phonetic": "/'sʌdәnli/",
+      "partOfSpeech": "adv.",
+      "meaning": "突然；忽然",
+      "wordForms": "原文词形：Suddenly",
+      "sentence": "Suddenly, the mini-sub burst out of the water.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-07/suddenly.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "突然；忽然",
+        "赤裸的；未穿鞋袜的",
+        "喷涌；喷射"
+      ]
+    },
+    {
+      "id": "burst",
+      "word": "burst",
+      "forms": [
+        "burst",
+        "bursts",
+        "bursting"
+      ],
+      "tier": "core",
+      "phonetic": "/bә:st/",
+      "partOfSpeech": "v.",
+      "meaning": "突然冲出；爆裂",
+      "wordForms": "第三人称单数 bursts · 过去式 burst · 现在分词 bursting",
+      "sentence": "Suddenly, the mini-sub burst out of the water.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-07/burst.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "突然冲出；爆裂",
+        "上下浮动",
+        "脚踝"
+      ]
+    },
+    {
+      "id": "bobbed",
+      "word": "bob",
+      "forms": [
+        "bobbed",
+        "bob",
+        "bobs",
+        "bobbing"
+      ],
+      "tier": "core",
+      "phonetic": "/bɒb/",
+      "partOfSpeech": "v.",
+      "meaning": "上下浮动",
+      "wordForms": "第三人称单数 bobs · 过去式 bobbed · 现在分词 bobbing",
+      "sentence": "It bobbed on the waves like a cork.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-07/bobbed.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "上下浮动",
+        "夏天；夏季",
+        "突然冲出；爆裂"
+      ]
+    },
+    {
+      "id": "sparkled",
+      "word": "sparkle",
+      "forms": [
+        "sparkled",
+        "sparkle",
+        "sparkles",
+        "sparkling"
+      ],
+      "tier": "core",
+      "phonetic": "/'spɑ:kl/",
+      "partOfSpeech": "v.",
+      "meaning": "闪耀；闪闪发光",
+      "wordForms": "第三人称单数 sparkles · 过去式 sparkled · 现在分词 sparkling",
+      "sentence": "The ocean sparkled all around it.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-07/sparkled.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "闪耀；闪闪发光",
+        "突然冲出；爆裂",
+        "底部；底面"
+      ]
+    },
+    {
+      "id": "bare",
+      "word": "bare",
+      "forms": [
+        "bare"
+      ],
+      "tier": "core",
+      "phonetic": "/bєә/",
+      "partOfSpeech": "adj.",
+      "meaning": "赤裸的；未穿鞋袜的",
+      "wordForms": "原文词形：bare",
+      "sentence": "Jack felt the water rising around his bare feet.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-07/bare.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "赤裸的；未穿鞋袜的",
+        "喷涌；喷射",
+        "底部；底面"
+      ]
+    },
+    {
+      "id": "bottom",
+      "word": "bottom",
+      "forms": [
+        "bottom"
+      ],
+      "tier": "core",
+      "phonetic": "/'bɒtәm/",
+      "partOfSpeech": "n.",
+      "meaning": "底部；底面",
+      "wordForms": "原文词形：bottom",
+      "sentence": "“The octopus must have made cracks in the bottom, too.”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-07/bottom.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "底部；底面",
+        "赤裸的；未穿鞋袜的",
+        "喷涌；喷射"
+      ]
+    },
+    {
+      "id": "ankles",
+      "word": "ankle",
+      "forms": [
+        "ankle",
+        "ankles"
+      ],
+      "tier": "core",
+      "phonetic": "/'æŋkl/",
+      "partOfSpeech": "n.",
+      "meaning": "脚踝",
+      "wordForms": "原文词形：ankles",
+      "sentence": "The water was up to their ankles now.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-07/ankles.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "脚踝",
+        "夏天；夏季",
+        "上下浮动"
+      ]
+    },
+    {
+      "id": "distance",
+      "word": "distance",
+      "forms": [
+        "distance"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'distәns/",
+      "partOfSpeech": "n.",
+      "meaning": "距离；远方",
+      "wordForms": "原文词形：distance",
+      "sentence": "He saw the reef in the distance.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-07/distance.mp3"
+    },
+    {
+      "id": "far",
+      "word": "far",
+      "forms": [
+        "far"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fɑ:/",
+      "partOfSpeech": "adj.",
+      "meaning": "远的；久远的",
+      "wordForms": "原文词形：far",
+      "sentence": "It doesn’t look that far,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-07/far.mp3"
+    },
+    {
+      "id": "blank",
+      "word": "blank",
+      "forms": [
+        "blank"
+      ],
+      "tier": "core",
+      "phonetic": "/blæŋk/",
+      "partOfSpeech": "adj.",
+      "meaning": "空白的；无显示的",
+      "wordForms": "原文词形：blank",
+      "sentence": "Suddenly, the screen went blank.",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-07/blank.mp3",
+      "phonics": [
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "空白的；无显示的",
+        "闪耀；闪闪发光",
+        "夏天；夏季"
+      ]
+    },
+    {
+      "id": "summer",
+      "word": "summer",
+      "forms": [
+        "summer"
+      ],
+      "tier": "core",
+      "phonetic": "/'sʌmә/",
+      "partOfSpeech": "n.",
+      "meaning": "夏天；夏季",
+      "wordForms": "原文词形：summer",
+      "sentence": "“It’s a good thing we had swimming lessons this summer.”",
+      "sentenceAudio": "assets/audio/sentences/book-09-chapter-07/summer.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "夏天；夏季",
+        "闪耀；闪闪发光",
+        "底部；底面"
+      ]
+    }
+  ]
+}
