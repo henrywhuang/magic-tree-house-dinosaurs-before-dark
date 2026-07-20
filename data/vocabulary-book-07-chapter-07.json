@@ -47,15 +47,18 @@
     },
     {
       "id": "burned",
-      "word": "burned",
+      "word": "burn",
       "forms": [
-        "burned"
+        "burned",
+        "burn",
+        "burns",
+        "burning"
       ],
       "tier": "core",
       "phonetic": "/bә:n/",
       "partOfSpeech": "v.",
       "meaning": "烧；烧毁",
-      "wordForms": "原文词形：burned",
+      "wordForms": "第三人称单数 burns · 过去式 burned · 现在分词 burning",
       "sentence": "His hands burned.",
       "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/burned.mp3",
       "phonics": [
@@ -73,11 +76,6 @@
           "letters": "n",
           "sound": "/n/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -235,15 +233,18 @@
     },
     {
       "id": "knelt",
-      "word": "knelt",
+      "word": "kneel",
       "forms": [
-        "knelt"
+        "knelt",
+        "kneel",
+        "kneels",
+        "kneeling"
       ],
       "tier": "core",
-      "phonetic": "/nelt/",
+      "phonetic": "/ni:l/",
       "partOfSpeech": "v.",
       "meaning": "跪下",
-      "wordForms": "原文词形：knelt",
+      "wordForms": "第三人称单数 kneels · 过去式 knelt · 现在分词 kneeling",
       "sentence": "The great creature knelt down, just like a circus elephant.",
       "sentenceAudio": "assets/audio/sentences/book-07-chapter-07/knelt.mp3",
       "phonics": [
@@ -258,14 +259,14 @@
           "rule": "字母音"
         },
         {
-          "letters": "e",
-          "sound": "/ɛ/",
-          "rule": "字母音"
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
         },
         {
-          "letters": "lt",
-          "sound": "/lt/",
-          "rule": "辅音连缀"
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
         }
       ],
       "options": [

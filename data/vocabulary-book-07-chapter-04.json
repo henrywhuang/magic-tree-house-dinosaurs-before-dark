@@ -301,13 +301,16 @@
       "id": "borrow",
       "word": "borrow",
       "forms": [
-        "borrow"
+        "borrow",
+        "borrows",
+        "borrowed",
+        "borrowing"
       ],
       "tier": "recognition",
       "phonetic": "/'bɒrәu/",
       "partOfSpeech": "v.",
       "meaning": "借；借入",
-      "wordForms": "原文词形：borrow",
+      "wordForms": "第三人称单数 borrows · 过去式 borrowed · 现在分词 borrowing",
       "sentence": "Jack added to his list:“I hope the cave people won’t mind if we borrow their coats,” said Jack.",
       "sentenceAudio": "assets/audio/sentences/book-07-chapter-04/borrow.mp3"
     },

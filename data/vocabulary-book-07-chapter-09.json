@@ -178,15 +178,18 @@
     },
     {
       "id": "snarled",
-      "word": "snarled",
+      "word": "snarl",
       "forms": [
-        "snarled"
+        "snarled",
+        "snarl",
+        "snarls",
+        "snarling"
       ],
       "tier": "core",
-      "phonetic": "/snɑ:rld/",
+      "phonetic": "/snɑ:l/",
       "partOfSpeech": "v.",
       "meaning": "吼叫；怒骂",
-      "wordForms": "原文词形：snarled",
+      "wordForms": "第三人称单数 snarls · 过去式 snarled · 现在分词 snarling",
       "sentence": "The tiger snarled.",
       "sentenceAudio": "assets/audio/sentences/book-07-chapter-09/snarled.mp3",
       "phonics": [
@@ -204,11 +207,6 @@
           "letters": "l",
           "sound": "/l/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [

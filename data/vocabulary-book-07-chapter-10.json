@@ -442,15 +442,18 @@
     },
     {
       "id": "starving",
-      "word": "starving",
+      "word": "starve",
       "forms": [
-        "starving"
+        "starving",
+        "starve",
+        "starves",
+        "starved"
       ],
       "tier": "core",
       "phonetic": "/stɑ:v/",
       "partOfSpeech": "v.",
       "meaning": "饿死；挨饿",
-      "wordForms": "原文词形：starving",
+      "wordForms": "第三人称单数 starves · 过去式 starved · 现在分词 starving",
       "sentence": "“Hurry, I’m starving,” said Jack.",
       "sentenceAudio": "assets/audio/sentences/book-07-chapter-10/starving.mp3",
       "phonics": [
@@ -470,9 +473,9 @@
           "rule": "字母音"
         },
         {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [

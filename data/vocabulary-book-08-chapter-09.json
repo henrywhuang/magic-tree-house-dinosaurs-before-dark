@@ -10,24 +10,27 @@
         "magician’s"
       ],
       "tier": "recognition",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "meaning": "magician’s",
+      "phonetic": "/mә'dʒiʃәnz/",
+      "partOfSpeech": "n.",
+      "meaning": "魔术师的",
       "wordForms": "原文词形：magician’s",
       "sentence": "“You have freed me from the magician’s spell.”",
       "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/magicians.mp3"
     },
     {
       "id": "smiled",
-      "word": "smiled",
+      "word": "smile",
       "forms": [
-        "smiled"
+        "smiled",
+        "smile",
+        "smiles",
+        "smiling"
       ],
       "tier": "core",
       "phonetic": "/smail/",
-      "partOfSpeech": "n.",
-      "meaning": "Synchronous Multimedia Integrate Language 同步多媒体集成语言",
-      "wordForms": "原文词形：smiled",
+      "partOfSpeech": "v.",
+      "meaning": "微笑",
+      "wordForms": "第三人称单数 smiles · 过去式 smiled · 现在分词 smiling",
       "sentence": "Morgan nodded and smiled.",
       "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/smiled.mp3",
       "phonics": [
@@ -47,13 +50,13 @@
           "rule": "字母音"
         },
         {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
         }
       ],
       "options": [
-        "Synchronous Multimedia Integrate Language 同步多媒体集成语言",
+        "微笑",
         "你的；你们的",
         "惊跳；惊避"
       ]
@@ -103,13 +106,16 @@
       "id": "understand",
       "word": "understand",
       "forms": [
-        "understand"
+        "understand",
+        "understands",
+        "understood",
+        "understanding"
       ],
       "tier": "recognition",
       "phonetic": "/.ʌndә'stænd/",
       "partOfSpeech": "v.",
       "meaning": "理解；了解",
-      "wordForms": "原文词形：understand",
+      "wordForms": "第三人称单数 understands · 过去式 understood · 现在分词 understanding",
       "sentence": "“But how did they understand you—a mouse?”",
       "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/understand.mp3"
     },
@@ -340,15 +346,18 @@
     },
     {
       "id": "sniffed",
-      "word": "sniffed",
+      "word": "sniff",
       "forms": [
-        "sniffed"
+        "sniffed",
+        "sniff",
+        "sniffs",
+        "sniffing"
       ],
       "tier": "core",
-      "phonetic": "/snift/",
-      "partOfSpeech": "n.",
-      "meaning": "standby note issuance facility 备用纸币发行设备",
-      "wordForms": "原文词形：sniffed",
+      "phonetic": "/snif/",
+      "partOfSpeech": "v.",
+      "meaning": "嗅；闻",
+      "wordForms": "第三人称单数 sniffs · 过去式 sniffed · 现在分词 sniffing",
       "sentence": "Morgan sniffed.",
       "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/sniffed.mp3",
       "phonics": [
@@ -371,15 +380,10 @@
           "letters": "f",
           "sound": "/f/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
-        "standby note issuance facility 备用纸币发行设备",
+        "嗅；闻",
         "进程存取组",
         "惊跳；惊避"
       ]

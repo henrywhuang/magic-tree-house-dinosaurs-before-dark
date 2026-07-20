@@ -107,15 +107,18 @@
     },
     {
       "id": "joined",
-      "word": "joined",
+      "word": "join",
       "forms": [
-        "joined"
+        "joined",
+        "join",
+        "joins",
+        "joining"
       ],
       "tier": "core",
       "phonetic": "/dʒɒin/",
       "partOfSpeech": "v.",
       "meaning": "参加；结合",
-      "wordForms": "原文词形：joined",
+      "wordForms": "第三人称单数 joins · 过去式 joined · 现在分词 joining",
       "sentence": "Then a woolly rhino joined them on the open plain.",
       "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/joined.mp3",
       "phonics": [
@@ -133,11 +136,6 @@
           "letters": "n",
           "sound": "/n/",
           "rule": "字母音"
-        },
-        {
-          "letters": "ed",
-          "sound": "/d/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
@@ -382,15 +380,18 @@
     },
     {
       "id": "slinking",
-      "word": "slinking",
+      "word": "slink",
       "forms": [
-        "slinking"
+        "slinking",
+        "slink",
+        "slinks",
+        "slinked"
       ],
       "tier": "core",
-      "phonetic": "/slɪŋkɪŋ/",
+      "phonetic": "/sliŋk/",
       "partOfSpeech": "v.",
       "meaning": "鬼鬼祟祟地走；早产",
-      "wordForms": "原文词形：slinking",
+      "wordForms": "第三人称单数 slinks · 过去式 slinked · 现在分词 slinking",
       "sentence": "Behind them the sabertooth was slinking across the sunlit snow!",
       "sentenceAudio": "assets/audio/sentences/book-07-chapter-08/slinking.mp3",
       "phonics": [
@@ -408,11 +409,6 @@
           "letters": "nk",
           "sound": "/ŋk/",
           "rule": "辅音连缀"
-        },
-        {
-          "letters": "ing",
-          "sound": "/ɪŋ/",
-          "rule": "常见词尾"
         }
       ],
       "options": [
