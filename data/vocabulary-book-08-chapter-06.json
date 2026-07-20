@@ -1,0 +1,490 @@
+{
+  "book": 8,
+  "chapter": 6,
+  "title": "High Jump",
+  "words": [
+    {
+      "id": "friendly",
+      "word": "friendly",
+      "forms": [
+        "friendly"
+      ],
+      "tier": "core",
+      "phonetic": "/'frendli/",
+      "partOfSpeech": "n.",
+      "meaning": "朋友；支持者",
+      "wordForms": "原文词形：friendly",
+      "sentence": "“We don’t know if he’s friendly or mean or what.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-06/friendly.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "朋友；支持者",
+        "战栗；颤抖",
+        "优先权；舞步"
+      ]
+    },
+    {
+      "id": "tanks",
+      "word": "tanks",
+      "forms": [
+        "tanks"
+      ],
+      "tier": "core",
+      "phonetic": "/tæŋk/",
+      "partOfSpeech": "n.",
+      "meaning": "槽；箱",
+      "wordForms": "原文词形：tanks",
+      "sentence": "“Then we can get new air tanks!”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-06/tanks.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "槽；箱",
+        "步骤；步",
+        "战栗；颤抖"
+      ]
+    },
+    {
+      "id": "drivers",
+      "word": "driver’s",
+      "forms": [
+        "driver’s"
+      ],
+      "tier": "recognition",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "meaning": "driver’s",
+      "wordForms": "原文词形：driver’s",
+      "sentence": "He jumped into the driver’s seat.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-06/drivers.mp3"
+    },
+    {
+      "id": "pass",
+      "word": "pass",
+      "forms": [
+        "pass"
+      ],
+      "tier": "core",
+      "phonetic": "/pæs/",
+      "partOfSpeech": "n.",
+      "meaning": "优先权；舞步",
+      "wordForms": "原文词形：pass",
+      "sentence": "Then they zoomed toward the pass.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-06/pass.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "优先权；舞步",
+        "槽；箱",
+        "无线电；收音机"
+      ]
+    },
+    {
+      "id": "trembled",
+      "word": "trembled",
+      "forms": [
+        "trembled"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈtrembld/",
+      "partOfSpeech": "n.",
+      "meaning": "战栗；颤抖",
+      "wordForms": "原文词形：trembled",
+      "sentence": "The ground trembled.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-06/trembled.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "战栗；颤抖",
+        "朋友；支持者",
+        "无线电；收音机"
+      ]
+    },
+    {
+      "id": "stepped",
+      "word": "stepped",
+      "forms": [
+        "stepped"
+      ],
+      "tier": "core",
+      "phonetic": "/stept/",
+      "partOfSpeech": "n.",
+      "meaning": "步骤；步",
+      "wordForms": "原文词形：stepped",
+      "sentence": "He stepped on the brake.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-06/stepped.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "步骤；步",
+        "槽；箱",
+        "陨星"
+      ]
+    },
+    {
+      "id": "crash",
+      "word": "crash",
+      "forms": [
+        "crash"
+      ],
+      "tier": "core",
+      "phonetic": "/kræʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "哗啦声；猛撞",
+      "wordForms": "原文词形：crash",
+      "sentence": "He read aloud:Rocks of all sizes crash into the moon from outer space.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-06/crash.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "哗啦声；猛撞",
+        "步骤；步",
+        "战栗；颤抖"
+      ]
+    },
+    {
+      "id": "meteorite",
+      "word": "meteorite",
+      "forms": [
+        "meteorite"
+      ],
+      "tier": "core",
+      "phonetic": "/'mi:tiәrait/",
+      "partOfSpeech": "n.",
+      "meaning": "陨星",
+      "wordForms": "原文词形：meteorite",
+      "sentence": "“We’re lucky that meteorite didn’t land on us,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-06/meteorite.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "陨星",
+        "庞大的",
+        "槽；箱"
+      ]
+    },
+    {
+      "id": "bulky",
+      "word": "bulky",
+      "forms": [
+        "bulky"
+      ],
+      "tier": "core",
+      "phonetic": "/'bʌlki/",
+      "partOfSpeech": "adj.",
+      "meaning": "庞大的",
+      "wordForms": "原文词形：bulky",
+      "sentence": "But his suit was too bulky.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-06/bulky.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "庞大的",
+        "无线电；收音机",
+        "步骤；步"
+      ]
+    },
+    {
+      "id": "relieved",
+      "word": "relieved",
+      "forms": [
+        "relieved"
+      ],
+      "tier": "core",
+      "phonetic": "/ri'li:vd/",
+      "partOfSpeech": "v.",
+      "meaning": "减轻；救济",
+      "wordForms": "原文词形：relieved",
+      "sentence": "Jack was relieved to hear her voice.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-06/relieved.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "减轻；救济",
+        "庞大的",
+        "朋友；支持者"
+      ]
+    },
+    {
+      "id": "radio",
+      "word": "radio",
+      "forms": [
+        "radio"
+      ],
+      "tier": "core",
+      "phonetic": "/'reidiәu/",
+      "partOfSpeech": "n.",
+      "meaning": "无线电；收音机",
+      "wordForms": "原文词形：radio",
+      "sentence": "He could only hear her over the radio.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-06/radio.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "无线电；收音机",
+        "优先权；舞步",
+        "庞大的"
+      ]
+    },
+    {
+      "id": "really",
+      "word": "really",
+      "forms": [
+        "really"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'riәli/",
+      "partOfSpeech": "adj.",
+      "meaning": "真的；真实的",
+      "wordForms": "原文词形：really",
+      "sentence": "“Now we are really in trouble.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-06/really.mp3"
+    }
+  ]
+}

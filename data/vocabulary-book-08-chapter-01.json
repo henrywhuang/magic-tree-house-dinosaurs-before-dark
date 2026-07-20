@@ -1,0 +1,429 @@
+{
+  "book": 8,
+  "chapter": 1,
+  "title": "By Moonlight",
+  "words": [
+    {
+      "id": "clock",
+      "word": "clock",
+      "forms": [
+        "clock"
+      ],
+      "tier": "core",
+      "phonetic": "/klɒk/",
+      "partOfSpeech": "n.",
+      "meaning": "时钟；计时器",
+      "wordForms": "原文词形：clock",
+      "sentence": "“Don’t look at your clock,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-01/clock.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "时钟；计时器",
+        "水流；小河",
+        "斜视眼；斜着"
+      ]
+    },
+    {
+      "id": "midnight",
+      "word": "midnight",
+      "forms": [
+        "midnight"
+      ],
+      "tier": "core",
+      "phonetic": "/'midnait/",
+      "partOfSpeech": "n.",
+      "meaning": "午夜；子夜",
+      "wordForms": "原文词形：midnight",
+      "sentence": "“It’s midnight.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-01/midnight.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "午夜；子夜",
+        "斜视眼；斜着",
+        "时钟；计时器"
+      ]
+    },
+    {
+      "id": "meet",
+      "word": "Meet",
+      "forms": [
+        "Meet"
+      ],
+      "tier": "core",
+      "phonetic": "/mi:t/",
+      "partOfSpeech": "n.",
+      "meaning": "会；集会",
+      "wordForms": "原文词形：Meet",
+      "sentence": "“Meet you at the back door.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-01/meet.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "会；集会",
+        "时钟；计时器",
+        "结构；构造"
+      ]
+    },
+    {
+      "id": "streamed",
+      "word": "streamed",
+      "forms": [
+        "streamed"
+      ],
+      "tier": "core",
+      "phonetic": "/stri:m/",
+      "partOfSpeech": "n.",
+      "meaning": "水流；小河",
+      "wordForms": "原文词形：streamed",
+      "sentence": "Moonlight streamed through the window.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-01/streamed.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "水流；小河",
+        "午夜；子夜",
+        "时钟；计时器"
+      ]
+    },
+    {
+      "id": "dim",
+      "word": "dim",
+      "forms": [
+        "dim"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dim/",
+      "partOfSpeech": "adj.",
+      "meaning": "暗淡的；模糊的",
+      "wordForms": "原文词形：dim",
+      "sentence": "In the dim light, Jack saw a tiny mouse.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-01/dim.mp3"
+    },
+    {
+      "id": "shadowy",
+      "word": "shadowy",
+      "forms": [
+        "shadowy"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃædәui/",
+      "partOfSpeech": "adj.",
+      "meaning": "有影的；暗黑的",
+      "wordForms": "原文词形：shadowy",
+      "sentence": "He could make out diagrams and shadowy pictures.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-01/shadowy.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "有影的；暗黑的",
+        "午夜；子夜",
+        "结构；构造"
+      ]
+    },
+    {
+      "id": "squinted",
+      "word": "squinted",
+      "forms": [
+        "squinted"
+      ],
+      "tier": "core",
+      "phonetic": "/skwɪntid/",
+      "partOfSpeech": "n.",
+      "meaning": "斜视眼；斜着",
+      "wordForms": "原文词形：squinted",
+      "sentence": "Jack squinted at them.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-01/squinted.mp3",
+      "phonics": [
+        {
+          "letters": "squ",
+          "sound": "/skw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "斜视眼；斜着",
+        "装备；设备",
+        "夜；夜晚"
+      ]
+    },
+    {
+      "id": "equipment",
+      "word": "equipment",
+      "forms": [
+        "equipment"
+      ],
+      "tier": "core",
+      "phonetic": "/i'kwipmәnt/",
+      "partOfSpeech": "n.",
+      "meaning": "装备；设备",
+      "wordForms": "原文词形：equipment",
+      "sentence": "“It’s impossible to go to the moon without tons of equipment.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-01/equipment.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "qu",
+          "sound": "/kw/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "装备；设备",
+        "夜；夜晚",
+        "水流；小河"
+      ]
+    },
+    {
+      "id": "day",
+      "word": "day",
+      "forms": [
+        "day"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dei/",
+      "partOfSpeech": "n.",
+      "meaning": "天；日子",
+      "wordForms": "原文词形：day",
+      "sentence": "Not only that, we’d boil to death if it was day and freeze to death if it was night.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-01/day.mp3"
+    },
+    {
+      "id": "night",
+      "word": "night",
+      "forms": [
+        "night"
+      ],
+      "tier": "core",
+      "phonetic": "/nait/",
+      "partOfSpeech": "n.",
+      "meaning": "夜；夜晚",
+      "wordForms": "原文词形：night",
+      "sentence": "Not only that, we’d boil to death if it was day and freeze to death if it was night.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-01/night.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "夜；夜晚",
+        "时钟；计时器",
+        "装备；设备"
+      ]
+    },
+    {
+      "id": "structure",
+      "word": "structure",
+      "forms": [
+        "structure"
+      ],
+      "tier": "core",
+      "phonetic": "/'strʌktʃә/",
+      "partOfSpeech": "n.",
+      "meaning": "结构；构造",
+      "wordForms": "原文词形：structure",
+      "sentence": "He pointed to a picture of a dome-shaped structure.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-01/structure.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ture",
+          "sound": "/tʃər/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "结构；构造",
+        "会；集会",
+        "时钟；计时器"
+      ]
+    }
+  ]
+}

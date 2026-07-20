@@ -1,0 +1,480 @@
+{
+  "book": 8,
+  "chapter": 2,
+  "title": "Space Motel",
+  "words": [
+    {
+      "id": "round",
+      "word": "round",
+      "forms": [
+        "round"
+      ],
+      "tier": "core",
+      "phonetic": "/raund/",
+      "partOfSpeech": "n.",
+      "meaning": "圆；圆形物",
+      "wordForms": "原文词形：round",
+      "sentence": "The room was round.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-02/round.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "圆；圆形物",
+        "未来；将来",
+        "位置；空间"
+      ]
+    },
+    {
+      "id": "lit",
+      "word": "lit",
+      "forms": [
+        "lit"
+      ],
+      "tier": "recognition",
+      "phonetic": "/lit/",
+      "partOfSpeech": "",
+      "meaning": "light的过去式和过去分词",
+      "wordForms": "原文词形：lit",
+      "sentence": "It had white floors and a curved wall lit by bright lights.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-02/lit.mp3"
+    },
+    {
+      "id": "space",
+      "word": "space",
+      "forms": [
+        "space"
+      ],
+      "tier": "core",
+      "phonetic": "/speis/",
+      "partOfSpeech": "n.",
+      "meaning": "位置；空间",
+      "wordForms": "原文词形：space",
+      "sentence": "Where were all the astronauts and space scientists?",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-02/space.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "位置；空间",
+        "科学家",
+        "气塞；气闸"
+      ]
+    },
+    {
+      "id": "scientists",
+      "word": "scientists",
+      "forms": [
+        "scientists"
+      ],
+      "tier": "core",
+      "phonetic": "/'saɪəntɪsts/",
+      "partOfSpeech": "n.",
+      "meaning": "科学家",
+      "wordForms": "原文词形：scientists",
+      "sentence": "Where were all the astronauts and space scientists?",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-02/scientists.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "科学家",
+        "汽车旅馆",
+        "时期；节段"
+      ]
+    },
+    {
+      "id": "dome",
+      "word": "dome",
+      "forms": [
+        "dome"
+      ],
+      "tier": "core",
+      "phonetic": "/dәum/",
+      "partOfSpeech": "n.",
+      "meaning": "圆顶",
+      "wordForms": "原文词形：dome",
+      "sentence": "He read the words below the picture of the dome.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-02/dome.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "圆顶",
+        "室；房间",
+        "科学家"
+      ]
+    },
+    {
+      "id": "base",
+      "word": "base",
+      "forms": [
+        "base"
+      ],
+      "tier": "recognition",
+      "phonetic": "/beis/",
+      "partOfSpeech": "n.",
+      "meaning": "底部；垒",
+      "wordForms": "原文词形：base",
+      "sentence": "A moon base was built on the moon in the year 2031.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-02/base.mp3"
+    },
+    {
+      "id": "future",
+      "word": "future",
+      "forms": [
+        "future"
+      ],
+      "tier": "core",
+      "phonetic": "/'fju:tʃә/",
+      "partOfSpeech": "n.",
+      "meaning": "未来；将来",
+      "wordForms": "原文词形：future",
+      "sentence": "Which means this book is from the future!”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-02/future.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ture",
+          "sound": "/tʃər/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "未来；将来",
+        "科学家",
+        "室；房间"
+      ]
+    },
+    {
+      "id": "periods",
+      "word": "periods",
+      "forms": [
+        "periods"
+      ],
+      "tier": "core",
+      "phonetic": "/'piәriәd/",
+      "partOfSpeech": "n.",
+      "meaning": "时期；节段",
+      "wordForms": "原文词形：periods",
+      "sentence": "He read aloud:When scientists visit the moon for short periods, they eat and sleep in the moon base.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-02/periods.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "时期；节段",
+        "汽车旅馆",
+        "位置；空间"
+      ]
+    },
+    {
+      "id": "motel",
+      "word": "motel",
+      "forms": [
+        "motel"
+      ],
+      "tier": "core",
+      "phonetic": "/mәu'tel/",
+      "partOfSpeech": "n.",
+      "meaning": "汽车旅馆",
+      "wordForms": "原文词形：motel",
+      "sentence": "“A space motel!”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-02/motel.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "汽车旅馆",
+        "气塞；气闸",
+        "圆顶"
+      ]
+    },
+    {
+      "id": "chamber",
+      "word": "chamber",
+      "forms": [
+        "chamber"
+      ],
+      "tier": "core",
+      "phonetic": "/'tʃeimbә/",
+      "partOfSpeech": "n.",
+      "meaning": "室；房间",
+      "wordForms": "原文词形：chamber",
+      "sentence": "He read more:The small base has a landing chamber and a room for storing spacesuits.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-02/chamber.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "室；房间",
+        "未来；将来",
+        "科学家"
+      ]
+    },
+    {
+      "id": "diagram",
+      "word": "diagram",
+      "forms": [
+        "diagram"
+      ],
+      "tier": "core",
+      "phonetic": "/'daiәɡræm/",
+      "partOfSpeech": "n.",
+      "meaning": "图表；图解",
+      "wordForms": "原文词形：diagram",
+      "sentence": "Jack looked at his diagram.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-02/diagram.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "图表；图解",
+        "室；房间",
+        "时期；节段"
+      ]
+    },
+    {
+      "id": "airlock",
+      "word": "airlock",
+      "forms": [
+        "airlock"
+      ],
+      "tier": "core",
+      "phonetic": "",
+      "partOfSpeech": "n.",
+      "meaning": "气塞；气闸",
+      "wordForms": "原文词形：airlock",
+      "sentence": "Annie was at the end of the hallway, standing in the airlock.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-02/airlock.mp3",
+      "phonics": [
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "气塞；气闸",
+        "圆顶",
+        "科学家"
+      ]
+    }
+  ]
+}

@@ -34,6 +34,8 @@ MANUAL = {
     'mammoth': ('/ˈmæməθ/', 'n. 猛犸象'), 'lulu': ('/ˈluːluː/', '露露（猛犸象的名字）'),
     'sorcerer': ('/ˈsɔːrsərər/', 'n. 巫师；术士'),
     'reindeer': ('/ˈreɪndɪər/', 'n. 驯鹿'), 'bison': ('/ˈbaɪsən/', 'n. 野牛'),
+    'moondust': ('/ˈmuːndʌst/', 'n. 月尘；月球表面的细尘'),
+    'mini-spaceship': ('/ˈmɪni ˈspeɪsʃɪp/', 'n. 小型宇宙飞船'),
     "that'll": ('/ðætəl/', '那将会（that will 的缩写）'),
     "there're": ('/ðeərər/', '有（there are 的缩写）'),
 }
@@ -46,6 +48,12 @@ LEMMA_OVERRIDES = {
     'sled': 'sled',
     'untied': 'untie',
     'yikes': 'yikes',
+    'fo-fourth': 'fourth',
+    'sl-slow': 'slow',
+    'd-down': 'down',
+    'b-brake': 'brake',
+    'f-floor': 'floor',
+    'ja-ack': 'jack',
 }
 
 def norm(w):

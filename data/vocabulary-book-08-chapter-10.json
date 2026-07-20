@@ -1,0 +1,466 @@
+{
+  "book": 8,
+  "chapter": 10,
+  "title": "Earth Life",
+  "words": [
+    {
+      "id": "breeze",
+      "word": "breeze",
+      "forms": [
+        "breeze"
+      ],
+      "tier": "core",
+      "phonetic": "/bri:z/",
+      "partOfSpeech": "n.",
+      "meaning": "微风；煤屑",
+      "wordForms": "原文词形：breeze",
+      "sentence": "A breeze rustled the leaves.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-10/breeze.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "微风；煤屑",
+        "宇宙；星系",
+        "奇迹；惊奇"
+      ]
+    },
+    {
+      "id": "rustled",
+      "word": "rustled",
+      "forms": [
+        "rustled"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈrʌsld/",
+      "partOfSpeech": "n.",
+      "meaning": "沙沙声；瑟瑟声",
+      "wordForms": "原文词形：rustled",
+      "sentence": "A breeze rustled the leaves.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-10/rustled.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "沙沙声；瑟瑟声",
+        "奇迹；惊奇",
+        "宇宙；星系"
+      ]
+    },
+    {
+      "id": "knowledge",
+      "word": "knowledge",
+      "forms": [
+        "knowledge"
+      ],
+      "tier": "core",
+      "phonetic": "/'nɒlidʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "知识；学问",
+      "wordForms": "原文词形：knowledge",
+      "sentence": "“Thank you, Jack, for your great love of knowledge.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-10/knowledge.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dge",
+          "sound": "/dʒ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "知识；学问",
+        "证据；证明",
+        "奇迹；惊奇"
+      ]
+    },
+    {
+      "id": "universe",
+      "word": "universe",
+      "forms": [
+        "universe"
+      ],
+      "tier": "core",
+      "phonetic": "/'ju:nivә:s/",
+      "partOfSpeech": "n.",
+      "meaning": "宇宙；星系",
+      "wordForms": "原文词形：universe",
+      "sentence": "“The universe is filled with wonders.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-10/universe.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "宇宙；星系",
+        "沙沙声；瑟瑟声",
+        "知识；学问"
+      ]
+    },
+    {
+      "id": "moist",
+      "word": "moist",
+      "forms": [
+        "moist"
+      ],
+      "tier": "core",
+      "phonetic": "/mɒist/",
+      "partOfSpeech": "adj.",
+      "meaning": "潮湿的；多雨的",
+      "wordForms": "原文词形：moist",
+      "sentence": "The midnight air felt cool and moist.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-10/moist.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oi",
+          "sound": "/ɔɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "潮湿的；多雨的",
+        "宇宙；星系",
+        "沙沙声；瑟瑟声"
+      ]
+    },
+    {
+      "id": "wonder",
+      "word": "wonder",
+      "forms": [
+        "wonder"
+      ],
+      "tier": "core",
+      "phonetic": "/'wʌndә/",
+      "partOfSpeech": "n.",
+      "meaning": "奇迹；惊奇",
+      "wordForms": "原文词形：wonder",
+      "sentence": "“I wonder how the moon man can be up there all alone,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-10/wonder.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "奇迹；惊奇",
+        "知识；学问",
+        "宇宙；星系"
+      ]
+    },
+    {
+      "id": "alien",
+      "word": "alien",
+      "forms": [
+        "alien"
+      ],
+      "tier": "core",
+      "phonetic": "/'eiljәn/",
+      "partOfSpeech": "n.",
+      "meaning": "外国人；外侨",
+      "wordForms": "原文词形：alien",
+      "sentence": "I think he’s an alien,” said Annie, “from another galaxy.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-10/alien.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "外国人；外侨",
+        "宇宙；星系",
+        "证据；证明"
+      ]
+    },
+    {
+      "id": "galaxy",
+      "word": "galaxy",
+      "forms": [
+        "galaxy"
+      ],
+      "tier": "core",
+      "phonetic": "/'gælәksi/",
+      "partOfSpeech": "n.",
+      "meaning": "银河；星系",
+      "wordForms": "原文词形：galaxy",
+      "sentence": "I think he’s an alien,” said Annie, “from another galaxy.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-10/galaxy.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "x",
+          "sound": "/ks/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "银河；星系",
+        "奇迹；惊奇",
+        "宇宙；星系"
+      ]
+    },
+    {
+      "id": "scoffed",
+      "word": "scoffed",
+      "forms": [
+        "scoffed"
+      ],
+      "tier": "core",
+      "phonetic": "/skɔft/",
+      "partOfSpeech": "n.",
+      "meaning": "嘲笑；愚弄",
+      "wordForms": "原文词形：scoffed",
+      "sentence": "Jack scoffed.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-10/scoffed.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "嘲笑；愚弄",
+        "外国人；外侨",
+        "潮湿的；多雨的"
+      ]
+    },
+    {
+      "id": "wrong",
+      "word": "Wrong",
+      "forms": [
+        "Wrong"
+      ],
+      "tier": "recognition",
+      "phonetic": "/rɒŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "错误的；不正当的",
+      "wordForms": "原文词形：Wrong",
+      "sentence": "“Wrong,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-10/wrong.mp3"
+    },
+    {
+      "id": "proof",
+      "word": "proof",
+      "forms": [
+        "proof"
+      ],
+      "tier": "core",
+      "phonetic": "/pru:f/",
+      "partOfSpeech": "n.",
+      "meaning": "证据；证明",
+      "wordForms": "原文词形：proof",
+      "sentence": "“There’s no proof that aliens exist.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-10/proof.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "证据；证明",
+        "知识；学问",
+        "宇宙；星系"
+      ]
+    }
+  ]
+}

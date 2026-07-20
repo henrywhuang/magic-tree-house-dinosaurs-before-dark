@@ -1,0 +1,499 @@
+{
+  "book": 8,
+  "chapter": 9,
+  "title": "Morgan",
+  "words": [
+    {
+      "id": "magicians",
+      "word": "magician’s",
+      "forms": [
+        "magician’s"
+      ],
+      "tier": "recognition",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "meaning": "magician’s",
+      "wordForms": "原文词形：magician’s",
+      "sentence": "“You have freed me from the magician’s spell.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/magicians.mp3"
+    },
+    {
+      "id": "smiled",
+      "word": "smiled",
+      "forms": [
+        "smiled"
+      ],
+      "tier": "core",
+      "phonetic": "/smail/",
+      "partOfSpeech": "n.",
+      "meaning": "Synchronous Multimedia Integrate Language 同步多媒体集成语言",
+      "wordForms": "原文词形：smiled",
+      "sentence": "Morgan nodded and smiled.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/smiled.mp3",
+      "phonics": [
+        {
+          "letters": "sm",
+          "sound": "/sm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "Synchronous Multimedia Integrate Language 同步多媒体集成语言",
+        "你的；你们的",
+        "惊跳；惊避"
+      ]
+    },
+    {
+      "id": "yours",
+      "word": "yours",
+      "forms": [
+        "yours"
+      ],
+      "tier": "core",
+      "phonetic": "/juәz/",
+      "partOfSpeech": "pron.",
+      "meaning": "你的；你们的",
+      "wordForms": "原文词形：yours",
+      "sentence": "Is he a friend of yours?”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/yours.mp3",
+      "phonics": [
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "你的；你们的",
+        "人；动物",
+        "诡计；欺诈"
+      ]
+    },
+    {
+      "id": "understand",
+      "word": "understand",
+      "forms": [
+        "understand"
+      ],
+      "tier": "recognition",
+      "phonetic": "/.ʌndә'stænd/",
+      "partOfSpeech": "v.",
+      "meaning": "理解；了解",
+      "wordForms": "原文词形：understand",
+      "sentence": "“But how did they understand you—a mouse?”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/understand.mp3"
+    },
+    {
+      "id": "certain",
+      "word": "Certain",
+      "forms": [
+        "Certain"
+      ],
+      "tier": "core",
+      "phonetic": "/'sә:tәn/",
+      "partOfSpeech": "adj.",
+      "meaning": "确定的；某一个的",
+      "wordForms": "原文词形：Certain",
+      "sentence": "“Certain wise ones understand the language of little creatures,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/certain.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "确定的；某一个的",
+        "Synchronous Multimedia Integrate Language 同步多媒体集成语言",
+        "standby note issuance facility 备用纸币发行设备"
+      ]
+    },
+    {
+      "id": "creatures",
+      "word": "creatures",
+      "forms": [
+        "creatures"
+      ],
+      "tier": "core",
+      "phonetic": "/'kri:tʃəz/",
+      "partOfSpeech": "n.",
+      "meaning": "人；动物",
+      "wordForms": "原文词形：creatures",
+      "sentence": "“Certain wise ones understand the language of little creatures,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/creatures.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "人；动物",
+        "确定的；某一个的",
+        "绝对的；专制的"
+      ]
+    },
+    {
+      "id": "pages",
+      "word": "pages",
+      "forms": [
+        "pages"
+      ],
+      "tier": "core",
+      "phonetic": "/peidʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "进程存取组",
+      "wordForms": "原文词形：pages",
+      "sentence": "“I bet it was you who turned the pages of the books!”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/pages.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "进程存取组",
+        "确定的；某一个的",
+        "惊跳；惊避"
+      ]
+    },
+    {
+      "id": "frowned",
+      "word": "frowned",
+      "forms": [
+        "frowned"
+      ],
+      "tier": "core",
+      "phonetic": "/fraund/",
+      "partOfSpeech": "n.",
+      "meaning": "皱眉",
+      "wordForms": "原文词形：frowned",
+      "sentence": "Morgan frowned.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/frowned.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "皱眉",
+        "确定的；某一个的",
+        "诡计；欺诈"
+      ]
+    },
+    {
+      "id": "tricks",
+      "word": "tricks",
+      "forms": [
+        "tricks"
+      ],
+      "tier": "core",
+      "phonetic": "/trik/",
+      "partOfSpeech": "n.",
+      "meaning": "诡计；欺诈",
+      "wordForms": "原文词形：tricks",
+      "sentence": "“A certain person who likes to play tricks on me,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/tricks.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "诡计；欺诈",
+        "皱眉",
+        "人；动物"
+      ]
+    },
+    {
+      "id": "sniffed",
+      "word": "sniffed",
+      "forms": [
+        "sniffed"
+      ],
+      "tier": "core",
+      "phonetic": "/snift/",
+      "partOfSpeech": "n.",
+      "meaning": "standby note issuance facility 备用纸币发行设备",
+      "wordForms": "原文词形：sniffed",
+      "sentence": "Morgan sniffed.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/sniffed.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "standby note issuance facility 备用纸币发行设备",
+        "进程存取组",
+        "惊跳；惊避"
+      ]
+    },
+    {
+      "id": "shyly",
+      "word": "shyly",
+      "forms": [
+        "shyly"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃai/",
+      "partOfSpeech": "n.",
+      "meaning": "惊跳；惊避",
+      "wordForms": "原文词形：shyly",
+      "sentence": "said Annie shyly.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/shyly.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "惊跳；惊避",
+        "人；动物",
+        "绝对的；专制的"
+      ]
+    },
+    {
+      "id": "absolutely",
+      "word": "Absolutely",
+      "forms": [
+        "Absolutely"
+      ],
+      "tier": "core",
+      "phonetic": "/'æbsәlu:tli/",
+      "partOfSpeech": "adj.",
+      "meaning": "绝对的；专制的",
+      "wordForms": "原文词形：Absolutely",
+      "sentence": "Absolutely still.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/absolutely.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ely",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "绝对的；专制的",
+        "Synchronous Multimedia Integrate Language 同步多媒体集成语言",
+        "人；动物"
+      ]
+    },
+    {
+      "id": "moment",
+      "word": "moment",
+      "forms": [
+        "moment"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'mәumәnt/",
+      "partOfSpeech": "n.",
+      "meaning": "片刻；瞬间",
+      "wordForms": "原文词形：moment",
+      "sentence": "But only for a moment.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-09/moment.mp3"
+    }
+  ]
+}

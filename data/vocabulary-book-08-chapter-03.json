@@ -1,0 +1,481 @@
+{
+  "book": 8,
+  "chapter": 3,
+  "title": "Open Sesame!",
+  "words": [
+    {
+      "id": "button",
+      "word": "button",
+      "forms": [
+        "button"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'bʌtәn/",
+      "partOfSpeech": "n.",
+      "meaning": "钮扣；按钮",
+      "wordForms": "原文词形：button",
+      "sentence": "Beside the door was a button with the word OPEN on it.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-03/button.mp3"
+    },
+    {
+      "id": "hours",
+      "word": "hours",
+      "forms": [
+        "hours"
+      ],
+      "tier": "core",
+      "phonetic": "/auә/",
+      "partOfSpeech": "n.",
+      "meaning": "小时；钟头",
+      "wordForms": "原文词形：hours",
+      "sentence": "They have tanks, which provide air for two hours.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-03/hours.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "小时；钟头",
+        "双行道的；两路的",
+        "手套"
+      ]
+    },
+    {
+      "id": "spacesuit",
+      "word": "spacesuit",
+      "forms": [
+        "spacesuit"
+      ],
+      "tier": "core",
+      "phonetic": "",
+      "partOfSpeech": "n.",
+      "meaning": "太空衣",
+      "wordForms": "原文词形：spacesuit",
+      "sentence": "“Let’s try the spacesuit storeroom.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-03/spacesuit.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ui",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "太空衣",
+        "雪人",
+        "笨拙；粗陋"
+      ]
+    },
+    {
+      "id": "bulky",
+      "word": "Bulky",
+      "forms": [
+        "Bulky"
+      ],
+      "tier": "core",
+      "phonetic": "/'bʌlki/",
+      "partOfSpeech": "adj.",
+      "meaning": "庞大的",
+      "wordForms": "原文词形：Bulky",
+      "sentence": "Bulky white suits hung from hangers.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-03/bulky.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "庞大的",
+        "气塞；气闸",
+        "笨拙；粗陋"
+      ]
+    },
+    {
+      "id": "gloves",
+      "word": "gloves",
+      "forms": [
+        "gloves"
+      ],
+      "tier": "core",
+      "phonetic": "/glʌv/",
+      "partOfSpeech": "n.",
+      "meaning": "手套",
+      "wordForms": "原文词形：gloves",
+      "sentence": "Air tanks, helmets, gloves, and boots sat in neat rows on shelves.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-03/gloves.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "手套",
+        "雪人",
+        "太空衣"
+      ]
+    },
+    {
+      "id": "clumsily",
+      "word": "clumsily",
+      "forms": [
+        "clumsily"
+      ],
+      "tier": "core",
+      "phonetic": "/'klʌmzili/",
+      "partOfSpeech": "adv.",
+      "meaning": "笨拙；粗陋",
+      "wordForms": "原文词形：clumsily",
+      "sentence": "Jack and Annie moved clumsily around the room.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-03/clumsily.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "笨拙；粗陋",
+        "太空衣",
+        "庞大的"
+      ]
+    },
+    {
+      "id": "snowman",
+      "word": "snowman",
+      "forms": [
+        "snowman"
+      ],
+      "tier": "core",
+      "phonetic": "/'snәumæn/",
+      "partOfSpeech": "n.",
+      "meaning": "雪人",
+      "wordForms": "原文词形：snowman",
+      "sentence": "Jack felt like a fat snowman.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-03/snowman.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "雪人",
+        "手套",
+        "笨拙；粗陋"
+      ]
+    },
+    {
+      "id": "visor",
+      "word": "visor",
+      "forms": [
+        "visor"
+      ],
+      "tier": "core",
+      "phonetic": "/'vaizә/",
+      "partOfSpeech": "n.",
+      "meaning": "面甲；帽舌",
+      "wordForms": "原文词形：visor",
+      "sentence": "“Close your visor,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-03/visor.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "面甲；帽舌",
+        "笨拙；粗陋",
+        "小时；钟头"
+      ]
+    },
+    {
+      "id": "twoway",
+      "word": "two-way",
+      "forms": [
+        "two-way"
+      ],
+      "tier": "core",
+      "phonetic": "/'tu:'wei/",
+      "partOfSpeech": "adj.",
+      "meaning": "双行道的；两路的",
+      "wordForms": "原文词形：two-way",
+      "sentence": "“We have two-way radios inside our helmets.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-03/twoway.mp3",
+      "phonics": [
+        {
+          "letters": "tw",
+          "sound": "/tw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "双行道的；两路的",
+        "雪人",
+        "手套"
+      ]
+    },
+    {
+      "id": "airlock",
+      "word": "airlock",
+      "forms": [
+        "airlock"
+      ],
+      "tier": "core",
+      "phonetic": "",
+      "partOfSpeech": "n.",
+      "meaning": "气塞；气闸",
+      "wordForms": "原文词形：airlock",
+      "sentence": "They walked back to the airlock.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-03/airlock.mp3",
+      "phonics": [
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "气塞；气闸",
+        "小时；钟头",
+        "芝麻"
+      ]
+    },
+    {
+      "id": "sesame",
+      "word": "sesame",
+      "forms": [
+        "sesame"
+      ],
+      "tier": "core",
+      "phonetic": "/'sesәmi/",
+      "partOfSpeech": "n.",
+      "meaning": "芝麻",
+      "wordForms": "原文词形：sesame",
+      "sentence": "“Open sesame!”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-03/sesame.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "芝麻",
+        "气塞；气闸",
+        "小时；钟头"
+      ]
+    }
+  ]
+}

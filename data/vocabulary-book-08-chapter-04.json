@@ -1,0 +1,535 @@
+{
+  "book": 8,
+  "chapter": 4,
+  "title": "Moon Rabbits",
+  "words": [
+    {
+      "id": "dust",
+      "word": "dust",
+      "forms": [
+        "dust"
+      ],
+      "tier": "core",
+      "phonetic": "/dʌst/",
+      "partOfSpeech": "n.",
+      "meaning": "灰尘；尘埃",
+      "wordForms": "原文词形：dust",
+      "sentence": "He was standing in a layer of gray dust as fine as powder.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-04/dust.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "灰尘；尘埃",
+        "各处；到处",
+        "多虫的"
+      ]
+    },
+    {
+      "id": "everywhere",
+      "word": "everywhere",
+      "forms": [
+        "everywhere"
+      ],
+      "tier": "core",
+      "phonetic": "/'evrihwєә/",
+      "partOfSpeech": "adv.",
+      "meaning": "各处；到处",
+      "wordForms": "原文词形：everywhere",
+      "sentence": "Footprints were everywhere.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-04/everywhere.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "各处；到处",
+        "多虫的",
+        "地心引力；重力"
+      ]
+    },
+    {
+      "id": "surprise",
+      "word": "surprise",
+      "forms": [
+        "surprise"
+      ],
+      "tier": "core",
+      "phonetic": "/sә'praiz/",
+      "partOfSpeech": "n.",
+      "meaning": "惊奇；奇袭",
+      "wordForms": "原文词形：surprise",
+      "sentence": "To his surprise, it was as light as a feather!",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-04/surprise.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "惊奇；奇袭",
+        "地心引力；重力",
+        "兔子"
+      ]
+    },
+    {
+      "id": "feather",
+      "word": "feather",
+      "forms": [
+        "feather"
+      ],
+      "tier": "core",
+      "phonetic": "/'feðә/",
+      "partOfSpeech": "n.",
+      "meaning": "羽毛",
+      "wordForms": "原文词形：feather",
+      "sentence": "To his surprise, it was as light as a feather!",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-04/feather.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "羽毛",
+        "惊奇；奇袭",
+        "白痴"
+      ]
+    },
+    {
+      "id": "naturally",
+      "word": "naturally",
+      "forms": [
+        "naturally"
+      ],
+      "tier": "core",
+      "phonetic": "/'nætʃәrәli/",
+      "partOfSpeech": "n.",
+      "meaning": "白痴",
+      "wordForms": "原文词形：naturally",
+      "sentence": "So footprints will never wear away naturally, not even in a billion years.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-04/naturally.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "白痴",
+        "板条箱",
+        "各处；到处"
+      ]
+    },
+    {
+      "id": "earth",
+      "word": "Earth",
+      "forms": [
+        "Earth"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ә:θ/",
+      "partOfSpeech": "n.",
+      "meaning": "地球；泥土",
+      "wordForms": "原文词形：Earth",
+      "sentence": "Earth.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-04/earth.mp3"
+    },
+    {
+      "id": "rabbit",
+      "word": "rabbit",
+      "forms": [
+        "rabbit"
+      ],
+      "tier": "core",
+      "phonetic": "/'ræbit/",
+      "partOfSpeech": "n.",
+      "meaning": "兔子",
+      "wordForms": "原文词形：rabbit",
+      "sentence": "“I’m a moon rabbit,” she called.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-04/rabbit.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "兔子",
+        "羽毛",
+        "多虫的"
+      ]
+    },
+    {
+      "id": "gravity",
+      "word": "gravity",
+      "forms": [
+        "gravity"
+      ],
+      "tier": "core",
+      "phonetic": "/'græviti/",
+      "partOfSpeech": "n.",
+      "meaning": "地心引力；重力",
+      "wordForms": "原文词形：gravity",
+      "sentence": "He turned a page and read:A person weighs less on the moon because of the moon’s low gravity and lack of air.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-04/gravity.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "地心引力；重力",
+        "多虫的",
+        "羽毛"
+      ]
+    },
+    {
+      "id": "crater",
+      "word": "crater",
+      "forms": [
+        "crater"
+      ],
+      "tier": "core",
+      "phonetic": "/'kreitә/",
+      "partOfSpeech": "n.",
+      "meaning": "板条箱",
+      "wordForms": "原文词形：crater",
+      "sentence": "The book had landed at the edge of a shallow crater.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-04/crater.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "板条箱",
+        "各处；到处",
+        "惊奇；奇袭"
+      ]
+    },
+    {
+      "id": "offbalance",
+      "word": "off-balance",
+      "forms": [
+        "off-balance"
+      ],
+      "tier": "core",
+      "phonetic": "",
+      "partOfSpeech": "adj.",
+      "meaning": "不平衡的",
+      "wordForms": "原文词形：off-balance",
+      "sentence": "But he was off-balance.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-04/offbalance.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "不平衡的",
+        "板条箱",
+        "白痴"
+      ]
+    },
+    {
+      "id": "half",
+      "word": "half",
+      "forms": [
+        "half"
+      ],
+      "tier": "recognition",
+      "phonetic": "/hɑ:f/",
+      "partOfSpeech": "n.",
+      "meaning": "一半；半场",
+      "wordForms": "原文词形：half",
+      "sentence": "She half floated, half walked.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-04/half.mp3"
+    },
+    {
+      "id": "buggy",
+      "word": "buggy",
+      "forms": [
+        "buggy"
+      ],
+      "tier": "core",
+      "phonetic": "/'bʌgi/",
+      "partOfSpeech": "adj.",
+      "meaning": "多虫的",
+      "wordForms": "原文词形：buggy",
+      "sentence": "“A moon buggy!”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-04/buggy.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "多虫的",
+        "地心引力；重力",
+        "兔子"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "book": 8,
+  "chapter": 7,
+  "title": "The Moon Man",
+  "words": [
+    {
+      "id": "peace",
+      "word": "peace",
+      "forms": [
+        "peace"
+      ],
+      "tier": "core",
+      "phonetic": "/pi:s/",
+      "partOfSpeech": "n.",
+      "meaning": "和平；和约",
+      "wordForms": "原文词形：peace",
+      "sentence": "“We come in peace.”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-07/peace.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "和平；和约",
+        "航天专家；宇航员",
+        "手；爪"
+      ]
+    },
+    {
+      "id": "hand",
+      "word": "hand",
+      "forms": [
+        "hand"
+      ],
+      "tier": "core",
+      "phonetic": "/hænd/",
+      "partOfSpeech": "n.",
+      "meaning": "手；爪",
+      "wordForms": "原文词形：hand",
+      "sentence": "She grabbed his hand and pulled him up.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-07/hand.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "手；爪",
+        "电冰箱；冷藏库",
+        "标志；分数"
+      ]
+    },
+    {
+      "id": "visor",
+      "word": "visor",
+      "forms": [
+        "visor"
+      ],
+      "tier": "core",
+      "phonetic": "/'vaizә/",
+      "partOfSpeech": "n.",
+      "meaning": "面甲；帽舌",
+      "wordForms": "原文词形：visor",
+      "sentence": "His face was hidden by a metal visor.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-07/visor.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "面甲；帽舌",
+        "航天专家；宇航员",
+        "低劣的；卑贱的"
+      ]
+    },
+    {
+      "id": "spaceman",
+      "word": "spaceman",
+      "forms": [
+        "spaceman"
+      ],
+      "tier": "core",
+      "phonetic": "/'speismæn/",
+      "partOfSpeech": "n.",
+      "meaning": "航天专家；宇航员",
+      "wordForms": "原文词形：spaceman",
+      "sentence": "He looked like a spaceman.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-07/spaceman.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "航天专家；宇航员",
+        "面甲；帽舌",
+        "标志；分数"
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "word": "refrigerator",
+      "forms": [
+        "refrigerator"
+      ],
+      "tier": "core",
+      "phonetic": "/ri'fridʒәreitә/",
+      "partOfSpeech": "n.",
+      "meaning": "电冰箱；冷藏库",
+      "wordForms": "原文词形：refrigerator",
+      "sentence": "It was as big as a refrigerator.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-07/refrigerator.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "电冰箱；冷藏库",
+        "航天专家；宇航员",
+        "mini-spaceship"
+      ]
+    },
+    {
+      "id": "jet",
+      "word": "jet",
+      "forms": [
+        "jet"
+      ],
+      "tier": "recognition",
+      "phonetic": "/dʒet/",
+      "partOfSpeech": "n.",
+      "meaning": "喷射流；喷嘴",
+      "wordForms": "原文词形：jet",
+      "sentence": "“That’s a jet pack!”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-07/jet.mp3"
+    },
+    {
+      "id": "minispaceship",
+      "word": "mini-spaceship",
+      "forms": [
+        "mini-spaceship"
+      ],
+      "tier": "core",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "meaning": "mini-spaceship",
+      "wordForms": "原文词形：mini-spaceship",
+      "sentence": "It’s like a mini-spaceship.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-07/minispaceship.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "mini-spaceship",
+        "星；恒星",
+        "低劣的；卑贱的"
+      ]
+    },
+    {
+      "id": "carefully",
+      "word": "carefully",
+      "forms": [
+        "carefully"
+      ],
+      "tier": "core",
+      "phonetic": "/'kєәfuli/",
+      "partOfSpeech": "adj.",
+      "meaning": "小心的；谨慎的",
+      "wordForms": "原文词形：carefully",
+      "sentence": "He was writing something very carefully.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-07/carefully.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "小心的；谨慎的",
+        "mini-spaceship",
+        "低劣的；卑贱的"
+      ]
+    },
+    {
+      "id": "stared",
+      "word": "stared",
+      "forms": [
+        "stared"
+      ],
+      "tier": "core",
+      "phonetic": "/stєә/",
+      "partOfSpeech": "n.",
+      "meaning": "星；恒星",
+      "wordForms": "原文词形：stared",
+      "sentence": "Jack and Annie stared at the marks.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-07/stared.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "星；恒星",
+        "低劣的；卑贱的",
+        "航天专家；宇航员"
+      ]
+    },
+    {
+      "id": "marks",
+      "word": "marks",
+      "forms": [
+        "marks"
+      ],
+      "tier": "core",
+      "phonetic": "/mɑ:k/",
+      "partOfSpeech": "n.",
+      "meaning": "标志；分数",
+      "wordForms": "原文词形：marks",
+      "sentence": "Jack and Annie stared at the marks.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-07/marks.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "标志；分数",
+        "小心的；谨慎的",
+        "低劣的；卑贱的"
+      ]
+    },
+    {
+      "id": "means",
+      "word": "means",
+      "forms": [
+        "means"
+      ],
+      "tier": "core",
+      "phonetic": "/mi:nz/",
+      "partOfSpeech": "adj.",
+      "meaning": "低劣的；卑贱的",
+      "wordForms": "原文词形：means",
+      "sentence": "“Let’s ask him what his map means,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-07/means.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "低劣的；卑贱的",
+        "航天专家；宇航员",
+        "小心的；谨慎的"
+      ]
+    }
+  ]
+}

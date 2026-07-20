@@ -1,0 +1,524 @@
+{
+  "book": 8,
+  "chapter": 8,
+  "title": "One Star to Another",
+  "words": [
+    {
+      "id": "hurry",
+      "word": "hurry",
+      "forms": [
+        "hurry"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'hʌri/",
+      "partOfSpeech": "n.",
+      "meaning": "匆忙；急忙",
+      "wordForms": "原文词形：hurry",
+      "sentence": "“Yeah, we’d better hurry back.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/hurry.mp3"
+    },
+    {
+      "id": "toward",
+      "word": "toward",
+      "forms": [
+        "toward"
+      ],
+      "tier": "core",
+      "phonetic": "/tә'wɒ:d/",
+      "partOfSpeech": "prep.",
+      "meaning": "向；对于",
+      "wordForms": "原文词形：toward",
+      "sentence": "He and Annie took long, floating steps toward the moon base.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/toward.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "向；对于",
+        "在水中的",
+        "急匆匆地走"
+      ]
+    },
+    {
+      "id": "underwater",
+      "word": "underwater",
+      "forms": [
+        "underwater"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʌndә'wɒ:tә/",
+      "partOfSpeech": "adj.",
+      "meaning": "在水中的",
+      "wordForms": "原文词形：underwater",
+      "sentence": "Jack held his breath as if he were underwater.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/underwater.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "在水中的",
+        "庞大的",
+        "急匆匆地走"
+      ]
+    },
+    {
+      "id": "unlocked",
+      "word": "unlocked",
+      "forms": [
+        "unlocked"
+      ],
+      "tier": "core",
+      "phonetic": "/ˌʌnˈlɒkt/",
+      "partOfSpeech": "v.",
+      "meaning": "开...的锁；开启",
+      "wordForms": "原文词形：unlocked",
+      "sentence": "He and Annie unlocked each other’s helmets, gloves, and boots, and pulled everything off.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/unlocked.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "开...的锁；开启",
+        "[计] 管理信息系统；医学信息系统",
+        "向；对于"
+      ]
+    },
+    {
+      "id": "bulky",
+      "word": "bulky",
+      "forms": [
+        "bulky"
+      ],
+      "tier": "core",
+      "phonetic": "/'bʌlki/",
+      "partOfSpeech": "adj.",
+      "meaning": "庞大的",
+      "wordForms": "原文词形：bulky",
+      "sentence": "Then they stepped out of their bulky suits.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/bulky.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "庞大的",
+        "向；对于",
+        "在水中的"
+      ]
+    },
+    {
+      "id": "soon",
+      "word": "Soon",
+      "forms": [
+        "Soon"
+      ],
+      "tier": "recognition",
+      "phonetic": "/su:n/",
+      "partOfSpeech": "adv.",
+      "meaning": "不久；早",
+      "wordForms": "原文词形：Soon",
+      "sentence": "Soon they’d be heading home.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/soon.mp3"
+    },
+    {
+      "id": "missed",
+      "word": "missed",
+      "forms": [
+        "missed"
+      ],
+      "tier": "core",
+      "phonetic": "/mis/",
+      "partOfSpeech": "n.",
+      "meaning": "[计] 管理信息系统；医学信息系统",
+      "wordForms": "原文词形：missed",
+      "sentence": "“We missed you!”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/missed.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "[计] 管理信息系统；医学信息系统",
+        "庞大的",
+        "星座；荟萃"
+      ]
+    },
+    {
+      "id": "heart",
+      "word": "heart",
+      "forms": [
+        "heart"
+      ],
+      "tier": "recognition",
+      "phonetic": "/hɑ:t/",
+      "partOfSpeech": "n.",
+      "meaning": "心；心脏",
+      "wordForms": "原文词形：heart",
+      "sentence": "Jack’s heart sank.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/heart.mp3"
+    },
+    {
+      "id": "scurried",
+      "word": "scurried",
+      "forms": [
+        "scurried"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈskɜ:ri:d/",
+      "partOfSpeech": "v.",
+      "meaning": "急匆匆地走",
+      "wordForms": "原文词形：scurried",
+      "sentence": "Peanut jumped out of Annie’s arms and scurried back to the letter M.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/scurried.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "急匆匆地走",
+        "向；对于",
+        "[计] 管理信息系统；医学信息系统"
+      ]
+    },
+    {
+      "id": "constellation",
+      "word": "constellation",
+      "forms": [
+        "constellation"
+      ],
+      "tier": "core",
+      "phonetic": "/.kɒnstә'leiʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "星座；荟萃",
+      "wordForms": "原文词形：constellation",
+      "sentence": "“You know how you draw a constellation?”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/constellation.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tion",
+          "sound": "/ʃən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "星座；荟萃",
+        "圣歌；赞美诗",
+        "庞大的"
+      ]
+    },
+    {
+      "id": "chanted",
+      "word": "chanted",
+      "forms": [
+        "chanted"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃɑ:ntid/",
+      "partOfSpeech": "n.",
+      "meaning": "圣歌；赞美诗",
+      "wordForms": "原文词形：chanted",
+      "sentence": "Together, they chanted:“Moonstone, mango, mammoth bone, mouse.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/chanted.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "圣歌；赞美诗",
+        "向；对于",
+        "庞大的"
+      ]
+    },
+    {
+      "id": "blinding",
+      "word": "blinding",
+      "forms": [
+        "blinding"
+      ],
+      "tier": "core",
+      "phonetic": "/'blaindiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "蒙蔽物；窗帘",
+      "wordForms": "原文词形：blinding",
+      "sentence": "The brightness was blinding and whirling.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/blinding.mp3",
+      "phonics": [
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "蒙蔽物；窗帘",
+        "星座；荟萃",
+        "庞大的"
+      ]
+    },
+    {
+      "id": "whirling",
+      "word": "whirling",
+      "forms": [
+        "whirling"
+      ],
+      "tier": "core",
+      "phonetic": "/hwә:l/",
+      "partOfSpeech": "n.",
+      "meaning": "回旋；旋转",
+      "wordForms": "原文词形：whirling",
+      "sentence": "The brightness was blinding and whirling.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-08/whirling.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "回旋；旋转",
+        "在水中的",
+        "[计] 管理信息系统；医学信息系统"
+      ]
+    }
+  ]
+}

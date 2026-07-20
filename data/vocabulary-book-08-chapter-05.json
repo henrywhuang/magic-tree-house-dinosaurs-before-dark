@@ -1,0 +1,533 @@
+{
+  "book": 8,
+  "chapter": 5,
+  "title": "Hang On!",
+  "words": [
+    {
+      "id": "drove",
+      "word": "drove",
+      "forms": [
+        "drove"
+      ],
+      "tier": "core",
+      "phonetic": "/drәuv/",
+      "partOfSpeech": "n.",
+      "meaning": "畜群",
+      "wordForms": "原文词形：drove",
+      "sentence": "Annie drove the moon buggy over bumps and hollows.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/drove.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "畜群",
+        "撞击；肿块",
+        "元；雄鹿"
+      ]
+    },
+    {
+      "id": "bumps",
+      "word": "bumps",
+      "forms": [
+        "bumps"
+      ],
+      "tier": "core",
+      "phonetic": "/bʌmps/",
+      "partOfSpeech": "n.",
+      "meaning": "撞击；肿块",
+      "wordForms": "原文词形：bumps",
+      "sentence": "Annie drove the moon buggy over bumps and hollows.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/bumps.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "撞击；肿块",
+        "不育的；贫瘠的",
+        "野马"
+      ]
+    },
+    {
+      "id": "hollows",
+      "word": "hollows",
+      "forms": [
+        "hollows"
+      ],
+      "tier": "core",
+      "phonetic": "/'hɒlәu/",
+      "partOfSpeech": "n.",
+      "meaning": "洞；窟窿",
+      "wordForms": "原文词形：hollows",
+      "sentence": "Annie drove the moon buggy over bumps and hollows.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/hollows.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "洞；窟窿",
+        "畜群",
+        "人类；男性"
+      ]
+    },
+    {
+      "id": "bucked",
+      "word": "bucked",
+      "forms": [
+        "bucked"
+      ],
+      "tier": "core",
+      "phonetic": "/bʌkt/",
+      "partOfSpeech": "n.",
+      "meaning": "元；雄鹿",
+      "wordForms": "原文词形：bucked",
+      "sentence": "It bucked like a bronco.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/bucked.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "元；雄鹿",
+        "畜群",
+        "人类；男性"
+      ]
+    },
+    {
+      "id": "bronco",
+      "word": "bronco",
+      "forms": [
+        "bronco"
+      ],
+      "tier": "core",
+      "phonetic": "/'brɒŋkәu/",
+      "partOfSpeech": "n.",
+      "meaning": "野马",
+      "wordForms": "原文词形：bronco",
+      "sentence": "It bucked like a bronco.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/bronco.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "野马",
+        "元；雄鹿",
+        "撞击；肿块"
+      ]
+    },
+    {
+      "id": "brake",
+      "word": "brake",
+      "forms": [
+        "brake"
+      ],
+      "tier": "recognition",
+      "phonetic": "/breik/",
+      "partOfSpeech": "n.",
+      "meaning": "刹车；阻碍",
+      "wordForms": "原文词形：brake",
+      "sentence": "Annie pressed on the brake.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/brake.mp3"
+    },
+    {
+      "id": "barren",
+      "word": "barren",
+      "forms": [
+        "barren"
+      ],
+      "tier": "core",
+      "phonetic": "/'bærәn/",
+      "partOfSpeech": "adj.",
+      "meaning": "不育的；贫瘠的",
+      "wordForms": "原文词形：barren",
+      "sentence": "He had never been to such a colorless, barren place.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/barren.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "不育的；贫瘠的",
+        "野马",
+        "晕眩的；眼花缭乱的"
+      ]
+    },
+    {
+      "id": "american",
+      "word": "American",
+      "forms": [
+        "American"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ә'merikәn/",
+      "partOfSpeech": "n.",
+      "meaning": "美国人",
+      "wordForms": "原文词形：American",
+      "sentence": "Only giant gray rocks and craters—and an American flag.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/american.mp3"
+    },
+    {
+      "id": "telescope",
+      "word": "telescope",
+      "forms": [
+        "telescope"
+      ],
+      "tier": "core",
+      "phonetic": "/'teliskәup/",
+      "partOfSpeech": "n.",
+      "meaning": "望远镜",
+      "wordForms": "原文词形：telescope",
+      "sentence": "“And look—a telescope!”",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/telescope.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "望远镜",
+        "撞击；肿块",
+        "元；雄鹿"
+      ]
+    },
+    {
+      "id": "mankind",
+      "word": "MANKIND",
+      "forms": [
+        "MANKIND"
+      ],
+      "tier": "core",
+      "phonetic": "/mæn'kaind/",
+      "partOfSpeech": "n.",
+      "meaning": "人类；男性",
+      "wordForms": "原文词形：MANKIND",
+      "sentence": "WE CAME IN PEACEFOR ALL MANKIND.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/mankind.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "人类；男性",
+        "望远镜",
+        "元；雄鹿"
+      ]
+    },
+    {
+      "id": "message",
+      "word": "message",
+      "forms": [
+        "message"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'mesidʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "消息；通讯",
+      "wordForms": "原文词形：message",
+      "sentence": "“That’s a good message,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/message.mp3"
+    },
+    {
+      "id": "children",
+      "word": "children",
+      "forms": [
+        "children"
+      ],
+      "tier": "core",
+      "phonetic": "/'tʃildrәn/",
+      "partOfSpeech": "n.",
+      "meaning": "孩子；孩子们",
+      "wordForms": "原文词形：children",
+      "sentence": "We came in peace for all children.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/children.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "孩子；孩子们",
+        "元；雄鹿",
+        "洞；窟窿"
+      ]
+    },
+    {
+      "id": "forever",
+      "word": "forever",
+      "forms": [
+        "forever"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fә'revә/",
+      "partOfSpeech": "adv.",
+      "meaning": "永远",
+      "wordForms": "原文词形：forever",
+      "sentence": "It would be there forever, unless someone moved it.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/forever.mp3"
+    },
+    {
+      "id": "dizzy",
+      "word": "dizzy",
+      "forms": [
+        "dizzy"
+      ],
+      "tier": "core",
+      "phonetic": "/'dizi/",
+      "partOfSpeech": "adj.",
+      "meaning": "晕眩的；眼花缭乱的",
+      "wordForms": "原文词形：dizzy",
+      "sentence": "Thinking of “forever” made Jack feel dizzy.",
+      "sentenceAudio": "assets/audio/sentences/book-08-chapter-05/dizzy.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "晕眩的；眼花缭乱的",
+        "撞击；肿块",
+        "望远镜"
+      ]
+    }
+  ]
+}
