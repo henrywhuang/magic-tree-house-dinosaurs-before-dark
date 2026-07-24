@@ -1,0 +1,448 @@
+{
+  "book": 10,
+  "chapter": 6,
+  "title": "Split the Wind",
+  "words": [
+    {
+      "id": "rise",
+      "word": "rise",
+      "forms": [
+        "rise"
+      ],
+      "tier": "core",
+      "phonetic": "/raiz/",
+      "partOfSpeech": "n.",
+      "meaning": "高地；斜坡",
+      "wordForms": "原文词形：rise",
+      "sentence": "The sky was dark by the time they got to the rise.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-06/rise.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "高地；斜坡",
+        "营地；宿营地",
+        "一丛；一群"
+      ]
+    },
+    {
+      "id": "halt",
+      "word": "halt",
+      "forms": [
+        "halt"
+      ],
+      "tier": "core",
+      "phonetic": "/hɒ:lt/",
+      "partOfSpeech": "n.",
+      "meaning": "停止；停下",
+      "wordForms": "原文词形：halt",
+      "sentence": "Dusty slowed to a halt.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-06/halt.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lt",
+          "sound": "/lt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "停止；停下",
+        "高地；斜坡",
+        "坚定的；有力的"
+      ]
+    },
+    {
+      "id": "voice",
+      "word": "voice",
+      "forms": [
+        "voice"
+      ],
+      "tier": "core",
+      "phonetic": "/vɒis/",
+      "partOfSpeech": "n.",
+      "meaning": "声音；嗓音",
+      "wordForms": "原文词形：voice",
+      "sentence": "“They’re camped down there,” Slim said in a low voice.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-06/voice.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oi",
+          "sound": "/ɔɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "声音；嗓音",
+        "机会；时机",
+        "停止；停下"
+      ]
+    },
+    {
+      "id": "campfire",
+      "word": "campfire",
+      "forms": [
+        "campfire"
+      ],
+      "tier": "core",
+      "phonetic": "/'kæmpfaiә/",
+      "partOfSpeech": "n.",
+      "meaning": "营火；篝火",
+      "wordForms": "原文词形：campfire",
+      "sentence": "Jack saw a campfire at the bottom of the slope.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-06/campfire.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "营火；篝火",
+        "营地；宿营地",
+        "声音；嗓音"
+      ]
+    },
+    {
+      "id": "clump",
+      "word": "clump",
+      "forms": [
+        "clump"
+      ],
+      "tier": "core",
+      "phonetic": "/klʌmp/",
+      "partOfSpeech": "n.",
+      "meaning": "一丛；一群",
+      "wordForms": "原文词形：clump",
+      "sentence": "He saw the horses gathered in a dark clump.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-06/clump.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "一丛；一群",
+        "坚定的；有力的",
+        "声音；嗓音"
+      ]
+    },
+    {
+      "id": "camp",
+      "word": "camp",
+      "forms": [
+        "camp"
+      ],
+      "tier": "core",
+      "phonetic": "/kæmp/",
+      "partOfSpeech": "n.",
+      "meaning": "营地；宿营地",
+      "wordForms": "原文词形：camp",
+      "sentence": "“Shorty, you and I ride down near their camp,” said Slim.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-06/camp.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "营地；宿营地",
+        "一丛；一群",
+        "机会；时机"
+      ]
+    },
+    {
+      "id": "have",
+      "word": "have",
+      "forms": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "tier": "recognition",
+      "phonetic": "/hæv/",
+      "partOfSpeech": "v.",
+      "meaning": "进行；享受（have fun 玩得开心）",
+      "wordForms": "第三人称单数 has · 过去式 had · 现在分词 having",
+      "sentence": "“Have fun,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-06/have.mp3"
+    },
+    {
+      "id": "fun",
+      "word": "fun",
+      "forms": [
+        "fun"
+      ],
+      "tier": "recognition",
+      "phonetic": "/fʌn/",
+      "partOfSpeech": "n.",
+      "meaning": "乐趣；快乐",
+      "wordForms": "原文词形：fun",
+      "sentence": "“Have fun,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-06/fun.mp3"
+    },
+    {
+      "id": "firm",
+      "word": "firm",
+      "forms": [
+        "firm"
+      ],
+      "tier": "core",
+      "phonetic": "/fә:m/",
+      "partOfSpeech": "adj.",
+      "meaning": "坚定的；有力的",
+      "wordForms": "原文词形：firm",
+      "sentence": "He remembered: a soft hand, a firm voice.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-06/firm.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "坚定的；有力的",
+        "安好的；没问题的",
+        "声音；嗓音"
+      ]
+    },
+    {
+      "id": "sunny",
+      "word": "sunny",
+      "forms": [
+        "sunny"
+      ],
+      "tier": "core",
+      "phonetic": "/'sʌni/",
+      "partOfSpeech": "adj.",
+      "meaning": "乐观的；阳光般的",
+      "wordForms": "原文词形：sunny",
+      "sentence": "Jack remembered another rule: a sunny attitude.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-06/sunny.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "乐观的；阳光般的",
+        "声音；嗓音",
+        "安好的；没问题的"
+      ]
+    },
+    {
+      "id": "fine",
+      "word": "fine",
+      "forms": [
+        "fine"
+      ],
+      "tier": "core",
+      "phonetic": "/fain/",
+      "partOfSpeech": "adj.",
+      "meaning": "安好的；没问题的",
+      "wordForms": "原文词形：fine",
+      "sentence": "“Everything’s going to be fine.”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-06/fine.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "安好的；没问题的",
+        "高地；斜坡",
+        "机会；时机"
+      ]
+    },
+    {
+      "id": "chance",
+      "word": "chance",
+      "forms": [
+        "chance"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃæns. tʃɑ:ns/",
+      "partOfSpeech": "n.",
+      "meaning": "机会；时机",
+      "wordForms": "原文词形：chance",
+      "sentence": "He knew it might be his only chance to escape.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-06/chance.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "机会；时机",
+        "乐观的；阳光般的",
+        "高地；斜坡"
+      ]
+    }
+  ]
+}

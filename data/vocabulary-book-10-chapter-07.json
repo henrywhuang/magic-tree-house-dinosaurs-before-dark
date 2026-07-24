@@ -1,0 +1,382 @@
+{
+  "book": 10,
+  "chapter": 7,
+  "title": "Ghost Story",
+  "words": [
+    {
+      "id": "trusted",
+      "word": "trust",
+      "forms": [
+        "trust",
+        "trusts",
+        "trusted",
+        "trusting"
+      ],
+      "tier": "core",
+      "phonetic": "/trʌst/",
+      "partOfSpeech": "v.",
+      "meaning": "信任；相信",
+      "wordForms": "第三人称单数 trusts · 过去式 trusted · 现在分词 trusting",
+      "sentence": "But he trusted Dusty to follow the others.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-07/trusted.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "信任；相信",
+        "领头人；老板",
+        "脖子；颈部"
+      ]
+    },
+    {
+      "id": "howdy",
+      "word": "howdy",
+      "forms": [
+        "howdy",
+        "Howdy"
+      ],
+      "tier": "core",
+      "phonetic": "/'haudi/",
+      "partOfSpeech": "int.",
+      "meaning": "你好；嗨",
+      "wordForms": "原文词形：Howdy",
+      "sentence": "“Howdy!”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-07/howdy.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "你好；嗨",
+        "给马卸下马鞍",
+        "反复地（over and over）"
+      ]
+    },
+    {
+      "id": "boss",
+      "word": "boss",
+      "forms": [
+        "boss"
+      ],
+      "tier": "core",
+      "phonetic": "/bɒs/",
+      "partOfSpeech": "n.",
+      "meaning": "领头人；老板",
+      "wordForms": "原文词形：boss",
+      "sentence": "“Where we headed, boss?”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-07/boss.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "领头人；老板",
+        "反复地（over and over）",
+        "脖子；颈部"
+      ]
+    },
+    {
+      "id": "canyon",
+      "word": "canyon",
+      "forms": [
+        "canyon",
+        "Canyon"
+      ],
+      "tier": "core",
+      "phonetic": "/'kænjәn/",
+      "partOfSpeech": "n.",
+      "meaning": "峡谷",
+      "wordForms": "原文词形：Canyon",
+      "sentence": "“Blue Canyon,” said Slim.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-07/canyon.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "峡谷",
+        "领头人；老板",
+        "袋子；行囊"
+      ]
+    },
+    {
+      "id": "neck",
+      "word": "neck",
+      "forms": [
+        "neck"
+      ],
+      "tier": "core",
+      "phonetic": "/nek/",
+      "partOfSpeech": "n.",
+      "meaning": "脖子；颈部",
+      "wordForms": "原文词形：neck",
+      "sentence": "As Jack patted Dusty’s damp neck, he remembered the last two rules: praise and reward.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-07/neck.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "脖子；颈部",
+        "给马卸下马鞍",
+        "信任；相信"
+      ]
+    },
+    {
+      "id": "unsaddled",
+      "word": "unsaddle",
+      "forms": [
+        "unsaddle",
+        "unsaddles",
+        "unsaddled",
+        "unsaddling"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʌn'sædl/",
+      "partOfSpeech": "v.",
+      "meaning": "给马卸下马鞍",
+      "wordForms": "第三人称单数 unsaddles · 过去式 unsaddled · 现在分词 unsaddling",
+      "sentence": "Slim unsaddled Dusty, then handed Jack his saddle bags.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-07/unsaddled.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "给马卸下马鞍",
+        "信任；相信",
+        "峡谷"
+      ]
+    },
+    {
+      "id": "bags",
+      "word": "bag",
+      "forms": [
+        "bag",
+        "bags"
+      ],
+      "tier": "core",
+      "phonetic": "/bæg/",
+      "partOfSpeech": "n.",
+      "meaning": "袋子；行囊",
+      "wordForms": "原文词形：bags",
+      "sentence": "Slim unsaddled Dusty, then handed Jack his saddle bags.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-07/bags.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "袋子；行囊",
+        "脖子；颈部",
+        "你好；嗨"
+      ]
+    },
+    {
+      "id": "over",
+      "word": "over",
+      "forms": [
+        "over"
+      ],
+      "tier": "core",
+      "phonetic": "/'әuvә/",
+      "partOfSpeech": "adv.",
+      "meaning": "反复地（over and over）",
+      "wordForms": "原文词形：over",
+      "sentence": "He played ‘Red River Valley’ over and over.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-07/over.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "反复地（over and over）",
+        "峡谷",
+        "你好；嗨"
+      ]
+    },
+    {
+      "id": "and",
+      "word": "and",
+      "forms": [
+        "and"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ænd/",
+      "partOfSpeech": "conj.",
+      "meaning": "和；又（连接重复成分）",
+      "wordForms": "原文词形：and",
+      "sentence": "He played ‘Red River Valley’ over and over.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-07/and.mp3"
+    },
+    {
+      "id": "sad",
+      "word": "sad",
+      "forms": [
+        "sad"
+      ],
+      "tier": "recognition",
+      "phonetic": "/sæd/",
+      "partOfSpeech": "adj.",
+      "meaning": "悲伤的；伤心的",
+      "wordForms": "原文词形：sad",
+      "sentence": "It was the same sad song Jack and Annie had heard in the hotel.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-07/sad.mp3"
+    }
+  ]
+}

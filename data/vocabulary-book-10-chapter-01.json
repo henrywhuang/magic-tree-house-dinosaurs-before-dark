@@ -1,0 +1,253 @@
+{
+  "book": 10,
+  "chapter": 1,
+  "title": "How Wild?",
+  "words": [
+    {
+      "id": "porch",
+      "word": "porch",
+      "forms": [
+        "porch"
+      ],
+      "tier": "core",
+      "phonetic": "/pɒ:tʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "门廊；门厅",
+      "wordForms": "原文词形：porch",
+      "sentence": "Jack and Annie were sitting on the porch of their house.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-01/porch.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "门廊；门厅",
+        "大草原；草原",
+        "野生的；荒野的"
+      ]
+    },
+    {
+      "id": "feeling",
+      "word": "feeling",
+      "forms": [
+        "feeling"
+      ],
+      "tier": "core",
+      "phonetic": "/'fi:liŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "感觉；直觉",
+      "wordForms": "原文词形：feeling",
+      "sentence": "“I have a feeling we should check the woods again,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-01/feeling.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "感觉；直觉",
+        "准备好的",
+        "门廊；门厅"
+      ]
+    },
+    {
+      "id": "ready",
+      "word": "ready",
+      "forms": [
+        "ready"
+      ],
+      "tier": "core",
+      "phonetic": "/'redi/",
+      "partOfSpeech": "adj.",
+      "meaning": "准备好的",
+      "wordForms": "原文词形：ready",
+      "sentence": "“Dad said it would be ready soon.”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-01/ready.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "准备好的",
+        "感觉；直觉",
+        "野生的；荒野的"
+      ]
+    },
+    {
+      "id": "odd",
+      "word": "odd",
+      "forms": [
+        "odd"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ɒd/",
+      "partOfSpeech": "adj.",
+      "meaning": "奇怪的；古怪的",
+      "wordForms": "原文词形：odd",
+      "sentence": "“I have many odd friends.”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-01/odd.mp3"
+    },
+    {
+      "id": "west",
+      "word": "west",
+      "forms": [
+        "west",
+        "West"
+      ],
+      "tier": "core",
+      "phonetic": "/west/",
+      "partOfSpeech": "n.",
+      "meaning": "西部；西方",
+      "wordForms": "原文词形：West",
+      "sentence": "The title of the book was Days of the Wild West.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-01/west.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "西部；西方",
+        "野生的；荒野的",
+        "大草原；草原"
+      ]
+    },
+    {
+      "id": "prairie",
+      "word": "prairie",
+      "forms": [
+        "prairie"
+      ],
+      "tier": "core",
+      "phonetic": "/'prєәri/",
+      "partOfSpeech": "n.",
+      "meaning": "大草原；草原",
+      "wordForms": "原文词形：prairie",
+      "sentence": "On the cover was a picture of a western town on a prairie.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-01/prairie.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "大草原；草原",
+        "门廊；门厅",
+        "准备好的"
+      ]
+    },
+    {
+      "id": "wild",
+      "word": "wild",
+      "forms": [
+        "wild"
+      ],
+      "tier": "core",
+      "phonetic": "/waild/",
+      "partOfSpeech": "adj.",
+      "meaning": "野生的；荒野的",
+      "wordForms": "原文词形：wild",
+      "sentence": "Just how wild?",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-01/wild.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "野生的；荒野的",
+        "大草原；草原",
+        "准备好的"
+      ]
+    }
+  ]
+}

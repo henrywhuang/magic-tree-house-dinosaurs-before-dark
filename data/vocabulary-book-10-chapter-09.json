@@ -1,0 +1,309 @@
+{
+  "book": 10,
+  "chapter": 9,
+  "title": "Lonesome Luke",
+  "words": [
+    {
+      "id": "reached",
+      "word": "reach",
+      "forms": [
+        "reach",
+        "reaches",
+        "reached",
+        "reaching"
+      ],
+      "tier": "core",
+      "phonetic": "/ri:tʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "到达；抵达",
+      "wordForms": "第三人称单数 reaches · 过去式 reached · 现在分词 reaching",
+      "sentence": "The sun was low in the sky when they reached Rattlesnake Flats.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-09/reached.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "到达；抵达",
+        "矮的；短的",
+        "在里面；进入里面"
+      ]
+    },
+    {
+      "id": "sure",
+      "word": "sure",
+      "forms": [
+        "sure"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃuә/",
+      "partOfSpeech": "adj.",
+      "meaning": "确信的；确定的",
+      "wordForms": "原文词形：sure",
+      "sentence": "“You sure the stage is coming through here?”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-09/sure.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "确信的；确定的",
+        "到达；抵达",
+        "眨眼；使眼色"
+      ]
+    },
+    {
+      "id": "winked",
+      "word": "wink",
+      "forms": [
+        "wink",
+        "winks",
+        "winked",
+        "winking"
+      ],
+      "tier": "core",
+      "phonetic": "/wiŋk/",
+      "partOfSpeech": "v.",
+      "meaning": "眨眼；使眼色",
+      "wordForms": "第三人称单数 winks · 过去式 winked · 现在分词 winking",
+      "sentence": "He winked.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-09/winked.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "眨眼；使眼色",
+        "猛抖；啪地甩动",
+        "矮的；短的"
+      ]
+    },
+    {
+      "id": "short",
+      "word": "short",
+      "forms": [
+        "short"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃɒ:t/",
+      "partOfSpeech": "adj.",
+      "meaning": "矮的；短的",
+      "wordForms": "原文词形：short",
+      "sentence": "“You know, Shorty,” he said, “you might be short, but you’re mighty tall in the brains.”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-09/short.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "矮的；短的",
+        "眨眼；使眼色",
+        "猛抖；啪地甩动"
+      ]
+    },
+    {
+      "id": "snapped",
+      "word": "snap",
+      "forms": [
+        "snap",
+        "snaps",
+        "snapped",
+        "snapping"
+      ],
+      "tier": "core",
+      "phonetic": "/snæp/",
+      "partOfSpeech": "v.",
+      "meaning": "猛抖；啪地甩动",
+      "wordForms": "第三人称单数 snaps · 过去式 snapped · 现在分词 snapping",
+      "sentence": "Then he snapped his reins, and Dusty loped down the street.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-09/snapped.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "猛抖；啪地甩动",
+        "在里面；进入里面",
+        "矮的；短的"
+      ]
+    },
+    {
+      "id": "lonesome",
+      "word": "lonesome",
+      "forms": [
+        "lonesome",
+        "Lonesome"
+      ],
+      "tier": "core",
+      "phonetic": "/'lәunsәm/",
+      "partOfSpeech": "adj.",
+      "meaning": "孤独的；寂寞的",
+      "wordForms": "原文词形：Lonesome",
+      "sentence": "“Lonesome Luke!”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-09/lonesome.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "孤独的；寂寞的",
+        "到达；抵达",
+        "在里面；进入里面"
+      ]
+    },
+    {
+      "id": "inside",
+      "word": "inside",
+      "forms": [
+        "inside"
+      ],
+      "tier": "core",
+      "phonetic": "/'in'said/",
+      "partOfSpeech": "adv.",
+      "meaning": "在里面；进入里面",
+      "wordForms": "原文词形：inside",
+      "sentence": "They were out of breath when they got inside the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-09/inside.mp3",
+      "phonics": [
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "在里面；进入里面",
+        "到达；抵达",
+        "孤独的；寂寞的"
+      ]
+    }
+  ]
+}

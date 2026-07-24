@@ -1,0 +1,349 @@
+{
+  "book": 10,
+  "chapter": 2,
+  "title": "Rattlesnake Flats",
+  "words": [
+    {
+      "id": "lone",
+      "word": "lone",
+      "forms": [
+        "lone"
+      ],
+      "tier": "core",
+      "phonetic": "/lәun/",
+      "partOfSpeech": "adj.",
+      "meaning": "孤零零的；单独的",
+      "wordForms": "原文词形：lone",
+      "sentence": "The tree house had landed in a lone tree on a prairie.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-02/lone.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "孤零零的；单独的",
+        "僵硬的；不易弯曲的",
+        "商店；店铺"
+      ]
+    },
+    {
+      "id": "low",
+      "word": "low",
+      "forms": [
+        "low"
+      ],
+      "tier": "recognition",
+      "phonetic": "/lәu/",
+      "partOfSpeech": "adj.",
+      "meaning": "低的；低垂的",
+      "wordForms": "原文词形：low",
+      "sentence": "The sun was low in the sky.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-02/low.mp3"
+    },
+    {
+      "id": "town",
+      "word": "town",
+      "forms": [
+        "town"
+      ],
+      "tier": "core",
+      "phonetic": "/taun/",
+      "partOfSpeech": "n.",
+      "meaning": "城镇；小镇",
+      "wordForms": "原文词形：town",
+      "sentence": "Right in front of them was the town from the cover of the book.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-02/town.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "城镇；小镇",
+        "建筑物；房屋",
+        "阴森的；吓人的"
+      ]
+    },
+    {
+      "id": "spooky",
+      "word": "spooky",
+      "forms": [
+        "spooky"
+      ],
+      "tier": "core",
+      "phonetic": "/'spu:ki/",
+      "partOfSpeech": "adj.",
+      "meaning": "阴森的；吓人的",
+      "wordForms": "原文词形：spooky",
+      "sentence": "In real life it looked empty and spooky.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-02/spooky.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "阴森的；吓人的",
+        "商店；店铺",
+        "孤零零的；单独的"
+      ]
+    },
+    {
+      "id": "flats",
+      "word": "flat",
+      "forms": [
+        "flat",
+        "Flats"
+      ],
+      "tier": "core",
+      "phonetic": "/flæt/",
+      "partOfSpeech": "n.",
+      "meaning": "平地；平坦地区",
+      "wordForms": "原文词形：Flats",
+      "sentence": "He found a picture of the town and read the words beneath it out loud:In the 1870s, Rattlesnake Flats was a rest stop for the stagecoach that carried passengers from Santa Fe, New Mexico, to Fort Worth, Texas.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-02/flats.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "平地；平坦地区",
+        "阴森的；吓人的",
+        "建筑物；房屋"
+      ]
+    },
+    {
+      "id": "store",
+      "word": "store",
+      "forms": [
+        "store"
+      ],
+      "tier": "core",
+      "phonetic": "/stɒ:/",
+      "partOfSpeech": "n.",
+      "meaning": "商店；店铺",
+      "wordForms": "原文词形：store",
+      "sentence": "“Look, a store,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-02/store.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "商店；店铺",
+        "孤零零的；单独的",
+        "阴森的；吓人的"
+      ]
+    },
+    {
+      "id": "building",
+      "word": "building",
+      "forms": [
+        "building"
+      ],
+      "tier": "core",
+      "phonetic": "/'bildiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "建筑物；房屋",
+      "wordForms": "原文词形：building",
+      "sentence": "She pointed to a building.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-02/building.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ui",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "建筑物；房屋",
+        "商店；店铺",
+        "僵硬的；不易弯曲的"
+      ]
+    },
+    {
+      "id": "dusty",
+      "word": "dusty",
+      "forms": [
+        "dusty"
+      ],
+      "tier": "core",
+      "phonetic": "/'dʌsti/",
+      "partOfSpeech": "adj.",
+      "meaning": "布满灰尘的",
+      "wordForms": "原文词形：dusty",
+      "sentence": "“It’s too dusty,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-02/dusty.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "布满灰尘的",
+        "商店；店铺",
+        "孤零零的；单独的"
+      ]
+    },
+    {
+      "id": "hat",
+      "word": "hat",
+      "forms": [
+        "hat"
+      ],
+      "tier": "recognition",
+      "phonetic": "/hæt/",
+      "partOfSpeech": "n.",
+      "meaning": "帽子",
+      "wordForms": "原文词形：hat",
+      "sentence": "Jack blew on his hat.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-02/hat.mp3"
+    },
+    {
+      "id": "stiff",
+      "word": "stiff",
+      "forms": [
+        "stiff"
+      ],
+      "tier": "core",
+      "phonetic": "/stif/",
+      "partOfSpeech": "adj.",
+      "meaning": "僵硬的；不易弯曲的",
+      "wordForms": "原文词形：stiff",
+      "sentence": "The boots were really stiff.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-02/stiff.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "僵硬的；不易弯曲的",
+        "布满灰尘的",
+        "建筑物；房屋"
+      ]
+    }
+  ]
+}

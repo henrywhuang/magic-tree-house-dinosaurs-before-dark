@@ -1,0 +1,445 @@
+{
+  "book": 10,
+  "chapter": 5,
+  "title": "Slim",
+  "words": [
+    {
+      "id": "thieves",
+      "word": "thief",
+      "forms": [
+        "thief",
+        "thieves"
+      ],
+      "tier": "core",
+      "phonetic": "/θi:f/",
+      "partOfSpeech": "n.",
+      "meaning": "小偷；盗贼",
+      "wordForms": "原文词形：thieves",
+      "sentence": "“We’re not horse thieves!”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-05/thieves.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "小偷；盗贼",
+        "绰号；昵称",
+        "驿站马车；公共马车"
+      ]
+    },
+    {
+      "id": "rustlers",
+      "word": "rustler",
+      "forms": [
+        "rustler",
+        "rustlers"
+      ],
+      "tier": "core",
+      "phonetic": "/'rʌslә/",
+      "partOfSpeech": "n.",
+      "meaning": "偷牛马贼",
+      "wordForms": "原文词形：rustlers",
+      "sentence": "“Yup, must be the rustlers that stole my last five mustangs,” the cowboy said.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-05/rustlers.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "偷牛马贼",
+        "瘦的；苗条的",
+        "驿站马车；公共马车"
+      ]
+    },
+    {
+      "id": "stole",
+      "word": "steal",
+      "forms": [
+        "steal",
+        "steals",
+        "stole",
+        "stealing"
+      ],
+      "tier": "core",
+      "phonetic": "/sti:l/",
+      "partOfSpeech": "v.",
+      "meaning": "偷走；盗取",
+      "wordForms": "第三人称单数 steals · 过去式 stole · 现在分词 stealing",
+      "sentence": "“Yup, must be the rustlers that stole my last five mustangs,” the cowboy said.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-05/stole.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "偷走；盗取",
+        "勇敢的",
+        "绰号；昵称"
+      ]
+    },
+    {
+      "id": "brave",
+      "word": "brave",
+      "forms": [
+        "brave"
+      ],
+      "tier": "core",
+      "phonetic": "/breiv/",
+      "partOfSpeech": "adj.",
+      "meaning": "勇敢的",
+      "wordForms": "原文词形：brave",
+      "sentence": "“Well, you’re pretty brave to try and rescue him, Smiley,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-05/brave.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "勇敢的",
+        "偷牛马贼",
+        "绰号；昵称"
+      ]
+    },
+    {
+      "id": "throat",
+      "word": "throat",
+      "forms": [
+        "throat"
+      ],
+      "tier": "core",
+      "phonetic": "/θrәut/",
+      "partOfSpeech": "n.",
+      "meaning": "喉咙；咽喉",
+      "wordForms": "原文词形：throat",
+      "sentence": "Jack cleared his throat.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-05/throat.mp3",
+      "phonics": [
+        {
+          "letters": "thr",
+          "sound": "/θr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "喉咙；咽喉",
+        "勇敢的",
+        "瘦的；苗条的"
+      ]
+    },
+    {
+      "id": "nickname",
+      "word": "nickname",
+      "forms": [
+        "nickname"
+      ],
+      "tier": "core",
+      "phonetic": "/'nikneim/",
+      "partOfSpeech": "n.",
+      "meaning": "绰号；昵称",
+      "wordForms": "原文词形：nickname",
+      "sentence": "“Every cowpoke’s got to have a nickname,” said the cowboy.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-05/nickname.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "绰号；昵称",
+        "名字；姓名",
+        "偷走；盗取"
+      ]
+    },
+    {
+      "id": "name",
+      "word": "name",
+      "forms": [
+        "name"
+      ],
+      "tier": "core",
+      "phonetic": "/neim/",
+      "partOfSpeech": "n.",
+      "meaning": "名字；姓名",
+      "wordForms": "原文词形：name",
+      "sentence": "“My name is Slim Cooley.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-05/name.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "名字；姓名",
+        "驿站马车；公共马车",
+        "小偷；盗贼"
+      ]
+    },
+    {
+      "id": "slim",
+      "word": "slim",
+      "forms": [
+        "slim"
+      ],
+      "tier": "core",
+      "phonetic": "/slim/",
+      "partOfSpeech": "adj.",
+      "meaning": "瘦的；苗条的",
+      "wordForms": "原文词形：slim",
+      "sentence": "Slim was slim.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-05/slim.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "瘦的；苗条的",
+        "上下颠簸；跳动",
+        "驿站马车；公共马车"
+      ]
+    },
+    {
+      "id": "stagecoach",
+      "word": "stagecoach",
+      "forms": [
+        "stagecoach"
+      ],
+      "tier": "core",
+      "phonetic": "/'steidʒkәutʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "驿站马车；公共马车",
+      "wordForms": "原文词形：stagecoach",
+      "sentence": "the stagecoach,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-05/stagecoach.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "驿站马车；公共马车",
+        "偷走；盗取",
+        "勇敢的"
+      ]
+    },
+    {
+      "id": "bounced",
+      "word": "bounce",
+      "forms": [
+        "bounce",
+        "bounces",
+        "bounced",
+        "bouncing"
+      ],
+      "tier": "core",
+      "phonetic": "/bauns/",
+      "partOfSpeech": "v.",
+      "meaning": "上下颠簸；跳动",
+      "wordForms": "第三人称单数 bounces · 过去式 bounced · 现在分词 bouncing",
+      "sentence": "Jack bounced up and down.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-05/bounced.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "上下颠簸；跳动",
+        "瘦的；苗条的",
+        "驿站马车；公共马车"
+      ]
+    }
+  ]
+}

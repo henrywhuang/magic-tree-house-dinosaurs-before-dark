@@ -1,0 +1,425 @@
+{
+  "book": 10,
+  "chapter": 8,
+  "title": "Who Am I?",
+  "words": [
+    {
+      "id": "drinking",
+      "word": "drink",
+      "forms": [
+        "drink",
+        "drinks",
+        "drank",
+        "drinking"
+      ],
+      "tier": "core",
+      "phonetic": "/driŋk/",
+      "partOfSpeech": "v.",
+      "meaning": "喝；饮用",
+      "wordForms": "第三人称单数 drinks · 过去式 drank · 现在分词 drinking",
+      "sentence": "Slim and Annie were sitting by a fire, drinking from tin cups.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-08/drinking.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "喝；饮用",
+        "苦的；有苦味的",
+        "向南；朝南"
+      ]
+    },
+    {
+      "id": "coffee",
+      "word": "coffee",
+      "forms": [
+        "coffee",
+        "Coffee"
+      ],
+      "tier": "core",
+      "phonetic": "/'kɒfi/",
+      "partOfSpeech": "n.",
+      "meaning": "咖啡",
+      "wordForms": "原文词形：Coffee",
+      "sentence": "“Coffee?",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-08/coffee.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "咖啡",
+        "回声；回音",
+        "待着；停留"
+      ]
+    },
+    {
+      "id": "biscuit",
+      "word": "biscuit",
+      "forms": [
+        "biscuit",
+        "Biscuit"
+      ],
+      "tier": "core",
+      "phonetic": "/'biskit/",
+      "partOfSpeech": "n.",
+      "meaning": "饼干",
+      "wordForms": "原文词形：Biscuit",
+      "sentence": "Biscuit?”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-08/biscuit.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ui",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "饼干",
+        "待着；停留",
+        "作家；作者"
+      ]
+    },
+    {
+      "id": "canteen",
+      "word": "canteen",
+      "forms": [
+        "canteen"
+      ],
+      "tier": "core",
+      "phonetic": "/kæn'ti:n/",
+      "partOfSpeech": "n.",
+      "meaning": "水壶；军用水壶",
+      "wordForms": "原文词形：canteen",
+      "sentence": "“A cowboy always carries biscuits and a canteen of coffee,” said Slim.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-08/canteen.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "水壶；军用水壶",
+        "回声；回音",
+        "作家；作者"
+      ]
+    },
+    {
+      "id": "bitter",
+      "word": "bitter",
+      "forms": [
+        "bitter"
+      ],
+      "tier": "core",
+      "phonetic": "/'bitә/",
+      "partOfSpeech": "adj.",
+      "meaning": "苦的；有苦味的",
+      "wordForms": "原文词形：bitter",
+      "sentence": "“And bitter as muddy river water.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-08/bitter.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "苦的；有苦味的",
+        "向南；朝南",
+        "饼干"
+      ]
+    },
+    {
+      "id": "south",
+      "word": "south",
+      "forms": [
+        "south"
+      ],
+      "tier": "core",
+      "phonetic": "/sauθ/",
+      "partOfSpeech": "adv.",
+      "meaning": "向南；朝南",
+      "wordForms": "原文词形：south",
+      "sentence": "“Head south with my herd,” said Slim.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-08/south.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "向南；朝南",
+        "饼干",
+        "作家；作者"
+      ]
+    },
+    {
+      "id": "herder",
+      "word": "herder",
+      "forms": [
+        "herder"
+      ],
+      "tier": "core",
+      "phonetic": "/'h\\\\\\\\:dә(r)/",
+      "partOfSpeech": "n.",
+      "meaning": "牧人；放牧者",
+      "wordForms": "原文词形：herder",
+      "sentence": "The next thing I know, I’m a mustang herder.”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-08/herder.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "牧人；放牧者",
+        "咖啡",
+        "向南；朝南"
+      ]
+    },
+    {
+      "id": "writer",
+      "word": "writer",
+      "forms": [
+        "writer"
+      ],
+      "tier": "core",
+      "phonetic": "/'raitә/",
+      "partOfSpeech": "n.",
+      "meaning": "作家；作者",
+      "wordForms": "原文词形：writer",
+      "sentence": "“Yup, I think I’ll be a writer.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-08/writer.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "作家；作者",
+        "苦的；有苦味的",
+        "饼干"
+      ]
+    },
+    {
+      "id": "stay",
+      "word": "stay",
+      "forms": [
+        "stay",
+        "stays",
+        "stayed",
+        "staying"
+      ],
+      "tier": "core",
+      "phonetic": "/stei/",
+      "partOfSpeech": "v.",
+      "meaning": "待着；停留",
+      "wordForms": "第三人称单数 stays · 过去式 stayed · 现在分词 staying",
+      "sentence": "“Stay with your mother, Sunset!”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-08/stay.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "待着；停留",
+        "喝；饮用",
+        "水壶；军用水壶"
+      ]
+    },
+    {
+      "id": "echo",
+      "word": "echo",
+      "forms": [
+        "echo"
+      ],
+      "tier": "core",
+      "phonetic": "/'ekәu/",
+      "partOfSpeech": "n.",
+      "meaning": "回声；回音",
+      "wordForms": "原文词形：echo",
+      "sentence": "“It’s just an echo.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-08/echo.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "回声；回音",
+        "咖啡",
+        "喝；饮用"
+      ]
+    }
+  ]
+}

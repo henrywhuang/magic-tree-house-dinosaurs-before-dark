@@ -1,0 +1,255 @@
+{
+  "book": 10,
+  "chapter": 4,
+  "title": "Hands Up!",
+  "words": [
+    {
+      "id": "colt",
+      "word": "colt",
+      "forms": [
+        "colt"
+      ],
+      "tier": "core",
+      "phonetic": "/kәult/",
+      "partOfSpeech": "n.",
+      "meaning": "小马；马驹",
+      "wordForms": "原文词形：colt",
+      "sentence": "“It’s the colt!”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-04/colt.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lt",
+          "sound": "/lt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "小马；马驹",
+        "认为；估计",
+        "母马"
+      ]
+    },
+    {
+      "id": "mustang",
+      "word": "mustang",
+      "forms": [
+        "mustang",
+        "Mustang"
+      ],
+      "tier": "core",
+      "phonetic": "/'mʌstæŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "野马",
+      "wordForms": "原文词形：Mustang",
+      "sentence": "Mustang herders captured them and sold them to ranchers.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-04/mustang.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "野马",
+        "牛仔",
+        "认为；估计"
+      ]
+    },
+    {
+      "id": "mare",
+      "word": "mare",
+      "forms": [
+        "mare"
+      ],
+      "tier": "core",
+      "phonetic": "/mєә/",
+      "partOfSpeech": "n.",
+      "meaning": "母马",
+      "wordForms": "原文词形：mare",
+      "sentence": "Two of them even looked like the beautiful mare and her colt.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-04/mare.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "母马",
+        "牛仔",
+        "小马；马驹"
+      ]
+    },
+    {
+      "id": "treat",
+      "word": "treat",
+      "forms": [
+        "treat",
+        "treats",
+        "treated",
+        "treating"
+      ],
+      "tier": "core",
+      "phonetic": "/tri:t/",
+      "partOfSpeech": "v.",
+      "meaning": "对待；处理",
+      "wordForms": "第三人称单数 treats · 过去式 treated · 现在分词 treating",
+      "sentence": "He found a section called “How to Treat a Horse.”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-04/treat.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "对待；处理",
+        "野马",
+        "母马"
+      ]
+    },
+    {
+      "id": "cowboy",
+      "word": "cowboy",
+      "forms": [
+        "cowboy"
+      ],
+      "tier": "core",
+      "phonetic": "/'kaubɒi/",
+      "partOfSpeech": "n.",
+      "meaning": "牛仔",
+      "wordForms": "原文词形：cowboy",
+      "sentence": "A cowboy rode out of an alley.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-04/cowboy.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oy",
+          "sound": "/ɔɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "牛仔",
+        "对待；处理",
+        "野马"
+      ]
+    },
+    {
+      "id": "reckon",
+      "word": "reckon",
+      "forms": [
+        "reckon",
+        "reckons",
+        "reckoned",
+        "reckoning"
+      ],
+      "tier": "core",
+      "phonetic": "/'rekәn/",
+      "partOfSpeech": "v.",
+      "meaning": "认为；估计",
+      "wordForms": "第三人称单数 reckons · 过去式 reckoned · 现在分词 reckoning",
+      "sentence": "“I reckon you’re the smallest horse thieves I’ve ever come across,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-04/reckon.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "认为；估计",
+        "小马；马驹",
+        "对待；处理"
+      ]
+    }
+  ]
+}

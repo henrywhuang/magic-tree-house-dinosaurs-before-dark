@@ -1,0 +1,265 @@
+{
+  "book": 10,
+  "chapter": 10,
+  "title": "Echo from the Past",
+  "words": [
+    {
+      "id": "outside",
+      "word": "outside",
+      "forms": [
+        "outside"
+      ],
+      "tier": "core",
+      "phonetic": "/'aut'said/",
+      "partOfSpeech": "adv.",
+      "meaning": "在外面；向外面",
+      "wordForms": "原文词形：outside",
+      "sentence": "Jack and Annie looked outside.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-10/outside.mp3",
+      "phonics": [
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "在外面；向外面",
+        "旅行；旅程",
+        "准备好的"
+      ]
+    },
+    {
+      "id": "frog",
+      "word": "frog",
+      "forms": [
+        "frog",
+        "Frog"
+      ],
+      "tier": "core",
+      "phonetic": "/frɒg/",
+      "partOfSpeech": "n.",
+      "meaning": "Frog Creek 地名的一部分",
+      "wordForms": "原文词形：Frog",
+      "sentence": "The sun had slipped behind the trees of the Frog Creek woods.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-10/frog.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "Frog Creek 地名的一部分",
+        "在外面；向外面",
+        "旅行；旅程"
+      ]
+    },
+    {
+      "id": "trip",
+      "word": "trip",
+      "forms": [
+        "trip"
+      ],
+      "tier": "core",
+      "phonetic": "/trip/",
+      "partOfSpeech": "n.",
+      "meaning": "旅行；旅程",
+      "wordForms": "原文词形：trip",
+      "sentence": "She put it in the corner, next to the scroll from their ocean trip.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-10/trip.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "旅行；旅程",
+        "准备好的",
+        "回声；回音"
+      ]
+    },
+    {
+      "id": "ready",
+      "word": "ready",
+      "forms": [
+        "ready",
+        "Ready"
+      ],
+      "tier": "core",
+      "phonetic": "/'redi/",
+      "partOfSpeech": "adj.",
+      "meaning": "准备好的",
+      "wordForms": "原文词形：Ready",
+      "sentence": "“Ready?”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-10/ready.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "准备好的",
+        "在下面；下方",
+        "旅行；旅程"
+      ]
+    },
+    {
+      "id": "authors",
+      "word": "author",
+      "forms": [
+        "author",
+        "author’s"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'ɒ:θә/",
+      "partOfSpeech": "n.",
+      "meaning": "作者的（所有格）",
+      "wordForms": "原文词形：author’s",
+      "sentence": "The author’s name was below the title.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-10/authors.mp3"
+    },
+    {
+      "id": "below",
+      "word": "below",
+      "forms": [
+        "below"
+      ],
+      "tier": "core",
+      "phonetic": "/bi'lәu/",
+      "partOfSpeech": "adv.",
+      "meaning": "在下面；下方",
+      "wordForms": "原文词形：below",
+      "sentence": "The author’s name was below the title.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-10/below.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "在下面；下方",
+        "在外面；向外面",
+        "准备好的"
+      ]
+    },
+    {
+      "id": "echo",
+      "word": "echo",
+      "forms": [
+        "echo"
+      ],
+      "tier": "core",
+      "phonetic": "/'ekәu/",
+      "partOfSpeech": "n.",
+      "meaning": "回声；回音",
+      "wordForms": "原文词形：echo",
+      "sentence": "“You mean it’s like an echo from the past?”",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-10/echo.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "回声；回音",
+        "在下面；下方",
+        "准备好的"
+      ]
+    }
+  ]
+}

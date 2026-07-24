@@ -1,0 +1,436 @@
+{
+  "book": 10,
+  "chapter": 3,
+  "title": "Player Piano",
+  "words": [
+    {
+      "id": "outside",
+      "word": "outside",
+      "forms": [
+        "outside",
+        "Outside"
+      ],
+      "tier": "core",
+      "phonetic": "/'aut'said/",
+      "partOfSpeech": "adv.",
+      "meaning": "在外面；向外面",
+      "wordForms": "原文词形：Outside",
+      "sentence": "Outside, the sad tune played on.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-03/outside.mp3",
+      "phonics": [
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "在外面；向外面",
+        "电；电力",
+        "生气的；愤怒的"
+      ]
+    },
+    {
+      "id": "hotel",
+      "word": "hotel",
+      "forms": [
+        "hotel",
+        "HOTEL"
+      ],
+      "tier": "core",
+      "phonetic": "/hәu'tel/",
+      "partOfSpeech": "n.",
+      "meaning": "旅馆；酒店",
+      "wordForms": "原文词形：HOTEL",
+      "sentence": "She crept toward a building that had a sign with the word HOTEL on it.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-03/hotel.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "旅馆；酒店",
+        "生气的；愤怒的",
+        "钢琴"
+      ]
+    },
+    {
+      "id": "daylight",
+      "word": "daylight",
+      "forms": [
+        "daylight"
+      ],
+      "tier": "core",
+      "phonetic": "/'deilait/",
+      "partOfSpeech": "n.",
+      "meaning": "日光；白昼",
+      "wordForms": "原文词形：daylight",
+      "sentence": "The fading daylight lit a piano in the corner of the room.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-03/daylight.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "日光；白昼",
+        "电；电力",
+        "在外面；向外面"
+      ]
+    },
+    {
+      "id": "piano",
+      "word": "piano",
+      "forms": [
+        "piano"
+      ],
+      "tier": "core",
+      "phonetic": "/pi'ɑ:nәu/",
+      "partOfSpeech": "n.",
+      "meaning": "钢琴",
+      "wordForms": "原文词形：piano",
+      "sentence": "The fading daylight lit a piano in the corner of the room.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-03/piano.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "钢琴",
+        "生气的；愤怒的",
+        "日光；白昼"
+      ]
+    },
+    {
+      "id": "electricity",
+      "word": "electricity",
+      "forms": [
+        "electricity"
+      ],
+      "tier": "core",
+      "phonetic": "/.ilek'trisiti/",
+      "partOfSpeech": "n.",
+      "meaning": "电；电力",
+      "wordForms": "原文词形：electricity",
+      "sentence": "Later, with the help of electricity, the piano played all by itself.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-03/electricity.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ct",
+          "sound": "/ct/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "电；电力",
+        "钢琴",
+        "生气的；愤怒的"
+      ]
+    },
+    {
+      "id": "band",
+      "word": "band",
+      "forms": [
+        "band"
+      ],
+      "tier": "core",
+      "phonetic": "/bænd/",
+      "partOfSpeech": "n.",
+      "meaning": "一群；一队",
+      "wordForms": "原文词形：band",
+      "sentence": "They were herding a small band of horses.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-03/band.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "一群；一队",
+        "电；电力",
+        "捏住；掐"
+      ]
+    },
+    {
+      "id": "pinched",
+      "word": "pinch",
+      "forms": [
+        "pinch",
+        "pinches",
+        "pinched",
+        "pinching"
+      ],
+      "tier": "core",
+      "phonetic": "/pintʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "捏住；掐",
+      "wordForms": "第三人称单数 pinches · 过去式 pinched · 现在分词 pinching",
+      "sentence": "He pinched his nose.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-03/pinched.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "捏住；掐",
+        "日光；白昼",
+        "旅馆；酒店"
+      ]
+    },
+    {
+      "id": "angry",
+      "word": "angry",
+      "forms": [
+        "angry"
+      ],
+      "tier": "core",
+      "phonetic": "/'æŋgri/",
+      "partOfSpeech": "adj.",
+      "meaning": "生气的；愤怒的",
+      "wordForms": "原文词形：angry",
+      "sentence": "“They were mean to that horse,” Annie said in a low, angry voice.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-03/angry.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "生气的；愤怒的",
+        "一群；一队",
+        "母亲；母兽"
+      ]
+    },
+    {
+      "id": "mother",
+      "word": "mother",
+      "forms": [
+        "mother"
+      ],
+      "tier": "core",
+      "phonetic": "/'mʌðә/",
+      "partOfSpeech": "n.",
+      "meaning": "母亲；母兽",
+      "wordForms": "原文词形：mother",
+      "sentence": "He was as red as the wild mother horse.",
+      "sentenceAudio": "assets/audio/sentences/book-10-chapter-03/mother.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "母亲；母兽",
+        "在外面；向外面",
+        "捏住；掐"
+      ]
+    }
+  ]
+}
