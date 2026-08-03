@@ -96,9 +96,11 @@ const state={book:0,chapter:0,page:0,pages:[],scenes:[],words:[],view:'home',loc
 const $=s=>document.querySelector(s); const audio=$('#audio');
 const els={home:$('#homeView'),reader:$('#readerView'),exercise:$('#exerciseView'),vocabulary:$('#vocabularyView'),debug:$('#debugView'),player:$('#player'),nav:$('#chapterNav'),sidebar:$('#sidebar'),scrim:$('#scrim'),story:$('#storyText'),card:$('#wordCard')};
 let chapterRequestId=0;
-const pronunciationAudio=new Audio();
-pronunciationAudio.preload='auto';
+const pronunciationAudio=$('#pronunciationAudio');
 let activeTTS=null;
+let ttsRequestId=0;
+const DATA_VERSION='20260730-mobile';
+const jsonRequests=new Map();
 
 function currentBook(){return BOOKS[state.book]}
 function completionKey(chapter=state.chapter,book=state.book){return `${BOOKS[book].id}:${chapter}`}
@@ -111,12 +113,15 @@ function hasVocabulary(bookIndex=state.book,chapterIndex=state.chapter){return b
 
 function pronunciationStatus(text,isError=false){const el=$('#pronunciationStatus');el.textContent=text;el.classList.toggle('error',isError)}
 function wordAudioPath(word){const key=String(word||'').toLowerCase().replace(/[’‘]/g,"'").replace(/[^a-z'-]/g,'');return key?`assets/audio/words/${encodeURIComponent(key)}.mp3`:''}
-function clearTTS(){pronunciationAudio.pause();pronunciationAudio.currentTime=0;activeTTS?.button?.classList.remove('speaking');activeTTS=null}
-function finishTTS(isError=false){const current=activeTTS;if(!current)return;pronunciationAudio.pause();current.button?.classList.remove('speaking');if(current.showStatus)pronunciationStatus(isError?'音频加载失败，请刷新后重试':current.endMessage,isError);activeTTS=null}
+function resetPronunciationPosition(){if(pronunciationAudio.readyState)try{pronunciationAudio.currentTime=0}catch{}}
+function clearTTS(){ttsRequestId++;pronunciationAudio.pause();resetPronunciationPosition();activeTTS?.button?.classList.remove('speaking');activeTTS=null}
+function finishTTS(isError=false,requestId=ttsRequestId){const current=activeTTS;if(!current||requestId!==ttsRequestId)return;pronunciationAudio.pause();current.button?.classList.remove('speaking');if(current.showStatus)pronunciationStatus(isError?'音频加载失败，请检查网络后重试':current.endMessage,isError);activeTTS=null}
+function prepareTTS(path){if(!path||activeTTS)return;const absolute=new URL(path,document.baseURI).href;if(pronunciationAudio.currentSrc===absolute||pronunciationAudio.src===absolute)return;pronunciationAudio.src=path;pronunciationAudio.load()}
 function playTTS(path,button,{startMessage='正在播放…',endMessage='播放完毕 · 可再次点击',showStatus=false}={}){
-  if(!path)return;if(!audio.paused)audio.pause();clearTTS();
-  activeTTS={button,endMessage,showStatus};button?.classList.add('speaking');if(showStatus)pronunciationStatus(startMessage);
-  pronunciationAudio.src=path;pronunciationAudio.load();pronunciationAudio.play().catch(()=>finishTTS(true));
+  if(!path)return;if(!audio.paused)audio.pause();clearTTS();const requestId=ttsRequestId;
+  const absolute=new URL(path,document.baseURI).href;if(pronunciationAudio.currentSrc!==absolute&&pronunciationAudio.src!==absolute)pronunciationAudio.src=path;else resetPronunciationPosition();
+  activeTTS={button,endMessage,showStatus,path:absolute,requestId};button?.classList.add('speaking');if(showStatus)pronunciationStatus(startMessage);
+  const playPromise=pronunciationAudio.play();if(playPromise)playPromise.catch(()=>finishTTS(true,requestId));
 }
 function pronounceCurrentWord(event){
   event.preventDefault();event.stopPropagation();
@@ -124,8 +129,14 @@ function pronounceCurrentWord(event){
   playTTS(wordAudioPath(word),$('#speakWord'),{startMessage:`正在播放 ${word} 的美式标准发音…`,endMessage:'单词发音已播放 · 可再次点击',showStatus:true});
 }
 function pronounceCurrentSentence(event){event.preventDefault();event.stopPropagation();playTTS(els.card.dataset.sentenceAudio,$('#speakSentence'),{startMessage:'正在播放原文例句…',endMessage:'原文例句已播放 · 可再次点击',showStatus:true})}
-pronunciationAudio.onended=()=>finishTTS(false);
-pronunciationAudio.onerror=()=>finishTTS(true);
+pronunciationAudio.onended=()=>finishTTS(false,activeTTS?.requestId);
+pronunciationAudio.onerror=()=>{if(activeTTS&&pronunciationAudio.currentSrc===activeTTS.path)finishTTS(true,activeTTS.requestId)};
+
+function fetchJSON(path){
+  const url=`${path}?v=${DATA_VERSION}`;
+  if(!jsonRequests.has(url))jsonRequests.set(url,fetch(url).then(response=>{if(!response.ok)throw new Error(`${response.status} ${response.statusText}`);return response.json()}).catch(error=>{jsonRequests.delete(url);throw error}));
+  return jsonRequests.get(url);
+}
 
 function collectionName(){return `${BOOKS.length}册原著精读营`}
 function completedCountForBook(bookIndex){return BOOKS[bookIndex].chapters.reduce((count,_title,chapterIndex)=>count+(state.completed.has(completionKey(chapterIndex,bookIndex))?1:0),0)}
@@ -134,8 +145,12 @@ function rewardSnapshot(){
   const completedBooks=BOOKS.reduce((sum,book,bookIndex)=>sum+(completedCountForBook(bookIndex)===book.chapters.length?1:0),0);
   return{completedChapters,completedBooks,level,levelProgress,size,nextLevelIn:size-levelProgress};
 }
+const libraryImageObserver='IntersectionObserver'in window?new IntersectionObserver(entries=>entries.forEach(entry=>{if(!entry.isIntersecting)return;const image=entry.target;image.src=image.dataset.src;image.removeAttribute('data-src');libraryImageObserver.unobserve(image)}),{rootMargin:'180px 0px'}):null;
+function observeLibraryImages(){document.querySelectorAll('#bookGrid img[data-src]').forEach(image=>{if(libraryImageObserver)libraryImageObserver.observe(image);else{image.src=image.dataset.src;image.removeAttribute('data-src')}})}
 function renderLibrary(){
-  $('#bookGrid').innerHTML=BOOKS.map((book,bookIndex)=>{const done=completedCountForBook(bookIndex),complete=done===book.chapters.length,image=book.cardImage||'assets/images/prehistoric-adventure.png';return `<article class="book-entry ${complete?'is-complete':''}">${complete?'<em class="book-complete-tag">✦ 已完成</em>':''}<img src="${escapeHTML(image)}" alt="${escapeHTML(book.cardAlt||book.title)}"><div><span>BOOK ${book.number} · ${escapeHTML(book.world||book.cn)}</span><h3>${escapeHTML(book.title)}</h3><p>《${escapeHTML(book.cn)}》</p><small>${book.chapters.length} 章 · ${book.chapters.length*3} 个剧情场景 · ${done}/${book.chapters.length} 章已完成</small><button data-book-start="${bookIndex}">${complete?'重温':'进入'}第${book.number}册 <b>→</b></button></div></article>`}).join('');
+  if(libraryImageObserver)libraryImageObserver.disconnect();
+  $('#bookGrid').innerHTML=BOOKS.map((book,bookIndex)=>{const done=completedCountForBook(bookIndex),complete=done===book.chapters.length,image=book.cardImage||'assets/images/prehistoric-adventure.png';return `<article class="book-entry ${complete?'is-complete':''}">${complete?'<em class="book-complete-tag">✦ 已完成</em>':''}<img data-src="${escapeHTML(image)}" alt="${escapeHTML(book.cardAlt||book.title)}" loading="lazy" decoding="async" fetchpriority="low"><div><span>BOOK ${book.number} · ${escapeHTML(book.world||book.cn)}</span><h3>${escapeHTML(book.title)}</h3><p>《${escapeHTML(book.cn)}》</p><small>${book.chapters.length} 章 · ${book.chapters.length*3} 个剧情场景 · ${done}/${book.chapters.length} 章已完成</small><button data-book-start="${bookIndex}">${complete?'重温':'进入'}第${book.number}册 <b>→</b></button></div></article>`}).join('');
+  observeLibraryImages();
 }
 function renderRewards(){
   const reward=rewardSnapshot(),pct=Math.round(reward.levelProgress/reward.size*100);
@@ -165,9 +180,10 @@ async function openChapter(i,keepTime=false,bookIndex=state.book){
   const changedBook=state.book!==bookIndex;state.book=bookIndex;state.chapter=i;state.page=0;
   const book=currentBook();setView('reader');
   $('#chapterNumber').textContent=i+1;$('#chapterLabel').textContent=`BOOK ${book.number} · CHAPTER ${chapterRoman(i+1)}`;$('#chapterKicker').textContent=`BOOK ${book.number} · CHAPTER ${chapterRoman(i+1)}`;$('#chapterTitle').textContent=book.chapters[i];$('#trackTitle').textContent=`Book ${book.number} · Chapter ${i+1} · ${book.chapters[i]}`;$('#currentBookLabel').textContent=`BOOK ${book.number} · 《${book.cn}》`;$('#brandSubtitle').textContent=`Book ${book.number} · ${book.title}`;document.title=`${book.chapters[i]} · ${book.cn} · Magic Tree House`;
-  try{const r=await fetch(`${dataPath(i,bookIndex)}?v=20260724-book10`,{cache:'no-store'});if(!r.ok)throw 0;const d=await r.json();if(requestId!==chapterRequestId)return;state.words=d.words||[];state.pages=d.pages||[];state.scenes=d.scenes||[];}catch{if(requestId!==chapterRequestId)return;state.words=[];state.scenes=[];state.pages=[[{text:'本章内容正在制作中，敬请期待～（若为已上线章节请检查网络后重试）',words:[]}]]}
-  state.vocabulary=null;state.vocabLesson=null;
-  if(hasVocabulary(bookIndex,i)){try{const r=await fetch(`${vocabularyPath(i,bookIndex)}?v=20260724-book10`,{cache:'no-store'});if(!r.ok)throw 0;const vocabulary=await r.json();if(requestId!==chapterRequestId)return;state.vocabulary=vocabulary}catch{state.vocabulary={words:[]}}}
+  const [chapterResult,vocabularyResult]=await Promise.allSettled([fetchJSON(dataPath(i,bookIndex)),hasVocabulary(bookIndex,i)?fetchJSON(vocabularyPath(i,bookIndex)):Promise.resolve(null)]);
+  if(requestId!==chapterRequestId)return;
+  if(chapterResult.status==='fulfilled'){const d=chapterResult.value;state.words=d.words||[];state.pages=d.pages||[];state.scenes=d.scenes||[]}else{state.words=[];state.scenes=[];state.pages=[[{text:'本章内容正在制作中，敬请期待～（若为已上线章节请检查网络后重试）',words:[]}]]}
+  state.vocabulary=vocabularyResult.status==='fulfilled'?vocabularyResult.value:{words:[]};state.vocabLesson=null;
   mergeAddedVocabulary(bookIndex,i);
   $('#vocabularyButton').classList.toggle('hidden',!state.vocabulary?.words?.length);
   renderPage();
@@ -205,13 +221,13 @@ function showWordCard(target,lock=false){
   const canAdd=!vocab&&!!(lemmaDictionary.meaning||dictionary.meaning),already=!!(vocab&&vocab.added);els.card.dataset.addWord=lemma;els.card.dataset.addSource=sourceWord;els.card.dataset.addMeaning=meaningText;els.card.dataset.addPhonetic=vocab?.phonetic||lemmaDictionary.phonetic||dictionary.phonetic||phoneticFallback(lemma);els.card.dataset.addSentence=readingSentence(target.dataset.index);
   $('#wordAddButton').classList.toggle('hidden',!(canAdd||already));if(canAdd||already)updateAddButton(already);
   pronunciationStatus(vocab?'单词和原文例句均可点击播放':canAdd?'可加入本章生词本 · 点击喇叭听发音':'点击喇叭听美式标准发音');
-  els.card.classList.remove('hidden');const rect=target.getBoundingClientRect();if(innerWidth>650){const left=Math.min(innerWidth-310,Math.max(12,rect.left));const desiredTop=rect.bottom+12;const top=desiredTop+els.card.offsetHeight<innerHeight-12?desiredTop:rect.top-els.card.offsetHeight-12;els.card.style.left=`${left}px`;els.card.style.top=`${Math.max(78,top)}px`}if(lock)state.lockedWord=target;
+  prepareTTS(wordAudioPath(vocab?.word||sourceWord));els.card.classList.remove('hidden');const rect=target.getBoundingClientRect();if(innerWidth>650){const left=Math.min(innerWidth-310,Math.max(12,rect.left));const desiredTop=rect.bottom+12;const top=desiredTop+els.card.offsetHeight<innerHeight-12?desiredTop:rect.top-els.card.offsetHeight-12;els.card.style.left=`${left}px`;els.card.style.top=`${Math.max(78,top)}px`}if(lock)state.lockedWord=target;
 }
 function phoneticFallback(word){return `/ ${word.toLowerCase()} /`}
 function hideCard(){if(activeTTS?.button?.closest('.word-card'))clearTTS();els.card.classList.add('hidden');state.lockedWord=null}
 async function loadQuestionBank(){
   if(state.questionBank)return state.questionBank;
-  const r=await fetch('data/questions.json?v=20260724-book10',{cache:'no-store'});if(!r.ok)throw new Error('题库加载失败');state.questionBank=await r.json();return state.questionBank;
+  state.questionBank=await fetchJSON('data/questions.json');return state.questionBank;
 }
 function chapterQuestions(bookIndex=state.book,chapterIndex=state.chapter){return state.questionBank?.books?.[bookIndex]?.chapters?.[chapterIndex]?.questions||[]}
 function persistQuiz(){const q=state.quiz;if(!q)return;const checkedCount=Object.keys(q.checked).length;const score=q.questions.filter(item=>q.checked[item.id]&&q.answers[item.id]===item.answer).length;quizStore[q.key]={answers:q.answers,checked:q.checked,index:q.index,completed:checkedCount===q.questions.length,score};localStorage.setItem('mth-quiz-v1',JSON.stringify(quizStore))}
@@ -354,5 +370,6 @@ audio.onloadedmetadata=()=>{const start=audioStart();if(audio.currentTime<start)
 $('#seek').oninput=e=>{if(audio.duration){const start=audioStart();audio.currentTime=start+e.target.value/1000*(audio.duration-start)}};
 document.querySelector('.speed-group').onclick=e=>{const b=e.target.closest('[data-speed]');if(!b)return;audio.playbackRate=+b.dataset.speed;document.querySelectorAll('.speed-group button').forEach(x=>x.classList.toggle('active',x===b))};
 $('#prevPage').onclick=()=>{if(state.page>0){state.page--;renderPage()}};$('#nextPage').onclick=()=>{if(state.page<state.pages.length-1){state.page++;renderPage()}};
-els.story.addEventListener('mouseover',e=>{const w=e.target.closest('.word');if(w&&!state.lockedWord)showWordCard(w)});els.story.addEventListener('mouseout',()=>{if(!state.lockedWord)els.card.classList.add('hidden')});els.story.addEventListener('click',e=>{const w=e.target.closest('.word');if(w){e.stopPropagation();showWordCard(w,true)}});$('#wordClose').onclick=hideCard;document.addEventListener('click',e=>{if(!e.target.closest('.word-card')&&!e.target.closest('.word'))hideCard()});$('#speakWord').addEventListener('click',pronounceCurrentWord);$('#speakSentence').addEventListener('click',pronounceCurrentSentence);$('#wordAddButton').addEventListener('click',e=>{e.preventDefault();e.stopPropagation();toggleAddCurrentWord()});
+if(matchMedia('(hover:hover) and (pointer:fine)').matches){els.story.addEventListener('mouseover',e=>{const w=e.target.closest('.word');if(w&&!state.lockedWord)showWordCard(w)});els.story.addEventListener('mouseout',()=>{if(!state.lockedWord)els.card.classList.add('hidden')})}
+els.story.addEventListener('click',e=>{const w=e.target.closest('.word');if(w){e.preventDefault();e.stopPropagation();showWordCard(w,true)}});$('#wordClose').onclick=hideCard;document.addEventListener('click',e=>{if(!e.target.closest('.word-card')&&!e.target.closest('.word'))hideCard()});$('#speakWord').addEventListener('click',pronounceCurrentWord);$('#speakSentence').addEventListener('click',pronounceCurrentSentence);$('#wordAddButton').addEventListener('click',e=>{e.preventDefault();e.stopPropagation();toggleAddCurrentWord()});
 migrateAddedVocabulary();persistCompleted();$('#brandSubtitle').textContent=collectionName();document.title=`Magic Tree House · ${collectionName()}`;renderNav();updateProgress();

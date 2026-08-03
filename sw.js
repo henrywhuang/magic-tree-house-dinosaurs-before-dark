@@ -1,5 +1,18 @@
-const CACHE='mth-reader-v28-book10';
-const CORE=['./','index.html','styles.css','app.js','manifest.webmanifest','data/questions.json','assets/images/cover.jpg','assets/images/prehistoric-adventure.png'];
+const CACHE='mth-reader-v29-mobile';
+const CORE=['index.html','styles.css?v=20260730-mobile','app.js?v=20260730-mobile','data/words.js?v=20260724-book10','manifest.webmanifest','assets/images/cover.jpg'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
-self.addEventListener('fetch',e=>{if(e.request.method!=='GET')return;const url=new URL(e.request.url);const fresh=/\/(app\.js|styles\.css|index\.html|sw\.js|data\/.*\.(json|js)|project-skills\/.*\.(md|yaml))$/.test(url.pathname)||e.request.mode==='navigate';if(fresh){e.respondWith(fetch(e.request).then(r=>{if(r.ok){const copy=r.clone();caches.open(CACHE).then(c=>c.put(e.request,copy))}return r}).catch(()=>caches.match(e.request).then(hit=>hit||caches.match('index.html'))));return}e.respondWith(caches.match(e.request).then(hit=>hit||fetch(e.request).then(r=>{if(r.ok){const copy=r.clone();caches.open(CACHE).then(c=>c.put(e.request,copy))}return r}).catch(()=>caches.match('index.html'))))});
+self.addEventListener('fetch',e=>{
+  if(e.request.method!=='GET'||e.request.headers.has('range'))return;
+  if(e.request.mode==='navigate'){
+    e.respondWith(caches.match('index.html').then(cached=>{
+      const fresh=fetch(e.request).then(response=>{if(response.status===200)caches.open(CACHE).then(cache=>cache.put('index.html',response.clone()));return response}).catch(()=>cached);
+      return cached||fresh;
+    }));
+    return;
+  }
+  e.respondWith(caches.match(e.request).then(cached=>{
+    if(cached)return cached;
+    return fetch(e.request).then(response=>{if(response.status===200){const copy=response.clone();caches.open(CACHE).then(cache=>cache.put(e.request,copy))}return response});
+  }));
+});

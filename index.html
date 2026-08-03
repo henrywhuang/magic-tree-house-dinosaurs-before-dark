@@ -7,7 +7,7 @@
   <title>Magic Tree House · 英文原著精读营</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/images/cover.jpg">
-  <link rel="stylesheet" href="styles.css?v=20260724-book10">
+  <link rel="stylesheet" href="styles.css?v=20260730-mobile">
 </head>
 <body>
   <div class="app-shell">
@@ -89,7 +89,7 @@
         <p class="current-book-label" id="currentBookLabel">BOOK 1 · 《勇闯恐龙谷》</p>
         <article class="reading-page" id="readingPage">
           <header><span class="chapter-number" id="chapterNumber">1</span><div><small id="chapterLabel">CHAPTER ONE</small><h1 id="chapterTitle">Into the Woods</h1></div></header>
-          <figure class="chapter-art"><img id="sceneImage" src="assets/images/prehistoric-adventure.png" alt="杰克和安妮的史前探险场景"><figcaption><span id="sceneTitle">第 1 个场景</span> · 原创剧情插图</figcaption></figure>
+          <figure class="chapter-art"><img id="sceneImage" alt="杰克和安妮的探险场景" decoding="async"><figcaption><span id="sceneTitle">第 1 个场景</span> · 原创剧情插图</figcaption></figure>
           <div class="story-text" id="storyText" aria-live="polite"></div>
           <div class="page-footer"><button id="prevPage">‹</button><span id="pageLabel">Page 1 / 1</span><button id="nextPage">›</button></div>
         </article>
@@ -150,8 +150,9 @@
     </div>
     <small class="card-tip" id="pronunciationStatus" aria-live="polite">点击喇叭听美式标准发音</small>
   </div>
+  <audio id="pronunciationAudio" preload="auto" playsinline webkit-playsinline></audio>
   <script src="data/words.js?v=20260724-book10"></script>
-  <script src="app.js?v=20260724-book10"></script>
+  <script src="app.js?v=20260730-mobile"></script>
   <script>if('serviceWorker' in navigator) addEventListener('load',()=>navigator.serviceWorker.register('./sw.js',{updateViaCache:'none'}))</script>
 </body>
 </html>
