@@ -1,0 +1,421 @@
+{
+  "book": 11,
+  "chapter": 7,
+  "title": "Hi, There",
+  "words": [
+    {
+      "id": "glade",
+      "word": "glade",
+      "forms": [
+        "glade"
+      ],
+      "tier": "core",
+      "phonetic": "/gleid/",
+      "partOfSpeech": "n.",
+      "meaning": "林间空地；沼泽地",
+      "wordForms": "原文词形：glade",
+      "sentence": "He found her in a thick glade.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-07/glade.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "林间空地；沼泽地",
+        "蜂窝；蜂箱",
+        "驱散；使四散"
+      ]
+    },
+    {
+      "id": "dappled",
+      "word": "dappled",
+      "forms": [
+        "dappled"
+      ],
+      "tier": "core",
+      "phonetic": "/'dæpld/",
+      "partOfSpeech": "adj.",
+      "meaning": "斑驳的；有斑点的",
+      "wordForms": "原文词形：dappled",
+      "sentence": "Green leaves and vines swayed in the dappled light.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-07/dappled.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "斑驳的；有斑点的",
+        "战士；勇士",
+        "林间空地；沼泽地"
+      ]
+    },
+    {
+      "id": "beehive",
+      "word": "beehive",
+      "forms": [
+        "beehive"
+      ],
+      "tier": "core",
+      "phonetic": "/'bi:haiv/",
+      "partOfSpeech": "n.",
+      "meaning": "蜂窝；蜂箱",
+      "wordForms": "原文词形：beehive",
+      "sentence": "“It’s a beehive.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-07/beehive.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蜂窝；蜂箱",
+        "驱散；使四散",
+        "林间空地；沼泽地"
+      ]
+    },
+    {
+      "id": "warrior",
+      "word": "warrior",
+      "forms": [
+        "warrior"
+      ],
+      "tier": "core",
+      "phonetic": "/'wɒ:riә/",
+      "partOfSpeech": "n.",
+      "meaning": "战士；勇士",
+      "wordForms": "原文词形：warrior",
+      "sentence": "And there it was: a little gray bird, a beehive, and a tall, painted warrior with a spear.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-07/warrior.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "战士；勇士",
+        "蜂窝；蜂箱",
+        "宗族；部落"
+      ]
+    },
+    {
+      "id": "spear",
+      "word": "spear",
+      "forms": [
+        "spear"
+      ],
+      "tier": "core",
+      "phonetic": "/spiә/",
+      "partOfSpeech": "n.",
+      "meaning": "矛；枪",
+      "wordForms": "原文词形：spear",
+      "sentence": "And there it was: a little gray bird, a beehive, and a tall, painted warrior with a spear.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-07/spear.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "矛；枪",
+        "林间空地；沼泽地",
+        "斑驳的；有斑点的"
+      ]
+    },
+    {
+      "id": "tribe",
+      "word": "tribe",
+      "forms": [
+        "tribe"
+      ],
+      "tier": "core",
+      "phonetic": "/traib/",
+      "partOfSpeech": "n.",
+      "meaning": "宗族；部落",
+      "wordForms": "原文词形：tribe",
+      "sentence": "It’s both a friend and a helper to the Masai (muh-SY) people, an African tribe known for their fierce fighting skills and bravery.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-07/tribe.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "宗族；部落",
+        "矛；枪",
+        "林间空地；沼泽地"
+      ]
+    },
+    {
+      "id": "fierce",
+      "word": "fierce",
+      "forms": [
+        "fierce"
+      ],
+      "tier": "core",
+      "phonetic": "/fiәs/",
+      "partOfSpeech": "adj.",
+      "meaning": "凶猛的；猛烈的",
+      "wordForms": "原文词形：fierce",
+      "sentence": "It’s both a friend and a helper to the Masai (muh-SY) people, an African tribe known for their fierce fighting skills and bravery.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-07/fierce.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "凶猛的；猛烈的",
+        "林间空地；沼泽地",
+        "矛；枪"
+      ]
+    },
+    {
+      "id": "scatter",
+      "word": "scatter",
+      "forms": [
+        "scatter"
+      ],
+      "tier": "core",
+      "phonetic": "/'skætә/",
+      "partOfSpeech": "v.",
+      "meaning": "驱散；使四散",
+      "wordForms": "原文词形：scatter",
+      "sentence": "The bird waits for him or her to scatter the bees and take the honey.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-07/scatter.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "驱散；使四散",
+        "矛；枪",
+        "斑驳的；有斑点的"
+      ]
+    },
+    {
+      "id": "honeycomb",
+      "word": "honeycomb",
+      "forms": [
+        "honeycomb"
+      ],
+      "tier": "core",
+      "phonetic": "/'hʌnikәum/",
+      "partOfSpeech": "n.",
+      "meaning": "蜂巢；蜂房",
+      "wordForms": "原文词形：honeycomb",
+      "sentence": "Then the bird feasts on the honeycomb.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-07/honeycomb.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ey",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蜂巢；蜂房",
+        "宗族；部落",
+        "凶猛的；猛烈的"
+      ]
+    }
+  ]
+}

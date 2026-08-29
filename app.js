@@ -78,6 +78,14 @@ const BOOKS = [
     audioStarts:[0,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/book-10-chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/book-10-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-11', number:11, title:'Lions at Lunchtime', cn:'狮口大逃亡', world:'非洲草原', badge:'🦁',
+    cardImage:'assets/images/book-11-scenes/chapter-09-scene-03.webp', cardAlt:'《狮口大逃亡》杰克和安妮藏在长颈鹿身下躲避狮群',
+    chapters:['Before Lunch','Jump, Beasts! Jump!','Disaster','Mud Bath','Ha-Ha','Spick-and-Span','Hi, There','Yum','Tiptoe','After Lunch'],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-11-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-11-chapter-${String(i+1).padStart(2,'0')}.json`
   }
 ];
 
@@ -99,7 +107,7 @@ let chapterRequestId=0;
 const pronunciationAudio=$('#pronunciationAudio');
 let activeTTS=null;
 let ttsRequestId=0;
-const DATA_VERSION='20260730-mobile';
+const DATA_VERSION='20260829-book11';
 const jsonRequests=new Map();
 
 function currentBook(){return BOOKS[state.book]}

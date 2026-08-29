@@ -1,0 +1,289 @@
+{
+  "book": 11,
+  "chapter": 10,
+  "title": "After Lunch",
+  "words": [
+    {
+      "id": "racing",
+      "word": "race",
+      "forms": [
+        "race",
+        "racing"
+      ],
+      "tier": "core",
+      "phonetic": "/reis/",
+      "partOfSpeech": "v.",
+      "meaning": "（心）狂跳；飞奔",
+      "wordForms": "原文词形：racing",
+      "sentence": "His heart was still racing.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-10/racing.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（心）狂跳；飞奔",
+        "金的；含金的",
+        "泥坑；泥沼"
+      ]
+    },
+    {
+      "id": "calm",
+      "word": "calm",
+      "forms": [
+        "calm"
+      ],
+      "tier": "core",
+      "phonetic": "/kɑ:m/",
+      "partOfSpeech": "v.",
+      "meaning": "使平静；镇定下来",
+      "wordForms": "原文词形：calm",
+      "sentence": "Jack took another moment to calm down.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-10/calm.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "使平静；镇定下来",
+        "泥坑；泥沼",
+        "阳光照射的"
+      ]
+    },
+    {
+      "id": "golden",
+      "word": "golden",
+      "forms": [
+        "golden"
+      ],
+      "tier": "core",
+      "phonetic": "/'gәuldn/",
+      "partOfSpeech": "adj.",
+      "meaning": "金的；含金的",
+      "wordForms": "原文词形：golden",
+      "sentence": "“The giraffe was the true honey on that trip,” she said, “sweet and golden, with danger all around it.”",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-10/golden.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "金的；含金的",
+        "阳光照射的",
+        "使平静；镇定下来"
+      ]
+    },
+    {
+      "id": "sunlit",
+      "word": "sunlit",
+      "forms": [
+        "sunlit"
+      ],
+      "tier": "core",
+      "phonetic": "/'sʌnlit/",
+      "partOfSpeech": "adj.",
+      "meaning": "阳光照射的",
+      "wordForms": "原文词形：sunlit",
+      "sentence": "When they hit the ground, they walked through the sunlit woods.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-10/sunlit.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "阳光照射的",
+        "使平静；镇定下来",
+        "沉默的；安静的"
+      ]
+    },
+    {
+      "id": "mudhole",
+      "word": "mudhole",
+      "forms": [
+        "mudhole"
+      ],
+      "tier": "core",
+      "phonetic": "/'mʌdhəʊl/",
+      "partOfSpeech": "n.",
+      "meaning": "泥坑；泥沼",
+      "wordForms": "原文词形：mudhole",
+      "sentence": "“Right,” said Jack, “and after you fell into a mudhole because you were helping a million wildebeests migrate across a river.”",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-10/mudhole.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "泥坑；泥沼",
+        "阳光照射的",
+        "（心）狂跳；飞奔"
+      ]
+    },
+    {
+      "id": "silent",
+      "word": "silent",
+      "forms": [
+        "silent"
+      ],
+      "tier": "core",
+      "phonetic": "/'sailәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "沉默的；安静的",
+      "wordForms": "原文词形：silent",
+      "sentence": "They were silent for a moment.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-10/silent.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "沉默的；安静的",
+        "泥坑；泥沼",
+        "阳光照射的"
+      ]
+    }
+  ]
+}

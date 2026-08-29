@@ -1,0 +1,392 @@
+{
+  "book": 11,
+  "chapter": 1,
+  "title": "Before Lunch",
+  "words": [
+    {
+      "id": "grocery",
+      "word": "grocery",
+      "forms": [
+        "grocery"
+      ],
+      "tier": "core",
+      "phonetic": "/'grәusәri/",
+      "partOfSpeech": "n.",
+      "meaning": "食品杂货店；食品杂货业",
+      "wordForms": "原文词形：grocery",
+      "sentence": "Jack and Annie were walking home from the grocery store.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-01/grocery.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "食品杂货店；食品杂货业",
+        "卷轴；画卷",
+        "细致优雅的；微妙的"
+      ]
+    },
+    {
+      "id": "whispered",
+      "word": "whisper",
+      "forms": [
+        "whisper",
+        "whispered"
+      ],
+      "tier": "core",
+      "phonetic": "/'hwispә/",
+      "partOfSpeech": "v.",
+      "meaning": "低声说；耳语",
+      "wordForms": "原文词形：whispered",
+      "sentence": "“Oh, man,” he whispered.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-01/whispered.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "低声说；耳语",
+        "细致优雅的；微妙的",
+        "古代的；古老的"
+      ]
+    },
+    {
+      "id": "shadows",
+      "word": "shadow",
+      "forms": [
+        "shadow",
+        "shadows"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃædәu/",
+      "partOfSpeech": "n.",
+      "meaning": "阴影；暗处",
+      "wordForms": "原文词形：shadows",
+      "sentence": "In the shadows stood a small, delicate animal.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-01/shadows.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "阴影；暗处",
+        "谜；谜语",
+        "食品杂货店；食品杂货业"
+      ]
+    },
+    {
+      "id": "delicate",
+      "word": "delicate",
+      "forms": [
+        "delicate"
+      ],
+      "tier": "core",
+      "phonetic": "/'delikәt/",
+      "partOfSpeech": "adj.",
+      "meaning": "细致优雅的；微妙的",
+      "wordForms": "原文词形：delicate",
+      "sentence": "In the shadows stood a small, delicate animal.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-01/delicate.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "细致优雅的；微妙的",
+        "阴影；暗处",
+        "卷轴；画卷"
+      ]
+    },
+    {
+      "id": "ancient",
+      "word": "ancient",
+      "forms": [
+        "ancient"
+      ],
+      "tier": "core",
+      "phonetic": "/'einʃәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "古代的；古老的",
+      "wordForms": "原文词形：ancient",
+      "sentence": "The ancient scrolls held the answers to riddles Jack and Annie had solved earlier.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-01/ancient.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "古代的；古老的",
+        "低声说；耳语",
+        "细致优雅的；微妙的"
+      ]
+    },
+    {
+      "id": "riddle",
+      "word": "riddle",
+      "forms": [
+        "riddle"
+      ],
+      "tier": "core",
+      "phonetic": "/'ridl/",
+      "partOfSpeech": "n.",
+      "meaning": "谜；谜语",
+      "wordForms": "原文词形：riddle",
+      "sentence": "“Did Morgan leave us a third riddle?”",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-01/riddle.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "谜；谜语",
+        "低声说；耳语",
+        "卷轴；画卷"
+      ]
+    },
+    {
+      "id": "scroll",
+      "word": "scroll",
+      "forms": [
+        "scroll"
+      ],
+      "tier": "core",
+      "phonetic": "/skrәul/",
+      "partOfSpeech": "n.",
+      "meaning": "卷轴；画卷",
+      "wordForms": "原文词形：scroll",
+      "sentence": "Then she reached into her robe and pulled out a scroll.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-01/scroll.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "卷轴；画卷",
+        "细致优雅的；微妙的",
+        "古代的；古老的"
+      ]
+    },
+    {
+      "id": "gazelle",
+      "word": "gazelle",
+      "forms": [
+        "gazelle"
+      ],
+      "tier": "core",
+      "phonetic": "/gә'zel/",
+      "partOfSpeech": "n.",
+      "meaning": "瞪羚",
+      "wordForms": "原文词形：gazelle",
+      "sentence": "“A Thomson’s gazelle, I believe,” Morgan said.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-01/gazelle.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "瞪羚",
+        "卷轴；画卷",
+        "古代的；古老的"
+      ]
+    }
+  ]
+}

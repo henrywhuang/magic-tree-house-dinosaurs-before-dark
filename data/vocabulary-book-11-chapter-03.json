@@ -1,0 +1,376 @@
+{
+  "book": 11,
+  "chapter": 3,
+  "title": "Disaster",
+  "words": [
+    {
+      "id": "powerful",
+      "word": "powerful",
+      "forms": [
+        "powerful"
+      ],
+      "tier": "core",
+      "phonetic": "/'pauәful/",
+      "partOfSpeech": "adj.",
+      "meaning": "有力的；有权力的",
+      "wordForms": "原文词形：powerful",
+      "sentence": "The giraffe has a very powerful kick, which makes it dangerous to attack.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-03/powerful.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ful",
+          "sound": "/fʊl/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "有力的；有权力的",
+        "图案；花纹；样式",
+        "危险的"
+      ]
+    },
+    {
+      "id": "dangerous",
+      "word": "dangerous",
+      "forms": [
+        "dangerous"
+      ],
+      "tier": "core",
+      "phonetic": "/'deindʒәrәs/",
+      "partOfSpeech": "adj.",
+      "meaning": "危险的",
+      "wordForms": "原文词形：dangerous",
+      "sentence": "The giraffe has a very powerful kick, which makes it dangerous to attack.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-03/dangerous.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "危险的",
+        "层；地层",
+        "避免；防止"
+      ]
+    },
+    {
+      "id": "avoid",
+      "word": "avoid",
+      "forms": [
+        "avoid"
+      ],
+      "tier": "core",
+      "phonetic": "/ә'vɒid/",
+      "partOfSpeech": "v.",
+      "meaning": "避免；防止",
+      "wordForms": "原文词形：avoid",
+      "sentence": "For this reason, lions tend to avoid giraffes.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-03/avoid.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oi",
+          "sound": "/ɔɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "避免；防止",
+        "危险的",
+        "依靠；取决于"
+      ]
+    },
+    {
+      "id": "pattern",
+      "word": "pattern",
+      "forms": [
+        "pattern"
+      ],
+      "tier": "core",
+      "phonetic": "/'pætәn/",
+      "partOfSpeech": "n.",
+      "meaning": "图案；花纹；样式",
+      "wordForms": "原文词形：pattern",
+      "sentence": "As no two zebras have exactly the same pattern of stripes, every baby zebra must learn its own mother’s pattern.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-03/pattern.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "图案；花纹；样式",
+        "避免；防止",
+        "层；地层"
+      ]
+    },
+    {
+      "id": "layer",
+      "word": "layer",
+      "forms": [
+        "layer"
+      ],
+      "tier": "core",
+      "phonetic": "/'leiә/",
+      "partOfSpeech": "n.",
+      "meaning": "层；地层",
+      "wordForms": "原文词形：layer",
+      "sentence": "After they’ve thinned down the top layer, the wildebeests arrive and eat the next layer.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-03/layer.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "层；地层",
+        "图案；花纹；样式",
+        "有力的；有权力的"
+      ]
+    },
+    {
+      "id": "depends",
+      "word": "depend",
+      "forms": [
+        "depend",
+        "depends"
+      ],
+      "tier": "core",
+      "phonetic": "/di'pend/",
+      "partOfSpeech": "v.",
+      "meaning": "依靠；取决于",
+      "wordForms": "原文词形：depends",
+      "sentence": "Each animal depends on the one that goes before.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-03/depends.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "依靠；取决于",
+        "消失；不见",
+        "层；地层"
+      ]
+    },
+    {
+      "id": "vanished",
+      "word": "vanished",
+      "forms": [
+        "vanished"
+      ],
+      "tier": "core",
+      "phonetic": "/'væniʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "消失；不见",
+      "wordForms": "原文词形：vanished",
+      "sentence": "She had vanished.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-03/vanished.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "消失；不见",
+        "图案；花纹；样式",
+        "依靠；取决于"
+      ]
+    },
+    {
+      "id": "disaster",
+      "word": "disaster",
+      "forms": [
+        "disaster"
+      ],
+      "tier": "core",
+      "phonetic": "/di'zɑ:stә/",
+      "partOfSpeech": "n.",
+      "meaning": "灾祸；不幸",
+      "wordForms": "原文词形：disaster",
+      "sentence": "Their trip had barely begun, and already disaster had struck!",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-03/disaster.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "灾祸；不幸",
+        "图案；花纹；样式",
+        "避免；防止"
+      ]
+    }
+  ]
+}

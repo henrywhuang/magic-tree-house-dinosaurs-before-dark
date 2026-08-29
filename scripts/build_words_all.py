@@ -52,6 +52,22 @@ MANUAL = {
     "she'll": ('/ʃiːl/', '她将会（she will 的缩写）'),
     "that'll": ('/ðætəl/', '那将会（that will 的缩写）'),
     "there're": ('/ðeərər/', '有（there are 的缩写）'),
+    'africa': ('/ˈæfrɪkə/', 'n. 非洲'),
+    'african': ('/ˈæfrɪkən/', 'adj. 非洲的；n. 非洲人'),
+    'kenya': ('/ˈkenjə/', 'n. 肯尼亚'),
+    'tanzania': ('/ˌtænzəˈniːə/', 'n. 坦桑尼亚'),
+    'mara': ('/ˈmɑːrə/', 'n. 马拉河（非洲地名）'),
+    'masai': ('/məˈsaɪ/', 'n. 马赛人'),
+    'thomson': ('/ˈtɒmsən/', '汤姆森（人名；汤氏瞪羚名称的一部分）'),
+    'gazelle': ('/ɡəˈzel/', 'n. 瞪羚'),
+    'wildebeest': ('/ˈwɪldəbiːst/', 'n. 角马'),
+    'honeyguide': ('/ˈhʌniɡaɪd/', 'n. 响蜜鴞；导蜜鸟'),
+    'will-dubbeests': ('/ˈwɪldəbiːsts/', '角马 wildebeests 的读音提示'),
+    'hi-ee-nuh': ('/haɪˈiːnə/', '鬣狗 hyena 的读音提示'),
+    'muh-sy': ('/məˈsaɪ/', '马赛 Masai 的读音提示'),
+    'tribesperson': ('/ˈtraɪbzpɜːrsən/', 'n. 部落成员'),
+    'argggghh': ('/ɑːrɡ/', 'int. 啊（大声喊叫）'),
+    'ta-da': ('/təˈdɑː/', 'int. 铛铛（展示成果时的欢呼）'),
 }
 
 # ECDICT occasionally chooses an unrelated homograph or an obsolete spelling

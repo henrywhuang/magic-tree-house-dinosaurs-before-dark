@@ -1,0 +1,392 @@
+{
+  "book": 11,
+  "chapter": 5,
+  "title": "Ha-Ha",
+  "words": [
+    {
+      "id": "disbelief",
+      "word": "disbelief",
+      "forms": [
+        "disbelief"
+      ],
+      "tier": "core",
+      "phonetic": "/.disbi'li:f/",
+      "partOfSpeech": "n.",
+      "meaning": "不信；怀疑",
+      "wordForms": "原文词形：disbelief",
+      "sentence": "Jack watched in disbelief as the swimmers changed their course.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-05/disbelief.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "不信；怀疑",
+        "懦弱的人；胆小的人",
+        "嘲弄的；讥讽的"
+      ]
+    },
+    {
+      "id": "trampled",
+      "word": "trample",
+      "forms": [
+        "trample",
+        "trampled"
+      ],
+      "tier": "core",
+      "phonetic": "/'træmpl/",
+      "partOfSpeech": "v.",
+      "meaning": "践踏；踩踏",
+      "wordForms": "原文词形：trampled",
+      "sentence": "“Annie,” he cried, “let’s go before we get trampled!”",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-05/trampled.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "践踏；踩踏",
+        "急匆匆地跑；快步疾走",
+        "鬣狗"
+      ]
+    },
+    {
+      "id": "mocking",
+      "word": "mocking",
+      "forms": [
+        "mocking"
+      ],
+      "tier": "core",
+      "phonetic": "/'mɔkiŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "嘲弄的；讥讽的",
+      "wordForms": "原文词形：mocking",
+      "sentence": "It sounded mocking and mean.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-05/mocking.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "嘲弄的；讥讽的",
+        "践踏；踩踏",
+        "不信；怀疑"
+      ]
+    },
+    {
+      "id": "hyena",
+      "word": "hyena",
+      "forms": [
+        "hyena"
+      ],
+      "tier": "core",
+      "phonetic": "/hai'i:nә/",
+      "partOfSpeech": "n.",
+      "meaning": "鬣狗",
+      "wordForms": "原文词形：hyena",
+      "sentence": "When he found it, he read aloud: on the African plains, the hyena (hi-EE-nuh) is the ruling predator after the lion.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-05/hyena.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鬣狗",
+        "名誉；名声",
+        "食肉动物；掠夺者"
+      ]
+    },
+    {
+      "id": "predator",
+      "word": "predator",
+      "forms": [
+        "predator"
+      ],
+      "tier": "core",
+      "phonetic": "/'predәtә/",
+      "partOfSpeech": "n.",
+      "meaning": "食肉动物；掠夺者",
+      "wordForms": "原文词形：predator",
+      "sentence": "When he found it, he read aloud: on the African plains, the hyena (hi-EE-nuh) is the ruling predator after the lion.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-05/predator.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "食肉动物；掠夺者",
+        "嘲弄的；讥讽的",
+        "践踏；踩踏"
+      ]
+    },
+    {
+      "id": "reputation",
+      "word": "reputation",
+      "forms": [
+        "reputation"
+      ],
+      "tier": "core",
+      "phonetic": "/.repju'teiʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "名誉；名声",
+      "wordForms": "原文词形：reputation",
+      "sentence": "Quietly, Jack read more:The hyena has a reputation for being a thief and a coward.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-05/reputation.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tion",
+          "sound": "/ʃən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "名誉；名声",
+        "不信；怀疑",
+        "嘲弄的；讥讽的"
+      ]
+    },
+    {
+      "id": "coward",
+      "word": "coward",
+      "forms": [
+        "coward"
+      ],
+      "tier": "core",
+      "phonetic": "/'kauәd/",
+      "partOfSpeech": "n.",
+      "meaning": "懦弱的人；胆小的人",
+      "wordForms": "原文词形：coward",
+      "sentence": "Quietly, Jack read more:The hyena has a reputation for being a thief and a coward.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-05/coward.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "懦弱的人；胆小的人",
+        "急匆匆地跑；快步疾走",
+        "践踏；踩踏"
+      ]
+    },
+    {
+      "id": "scurried",
+      "word": "scurry",
+      "forms": [
+        "scurry",
+        "scurried"
+      ],
+      "tier": "core",
+      "phonetic": "/'skʌri/",
+      "partOfSpeech": "v.",
+      "meaning": "急匆匆地跑；快步疾走",
+      "wordForms": "原文词形：scurried",
+      "sentence": "The hyenas yelped and scurried off.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-05/scurried.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "急匆匆地跑；快步疾走",
+        "懦弱的人；胆小的人",
+        "鬣狗"
+      ]
+    }
+  ]
+}

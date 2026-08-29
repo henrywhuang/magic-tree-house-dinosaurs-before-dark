@@ -1,0 +1,348 @@
+{
+  "book": 11,
+  "chapter": 6,
+  "title": "Spick-and-Span",
+  "words": [
+    {
+      "id": "elephant",
+      "word": "elephant",
+      "forms": [
+        "elephant"
+      ],
+      "tier": "core",
+      "phonetic": "/'elifәnt/",
+      "partOfSpeech": "n.",
+      "meaning": "象",
+      "wordForms": "原文词形：elephant",
+      "sentence": "Jack and Annie stood frozen as an elephant stepped out of the shadows.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-06/elephant.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ph",
+          "sound": "/f/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "象",
+        "宽慰；如释重负",
+        "（鸟）鸣啭；叽喳叫"
+      ]
+    },
+    {
+      "id": "trunk",
+      "word": "trunk",
+      "forms": [
+        "trunk"
+      ],
+      "tier": "core",
+      "phonetic": "/trʌŋk/",
+      "partOfSpeech": "n.",
+      "meaning": "象鼻；树干",
+      "wordForms": "原文词形：trunk",
+      "sentence": "It waded into the pond and dipped its trunk into the water.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-06/trunk.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "象鼻；树干",
+        "宽慰；如释重负",
+        "使分心；岔开话题"
+      ]
+    },
+    {
+      "id": "relief",
+      "word": "relief",
+      "forms": [
+        "relief"
+      ],
+      "tier": "core",
+      "phonetic": "/ri'li:f/",
+      "partOfSpeech": "n.",
+      "meaning": "宽慰；如释重负",
+      "wordForms": "原文词形：relief",
+      "sentence": "Jack breathed a sigh of relief.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-06/relief.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "宽慰；如释重负",
+        "（鸟）鸣啭；叽喳叫",
+        "轻快地飞；掠过"
+      ]
+    },
+    {
+      "id": "sidetracked",
+      "word": "sidetrack",
+      "forms": [
+        "sidetrack",
+        "sidetracked"
+      ],
+      "tier": "core",
+      "phonetic": "/'saidtræk/",
+      "partOfSpeech": "v.",
+      "meaning": "使分心；岔开话题",
+      "wordForms": "原文词形：sidetracked",
+      "sentence": "He was tired of Annie getting sidetracked.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-06/sidetracked.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "使分心；岔开话题",
+        "象鼻；树干",
+        "象"
+      ]
+    },
+    {
+      "id": "spray",
+      "word": "spray",
+      "forms": [
+        "spray"
+      ],
+      "tier": "core",
+      "phonetic": "/sprei/",
+      "partOfSpeech": "n.",
+      "meaning": "水沫；浪花",
+      "wordForms": "原文词形：spray",
+      "sentence": "A spray of water rained down on him.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-06/spray.mp3",
+      "phonics": [
+        {
+          "letters": "spr",
+          "sound": "/spr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "水沫；浪花",
+        "（鸟）鸣啭；叽喳叫",
+        "哼声；呼噜声"
+      ]
+    },
+    {
+      "id": "grunt",
+      "word": "grunt",
+      "forms": [
+        "grunt"
+      ],
+      "tier": "core",
+      "phonetic": "/grʌnt/",
+      "partOfSpeech": "n.",
+      "meaning": "哼声；呼噜声",
+      "wordForms": "原文词形：grunt",
+      "sentence": "When Jack was clean, the elephant let out a grunt.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-06/grunt.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "哼声；呼噜声",
+        "象",
+        "水沫；浪花"
+      ]
+    },
+    {
+      "id": "flitted",
+      "word": "flit",
+      "forms": [
+        "flit",
+        "flitted"
+      ],
+      "tier": "core",
+      "phonetic": "/flit/",
+      "partOfSpeech": "v.",
+      "meaning": "轻快地飞；掠过",
+      "wordForms": "原文词形：flitted",
+      "sentence": "A small bird flitted near his head.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-06/flitted.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "轻快地飞；掠过",
+        "宽慰；如释重负",
+        "象鼻；树干"
+      ]
+    },
+    {
+      "id": "twittered",
+      "word": "twitter",
+      "forms": [
+        "twitter",
+        "twittered"
+      ],
+      "tier": "core",
+      "phonetic": "/'twitә/",
+      "partOfSpeech": "v.",
+      "meaning": "（鸟）鸣啭；叽喳叫",
+      "wordForms": "原文词形：twittered",
+      "sentence": "The bird twittered and flew around Jack and Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-06/twittered.mp3",
+      "phonics": [
+        {
+          "letters": "tw",
+          "sound": "/tw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "（鸟）鸣啭；叽喳叫",
+        "哼声；呼噜声",
+        "水沫；浪花"
+      ]
+    }
+  ]
+}

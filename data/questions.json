@@ -11020,6 +11020,1084 @@
           ]
         }
       ]
+    },
+    {
+      "book": 11,
+      "book_title": "Lions at Lunchtime",
+      "book_title_cn": "狮口大逃亡",
+      "chapters": [
+        {
+          "book": 11,
+          "chapter": 1,
+          "chapter_title": "Before Lunch",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What did Jack’s heavy pack hold as he walked home from the grocery store?",
+              "options": {
+                "A": "Two ancient scrolls and a book.",
+                "B": "A big jar of peanut butter and a loaf of bread.",
+                "C": "A notebook, a pencil, and a camera.",
+                "D": "A cowboy hat and a pair of boots."
+              },
+              "answer": "B",
+              "evidence": [
+                "It held a big jar of peanut butter and a loaf of bread."
+              ],
+              "rationale": "原文直接写到：A big jar of peanut butter and a loaf of bread.",
+              "id": "B11C1Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "In “a small, delicate animal,” the word “delicate” most nearly means ___.",
+              "options": {
+                "A": "凶猛危险的",
+                "B": "又高又壮的",
+                "C": "肮脏的",
+                "D": "娇小柔弱的"
+              },
+              "answer": "D",
+              "evidence": [
+                "In the shadows stood a small, delicate animal."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“娇小柔弱的”。",
+              "id": "B11C1Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens FIRST in this chapter?",
+              "options": {
+                "A": "Jack and Annie follow the gazelle into the woods.",
+                "B": "Morgan hands Annie the third riddle.",
+                "C": "Annie makes a wish to go to Africa.",
+                "D": "Jack opens the book to a picture of African animals."
+              },
+              "answer": "A",
+              "evidence": [
+                "They followed as fast as they could."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：Jack and Annie follow the gazelle into the woods.",
+              "id": "B11C1Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why do Jack and Annie want to become Master Librarians?",
+              "options": {
+                "A": "So they can keep the magic books forever.",
+                "B": "So they can live in the tree house.",
+                "C": "So they can help Morgan in her work.",
+                "D": "So they never have to go home."
+              },
+              "answer": "C",
+              "evidence": [
+                "So you can help me in my work?"
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：So they can help Morgan in her work.",
+              "id": "B11C1Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What can you tell about the magic tree house from the end of the chapter?",
+              "options": {
+                "A": "It carries them to the place in the picture when they make a wish.",
+                "B": "It only travels exactly at noon.",
+                "C": "It cannot move unless Morgan is inside.",
+                "D": "It flies slowly like a bird."
+              },
+              "answer": "A",
+              "evidence": [
+                "I wish we could go there,",
+                "The tree house had started to spin."
+              ],
+              "rationale": "原文细节支持这一推断：It carries them to the place in the picture when they make a wish.",
+              "id": "B11C1Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 11,
+          "chapter": 2,
+          "chapter_title": "Jump, Beasts! Jump!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What was eating leaves off the tree outside the tree house window?",
+              "options": {
+                "A": "A zebra.",
+                "B": "A gazelle.",
+                "C": "A giraffe.",
+                "D": "An elephant."
+              },
+              "answer": "C",
+              "evidence": [
+                "A giraffe was eating leaves off the tree."
+              ],
+              "rationale": "原文直接写到：A giraffe.",
+              "id": "B11C2Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Jack explains that to “migrate” means to ___.",
+              "options": {
+                "A": "一年中去别的地方待一段时间",
+                "B": "整天睡大觉",
+                "C": "互相打架",
+                "D": "停在原地不动"
+              },
+              "answer": "A",
+              "evidence": [
+                "It means they go someplace else for part of the year"
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“一年中去别的地方待一段时间”。",
+              "id": "B11C2Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does Annie leave the tree house and head for the river?",
+              "options": {
+                "A": "To look for the hidden lions.",
+                "B": "To find Morgan le Fay.",
+                "C": "To wash the mud off her clothes.",
+                "D": "To help the wild beasts migrate across the river."
+              },
+              "answer": "D",
+              "evidence": [
+                "I have to help them migrate."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：To help the wild beasts migrate across the river.",
+              "id": "B11C2Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "Jack reads aloud about the animals migrating.",
+                "B": "Annie walks through the tall grass between the zebras and giraffes.",
+                "C": "Annie shouts, “Jump, beasts! Jump!”",
+                "D": "A giraffe eats leaves outside the window."
+              },
+              "answer": "B",
+              "evidence": [
+                "she started to walk through the tall grass, between the zebras and giraffes."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：Annie walks through the tall grass between the zebras and giraffes.",
+              "id": "B11C2Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "The repeated question “Where are the lions?” shows that Jack is mainly ___.",
+              "options": {
+                "A": "bored with the trip",
+                "B": "hoping to pet a lion",
+                "C": "looking for Morgan",
+                "D": "worried about running into the lions"
+              },
+              "answer": "D",
+              "evidence": [
+                "Where are the lions?"
+              ],
+              "rationale": "原文细节支持这一推断：worried about running into the lions",
+              "id": "B11C2Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 11,
+          "chapter": 3,
+          "chapter_title": "Disaster",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "According to the Africa book, why do lions tend to avoid giraffes?",
+              "options": {
+                "A": "The giraffe has a very powerful kick.",
+                "B": "Giraffes are too tall to catch.",
+                "C": "Giraffes can run much faster than lions.",
+                "D": "Giraffes travel in huge herds."
+              },
+              "answer": "A",
+              "evidence": [
+                "The giraffe has a very powerful kick, which makes it dangerous to attack."
+              ],
+              "rationale": "原文直接写到：The giraffe has a very powerful kick.",
+              "id": "B11C3Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Why must every baby zebra learn its own mother’s pattern?",
+              "options": {
+                "A": "Because zebras cannot see colors.",
+                "B": "Because mothers change their stripes each year.",
+                "C": "Because baby zebras live far from their mothers.",
+                "D": "Because no two zebras have exactly the same pattern of stripes."
+              },
+              "answer": "D",
+              "evidence": [
+                "no two zebras have exactly the same pattern of stripes"
+              ],
+              "rationale": "原文直接写到：Because no two zebras have exactly the same pattern of stripes.",
+              "id": "B11C3Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which sentence best summarizes this chapter?",
+              "options": {
+                "A": "Jack and Annie ride a giraffe to safety past the lions.",
+                "B": "While Jack stops to study the animals and take notes, Annie suddenly disappears near the river.",
+                "C": "An elephant sprays Jack and Annie until they are clean.",
+                "D": "Jack and Annie share a picnic with a Masai warrior."
+              },
+              "answer": "B",
+              "evidence": [
+                "She had vanished."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：While Jack stops to study the animals and take notes, Annie suddenly disappears near the river.",
+              "id": "B11C3Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "“She had vanished” tells you that Annie had ___.",
+              "options": {
+                "A": "睡着了",
+                "B": "大声喊叫",
+                "C": "消失不见了",
+                "D": "过了河"
+              },
+              "answer": "C",
+              "evidence": [
+                "She had completely disappeared."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“消失不见了”。",
+              "id": "B11C3Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does Jack run as fast as he can at the end of the chapter?",
+              "options": {
+                "A": "A lion is chasing him.",
+                "B": "Annie has disappeared and is calling for help.",
+                "C": "He wants to be first across the river.",
+                "D": "He has dropped his notebook in the grass."
+              },
+              "answer": "B",
+              "evidence": [
+                "“Help!” called Annie."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：Annie has disappeared and is calling for help.",
+              "id": "B11C3Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 11,
+          "chapter": 4,
+          "chapter_title": "Mud Bath",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What had Annie fallen into near the water?",
+              "options": {
+                "A": "The rushing river.",
+                "B": "A deep, dark hole.",
+                "C": "A patch of thorns.",
+                "D": "A pool of mud."
+              },
+              "answer": "D",
+              "evidence": [
+                "Annie had fallen into a pool of mud near the water."
+              ],
+              "rationale": "原文直接写到：A pool of mud.",
+              "id": "B11C4Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What did Jack use to reach Annie and pull her toward the roots?",
+              "options": {
+                "A": "A long rope.",
+                "B": "His backpack strap.",
+                "C": "A fallen tree branch.",
+                "D": "A giraffe’s neck."
+              },
+              "answer": "C",
+              "evidence": [
+                "He saw a fallen tree branch near the bank."
+              ],
+              "rationale": "原文直接写到：A fallen tree branch.",
+              "id": "B11C4Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does Jack say “Uh-oh” when a shadow passes over them?",
+              "options": {
+                "A": "A huge vulture is circling overhead.",
+                "B": "A lion has appeared on the bank.",
+                "C": "A storm cloud has blocked the sun.",
+                "D": "The wildebeests have reached them."
+              },
+              "answer": "A",
+              "evidence": [
+                "A huge vulture circled overhead."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：A huge vulture is circling overhead.",
+              "id": "B11C4Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "When Jack says “Concentrate, Annie,” he wants her to ___.",
+              "options": {
+                "A": "大声呼救",
+                "B": "集中注意力",
+                "C": "松开树枝",
+                "D": "游到对岸"
+              },
+              "answer": "B",
+              "evidence": [
+                "“Concentrate, Annie,” said Jack"
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“集中注意力”。",
+              "id": "B11C4Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "How does Annie finally pull herself free of the mud?",
+              "options": {
+                "A": "She lets go of the branch and grabs the tree roots.",
+                "B": "The wildebeests push her out.",
+                "C": "Jack lifts her out with the branch alone.",
+                "D": "The vulture frightens the mud away."
+              },
+              "answer": "A",
+              "evidence": [
+                "She lunged for the roots. She grabbed them!"
+              ],
+              "rationale": "原文细节支持这一推断：She lets go of the branch and grabs the tree roots.",
+              "id": "B11C4Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 11,
+          "chapter": 5,
+          "chapter_title": "Ha-Ha",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "How does Annie get the swimming wildebeests to a safe spot?",
+              "options": {
+                "A": "She throws grass to lead them.",
+                "B": "She waves them in like a traffic policeman.",
+                "C": "She builds a little bridge.",
+                "D": "She rides across on one of them."
+              },
+              "answer": "B",
+              "evidence": [
+                "She waved them in like a traffic policeman."
+              ],
+              "rationale": "原文直接写到：She waves them in like a traffic policeman.",
+              "id": "B11C5Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Jack says a “predator” is an animal that ___.",
+              "options": {
+                "A": "捕捉并吃掉别的动物",
+                "B": "只吃青草",
+                "C": "会像人一样大笑",
+                "D": "帮助别的动物过河"
+              },
+              "answer": "A",
+              "evidence": [
+                "It means it catches things and eats them,"
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“捕捉并吃掉别的动物”。",
+              "id": "B11C5Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "According to the book, what does the hyena have a reputation for being?",
+              "options": {
+                "A": "A brave hunter.",
+                "B": "A loyal friend.",
+                "C": "A thief and a coward.",
+                "D": "The fastest runner."
+              },
+              "answer": "C",
+              "evidence": [
+                "The hyena has a reputation for being a thief and a coward."
+              ],
+              "rationale": "原文直接写到：A thief and a coward.",
+              "id": "B11C5Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why do Jack and Annie make monster faces and rush at the hyenas?",
+              "options": {
+                "A": "To make the hyenas laugh with them.",
+                "B": "To catch a hyena for the book.",
+                "C": "To warn the drinking zebras.",
+                "D": "To scare the hyenas away."
+              },
+              "answer": "D",
+              "evidence": [
+                "The hyenas yelped and scurried off."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：To scare the hyenas away.",
+              "id": "B11C5Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "The wildebeests scramble safely over the riverbank.",
+                "B": "Two laughing hyenas move closer to Jack and Annie.",
+                "C": "Something very big begins coming out of the trees by the pond.",
+                "D": "Annie waves the wildebeests toward a sandy spot."
+              },
+              "answer": "C",
+              "evidence": [
+                "something very big was coming out of the trees."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：Something very big begins coming out of the trees by the pond.",
+              "id": "B11C5Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 11,
+          "chapter": 6,
+          "chapter_title": "Spick-and-Span",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What steps out of the shadows and wades into the pond?",
+              "options": {
+                "A": "A lion.",
+                "B": "A hyena.",
+                "C": "An elephant.",
+                "D": "A giraffe."
+              },
+              "answer": "C",
+              "evidence": [
+                "an elephant stepped out of the shadows."
+              ],
+              "rationale": "原文直接写到：An elephant.",
+              "id": "B11C6Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "How does the elephant get Jack and Annie clean?",
+              "options": {
+                "A": "It rolls them in soft grass.",
+                "B": "It sprays them with water from its trunk.",
+                "C": "It wipes them with big leaves.",
+                "D": "It nudges them into the deep pond."
+              },
+              "answer": "B",
+              "evidence": [
+                "He’s giving me a shower!"
+              ],
+              "rationale": "原文直接写到：It sprays them with water from its trunk.",
+              "id": "B11C6Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Annie says she is “spick-and-span” now, which means she is ___.",
+              "options": {
+                "A": "又累又饿的",
+                "B": "满身泥巴的",
+                "C": "冷得发抖的",
+                "D": "干干净净的"
+              },
+              "answer": "D",
+              "evidence": [
+                "Finally, she was clean and soaking wet."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“干干净净的”。",
+              "id": "B11C6Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does Annie decide to follow the little gray bird?",
+              "options": {
+                "A": "She feels the bird needs help and is trying to tell them something.",
+                "B": "The bird has stolen her backpack.",
+                "C": "Jack orders her to chase it.",
+                "D": "She wants to catch it for the elephant."
+              },
+              "answer": "A",
+              "evidence": [
+                "She’s trying to tell us something,"
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：She feels the bird needs help and is trying to tell them something.",
+              "id": "B11C6Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What is Jack afraid they might run into in the forest?",
+              "options": {
+                "A": "Another elephant.",
+                "B": "The two hyenas again.",
+                "C": "A Masai warrior.",
+                "D": "A snake or a lion."
+              },
+              "answer": "D",
+              "evidence": [
+                "a snake or a lion,"
+              ],
+              "rationale": "原文细节支持这一推断：A snake or a lion.",
+              "id": "B11C6Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 11,
+          "chapter": 7,
+          "chapter_title": "Hi, There",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What is the round brown thing hanging from the low branch?",
+              "options": {
+                "A": "A beehive.",
+                "B": "A bird’s nest.",
+                "C": "A basket of fruit.",
+                "D": "A honeycomb lantern."
+              },
+              "answer": "A",
+              "evidence": [
+                "It’s a beehive."
+              ],
+              "rationale": "原文直接写到：A beehive.",
+              "id": "B11C7Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What is the little gray bird called?",
+              "options": {
+                "A": "A honeybird.",
+                "B": "A Masai finch.",
+                "C": "A honey guide.",
+                "D": "A bee-eater."
+              },
+              "answer": "C",
+              "evidence": [
+                "This bird is called a honey guide."
+              ],
+              "rationale": "原文直接写到：A honey guide.",
+              "id": "B11C7Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "How do Jack and Annie make the bees scatter?",
+              "options": {
+                "A": "They light a small smoky fire.",
+                "B": "They splash water on the hive.",
+                "C": "They shout loudly at the bees.",
+                "D": "They wave giant fan-like weeds near the tree."
+              },
+              "answer": "D",
+              "evidence": [
+                "They waved them near the tree, and the bees scattered."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：They wave giant fan-like weeds near the tree.",
+              "id": "B11C7Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which sentence best summarizes this chapter?",
+              "options": {
+                "A": "Jack and Annie ride a giraffe safely past the sleeping lions.",
+                "B": "A honey guide leads Jack and Annie to a beehive; they take the honey, solve the riddle, and meet a Masai warrior.",
+                "C": "An elephant sprays Jack and Annie until the mud is gone.",
+                "D": "Annie sinks into a mud hole and Jack pulls her out."
+              },
+              "answer": "B",
+              "evidence": [
+                "This bird is called a honey guide."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：A honey guide leads Jack and Annie to a beehive; they take the honey, solve the riddle, and meet a Masai warrior.",
+              "id": "B11C7Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "What is the answer to Morgan’s riddle?",
+              "options": {
+                "A": "A giraffe.",
+                "B": "Honey.",
+                "C": "The magic tree house.",
+                "D": "A gazelle."
+              },
+              "answer": "B",
+              "evidence": [
+                "We’ve answered Morgan’s riddle."
+              ],
+              "rationale": "原文细节支持这一推断：Honey.",
+              "id": "B11C7Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 11,
+          "chapter": 8,
+          "chapter_title": "Yum",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What does Jack finally offer the warrior from his pack?",
+              "options": {
+                "A": "His Africa book.",
+                "B": "Only the honeycomb.",
+                "C": "His backpack and notebook.",
+                "D": "Peanut butter and bread to make a sandwich."
+              },
+              "answer": "D",
+              "evidence": [
+                "How about a peanut butter and honey sandwich?"
+              ],
+              "rationale": "原文直接写到：Peanut butter and bread to make a sandwich.",
+              "id": "B11C8Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why do Jack and Annie make sandwiches for themselves too?",
+              "options": {
+                "A": "So the warrior doesn’t have to eat alone.",
+                "B": "Because they are suddenly very hungry.",
+                "C": "To use up the last of the bread.",
+                "D": "To show the warrior how to chew."
+              },
+              "answer": "A",
+              "evidence": [
+                "So he doesn’t have to eat alone."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：So the warrior doesn’t have to eat alone.",
+              "id": "B11C8Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "The warrior had a “dignified” smile. “Dignified” most nearly means ___.",
+              "options": {
+                "A": "害怕紧张的",
+                "B": "庄重而有尊严的",
+                "C": "愤怒的",
+                "D": "滑稽可笑的"
+              },
+              "answer": "B",
+              "evidence": [
+                "He had a kind, dignified smile."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“庄重而有尊严的”。",
+              "id": "B11C8Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "The warrior bites into his sandwich.",
+                "B": "They eat their sandwiches in silence.",
+                "C": "They see a bunch of lions sleeping under the tree that holds the tree house.",
+                "D": "The warrior vanishes gracefully into the trees."
+              },
+              "answer": "C",
+              "evidence": [
+                "they saw a bunch of lions sleeping in the shade of a tree"
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：They see a bunch of lions sleeping under the tree that holds the tree house.",
+              "id": "B11C8Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "How does the warrior feel about Jack and Annie by the end of the picnic?",
+              "options": {
+                "A": "Angry that they took his honey.",
+                "B": "Frightened of the two children.",
+                "C": "Friendly—he smiles kindly before leaving in peace.",
+                "D": "Bored and ready to ignore them."
+              },
+              "answer": "C",
+              "evidence": [
+                "The warrior smiled. He had a kind, dignified smile."
+              ],
+              "rationale": "原文细节支持这一推断：Friendly—he smiles kindly before leaving in peace.",
+              "id": "B11C8Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 11,
+          "chapter": 9,
+          "chapter_title": "Tiptoe",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "According to the book, what do the other animals do while the lions rest after eating?",
+              "options": {
+                "A": "They run far away.",
+                "B": "They graze nearby.",
+                "C": "They hide up in the trees.",
+                "D": "They attack the sleeping lions."
+              },
+              "answer": "B",
+              "evidence": [
+                "the other animals graze nearby."
+              ],
+              "rationale": "原文直接写到：They graze nearby.",
+              "id": "B11C9Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What is Jack’s first plan for getting past the lions?",
+              "options": {
+                "A": "To ride away on a giraffe.",
+                "B": "To wait until it gets dark.",
+                "C": "To tiptoe very quietly to the rope ladder.",
+                "D": "To scare them with monster faces."
+              },
+              "answer": "C",
+              "evidence": [
+                "tiptoe to the rope ladder,"
+              ],
+              "rationale": "原文直接写到：To tiptoe very quietly to the rope ladder.",
+              "id": "B11C9Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "What makes the big lion wake up and finally sit straight up?",
+              "options": {
+                "A": "Jack shouting his new plan.",
+                "B": "The giraffe stepping on its tail.",
+                "C": "The tree house beginning to spin.",
+                "D": "The hyenas’ sudden high-pitched laughter."
+              },
+              "answer": "D",
+              "evidence": [
+                "high-pitched laughter split the air."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：The hyenas’ sudden high-pitched laughter.",
+              "id": "B11C9Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How do Jack and Annie finally reach the rope ladder safely?",
+              "options": {
+                "A": "They walk under a giraffe, moving in the same rhythm, because lions avoid giraffes.",
+                "B": "They simply outrun the lion to the ladder.",
+                "C": "The Masai warrior carries them.",
+                "D": "The elephant sprays the lion away."
+              },
+              "answer": "A",
+              "evidence": [
+                "Get under that giraffe,"
+              ],
+              "rationale": "结合人物与事件的关系，正确的是：They walk under a giraffe, moving in the same rhythm, because lions avoid giraffes.",
+              "id": "B11C9Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "Why does Jack’s giraffe plan work?",
+              "options": {
+                "A": "Because giraffes can run faster than lions.",
+                "B": "Because the giraffe fights off the lion.",
+                "C": "Because giraffes make the children invisible.",
+                "D": "Because lions tend to avoid giraffes, so hiding under one keeps them safe."
+              },
+              "answer": "D",
+              "evidence": [
+                "He remembered something he’d read—lions avoid giraffes."
+              ],
+              "rationale": "原文细节支持这一推断：Because lions tend to avoid giraffes, so hiding under one keeps them safe.",
+              "id": "B11C9Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 11,
+          "chapter": 10,
+          "chapter_title": "After Lunch",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What does Annie say was the “true honey” of the trip?",
+              "options": {
+                "A": "The giraffe—sweet and golden, with danger all around it.",
+                "B": "The honey from the beehive.",
+                "C": "The jar of peanut butter.",
+                "D": "Morgan’s ancient scroll."
+              },
+              "answer": "A",
+              "evidence": [
+                "The giraffe was the true honey on that trip,"
+              ],
+              "rationale": "原文直接写到：The giraffe—sweet and golden, with danger all around it.",
+              "id": "B11C10Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens FIRST after they return to the tree house?",
+              "options": {
+                "A": "They cross their yard and go through the front door.",
+                "B": "They start up their sunny street.",
+                "C": "They leave the Frog Creek woods.",
+                "D": "Jack puts the Africa book with the other books."
+              },
+              "answer": "D",
+              "evidence": [
+                "put it with the other books."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：Jack puts the Africa book with the other books.",
+              "id": "B11C10Q2",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why do Jack and Annie decide to just say they ate their sandwiches on the way home?",
+              "options": {
+                "A": "They are not hungry for lunch.",
+                "B": "They have lost the sandwiches.",
+                "C": "The real story is far too long and strange to explain to Mom.",
+                "D": "Their mom already saw the whole trip."
+              },
+              "answer": "C",
+              "evidence": [
+                "it’s a really long story,"
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：The real story is far too long and strange to explain to Mom.",
+              "id": "B11C10Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Based on this last chapter, which best summarizes the whole adventure?",
+              "options": {
+                "A": "Jack and Annie explored a Wild West ghost town.",
+                "B": "On an African trip Jack and Annie survived mud, hyenas, and lions, shared a picnic with a Masai warrior, and answered Morgan’s riddle—honey.",
+                "C": "Jack and Annie bounced across the moon.",
+                "D": "Jack and Annie tamed a wild mustang."
+              },
+              "answer": "B",
+              "evidence": [
+                "a giraffe saved us from a lion."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：On an African trip Jack and Annie survived mud, hyenas, and lions, shared a picnic with a Masai warrior, and answered Morgan’s riddle—honey.",
+              "id": "B11C10Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Jack’s heart was still “racing.” Here “racing” means his heart was ___.",
+              "options": {
+                "A": "停止了跳动",
+                "B": "剧烈地快速跳动",
+                "C": "慢慢平静下来",
+                "D": "发出很大声响"
+              },
+              "answer": "B",
+              "evidence": [
+                "His heart was still racing."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“剧烈地快速跳动”。",
+              "id": "B11C10Q5",
+              "difficulty": "基础"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

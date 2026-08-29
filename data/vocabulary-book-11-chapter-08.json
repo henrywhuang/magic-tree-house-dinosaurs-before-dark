@@ -1,0 +1,346 @@
+{
+  "book": 11,
+  "chapter": 8,
+  "title": "Yum",
+  "words": [
+    {
+      "id": "trespassing",
+      "word": "trespassing",
+      "forms": [
+        "trespassing"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈtrespəsɪŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "擅自进入；非法侵入",
+      "wordForms": "原文词形：trespassing",
+      "sentence": "“I’m sorry we were trespassing,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-08/trespassing.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "擅自进入；非法侵入",
+        "礼物；赠品",
+        "野餐；远足"
+      ]
+    },
+    {
+      "id": "peace",
+      "word": "peace",
+      "forms": [
+        "peace"
+      ],
+      "tier": "core",
+      "phonetic": "/pi:s/",
+      "partOfSpeech": "n.",
+      "meaning": "和平；和约",
+      "wordForms": "原文词形：peace",
+      "sentence": "“We come in peace.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-08/peace.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "和平；和约",
+        "礼物；赠品",
+        "优雅地；从容地"
+      ]
+    },
+    {
+      "id": "gifts",
+      "word": "gift",
+      "forms": [
+        "gift",
+        "gifts"
+      ],
+      "tier": "core",
+      "phonetic": "/gift/",
+      "partOfSpeech": "n.",
+      "meaning": "礼物；赠品",
+      "wordForms": "原文词形：gifts",
+      "sentence": "In fact, we bring gifts.”",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-08/gifts.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ft",
+          "sound": "/ft/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "礼物；赠品",
+        "擅自进入；非法侵入",
+        "和平；和约"
+      ]
+    },
+    {
+      "id": "picnic",
+      "word": "picnic",
+      "forms": [
+        "picnic"
+      ],
+      "tier": "core",
+      "phonetic": "/'piknik/",
+      "partOfSpeech": "n.",
+      "meaning": "野餐；远足",
+      "wordForms": "原文词形：picnic",
+      "sentence": "“This is called a picnic,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-08/picnic.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "野餐；远足",
+        "有尊严的；高尚的",
+        "擅自进入；非法侵入"
+      ]
+    },
+    {
+      "id": "screwed",
+      "word": "screw",
+      "forms": [
+        "screw",
+        "screwed"
+      ],
+      "tier": "core",
+      "phonetic": "/skru:/",
+      "partOfSpeech": "v.",
+      "meaning": "拧紧；旋上",
+      "wordForms": "原文词形：screwed",
+      "sentence": "When they finished, Jack screwed the lid back on the peanut butter jar.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-08/screwed.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ew",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "拧紧；旋上",
+        "有尊严的；高尚的",
+        "优雅地；从容地"
+      ]
+    },
+    {
+      "id": "dignified",
+      "word": "dignified",
+      "forms": [
+        "dignified"
+      ],
+      "tier": "core",
+      "phonetic": "/'dignifaid/",
+      "partOfSpeech": "adj.",
+      "meaning": "有尊严的；高尚的",
+      "wordForms": "原文词形：dignified",
+      "sentence": "He had a kind, dignified smile.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-08/dignified.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "有尊严的；高尚的",
+        "和平；和约",
+        "优雅地；从容地"
+      ]
+    },
+    {
+      "id": "gracefully",
+      "word": "gracefully",
+      "forms": [
+        "gracefully"
+      ],
+      "tier": "core",
+      "phonetic": "/'greisful/",
+      "partOfSpeech": "adv.",
+      "meaning": "优雅地；从容地",
+      "wordForms": "原文词形：gracefully",
+      "sentence": "Then the warrior turned gracefully and vanished into the trees.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-08/gracefully.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "优雅地；从容地",
+        "有尊严的；高尚的",
+        "礼物；赠品"
+      ]
+    }
+  ]
+}

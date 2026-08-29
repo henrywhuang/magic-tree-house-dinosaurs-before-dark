@@ -1,0 +1,327 @@
+{
+  "book": 11,
+  "chapter": 2,
+  "title": "Jump, Beasts! Jump!",
+  "words": [
+    {
+      "id": "rustling",
+      "word": "rustling",
+      "forms": [
+        "rustling"
+      ],
+      "tier": "core",
+      "phonetic": "/'rʌsliθ/",
+      "partOfSpeech": "n.",
+      "meaning": "沙沙声；瑟瑟声",
+      "wordForms": "原文词形：rustling",
+      "sentence": "A rustling sound came from outside the window.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-02/rustling.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "沙沙声；瑟瑟声",
+        "吃草；放牧",
+        "迁徙；迁移"
+      ]
+    },
+    {
+      "id": "plain",
+      "word": "plain",
+      "forms": [
+        "plain"
+      ],
+      "tier": "core",
+      "phonetic": "/plein/",
+      "partOfSpeech": "n.",
+      "meaning": "平原；草原",
+      "wordForms": "原文词形：plain",
+      "sentence": "He saw a huge grassy plain, a wide river, and tons of birds and animals—more than he had ever imagined in one place.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-02/plain.mp3",
+      "phonics": [
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "平原；草原",
+        "野兽；牲畜",
+        "紧张地；不安地"
+      ]
+    },
+    {
+      "id": "wildebeests",
+      "word": "wildebeest",
+      "forms": [
+        "wildebeest",
+        "wildebeests"
+      ],
+      "tier": "core",
+      "phonetic": "/'wi:ldәbi:st/",
+      "partOfSpeech": "n.",
+      "meaning": "角马；牛羚",
+      "wordForms": "原文词形：wildebeests",
+      "sentence": "He read aloud:Every year, in late spring, thousands of zebras and gazelles and millions of wildebeests (WILL-dubbeests) migrate from the dry plains of Tanzania to Kenya.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-02/wildebeests.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "est",
+          "sound": "/ɪst/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "角马；牛羚",
+        "平原；草原",
+        "吃草；放牧"
+      ]
+    },
+    {
+      "id": "migrate",
+      "word": "migrate",
+      "forms": [
+        "migrate"
+      ],
+      "tier": "core",
+      "phonetic": "/'maigreit/",
+      "partOfSpeech": "v.",
+      "meaning": "迁徙；迁移",
+      "wordForms": "原文词形：migrate",
+      "sentence": "He read aloud:Every year, in late spring, thousands of zebras and gazelles and millions of wildebeests (WILL-dubbeests) migrate from the dry plains of Tanzania to Kenya.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-02/migrate.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "迁徙；迁移",
+        "沙沙声；瑟瑟声",
+        "吃草；放牧"
+      ]
+    },
+    {
+      "id": "beasts",
+      "word": "beast",
+      "forms": [
+        "beast",
+        "beasts"
+      ],
+      "tier": "core",
+      "phonetic": "/bi:st/",
+      "partOfSpeech": "n.",
+      "meaning": "野兽；牲畜",
+      "wordForms": "原文词形：beasts",
+      "sentence": "“Poor beasts.”",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-02/beasts.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "野兽；牲畜",
+        "紧张地；不安地",
+        "吃草；放牧"
+      ]
+    },
+    {
+      "id": "nervously",
+      "word": "nervously",
+      "forms": [
+        "nervously"
+      ],
+      "tier": "core",
+      "phonetic": "/'nә:vәs/",
+      "partOfSpeech": "adv.",
+      "meaning": "紧张地；不安地",
+      "wordForms": "原文词形：nervously",
+      "sentence": "They stared down nervously at the rushing water.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-02/nervously.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "紧张地；不安地",
+        "平原；草原",
+        "迁徙；迁移"
+      ]
+    },
+    {
+      "id": "grazing",
+      "word": "graze",
+      "forms": [
+        "graze",
+        "grazing"
+      ],
+      "tier": "core",
+      "phonetic": "/greiz/",
+      "partOfSpeech": "v.",
+      "meaning": "吃草；放牧",
+      "wordForms": "原文词形：grazing",
+      "sentence": "The zebras were grazing in the grass.",
+      "sentenceAudio": "assets/audio/sentences/book-11-chapter-02/grazing.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "吃草；放牧",
+        "沙沙声；瑟瑟声",
+        "平原；草原"
+      ]
+    }
+  ]
+}
