@@ -22,6 +22,11 @@ python3 -m http.server 8080
 - `data/`：逐词时间戳、三场景分页正文与统一题库 `questions.json`。
 - `project-skills/`：标准、测评蓝图与具体命题规范。
 
+## Word 版直接下载
+
+- [Book 11 · Lions at Lunchtime（Word版）](https://github.com/pumo0926-cpu/magic-tree-house-dinosaurs-before-dark/releases/download/word-books-v1/Book-11-Lions-at-Lunchtime-Word.docx)
+- [Book 14 · Day of the Dragon King（Word版）](https://github.com/pumo0926-cpu/magic-tree-house-dinosaurs-before-dark/releases/download/word-books-v1/Book-14-Day-of-the-Dragon-King-Word.docx)
+
 ## 扩展新读物
 
 在 `app.js` 的 `BOOKS` 中追加一条带稳定 `id` 的配置，首页书卡、侧边目录、分册徽章和进度会自动生成。成就等级每完成 10 章提升一级，不以当前总书数作分母，因此新书上线不会让旧用户的等级倒退。完成记录使用 `book-id:chapter-index` 作为主键，并自动迁移旧版的下标式记录。
