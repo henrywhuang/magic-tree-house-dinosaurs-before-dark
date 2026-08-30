@@ -1,0 +1,381 @@
+{
+  "book": 14,
+  "chapter": 1,
+  "title": "The Bamboo Book",
+  "words": [
+    {
+      "id": "library",
+      "word": "library",
+      "forms": [
+        "library"
+      ],
+      "tier": "core",
+      "phonetic": "/'laibrәri/",
+      "partOfSpeech": "n.",
+      "meaning": "图书馆；藏书",
+      "wordForms": "原文词形：library",
+      "sentence": "“Bring your secret library card,” Annie said.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-01/library.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "图书馆；藏书",
+        "冒险；冒险经历",
+        "想知道；纳闷"
+      ]
+    },
+    {
+      "id": "notebook",
+      "word": "notebook",
+      "forms": [
+        "notebook"
+      ],
+      "tier": "core",
+      "phonetic": "/'nәutbuk/",
+      "partOfSpeech": "n.",
+      "meaning": "笔记本；手册",
+      "wordForms": "原文词形：notebook",
+      "sentence": "Then he threw in his notebook and a pencil.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-01/notebook.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "笔记本；手册",
+        "梯子；阶梯",
+        "图书馆；藏书"
+      ]
+    },
+    {
+      "id": "whispered",
+      "word": "whisper",
+      "forms": [
+        "whisper",
+        "whispered"
+      ],
+      "tier": "core",
+      "phonetic": "/'hwispә/",
+      "partOfSpeech": "v.",
+      "meaning": "低声说；耳语",
+      "wordForms": "原文词形：whispered",
+      "sentence": "“If only she knew we weren’t pretending,” Jack whispered to Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-01/whispered.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "低声说；耳语",
+        "冒险；冒险经历",
+        "古代的；古老的"
+      ]
+    },
+    {
+      "id": "wonder",
+      "word": "wonder",
+      "forms": [
+        "wonder"
+      ],
+      "tier": "core",
+      "phonetic": "/'wʌndә/",
+      "partOfSpeech": "v.",
+      "meaning": "想知道；纳闷",
+      "wordForms": "原文词形：wonder",
+      "sentence": "“I wonder if the weather will be this nice in China,” Annie said.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-01/wonder.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "想知道；纳闷",
+        "传说；传奇故事",
+        "低声说；耳语"
+      ]
+    },
+    {
+      "id": "adventure",
+      "word": "adventure",
+      "forms": [
+        "adventure"
+      ],
+      "tier": "core",
+      "phonetic": "/әd'ventʃә/",
+      "partOfSpeech": "n.",
+      "meaning": "冒险；冒险经历",
+      "wordForms": "原文词形：adventure",
+      "sentence": "Remember, Morgan said this would be a very scary adventure,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-01/adventure.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ture",
+          "sound": "/tʃər/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "冒险；冒险经历",
+        "图书馆；藏书",
+        "古代的；古老的"
+      ]
+    },
+    {
+      "id": "ladder",
+      "word": "ladder",
+      "forms": [
+        "ladder"
+      ],
+      "tier": "core",
+      "phonetic": "/'lædә/",
+      "partOfSpeech": "n.",
+      "meaning": "梯子；阶梯",
+      "wordForms": "原文词形：ladder",
+      "sentence": "They grabbed the rope ladder and started up.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-01/ladder.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "梯子；阶梯",
+        "冒险；冒险经历",
+        "低声说；耳语"
+      ]
+    },
+    {
+      "id": "ancient",
+      "word": "ancient",
+      "forms": [
+        "ancient"
+      ],
+      "tier": "core",
+      "phonetic": "/'einʃәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "古代的；古老的",
+      "wordForms": "原文词形：ancient",
+      "sentence": "“You’re going to ancient China.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-01/ancient.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "古代的；古老的",
+        "图书馆；藏书",
+        "低声说；耳语"
+      ]
+    },
+    {
+      "id": "legend",
+      "word": "legend",
+      "forms": [
+        "legend"
+      ],
+      "tier": "core",
+      "phonetic": "/'ledʒәnd/",
+      "partOfSpeech": "n.",
+      "meaning": "传说；传奇故事",
+      "wordForms": "原文词形：legend",
+      "sentence": "These characters are the title of an ancient Chinese legend.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-01/legend.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "传说；传奇故事",
+        "梯子；阶梯",
+        "图书馆；藏书"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "book": 14,
+  "chapter": 8,
+  "title": "The Tomb",
+  "words": [
+    {
+      "id": "real",
+      "word": "real",
+      "forms": [
+        "real"
+      ],
+      "tier": "core",
+      "phonetic": "/'riәl/",
+      "partOfSpeech": "adj.",
+      "meaning": "真的；真实的",
+      "wordForms": "原文词形：real",
+      "sentence": "“They’re not real,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-08/real.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "真的；真实的",
+        "军队；陆军",
+        "黏土；陶土"
+      ]
+    },
+    {
+      "id": "soldiers",
+      "word": "soldier",
+      "forms": [
+        "soldier",
+        "soldier’s"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'sәuldʒә/",
+      "partOfSpeech": "n.",
+      "meaning": "士兵；军人",
+      "wordForms": "原文词形：soldier’s",
+      "sentence": "Annie pulled the soldier’s nose.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-08/soldiers.mp3"
+    },
+    {
+      "id": "army",
+      "word": "army",
+      "forms": [
+        "army"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɑ:mi/",
+      "partOfSpeech": "n.",
+      "meaning": "军队；陆军",
+      "wordForms": "原文词形：army",
+      "sentence": "He found a picture of the frozen army and read aloud: The Dragon King had 7,000 life-size clay figures made for his burial tomb.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-08/army.mp3",
+      "phonics": [
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "军队；陆军",
+        "真的；真实的",
+        "盔甲；铠甲"
+      ]
+    },
+    {
+      "id": "clay",
+      "word": "clay",
+      "forms": [
+        "clay"
+      ],
+      "tier": "core",
+      "phonetic": "/klei/",
+      "partOfSpeech": "n.",
+      "meaning": "黏土；陶土",
+      "wordForms": "原文词形：clay",
+      "sentence": "He found a picture of the frozen army and read aloud: The Dragon King had 7,000 life-size clay figures made for his burial tomb.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-08/clay.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "黏土；陶土",
+        "真的；真实的",
+        "迷路的；迷失方向的"
+      ]
+    },
+    {
+      "id": "tomb",
+      "word": "tomb",
+      "forms": [
+        "tomb"
+      ],
+      "tier": "core",
+      "phonetic": "/tu:m/",
+      "partOfSpeech": "n.",
+      "meaning": "坟墓；陵墓",
+      "wordForms": "原文词形：tomb",
+      "sentence": "He found a picture of the frozen army and read aloud: The Dragon King had 7,000 life-size clay figures made for his burial tomb.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-08/tomb.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "坟墓；陵墓",
+        "盔甲；铠甲",
+        "惊慌；慌乱"
+      ]
+    },
+    {
+      "id": "armor",
+      "word": "armor",
+      "forms": [
+        "armor"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɑ:mә/",
+      "partOfSpeech": "n.",
+      "meaning": "盔甲；铠甲",
+      "wordForms": "原文词形：armor",
+      "sentence": "There were kneeling archers and foot soldiers dressed in red and black armor.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-08/armor.mp3",
+      "phonics": [
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "盔甲；铠甲",
+        "军队；陆军",
+        "惊慌；慌乱"
+      ]
+    },
+    {
+      "id": "lost",
+      "word": "lost",
+      "forms": [
+        "lost"
+      ],
+      "tier": "core",
+      "phonetic": "/lɒst/",
+      "partOfSpeech": "adj.",
+      "meaning": "迷路的；迷失方向的",
+      "wordForms": "原文词形：lost",
+      "sentence": "“I think we’re lost,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-08/lost.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "迷路的；迷失方向的",
+        "坟墓；陵墓",
+        "惊慌；慌乱"
+      ]
+    },
+    {
+      "id": "panic",
+      "word": "panic",
+      "forms": [
+        "panic"
+      ],
+      "tier": "core",
+      "phonetic": "/'pænik/",
+      "partOfSpeech": "v.",
+      "meaning": "惊慌；慌乱",
+      "wordForms": "原文词形：panic",
+      "sentence": "Jack tried not to panic.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-08/panic.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "惊慌；慌乱",
+        "军队；陆军",
+        "黏土；陶土"
+      ]
+    }
+  ]
+}

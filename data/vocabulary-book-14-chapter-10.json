@@ -1,0 +1,401 @@
+{
+  "book": 14,
+  "chapter": 10,
+  "title": "The Ancient Legend",
+  "words": [
+    {
+      "id": "legend",
+      "word": "legend",
+      "forms": [
+        "legend"
+      ],
+      "tier": "core",
+      "phonetic": "/'ledʒәnd/",
+      "partOfSpeech": "n.",
+      "meaning": "传说；传奇故事",
+      "wordForms": "原文词形：legend",
+      "sentence": "“We brought you the ancient legend,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-10/legend.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "传说；传奇故事",
+        "故事；谎言",
+        "天上的；天国的"
+      ]
+    },
+    {
+      "id": "famous",
+      "word": "famous",
+      "forms": [
+        "famous"
+      ],
+      "tier": "core",
+      "phonetic": "/'feimәs/",
+      "partOfSpeech": "adj.",
+      "meaning": "出名的；极好的",
+      "wordForms": "原文词形：famous",
+      "sentence": "“It’s a very famous Chinese tale.”",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-10/famous.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "出名的；极好的",
+        "天上的；天国的",
+        "传说；传奇故事"
+      ]
+    },
+    {
+      "id": "tale",
+      "word": "tale",
+      "forms": [
+        "tale"
+      ],
+      "tier": "core",
+      "phonetic": "/teil/",
+      "partOfSpeech": "n.",
+      "meaning": "故事；谎言",
+      "wordForms": "原文词形：tale",
+      "sentence": "“It’s a very famous Chinese tale.”",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-10/tale.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "故事；谎言",
+        "祖先；祖宗",
+        "一起；共同"
+      ]
+    },
+    {
+      "id": "together",
+      "word": "together",
+      "forms": [
+        "together"
+      ],
+      "tier": "core",
+      "phonetic": "/tә'geðә/",
+      "partOfSpeech": "adv.",
+      "meaning": "一起；共同",
+      "wordForms": "原文词形：together",
+      "sentence": "We helped them get together!”",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-10/together.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "一起；共同",
+        "天上的；天国的",
+        "出名的；极好的"
+      ]
+    },
+    {
+      "id": "heavenly",
+      "word": "heavenly",
+      "forms": [
+        "heavenly"
+      ],
+      "tier": "core",
+      "phonetic": "/'hevnli/",
+      "partOfSpeech": "adj.",
+      "meaning": "天上的；天国的",
+      "wordForms": "原文词形：heavenly",
+      "sentence": "“It says that long ago they were heavenly beings who lived in the sky,” said Morgan.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-10/heavenly.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "天上的；天国的",
+        "祖先；祖宗",
+        "分开；隔开"
+      ]
+    },
+    {
+      "id": "separated",
+      "word": "separate",
+      "forms": [
+        "separate",
+        "separated"
+      ],
+      "tier": "core",
+      "phonetic": "/'sepәreit/",
+      "partOfSpeech": "v.",
+      "meaning": "分开；隔开",
+      "wordForms": "原文词形：separated",
+      "sentence": "But I’m afraid a later legend tells us that when they returned to the sky, the king and queen of the skies separated them by a heavenly river called the Milky Way.”",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-10/separated.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "分开；隔开",
+        "夏天；夏季",
+        "传说；传奇故事"
+      ]
+    },
+    {
+      "id": "summer",
+      "word": "summer",
+      "forms": [
+        "summer"
+      ],
+      "tier": "core",
+      "phonetic": "/'sʌmә/",
+      "partOfSpeech": "n.",
+      "meaning": "夏天；夏季",
+      "wordForms": "原文词形：summer",
+      "sentence": "Jack and Annie gazed up at the bright summer sky.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-10/summer.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "夏天；夏季",
+        "分开；隔开",
+        "天上的；天国的"
+      ]
+    },
+    {
+      "id": "ancestors",
+      "word": "ancestors",
+      "forms": [
+        "ancestors"
+      ],
+      "tier": "core",
+      "phonetic": "/'ænsestəz/",
+      "partOfSpeech": "n.",
+      "meaning": "祖先；祖宗",
+      "wordForms": "原文词形：ancestors",
+      "sentence": "“Their ancestors lived in the time of the Dragon King,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-10/ancestors.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "祖先；祖宗",
+        "天上的；天国的",
+        "夏天；夏季"
+      ]
+    }
+  ]
+}

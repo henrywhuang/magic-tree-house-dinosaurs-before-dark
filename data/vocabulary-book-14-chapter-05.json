@@ -1,0 +1,365 @@
+{
+  "book": 14,
+  "chapter": 5,
+  "title": "The Scholar",
+  "words": [
+    {
+      "id": "country",
+      "word": "country",
+      "forms": [
+        "country"
+      ],
+      "tier": "core",
+      "phonetic": "/'kʌntri/",
+      "partOfSpeech": "n.",
+      "meaning": "国家；乡村",
+      "wordForms": "原文词形：country",
+      "sentence": "“It’s a book from our country,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-05/country.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "国家；乡村",
+        "危险；危险处境",
+        "力量；权力"
+      ]
+    },
+    {
+      "id": "scholar",
+      "word": "scholar",
+      "forms": [
+        "scholar"
+      ],
+      "tier": "core",
+      "phonetic": "/'skɒlә/",
+      "partOfSpeech": "n.",
+      "meaning": "学者；奖学金获得者",
+      "wordForms": "原文词形：scholar",
+      "sentence": "“But in truth, I am a scholar!”",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-05/scholar.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "学者；奖学金获得者",
+        "尊敬；尊重",
+        "危险；危险处境"
+      ]
+    },
+    {
+      "id": "honored",
+      "word": "honored",
+      "forms": [
+        "honored"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɒnә/",
+      "partOfSpeech": "adj.",
+      "meaning": "受尊敬的；尊贵的",
+      "wordForms": "原文词形：honored",
+      "sentence": "“We have long been the most honored citizens in China.”",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-05/honored.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "受尊敬的；尊贵的",
+        "学习；认识到",
+        "学者；奖学金获得者"
+      ]
+    },
+    {
+      "id": "danger",
+      "word": "danger",
+      "forms": [
+        "danger"
+      ],
+      "tier": "core",
+      "phonetic": "/'deindʒә/",
+      "partOfSpeech": "n.",
+      "meaning": "危险；危险处境",
+      "wordForms": "原文词形：danger",
+      "sentence": "“But now scholars are in danger,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-05/danger.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "危险；危险处境",
+        "国家；乡村",
+        "受尊敬的；尊贵的"
+      ]
+    },
+    {
+      "id": "power",
+      "word": "power",
+      "forms": [
+        "power"
+      ],
+      "tier": "core",
+      "phonetic": "/'pauә/",
+      "partOfSpeech": "n.",
+      "meaning": "力量；权力",
+      "wordForms": "原文词形：power",
+      "sentence": "“The Dragon King is afraid of the power of our books and learning,” said the scholar.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-05/power.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "力量；权力",
+        "危险；危险处境",
+        "学者；奖学金获得者"
+      ]
+    },
+    {
+      "id": "respect",
+      "word": "respect",
+      "forms": [
+        "respect"
+      ],
+      "tier": "core",
+      "phonetic": "/ri'spekt/",
+      "partOfSpeech": "n.",
+      "meaning": "尊敬；尊重",
+      "wordForms": "原文词形：respect",
+      "sentence": "He bowed to show his respect.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-05/respect.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ct",
+          "sound": "/ct/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "尊敬；尊重",
+        "学者；奖学金获得者",
+        "国家；乡村"
+      ]
+    },
+    {
+      "id": "learn",
+      "word": "learn",
+      "forms": [
+        "learn"
+      ],
+      "tier": "core",
+      "phonetic": "/lә:n/",
+      "partOfSpeech": "v.",
+      "meaning": "学习；认识到",
+      "wordForms": "原文词形：learn",
+      "sentence": "“Everyone gets to go to school to learn to read them.”",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-05/learn.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "学习；认识到",
+        "学者；奖学金获得者",
+        "国家；乡村"
+      ]
+    },
+    {
+      "id": "paradise",
+      "word": "paradise",
+      "forms": [
+        "paradise"
+      ],
+      "tier": "core",
+      "phonetic": "/'pærәdais/",
+      "partOfSpeech": "n.",
+      "meaning": "天堂；乐园",
+      "wordForms": "原文词形：paradise",
+      "sentence": "“It sounds like paradise,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-05/paradise.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "天堂；乐园",
+        "力量；权力",
+        "学者；奖学金获得者"
+      ]
+    }
+  ]
+}

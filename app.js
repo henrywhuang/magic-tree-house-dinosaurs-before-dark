@@ -102,6 +102,14 @@ const BOOKS = [
     audioStarts:[0,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/book-13-chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/book-13-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-14', number:14, title:'Day of the Dragon King', cn:'末代龙王', world:'古代中国·秦朝', badge:'🐉',
+    cardImage:'assets/images/book-14-scenes/chapter-08-scene-01.webp', cardAlt:'《末代龙王》杰克和安妮在秦朝皇陵发现兵马俑',
+    chapters:['The Bamboo Book','The Cowherd','The Silk Weaver','The Great Wall','The Scholar','The Dragon King','The Burning of the Books','The Tomb','The Silk Path','The Ancient Legend'],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-14-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-14-chapter-${String(i+1).padStart(2,'0')}.json`
   }
 ];
 
@@ -123,7 +131,7 @@ let chapterRequestId=0;
 const pronunciationAudio=$('#pronunciationAudio');
 let activeTTS=null;
 let ttsRequestId=0;
-const DATA_VERSION='20260830-book13';
+const DATA_VERSION='20260830-book14';
 const jsonRequests=new Map();
 
 function currentBook(){return BOOKS[state.book]}

@@ -1,0 +1,385 @@
+{
+  "book": 14,
+  "chapter": 2,
+  "title": "The Cowherd",
+  "words": [
+    {
+      "id": "pocket",
+      "word": "pocket",
+      "forms": [
+        "pocket"
+      ],
+      "tier": "core",
+      "phonetic": "/'pɒkit/",
+      "partOfSpeech": "n.",
+      "meaning": "口袋；钱袋",
+      "wordForms": "原文词形：pocket",
+      "sentence": "And look, I have a pocket for my secret library card.”",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-02/pocket.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "口袋；钱袋",
+        "肩；肩膀",
+        "田野；田地"
+      ]
+    },
+    {
+      "id": "field",
+      "word": "field",
+      "forms": [
+        "field"
+      ],
+      "tier": "core",
+      "phonetic": "/fi:ld/",
+      "partOfSpeech": "n.",
+      "meaning": "田野；田地",
+      "wordForms": "原文词形：field",
+      "sentence": "The tree house had landed in a lone tree in a sunny field.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-02/field.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "田野；田地",
+        "肩；肩膀",
+        "英俊的；大方的"
+      ]
+    },
+    {
+      "id": "peaceful",
+      "word": "peaceful",
+      "forms": [
+        "peaceful"
+      ],
+      "tier": "core",
+      "phonetic": "/'pi:sful/",
+      "partOfSpeech": "adj.",
+      "meaning": "平静的；和平的",
+      "wordForms": "原文词形：peaceful",
+      "sentence": "“It looks so peaceful,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-02/peaceful.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ful",
+          "sound": "/fʊl/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "平静的；和平的",
+        "口袋；钱袋",
+        "肩；肩膀"
+      ]
+    },
+    {
+      "id": "shoulder",
+      "word": "shoulder",
+      "forms": [
+        "shoulder"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃәuldә/",
+      "partOfSpeech": "n.",
+      "meaning": "肩；肩膀",
+      "wordForms": "原文词形：shoulder",
+      "sentence": "He slung the sack over his shoulder and followed Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-02/shoulder.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "肩；肩膀",
+        "平静的；和平的",
+        "感谢的；感激的"
+      ]
+    },
+    {
+      "id": "handsome",
+      "word": "handsome",
+      "forms": [
+        "handsome"
+      ],
+      "tier": "core",
+      "phonetic": "/'hænsәm/",
+      "partOfSpeech": "adj.",
+      "meaning": "英俊的；大方的",
+      "wordForms": "原文词形：handsome",
+      "sentence": "He was young and handsome with a kind face.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-02/handsome.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "英俊的；大方的",
+        "黄昏；暮色",
+        "感谢的；感激的"
+      ]
+    },
+    {
+      "id": "grateful",
+      "word": "grateful",
+      "forms": [
+        "grateful"
+      ],
+      "tier": "core",
+      "phonetic": "/'greitful/",
+      "partOfSpeech": "adj.",
+      "meaning": "感谢的；感激的",
+      "wordForms": "原文词形：grateful",
+      "sentence": "“I would be most grateful.”",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-02/grateful.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ful",
+          "sound": "/fʊl/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "感谢的；感激的",
+        "口袋；钱袋",
+        "消息；通讯"
+      ]
+    },
+    {
+      "id": "message",
+      "word": "message",
+      "forms": [
+        "message"
+      ],
+      "tier": "core",
+      "phonetic": "/'mesidʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "消息；通讯",
+      "wordForms": "原文词形：message",
+      "sentence": "“Give a message to the silk weaver.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-02/message.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "消息；通讯",
+        "田野；田地",
+        "黄昏；暮色"
+      ]
+    },
+    {
+      "id": "twilight",
+      "word": "twilight",
+      "forms": [
+        "twilight"
+      ],
+      "tier": "core",
+      "phonetic": "/'twailait/",
+      "partOfSpeech": "n.",
+      "meaning": "黄昏；暮色",
+      "wordForms": "原文词形：twilight",
+      "sentence": "“Tell her to meet me here at twilight.”",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-02/twilight.mp3",
+      "phonics": [
+        {
+          "letters": "tw",
+          "sound": "/tw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "黄昏；暮色",
+        "消息；通讯",
+        "平静的；和平的"
+      ]
+    }
+  ]
+}

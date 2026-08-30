@@ -1,0 +1,342 @@
+{
+  "book": 14,
+  "chapter": 4,
+  "title": "The Great Wall",
+  "words": [
+    {
+      "id": "grain",
+      "word": "grain",
+      "forms": [
+        "grain"
+      ],
+      "tier": "core",
+      "phonetic": "/grein/",
+      "partOfSpeech": "n.",
+      "meaning": "谷物；粮食",
+      "wordForms": "原文词形：grain",
+      "sentence": "At the back was an oxcart filled with bags of grain.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-04/grain.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "谷物；粮食",
+        "驾车人；车夫",
+        "守卫者；警戒"
+      ]
+    },
+    {
+      "id": "breath",
+      "word": "breath",
+      "forms": [
+        "breath"
+      ],
+      "tier": "core",
+      "phonetic": "/breθ/",
+      "partOfSpeech": "n.",
+      "meaning": "呼吸；气息",
+      "wordForms": "原文词形：breath",
+      "sentence": "He held his breath and waited for the people to leave.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-04/breath.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "呼吸；气息",
+        "突然晃动；猛地前倾",
+        "谷物；粮食"
+      ]
+    },
+    {
+      "id": "lurched",
+      "word": "lurch",
+      "forms": [
+        "lurch",
+        "lurched"
+      ],
+      "tier": "core",
+      "phonetic": "/lә:tʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "突然晃动；猛地前倾",
+      "wordForms": "原文词形：lurched",
+      "sentence": "Suddenly the cart lurched forward.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-04/lurched.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "突然晃动；猛地前倾",
+        "呼吸；气息",
+        "侵略者"
+      ]
+    },
+    {
+      "id": "driver",
+      "word": "driver",
+      "forms": [
+        "driver"
+      ],
+      "tier": "core",
+      "phonetic": "/'draivә/",
+      "partOfSpeech": "n.",
+      "meaning": "驾车人；车夫",
+      "wordForms": "原文词形：driver",
+      "sentence": "Jack saw the back of the driver.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-04/driver.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "驾车人；车夫",
+        "突然晃动；猛地前倾",
+        "守卫者；警戒"
+      ]
+    },
+    {
+      "id": "guards",
+      "word": "guards",
+      "forms": [
+        "guards",
+        "Guards"
+      ],
+      "tier": "core",
+      "phonetic": "/gɑ:d/",
+      "partOfSpeech": "n.",
+      "meaning": "守卫者；警戒",
+      "wordForms": "原文词形：Guards",
+      "sentence": "Guards marched alongside them.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-04/guards.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "守卫者；警戒",
+        "墙；墙壁",
+        "驾车人；车夫"
+      ]
+    },
+    {
+      "id": "wall",
+      "word": "wall",
+      "forms": [
+        "wall"
+      ],
+      "tier": "core",
+      "phonetic": "/wɒ:l/",
+      "partOfSpeech": "n.",
+      "meaning": "墙；墙壁",
+      "wordForms": "原文词形：wall",
+      "sentence": "He read: The Dragon King forced many of his subjects to start building a wall to protect China from invaders.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-04/wall.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "墙；墙壁",
+        "谷物；粮食",
+        "突然晃动；猛地前倾"
+      ]
+    },
+    {
+      "id": "protect",
+      "word": "protect",
+      "forms": [
+        "protect"
+      ],
+      "tier": "core",
+      "phonetic": "/prә'tekt/",
+      "partOfSpeech": "v.",
+      "meaning": "防卫；保护",
+      "wordForms": "原文词形：protect",
+      "sentence": "He read: The Dragon King forced many of his subjects to start building a wall to protect China from invaders.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-04/protect.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ct",
+          "sound": "/ct/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "防卫；保护",
+        "驾车人；车夫",
+        "墙；墙壁"
+      ]
+    },
+    {
+      "id": "invaders",
+      "word": "invaders",
+      "forms": [
+        "invaders"
+      ],
+      "tier": "core",
+      "phonetic": "/in'veidә/",
+      "partOfSpeech": "n.",
+      "meaning": "侵略者",
+      "wordForms": "原文词形：invaders",
+      "sentence": "He read: The Dragon King forced many of his subjects to start building a wall to protect China from invaders.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-04/invaders.mp3",
+      "phonics": [
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ers",
+          "sound": "/ərz/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "侵略者",
+        "防卫；保护",
+        "驾车人；车夫"
+      ]
+    }
+  ]
+}

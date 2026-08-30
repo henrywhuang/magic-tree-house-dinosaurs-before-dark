@@ -14274,6 +14274,1083 @@
           ]
         }
       ]
+    },
+    {
+      "book": 14,
+      "book_title": "Day of the Dragon King",
+      "book_title_cn": "末代龙王",
+      "chapters": [
+        {
+          "book": 14,
+          "chapter": 1,
+          "chapter_title": "The Bamboo Book",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What does Jack take out of his dresser drawer to bring on the trip to China?",
+              "options": {
+                "A": "A bamboo strip with Chinese writing.",
+                "B": "A thin wooden library card.",
+                "C": "An old paper map of China.",
+                "D": "A dragon-shaped medal."
+              },
+              "answer": "B",
+              "evidence": [
+                "took out a thin wooden card."
+              ],
+              "rationale": "原文直接写到：A thin wooden library card.",
+              "id": "B14C1Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Morgan says the characters are the title of an “ancient Chinese legend.” A “legend” is ___.",
+              "options": {
+                "A": "一本数学练习册",
+                "B": "一张地图",
+                "C": "一封信",
+                "D": "传说；世代流传下来的故事"
+              },
+              "answer": "D",
+              "evidence": [
+                "the title of an ancient Chinese legend."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“传说；世代流传下来的故事”。",
+              "id": "B14C1Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens FIRST in this chapter?",
+              "options": {
+                "A": "Jack drops his library card into his backpack.",
+                "B": "Morgan hands Jack the research book.",
+                "C": "The tree house begins to spin.",
+                "D": "Jack and Annie climb the rope ladder into the tree house."
+              },
+              "answer": "A",
+              "evidence": [
+                "Jack dropped the card into his backpack."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：Jack drops his library card into his backpack.",
+              "id": "B14C1Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why must Jack and Annie hurry to find the ancient legend?",
+              "options": {
+                "A": "A storm is coming to Frog Creek.",
+                "B": "Morgan will lock the tree house at noon.",
+                "C": "The Imperial Library is about to be destroyed.",
+                "D": "Their mom wants them home for dinner."
+              },
+              "answer": "C",
+              "evidence": [
+                "before the Imperial Library is destroyed."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：The Imperial Library is about to be destroyed.",
+              "id": "B14C1Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "Morgan warns, “in your darkest hour, only the old legend can save you.” This suggests that ___.",
+              "options": {
+                "A": "the legend will become important when they are in real danger",
+                "B": "the legend is only a bedtime story",
+                "C": "they should burn the legend once they read it",
+                "D": "the research book is useless"
+              },
+              "answer": "A",
+              "evidence": [
+                "only the old legend can save you."
+              ],
+              "rationale": "原文细节支持这一推断：the legend will become important when they are in real danger",
+              "id": "B14C1Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 14,
+          "chapter": 2,
+          "chapter_title": "The Cowherd",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What had happened to Jack and Annie’s clothes when Jack opened his eyes?",
+              "options": {
+                "A": "They had turned into shiny armor.",
+                "B": "They had disappeared completely.",
+                "C": "They had magically changed into ancient Chinese clothes.",
+                "D": "They were soaking wet from the rain."
+              },
+              "answer": "C",
+              "evidence": [
+                "Their clothes had magically changed."
+              ],
+              "rationale": "原文直接写到：They had magically changed into ancient Chinese clothes.",
+              "id": "B14C2Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Annie says the land “looks so peaceful.” Here “peaceful” means ___.",
+              "options": {
+                "A": "安宁的；平静的",
+                "B": "危险的；吓人的",
+                "C": "拥挤的；吵闹的",
+                "D": "寒冷的；结冰的"
+              },
+              "answer": "A",
+              "evidence": [
+                "It looks so peaceful"
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“安宁的；平静的”。",
+              "id": "B14C2Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why is the first emperor called the “Dragon King”?",
+              "options": {
+                "A": "He could turn into a real dragon.",
+                "B": "He was born in the Year of the Dragon.",
+                "C": "He kept a pet dragon in his palace.",
+                "D": "He chose the dragon to be his symbol."
+              },
+              "answer": "D",
+              "evidence": [
+                "he chose the dragon to be his symbol"
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：He chose the dragon to be his symbol.",
+              "id": "B14C2Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What favor does the young cowherd ask Jack and Annie to do?",
+              "options": {
+                "A": "Help him herd his cows home.",
+                "B": "Give a message to the silk weaver.",
+                "C": "Carry his bag into the city.",
+                "D": "Hide him from the Dragon King’s guards."
+              },
+              "answer": "B",
+              "evidence": [
+                "Give a message to the silk weaver."
+              ],
+              "rationale": "原文直接写到：Give a message to the silk weaver.",
+              "id": "B14C2Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "The cowherd’s warning, “Beware of the Dragon King,” suggests that ___.",
+              "options": {
+                "A": "the Dragon King is a kind and gentle ruler",
+                "B": "the Dragon King is only a made-up character",
+                "C": "the Dragon King wants to give them a gift",
+                "D": "the Dragon King is dangerous and this place is not really peaceful"
+              },
+              "answer": "D",
+              "evidence": [
+                "Beware of the Dragon King,"
+              ],
+              "rationale": "原文细节支持这一推断：the Dragon King is dangerous and this place is not really peaceful",
+              "id": "B14C2Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 14,
+          "chapter": 3,
+          "chapter_title": "The Silk Weaver",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What was the young woman doing on the open porch?",
+              "options": {
+                "A": "Weaving cloth on a loom.",
+                "B": "Cooking rice over a fire.",
+                "C": "Feeding the oxen hay.",
+                "D": "Painting a picture of a dragon."
+              },
+              "answer": "A",
+              "evidence": [
+                "a young woman was weaving cloth on a loom."
+              ],
+              "rationale": "原文直接写到：Weaving cloth on a loom.",
+              "id": "B14C3Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "The weaver gives Annie “a ball of yellow thread.” Here “thread” means ___.",
+              "options": {
+                "A": "面包",
+                "B": "硬币",
+                "C": "石头",
+                "D": "线；丝线"
+              },
+              "answer": "D",
+              "evidence": [
+                "a ball of yellow thread."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“线；丝线”。",
+              "id": "B14C3Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "How is silk made, according to the weaver?",
+              "options": {
+                "A": "From the wool of sheep.",
+                "B": "From the cocoons of silkworms.",
+                "C": "From the leaves of tea plants.",
+                "D": "From the petals of yellow flowers."
+              },
+              "answer": "B",
+              "evidence": [
+                "It is made from the cocoons of silkworms,"
+              ],
+              "rationale": "原文直接写到：From the cocoons of silkworms.",
+              "id": "B14C3Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does the silk weaver beg Jack not to write down how silk is made?",
+              "options": {
+                "A": "Jack’s handwriting is too messy to read.",
+                "B": "She wants to keep the recipe for a surprise gift.",
+                "C": "The making of silk is China’s most valuable secret, and stealing it is punished by death.",
+                "D": "Writing is forbidden for children in China."
+              },
+              "answer": "C",
+              "evidence": [
+                "The making of silk is China’s most valuable secret."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：The making of silk is China’s most valuable secret, and stealing it is punished by death.",
+              "id": "B14C3Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "Annie gives the weaver the cowherd’s message.",
+                "B": "A man points at them, and Jack and Annie run away.",
+                "C": "The weaver hands Annie a ball of silk.",
+                "D": "Jack feels how smooth the silk thread is."
+              },
+              "answer": "B",
+              "evidence": [
+                "A man was pointing at them."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：A man points at them, and Jack and Annie run away.",
+              "id": "B14C3Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 14,
+          "chapter": 4,
+          "chapter_title": "The Great Wall",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "What do Jack and Annie do FIRST when the shouting people come closer?",
+              "options": {
+                "A": "They jump out of the cart in the city.",
+                "B": "They read about the Great Wall of China.",
+                "C": "They meet the driver of the cart.",
+                "D": "They dive into the back of the wooden cart and hide in the bags of grain."
+              },
+              "answer": "D",
+              "evidence": [
+                "dived into the back of the wooden cart."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：They dive into the back of the wooden cart and hide in the bags of grain.",
+              "id": "B14C4Q1",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "“Suddenly the cart lurched forward.” To “lurch” is to ___.",
+              "options": {
+                "A": "慢慢停下",
+                "B": "轻轻歌唱",
+                "C": "突然晃动；猛地前倾",
+                "D": "静静躺着"
+              },
+              "answer": "C",
+              "evidence": [
+                "the cart lurched forward."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“突然晃动；猛地前倾”。",
+              "id": "B14C4Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "According to the research book, why did the Dragon King force his subjects to build a wall?",
+              "options": {
+                "A": "To protect China from invaders.",
+                "B": "To give the workers something fun to do.",
+                "C": "To block the river from flooding.",
+                "D": "To hide his burial tomb."
+              },
+              "answer": "A",
+              "evidence": [
+                "start building a wall to protect China from invaders."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：To protect China from invaders.",
+              "id": "B14C4Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What famous structure are the workers building?",
+              "options": {
+                "A": "The Imperial Library.",
+                "B": "The Great Wall of China.",
+                "C": "A giant stone dragon.",
+                "D": "The Dragon King’s palace."
+              },
+              "answer": "B",
+              "evidence": [
+                "The Great Wall of China is the longest structure ever built."
+              ],
+              "rationale": "原文直接写到：The Great Wall of China.",
+              "id": "B14C4Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "When the driver sees Jack’s paper book, “his mouth dropped open.” This shows he is ___.",
+              "options": {
+                "A": "amazed, because he has never seen a paper book before",
+                "B": "bored by the strange object",
+                "C": "angry that they are reading",
+                "D": "sleepy after the long ride"
+              },
+              "answer": "A",
+              "evidence": [
+                "His mouth dropped open."
+              ],
+              "rationale": "原文细节支持这一推断：amazed, because he has never seen a paper book before",
+              "id": "B14C4Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 14,
+          "chapter": 5,
+          "chapter_title": "The Scholar",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What is the cart driver’s real identity, even though he is dressed as a farmer?",
+              "options": {
+                "A": "He is a soldier.",
+                "B": "He is a scholar.",
+                "C": "He is the Dragon King’s son.",
+                "D": "He is a silk merchant."
+              },
+              "answer": "B",
+              "evidence": [
+                "I am a scholar!"
+              ],
+              "rationale": "原文直接写到：He is a scholar.",
+              "id": "B14C5Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "The scholar says scholars are “the most honored citizens.” Here “honored” means ___.",
+              "options": {
+                "A": "受尊敬的；尊贵的",
+                "B": "贫穷的；可怜的",
+                "C": "害怕的；胆小的",
+                "D": "普通的；平凡的"
+              },
+              "answer": "A",
+              "evidence": [
+                "the most honored citizens in China."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“受尊敬的；尊贵的”。",
+              "id": "B14C5Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why is the Dragon King afraid of books and learning?",
+              "options": {
+                "A": "He cannot read or write himself.",
+                "B": "Books make the palace too crowded.",
+                "C": "He wants people to think only what he wants them to think.",
+                "D": "He is allergic to bamboo strips."
+              },
+              "answer": "C",
+              "evidence": [
+                "He wants people to think only what he wants them to think."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：He wants people to think only what he wants them to think.",
+              "id": "B14C5Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How does the scholar react when Jack and Annie show him their shimmering library cards?",
+              "options": {
+                "A": "He laughs and calls them liars.",
+                "B": "He grabs the cards and runs away.",
+                "C": "He throws the cards into the fire.",
+                "D": "He is amazed and bows to show his respect."
+              },
+              "answer": "D",
+              "evidence": [
+                "He bowed to show his respect."
+              ],
+              "rationale": "结合人物与事件的关系，正确的是：He is amazed and bows to show his respect.",
+              "id": "B14C5Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "When Jack describes libraries in every town, the scholar says, “It sounds like paradise.” This shows the scholar ___.",
+              "options": {
+                "A": "thinks Frog Creek is a boring place",
+                "B": "does not believe Jack at all",
+                "C": "longs for a place where books are free and safe",
+                "D": "wants to move to the Dragon King’s palace"
+              },
+              "answer": "C",
+              "evidence": [
+                "It sounds like paradise,"
+              ],
+              "rationale": "原文细节支持这一推断：longs for a place where books are free and safe",
+              "id": "B14C5Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 14,
+          "chapter": 6,
+          "chapter_title": "The Dragon King",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "When are the city gates closed each day?",
+              "options": {
+                "A": "At sunrise, when the roosters crow.",
+                "B": "At noon, when the market opens.",
+                "C": "At sunset, when the gong sounds.",
+                "D": "At midnight, when the moon rises."
+              },
+              "answer": "C",
+              "evidence": [
+                "every day at sunset,"
+              ],
+              "rationale": "原文直接写到：At sunset, when the gong sounds.",
+              "id": "B14C6Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "The curved roofs are meant to keep away “bad spirits.” Here “spirits” means ___.",
+              "options": {
+                "A": "力气；精力",
+                "B": "鬼魂；亡灵",
+                "C": "饮料；果汁",
+                "D": "心情；情绪"
+              },
+              "answer": "B",
+              "evidence": [
+                "To keep away the bad spirits,"
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“鬼魂；亡灵”。",
+              "id": "B14C6Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why are the roofs of the larger houses curved?",
+              "options": {
+                "A": "To let rainwater slide off quickly.",
+                "B": "To make the houses look like dragons.",
+                "C": "To catch more sunlight in winter.",
+                "D": "To keep away bad spirits, which can only travel in straight lines."
+              },
+              "answer": "D",
+              "evidence": [
+                "The spirits can only travel in straight lines,"
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：To keep away bad spirits, which can only travel in straight lines.",
+              "id": "B14C6Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "How many workers have been building the Dragon King’s burial tomb?",
+              "options": {
+                "A": "Three hundred thousand.",
+                "B": "One hundred.",
+                "C": "Seven thousand.",
+                "D": "A dozen."
+              },
+              "answer": "A",
+              "evidence": [
+                "Three hundred thousand workers have been building his burial tomb."
+              ],
+              "rationale": "原文直接写到：Three hundred thousand.",
+              "id": "B14C6Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "The oxcart crosses the wooden bridge over the moat.",
+                "B": "The cart passes the busy market square.",
+                "C": "A dark cloud of smoke rises from the courtyard.",
+                "D": "The Dragon King steps outside in a rich robe and a tall hat."
+              },
+              "answer": "D",
+              "evidence": [
+                "Stepping outside was a man in a rich, flowing robe and a tall hat."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：The Dragon King steps outside in a rich robe and a tall hat.",
+              "id": "B14C6Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 14,
+          "chapter": 7,
+          "chapter_title": "The Burning of the Books",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What does the scholar point out to Jack and Annie near the fire?",
+              "options": {
+                "A": "A bamboo book that had fallen off a waiting stack — their story.",
+                "B": "A hidden door behind the flames.",
+                "C": "The Dragon King’s crown.",
+                "D": "A cage full of crickets."
+              },
+              "answer": "A",
+              "evidence": [
+                "He pointed to a bamboo book that had fallen off a waiting stack."
+              ],
+              "rationale": "原文直接写到：A bamboo book that had fallen off a waiting stack — their story.",
+              "id": "B14C7Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Annie “snatched up the bundle of bamboo strips.” To “snatch” is to ___.",
+              "options": {
+                "A": "慢慢阅读",
+                "B": "轻轻放下",
+                "C": "抢夺；一把抓起",
+                "D": "仔细数数"
+              },
+              "answer": "C",
+              "evidence": [
+                "she had already snatched up the bundle of bamboo strips"
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“抢夺；一把抓起”。",
+              "id": "B14C7Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does the scholar tell them to run through the burial grounds?",
+              "options": {
+                "A": "The burial grounds have a secret exit to the woods.",
+                "B": "The Dragon King never goes there.",
+                "C": "It is the shortest way back to the cart.",
+                "D": "The soldiers fear the spirits of the ancestors and will be afraid to follow."
+              },
+              "answer": "D",
+              "evidence": [
+                "They fear the spirits of the ancestors!"
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：The soldiers fear the spirits of the ancestors and will be afraid to follow.",
+              "id": "B14C7Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "How do Jack and Annie get away from the flying arrows?",
+              "options": {
+                "A": "They dive into the moat.",
+                "B": "They duck inside a doorway in one of the mounds.",
+                "C": "They climb the palace tower.",
+                "D": "They hide behind the bonfire."
+              },
+              "answer": "B",
+              "evidence": [
+                "Jack and Annie ducked inside."
+              ],
+              "rationale": "原文直接写到：They duck inside a doorway in one of the mounds.",
+              "id": "B14C7Q4",
+              "difficulty": "基础"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "What do Jack and Annie find at the bottom of the steep steps?",
+              "options": {
+                "A": "A pile of burning books.",
+                "B": "A room filled with thousands of soldiers.",
+                "C": "The silk weaver’s loom.",
+                "D": "A chest full of jade jewelry."
+              },
+              "answer": "B",
+              "evidence": [
+                "a room filled with soldiers"
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：A room filled with thousands of soldiers.",
+              "id": "B14C7Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 14,
+          "chapter": 8,
+          "chapter_title": "The Tomb",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What does Annie do to show Jack that the soldiers are not real?",
+              "options": {
+                "A": "She knocks a soldier over.",
+                "B": "She waves a torch at them.",
+                "C": "She calls out their names.",
+                "D": "She pulls a soldier’s nose."
+              },
+              "answer": "D",
+              "evidence": [
+                "Annie pulled the soldier’s nose."
+              ],
+              "rationale": "原文直接写到：She pulls a soldier’s nose.",
+              "id": "B14C8Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "The tomb soldiers are lifesize “clay” figures. “Clay” is ___.",
+              "options": {
+                "A": "黏土；陶土",
+                "B": "黄金",
+                "C": "玻璃",
+                "D": "木头"
+              },
+              "answer": "A",
+              "evidence": [
+                "The clay was baked and painted."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“黏土；陶土”。",
+              "id": "B14C8Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why did the Dragon King have the clay army made?",
+              "options": {
+                "A": "He wanted to sell the figures at the market.",
+                "B": "He hoped it would protect him after he died.",
+                "C": "He needed workers for the Great Wall.",
+                "D": "He wanted gifts for the silk weaver."
+              },
+              "answer": "B",
+              "evidence": [
+                "the clay army would protect him after he died."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：He hoped it would protect him after he died.",
+              "id": "B14C8Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "When Jack “tried not to panic,” it shows that he is ___.",
+              "options": {
+                "A": "completely relaxed and happy",
+                "B": "bored and sleepy",
+                "C": "frightened but struggling to stay calm",
+                "D": "proud of finding the tomb"
+              },
+              "answer": "C",
+              "evidence": [
+                "Jack tried not to panic."
+              ],
+              "rationale": "原文细节支持这一推断：frightened but struggling to stay calm",
+              "id": "B14C8Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "What happens at the very END of this chapter?",
+              "options": {
+                "A": "Annie pulls a soldier’s nose.",
+                "B": "Jack reads about the clay army in the research book.",
+                "C": "The ball of yellow silk thread rolls out of the sack, leaving a trail.",
+                "D": "Jack holds up the bamboo book and asks for help."
+              },
+              "answer": "C",
+              "evidence": [
+                "leaving a trail of yellow thread!"
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：The ball of yellow silk thread rolls out of the sack, leaving a trail.",
+              "id": "B14C8Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 14,
+          "chapter": 9,
+          "chapter_title": "The Silk Path",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How does the ball of silk thread help Jack and Annie?",
+              "options": {
+                "A": "It ties the soldiers together so they cannot move.",
+                "B": "It rolls ahead and leaves a trail that leads them out of the maze of soldiers.",
+                "C": "It glows brightly enough to read the research book.",
+                "D": "It turns into a rope they climb up."
+              },
+              "answer": "B",
+              "evidence": [
+                "They followed the trail of thread down the row,"
+              ],
+              "rationale": "结合人物与事件的关系，正确的是：It rolls ahead and leaves a trail that leads them out of the maze of soldiers.",
+              "id": "B14C9Q1",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "After their straw shoes fall off, Jack and Annie run “barefoot.” “Barefoot” means ___.",
+              "options": {
+                "A": "飞快的",
+                "B": "疲倦的",
+                "C": "赤脚的；光着脚",
+                "D": "悄悄的"
+              },
+              "answer": "C",
+              "evidence": [
+                "Jack and Annie kept running barefoot."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“赤脚的；光着脚”。",
+              "id": "B14C9Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What warns Jack and Annie that the city gates are about to close?",
+              "options": {
+                "A": "The silk weaver calling to them.",
+                "B": "The Dragon King’s soldiers shouting.",
+                "C": "The crickets suddenly going silent.",
+                "D": "A gong sounding from the tower of the city walls."
+              },
+              "answer": "D",
+              "evidence": [
+                "a gong sounded."
+              ],
+              "rationale": "原文直接写到：A gong sounding from the tower of the city walls.",
+              "id": "B14C9Q3",
+              "difficulty": "基础"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why do Jack and Annie race through the city as fast as they can?",
+              "options": {
+                "A": "If they do not get out before the gates close, they will be trapped for the night.",
+                "B": "They want to buy something at the market.",
+                "C": "They are chasing the ball of silk thread.",
+                "D": "They want to say goodbye to the scholar."
+              },
+              "answer": "A",
+              "evidence": [
+                "They’re going to close the gates!"
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：If they do not get out before the gates close, they will be trapped for the night.",
+              "id": "B14C9Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "They tear through the closing city gates.",
+                "B": "They run barefoot past the market.",
+                "C": "Jack collapses inside the tree house.",
+                "D": "Jack and Annie see the silk weaver and the cowherd find each other and embrace."
+              },
+              "answer": "D",
+              "evidence": [
+                "Two figures embraced at the edge of the field."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：Jack and Annie see the silk weaver and the cowherd find each other and embrace.",
+              "id": "B14C9Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 14,
+          "chapter": 10,
+          "chapter_title": "The Ancient Legend",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What is the name of the ancient legend Jack and Annie brought back?",
+              "options": {
+                "A": "“The Silk Weaver and the Cowherd.”",
+                "B": "“The Day of the Dragon King.”",
+                "C": "“The Great Wall of China.”",
+                "D": "“The Clay Army.”"
+              },
+              "answer": "A",
+              "evidence": [
+                "It’s called The Silk Weaver and the Cowherd,"
+              ],
+              "rationale": "原文直接写到：“The Silk Weaver and the Cowherd.”",
+              "id": "B14C10Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Morgan says the couple were “heavenly beings who lived in the sky.” “Heavenly” means ___.",
+              "options": {
+                "A": "沉重的",
+                "B": "快乐的",
+                "C": "古老的",
+                "D": "天上的；天国的"
+              },
+              "answer": "D",
+              "evidence": [
+                "they were heavenly beings who lived in the sky,"
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“天上的；天国的”。",
+              "id": "B14C10Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "Who were the silk weaver and the cowherd, according to the legend?",
+              "options": {
+                "A": "A princess and a soldier of the Dragon King.",
+                "B": "Two scholars hiding from the emperor.",
+                "C": "Heavenly beings who came to earth and fell in love.",
+                "D": "The Dragon King’s own children."
+              },
+              "answer": "C",
+              "evidence": [
+                "When they came to earth, they fell in love."
+              ],
+              "rationale": "结合人物与事件的关系，正确的是：Heavenly beings who came to earth and fell in love.",
+              "id": "B14C10Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why can the two lovers meet only once a year?",
+              "options": {
+                "A": "The Dragon King locked them in the tomb.",
+                "B": "The king and queen of the skies separated them by the Milky Way.",
+                "C": "They live on opposite sides of the Great Wall.",
+                "D": "They are too busy weaving silk and herding cows."
+              },
+              "answer": "B",
+              "evidence": [
+                "separated them by a heavenly river called the Milky Way."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：The king and queen of the skies separated them by the Milky Way.",
+              "id": "B14C10Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which sentence best summarizes the whole book?",
+              "options": {
+                "A": "Jack and Annie explore the Arctic and make friends with polar bears.",
+                "B": "In ancient China, Jack and Annie befriend a cowherd, a silk weaver, and a scholar, rescue an ancient legend from the book-burning Dragon King, and escape through his clay-army tomb.",
+                "C": "Jack and Annie visit a castle in Ireland and meet Viking raiders.",
+                "D": "Jack and Annie dig for pirate treasure on a sunny island."
+              },
+              "answer": "B",
+              "evidence": [
+                "We brought you the ancient legend,"
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：In ancient China, Jack and Annie befriend a cowherd, a silk weaver, and a scholar, rescue an ancient legend from the book-burning Dragon King, and escape through his clay-army tomb.",
+              "id": "B14C10Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

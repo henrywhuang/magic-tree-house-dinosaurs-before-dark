@@ -1,0 +1,361 @@
+{
+  "book": 14,
+  "chapter": 6,
+  "title": "The Dragon King",
+  "words": [
+    {
+      "id": "bridge",
+      "word": "bridge",
+      "forms": [
+        "bridge"
+      ],
+      "tier": "core",
+      "phonetic": "/bridʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "桥；舰桥",
+      "wordForms": "原文词形：bridge",
+      "sentence": "The oxcart bumped across the wooden bridge that crossed over a moat.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-06/bridge.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dge",
+          "sound": "/dʒ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "桥；舰桥",
+        "宫；宫殿",
+        "坟墓；陵墓"
+      ]
+    },
+    {
+      "id": "moat",
+      "word": "moat",
+      "forms": [
+        "moat"
+      ],
+      "tier": "core",
+      "phonetic": "/mәut/",
+      "partOfSpeech": "n.",
+      "meaning": "壕沟；护城河",
+      "wordForms": "原文词形：moat",
+      "sentence": "The oxcart bumped across the wooden bridge that crossed over a moat.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-06/moat.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "壕沟；护城河",
+        "坟墓；陵墓",
+        "桥；舰桥"
+      ]
+    },
+    {
+      "id": "spirits",
+      "word": "spirit",
+      "forms": [
+        "spirit",
+        "spirits"
+      ],
+      "tier": "core",
+      "phonetic": "/'spirit/",
+      "partOfSpeech": "n.",
+      "meaning": "鬼魂；亡灵",
+      "wordForms": "原文词形：spirits",
+      "sentence": "“To keep away the bad spirits,” said the scholar.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-06/spirits.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鬼魂；亡灵",
+        "军人；士兵",
+        "市场；交易"
+      ]
+    },
+    {
+      "id": "market",
+      "word": "market",
+      "forms": [
+        "market"
+      ],
+      "tier": "core",
+      "phonetic": "/'mɑ:kit/",
+      "partOfSpeech": "n.",
+      "meaning": "市场；交易",
+      "wordForms": "原文词形：market",
+      "sentence": "Then it passed a large market square filled with stalls and shoppers.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-06/market.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "市场；交易",
+        "桥；舰桥",
+        "宫；宫殿"
+      ]
+    },
+    {
+      "id": "palace",
+      "word": "palace",
+      "forms": [
+        "palace"
+      ],
+      "tier": "core",
+      "phonetic": "/'pælis/",
+      "partOfSpeech": "n.",
+      "meaning": "宫；宫殿",
+      "wordForms": "原文词形：palace",
+      "sentence": "The cart moved on toward the Dragon King’s walled palace.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-06/palace.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "宫；宫殿",
+        "壕沟；护城河",
+        "桥；舰桥"
+      ]
+    },
+    {
+      "id": "ancestors",
+      "word": "ancestors",
+      "forms": [
+        "ancestors"
+      ],
+      "tier": "core",
+      "phonetic": "/'ænsestəz/",
+      "partOfSpeech": "n.",
+      "meaning": "祖先；祖宗",
+      "wordForms": "原文词形：ancestors",
+      "sentence": "“The ancestors of the Dragon King,” said the scholar.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-06/ancestors.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "祖先；祖宗",
+        "坟墓；陵墓",
+        "市场；交易"
+      ]
+    },
+    {
+      "id": "tomb",
+      "word": "tomb",
+      "forms": [
+        "tomb"
+      ],
+      "tier": "core",
+      "phonetic": "/tu:m/",
+      "partOfSpeech": "n.",
+      "meaning": "坟墓；陵墓",
+      "wordForms": "原文词形：tomb",
+      "sentence": "Three hundred thousand workers have been building his burial tomb.”",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-06/tomb.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "坟墓；陵墓",
+        "壕沟；护城河",
+        "桥；舰桥"
+      ]
+    },
+    {
+      "id": "soldiers",
+      "word": "soldiers",
+      "forms": [
+        "soldiers"
+      ],
+      "tier": "core",
+      "phonetic": "/'sәuldʒә/",
+      "partOfSpeech": "n.",
+      "meaning": "军人；士兵",
+      "wordForms": "原文词形：soldiers",
+      "sentence": "When the cart rolled into the courtyard, soldiers were everywhere.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-06/soldiers.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ers",
+          "sound": "/ərz/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "军人；士兵",
+        "壕沟；护城河",
+        "桥；舰桥"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "book": 14,
+  "chapter": 3,
+  "title": "The Silk Weaver",
+  "words": [
+    {
+      "id": "silk",
+      "word": "silk",
+      "forms": [
+        "silk"
+      ],
+      "tier": "core",
+      "phonetic": "/silk/",
+      "partOfSpeech": "n.",
+      "meaning": "丝；绸",
+      "wordForms": "原文词形：silk",
+      "sentence": "“We have to find the silk weaver and give her the message,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-03/silk.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "丝；绸",
+        "平滑的；平稳的",
+        "织布机；若隐若现的景象"
+      ]
+    },
+    {
+      "id": "loom",
+      "word": "loom",
+      "forms": [
+        "loom"
+      ],
+      "tier": "core",
+      "phonetic": "/lu:m/",
+      "partOfSpeech": "n.",
+      "meaning": "织布机；若隐若现的景象",
+      "wordForms": "原文词形：loom",
+      "sentence": "She pointed to an open porch where a young woman was weaving cloth on a loom.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-03/loom.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "织布机；若隐若现的景象",
+        "茧",
+        "秘密；机密"
+      ]
+    },
+    {
+      "id": "thread",
+      "word": "thread",
+      "forms": [
+        "thread"
+      ],
+      "tier": "core",
+      "phonetic": "/θred/",
+      "partOfSpeech": "n.",
+      "meaning": "线；丝",
+      "wordForms": "原文词形：thread",
+      "sentence": "Then she reached down to a basket near her loom and picked up a ball of yellow thread.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-03/thread.mp3",
+      "phonics": [
+        {
+          "letters": "thr",
+          "sound": "/θr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "线；丝",
+        "丝；绸",
+        "秘密；机密"
+      ]
+    },
+    {
+      "id": "smooth",
+      "word": "smooth",
+      "forms": [
+        "smooth"
+      ],
+      "tier": "core",
+      "phonetic": "/smu:ð/",
+      "partOfSpeech": "adj.",
+      "meaning": "平滑的；平稳的",
+      "wordForms": "原文词形：smooth",
+      "sentence": "The thread was smooth and soft.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-03/smooth.mp3",
+      "phonics": [
+        {
+          "letters": "sm",
+          "sound": "/sm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "平滑的；平稳的",
+        "丝；绸",
+        "织布机；若隐若现的景象"
+      ]
+    },
+    {
+      "id": "cocoons",
+      "word": "cocoons",
+      "forms": [
+        "cocoons"
+      ],
+      "tier": "core",
+      "phonetic": "/kəˈku:nz/",
+      "partOfSpeech": "n.",
+      "meaning": "茧",
+      "wordForms": "原文词形：cocoons",
+      "sentence": "“It is made from the cocoons of silkworms,” said the weaver.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-03/cocoons.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "茧",
+        "丝；绸",
+        "织布机；若隐若现的景象"
+      ]
+    },
+    {
+      "id": "secret",
+      "word": "secret",
+      "forms": [
+        "secret"
+      ],
+      "tier": "core",
+      "phonetic": "/'si:krit/",
+      "partOfSpeech": "n.",
+      "meaning": "秘密；机密",
+      "wordForms": "原文词形：secret",
+      "sentence": "“The making of silk is China’s most valuable secret.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-03/secret.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "秘密；机密",
+        "茧",
+        "丝；绸"
+      ]
+    },
+    {
+      "id": "hurried",
+      "word": "hurry",
+      "forms": [
+        "hurry",
+        "hurried"
+      ],
+      "tier": "core",
+      "phonetic": "/'hʌri/",
+      "partOfSpeech": "v.",
+      "meaning": "匆忙；急忙赶",
+      "wordForms": "原文词形：hurried",
+      "sentence": "They hurried away from the silk weaver.",
+      "sentenceAudio": "assets/audio/sentences/book-14-chapter-03/hurried.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "匆忙；急忙赶",
+        "平滑的；平稳的",
+        "茧"
+      ]
+    }
+  ]
+}
