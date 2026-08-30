@@ -146,13 +146,16 @@
       "id": "migrate",
       "word": "migrate",
       "forms": [
-        "migrate"
+        "migrate",
+        "migrates",
+        "migrated",
+        "migrating"
       ],
       "tier": "core",
       "phonetic": "/'maigreit/",
       "partOfSpeech": "v.",
       "meaning": "迁徙；迁移",
-      "wordForms": "原文词形：migrate",
+      "wordForms": "第三人称单数 migrates · 过去式 migrated · 现在分词 migrating",
       "sentence": "He read aloud:Every year, in late spring, thousands of zebras and gazelles and millions of wildebeests (WILL-dubbeests) migrate from the dry plains of Tanzania to Kenya.",
       "sentenceAudio": "assets/audio/sentences/book-11-chapter-02/migrate.mp3",
       "phonics": [
@@ -286,13 +289,15 @@
       "word": "graze",
       "forms": [
         "graze",
+        "grazes",
+        "grazed",
         "grazing"
       ],
       "tier": "core",
       "phonetic": "/greiz/",
       "partOfSpeech": "v.",
       "meaning": "吃草；放牧",
-      "wordForms": "原文词形：grazing",
+      "wordForms": "第三人称单数 grazes · 过去式 grazed · 现在分词 grazing",
       "sentence": "The zebras were grazing in the grass.",
       "sentenceAudio": "assets/audio/sentences/book-11-chapter-02/grazing.mp3",
       "phonics": [
