@@ -2,9 +2,8 @@
 """Build Book 12 (Polar Bears Past Bedtime / 雪原上的北极熊) reader JSON.
 
 Text comes from the supplied OCR Word doc via book12_text; timing from
-tmp/asr/book12-chNN.json.  Reuses the Book 7 base engine.  Chapters 1-9 have
-narration (raw tracks 032-040); chapter 10 (raw 041) was not supplied, so its
-text is built with synthesised timing until the mp3 arrives.
+tmp/asr/book12-chNN.json.  Reuses the Book 7 base engine.  All ten chapters use
+the supplied narration tracks (raw 032-041) and aligned ASR timing.
 """
 import json
 import re
@@ -27,10 +26,13 @@ FIXES = {
         ('How did Annie Know exactly', 'How did Annie know exactly'),
         ('R0E/69 The moon lit their way', 'The moon lit their way'),
         ('N 0 2 6010|71', ''),
+        ('called sofily in a soothing voice', 'called softly in a soothing voice'),
     ],
     1: [  # ch2 — Morgan's fourth riddle, OCR garbled "reat"/"1"
         ('I cover what’s reat and hide', 'I cover what’s real and hide'),
         ('What am 1?', 'What am I?'),
+        ('native people of the Arctie lived by hunting seals. caribou',
+         'native people of the Arctic lived by hunting seals, caribou'),
     ],
     2: [  # ch3 — riddle re-read, "i"/"i?" mis-cased
         ('But sometimes i bring out the courage in you.', 'But sometimes I bring out the courage in you.'),
@@ -39,13 +41,14 @@ FIXES = {
     ],
     3: [  # ch4
         ('threw his notebook and the Aretic book', 'threw his notebook and the Arctic book'),
+        ('came from Arctie animals', 'came from Arctic animals'),
     ],
     4: [  # ch5
         ('up the snowbank.He clutched', 'up the snowbank. He clutched'),
         ('he said He reached into his pack', 'he said. He reached into his pack'),
     ],
     5: [  # ch6
-        ('“Maybe she’ Il think we’re polar bears. too.”',
+        ('“Maybe she\' Il think we’re polar bears. too.”',
          '“Maybe she’ll think we’re polar bears, too.”'),
     ],
     7: [  # ch8 — riddle re-read solved; only "1" needs the pronoun
@@ -54,7 +57,7 @@ FIXES = {
         ('What am 1?', 'What am I?'),
     ],
     6: [  # ch7
-        ('the words of the scal hunter', 'the words of the seal hunter'),
+        ('The words of the scal hunter', 'The words of the seal hunter'),
         ('Jack scrambled to his feet.Still wearing', 'Jack scrambled to his feet. Still wearing'),
     ],
     8: [  # ch9 — the four solved-riddle answers run together on one scroll line
@@ -62,9 +65,12 @@ FIXES = {
          'from their journey to Africa said: HONEY Their scroll from the Arctic said: MASK',
          'said: OYSTER. The scroll from their trip to the Wild West said: ECHO. The scroll '
          'from their journey to Africa said: HONEY. Their scroll from the Arctic said: MASK.'),
+        ('Then he saw it-a fifth scroll.', 'Then he saw it—a fifth scroll.'),
     ],
     9: [  # ch10 — OCR interleaved the closing sentences across two paragraphs
         ('These will be the people who can help you.“', 'These will be the people who can help you.”'),
+        ('shimmered the letters Mand L.', 'shimmered the letters M and L.'),
+        ('see the let ters.', 'see the letters.'),
         ('They came out of the woods. ked warm and cozy. overhead.',
          'They came out of the woods.'),
         ('Jack saw their house in the distance. It looThe porch light glowed. The moon shone '

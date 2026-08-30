@@ -17,6 +17,10 @@ import rebuild_book12 as rb
 
 TARGET = ROOT / 'data' / 'questions.json'
 
+# Balanced, non-repeating answer positions (one five-question row per chapter).
+ANSWER_PATTERNS = ('BDACA', 'CADBD', 'ADBCB', 'DCABA', 'BACDC',
+                   'CBDAD', 'ACDBB', 'DABCC', 'BCDAD', 'ADCBB')
+
 META = {
     'DETAIL': ('RL.5.1', 'Explicit comprehension', 1, '基础'),
     'SEQUENCE': ('RL.5.3', 'Sequence', 2, '进阶'),
@@ -268,10 +272,24 @@ def build_book():
             for piece in evidence:
                 if re.sub(r'[“”"\']', '', piece) not in norm_text:
                     problems.append(f'ch{chapter_number} Q{question_number}: evidence not found: {piece!r}')
+            # Source declarations keep the correct choice first for easy review.
+            # Rotate it deterministically in the emitted quiz so learners cannot
+            # infer the answer position; distribute A/B/C/D evenly across Book 12.
+            labels = 'ABCD'
+            correct_text = options[answer]
+            distractors = [options[label] for label in labels if label != answer]
+            emitted_answer = ANSWER_PATTERNS[chapter_number - 1][question_number - 1]
+            emitted_options, distractor_index = {}, 0
+            for label in labels:
+                if label == emitted_answer:
+                    emitted_options[label] = correct_text
+                else:
+                    emitted_options[label] = distractors[distractor_index]
+                    distractor_index += 1
             questions.append({
                 'number': question_number, 'standard': standard, 'skill': skill, 'dok': dok,
-                'stem': stem, 'options': options, 'answer': answer, 'evidence': evidence,
-                'rationale': rationale_for(tag, options[answer]),
+                'stem': stem, 'options': emitted_options, 'answer': emitted_answer, 'evidence': evidence,
+                'rationale': rationale_for(tag, correct_text),
                 'id': f'B12C{chapter_number}Q{question_number}', 'difficulty': difficulty,
             })
         chapters.append({'book': 12, 'chapter': chapter_number,

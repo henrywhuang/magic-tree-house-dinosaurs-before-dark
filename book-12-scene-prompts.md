@@ -1,6 +1,6 @@
 # Book12《雪原上的北极熊 / Polar Bears Past Bedtime》场景插图 Prompt 清单
 
-画风统一：16:9 暖色儿童绘本水彩/水粉、纸张肌理；人物沿用 Book 1–11：Jack（8岁男孩，深色蓬松短发，大圆黑框眼镜，睡衣外套海豹皮连帽大衣）、Annie（7岁女孩，棕色马尾，同样穿海豹皮连帽大衣）；北极冰原背景（冰雪苔原、圆顶冰屋、狗拉雪橇与哈士奇、海豹猎人、北极熊母子、北极光、Frog Creek 树林与树屋）。所有画面均为原创场景，无文字、标志、水印或边框。
+画风统一：16:9 暖色儿童绘本水彩/水粉、纸张肌理；人物沿用 Book 1–11：Jack（8岁男孩，深色蓬松短发，大圆黑框眼镜，睡衣外套传统北极连帽毛皮大衣）、Annie（7岁女孩，棕色马尾，同样穿传统北极连帽毛皮大衣）；北极冰原背景（冰雪苔原、圆顶冰屋、狗拉雪橇与哈士奇、当地北极猎人、北极熊母子、北极光、Frog Creek 树林与树屋）。当地猎人应以端庄、真实、尊重的方式呈现，衣着与工具符合北极传统生活，不异域化、不漫画化。所有画面均为原创场景，无文字、标志、水印或边框。
 
 ## 第1章 Are You Serious?
 - **assets/images/book-12-scenes/chapter-01-scene-01.webp** — 窗外的雪鸮
@@ -72,7 +72,7 @@
 - **assets/images/book-12-scenes/chapter-09-scene-02.webp** — 许愿却没反应
   - Annie 举着带他们回家的宾州小书指着封面许愿，可树屋一动不动，冰冷的风雪灌进树屋，两人急得团团转。
 - **assets/images/book-12-scenes/chapter-09-scene-03.webp** — 拼出谜底“HOME”
-  - Jack 和 Annie 摊开四卷卷轴：OYSTER、ECHO、HONEY、MASK，盯着首字母 O-E-H-M，忽然重组成 HOME——他们最爱的地方！
+  - 只有 Jack 和 Annie 两人在树屋里摊开五卷卷轴；珍珠、回声波纹、蜂巢、熊面具和温暖的家以发光图形出现，两人忽然领悟最终答案是 HOME，金色门廊幻影照亮风雪中的树屋。画面不出现可读字母或单词。
 
 ## 第10章 Master Librarians
 - **assets/images/book-12-scenes/chapter-10-scene-01.webp** — 成为图书管理大师

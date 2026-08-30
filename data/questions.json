@@ -12116,12 +12116,12 @@
               "dok": 1,
               "stem": "What was making the “Whoo” sound outside Jack’s window?",
               "options": {
-                "A": "A white snowy owl.",
-                "B": "A pack of wolves.",
+                "A": "A pack of wolves.",
+                "B": "A white snowy owl.",
                 "C": "The howling wind.",
                 "D": "Morgan le Fay."
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "A white snowy owl was sitting on a tree branch."
               ],
@@ -12136,12 +12136,12 @@
               "dok": 1,
               "stem": "Morgan is called “the enchantress librarian.” An “enchantress” is a ___.",
               "options": {
-                "A": "女巫；女魔法师",
-                "B": "图书管理员的学生",
-                "C": "猎人",
-                "D": "老师"
+                "A": "图书管理员的学生",
+                "B": "猎人",
+                "C": "老师",
+                "D": "女巫；女魔法师"
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "Morgan le Fay, the enchantress librarian."
               ],
@@ -12176,12 +12176,12 @@
               "dok": 2,
               "stem": "Why does Jack follow Annie into the dark night even though he feels weird?",
               "options": {
-                "A": "He doesn’t want to be left behind.",
-                "B": "Morgan ordered him to.",
-                "C": "He wants to catch the owl.",
+                "A": "Morgan ordered him to.",
+                "B": "He wants to catch the owl.",
+                "C": "He doesn’t want to be left behind.",
                 "D": "He is looking for wolves."
               },
-              "answer": "A",
+              "answer": "C",
               "evidence": [
                 "he didn’t want to be left behind."
               ],
@@ -12223,12 +12223,12 @@
               "dok": 1,
               "stem": "What did Jack and Annie see outside the tree house window in the Arctic?",
               "options": {
-                "A": "An endless field of ice and snow.",
-                "B": "A thick green forest.",
-                "C": "A busy little village.",
+                "A": "A thick green forest.",
+                "B": "A busy little village.",
+                "C": "An endless field of ice and snow.",
                 "D": "A warm sandy beach."
               },
-              "answer": "A",
+              "answer": "C",
               "evidence": [
                 "an endless field of ice and snow."
               ],
@@ -12263,12 +12263,12 @@
               "dok": 1,
               "stem": "According to the book, what does a seal hunter wear to stay warm?",
               "options": {
-                "A": "Sealskin clothing.",
-                "B": "A wool sweater.",
-                "C": "A plastic raincoat.",
-                "D": "A cotton shirt."
+                "A": "A wool sweater.",
+                "B": "A plastic raincoat.",
+                "C": "A cotton shirt.",
+                "D": "Sealskin clothing."
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "This seal hunter wears sealskin clothing"
               ],
@@ -12283,12 +12283,12 @@
               "dok": 2,
               "stem": "Why are Jack and Annie so anxious as they wait in the tree house?",
               "options": {
-                "A": "They are freezing and hear wolves howling closer.",
-                "B": "They have lost the riddle scroll.",
+                "A": "They have lost the riddle scroll.",
+                "B": "They are freezing and hear wolves howling closer.",
                 "C": "The tree house is sinking into the snow.",
                 "D": "Morgan is angry with them."
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "we’ll freeze to death"
               ],
@@ -12303,12 +12303,12 @@
               "dok": 2,
               "stem": "The face that suddenly appears at the window belongs to ___.",
               "options": {
-                "A": "the seal hunter from the Arctic book",
-                "B": "a hungry wolf",
-                "C": "Morgan le Fay",
-                "D": "a polar bear"
+                "A": "a hungry wolf",
+                "B": "Morgan le Fay",
+                "C": "a polar bear",
+                "D": "the seal hunter from the Arctic book"
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "It was the seal hunter from the Arctic book."
               ],
@@ -12350,12 +12350,12 @@
               "dok": 1,
               "stem": "The warm hooded coats the hunter gives them are called ___.",
               "options": {
-                "A": "parkas",
-                "B": "masks",
-                "C": "scrolls",
-                "D": "mittens"
+                "A": "masks",
+                "B": "scrolls",
+                "C": "mittens",
+                "D": "parkas"
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "They put the parkas on."
               ],
@@ -12370,12 +12370,12 @@
               "dok": 1,
               "stem": "What were the animals Jack had thought were wolves?",
               "options": {
-                "A": "Siberian huskies pulling a dogsled.",
-                "B": "Hungry polar bears.",
+                "A": "Hungry polar bears.",
+                "B": "Siberian huskies pulling a dogsled.",
                 "C": "A herd of seals.",
                 "D": "Arctic foxes."
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "they’re not wolves"
               ],
@@ -12390,12 +12390,12 @@
               "dok": 2,
               "stem": "Which event happens LAST in this chapter?",
               "options": {
-                "A": "The hunter shouts “Mush!” and the huskies dash off.",
-                "B": "Jack and Annie pull on the parkas.",
-                "C": "The hunter hands them fur boots and mittens.",
+                "A": "Jack and Annie pull on the parkas.",
+                "B": "The hunter hands them fur boots and mittens.",
+                "C": "The hunter shouts “Mush!” and the huskies dash off.",
                 "D": "Jack falls onto the snowy ground."
               },
-              "answer": "A",
+              "answer": "C",
               "evidence": [
                 "The huskies dashed off in a whirl of snow."
               ],
@@ -12410,12 +12410,12 @@
               "dok": 2,
               "stem": "Why does the seal hunter give Jack and Annie sealskin clothing?",
               "options": {
-                "A": "So they will not freeze.",
-                "B": "To sell it to them.",
+                "A": "To sell it to them.",
+                "B": "So they will not freeze.",
                 "C": "For a costume party.",
                 "D": "To hide them from wolves."
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "fi-fr-freezing"
               ],
@@ -12437,12 +12437,12 @@
               "dok": 1,
               "stem": "What is the small, rounded snow house they stop at called?",
               "options": {
-                "A": "An igloo.",
-                "B": "A tent.",
-                "C": "A log cabin.",
-                "D": "A cave."
+                "A": "A tent.",
+                "B": "A log cabin.",
+                "C": "A cave.",
+                "D": "An igloo."
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "a small, rounded igloo"
               ],
@@ -12457,12 +12457,12 @@
               "dok": 1,
               "stem": "According to the seal hunter, what did the polar bear teach his people to make?",
               "options": {
-                "A": "Igloos, or snow houses.",
-                "B": "Dogsleds.",
-                "C": "Fishing nets.",
+                "A": "Dogsleds.",
+                "B": "Fishing nets.",
+                "C": "Igloos, or snow houses.",
                 "D": "Fire."
               },
-              "answer": "A",
+              "answer": "C",
               "evidence": [
                 "learned to make igloos from polar bears"
               ],
@@ -12497,12 +12497,12 @@
               "dok": 2,
               "stem": "Why do the seal hunter’s people always thank the animal spirits?",
               "options": {
-                "A": "Because the animals help them survive in the ice and snow.",
-                "B": "Because the animals are magical.",
+                "A": "Because the animals are magical.",
+                "B": "Because the animals help them survive in the ice and snow.",
                 "C": "Because Morgan told them to.",
                 "D": "Because they are afraid of the animals."
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "we always thank the animal spirits"
               ],
@@ -12544,12 +12544,12 @@
               "dok": 1,
               "stem": "What two small creatures were the dogs barking at?",
               "options": {
-                "A": "Polar bear cubs.",
-                "B": "Grey wolves.",
+                "A": "Grey wolves.",
+                "B": "Polar bear cubs.",
                 "C": "Baby seals.",
                 "D": "Arctic foxes."
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "Polar bear babies!"
               ],
@@ -12584,12 +12584,12 @@
               "dok": 2,
               "stem": "Why does Jack say they are on “thin ice”?",
               "options": {
-                "A": "The ice keeps making cracking sounds.",
-                "B": "The cubs warned them.",
-                "C": "The water feels warm.",
+                "A": "The cubs warned them.",
+                "B": "The water feels warm.",
+                "C": "The ice keeps making cracking sounds.",
                 "D": "The moon has turned orange."
               },
-              "answer": "A",
+              "answer": "C",
               "evidence": [
                 "Another crack rang out."
               ],
@@ -12604,12 +12604,12 @@
               "dok": 1,
               "stem": "The cubs scooted up a “snowbank.” A “snowbank” is ___.",
               "options": {
-                "A": "雪堆；雪坡",
-                "B": "一家银行",
-                "C": "一座冰屋",
-                "D": "一条河"
+                "A": "一家银行",
+                "B": "一座冰屋",
+                "C": "一条河",
+                "D": "雪堆；雪坡"
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "scooted up a snowbank"
               ],
@@ -12624,12 +12624,12 @@
               "dok": 2,
               "stem": "Which event happens LAST in this chapter?",
               "options": {
-                "A": "A giant polar bear appears, snorting, above them.",
-                "B": "The cubs pretend to be hurt.",
-                "C": "Jack and Annie slide down the snowbank.",
+                "A": "The cubs pretend to be hurt.",
+                "B": "Jack and Annie slide down the snowbank.",
+                "C": "A giant polar bear appears, snorting, above them.",
                 "D": "The dogs bark at the two cubs."
               },
-              "answer": "A",
+              "answer": "C",
               "evidence": [
                 "Staring down at them was a giant polar bear."
               ],
@@ -12651,12 +12651,12 @@
               "dok": 1,
               "stem": "How does the mother polar bear cross the thin ice safely?",
               "options": {
-                "A": "She stretches out her four legs and lies flat to spread her weight.",
-                "B": "She leaps across in one jump.",
-                "C": "She swims beneath the ice.",
+                "A": "She leaps across in one jump.",
+                "B": "She swims beneath the ice.",
+                "C": "She stretches out her four legs and lies flat to spread her weight.",
                 "D": "She tiptoes quickly across."
               },
-              "answer": "A",
+              "answer": "C",
               "evidence": [
                 "the polar bear stretched out her four legs and lay on the ice."
               ],
@@ -12671,12 +12671,12 @@
               "dok": 2,
               "stem": "Why does Annie want to put on the bear masks?",
               "options": {
-                "A": "So the mother bear might think they are polar bears and to feel protected.",
-                "B": "To keep their faces warm.",
+                "A": "To keep their faces warm.",
+                "B": "So the mother bear might think they are polar bears and to feel protected.",
                 "C": "To scare the cubs away.",
                 "D": "For a ceremony."
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "Maybe they’ll protect us"
               ],
@@ -12691,12 +12691,12 @@
               "dok": 1,
               "stem": "The cubs “whimpered.” To “whimper” is to ___.",
               "options": {
-                "A": "呜咽；啜泣",
-                "B": "哈哈大笑",
-                "C": "飞快奔跑",
-                "D": "呼呼大睡"
+                "A": "哈哈大笑",
+                "B": "飞快奔跑",
+                "C": "呼呼大睡",
+                "D": "呜咽；啜泣"
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "The cubs whimpered louder."
               ],
@@ -12731,12 +12731,12 @@
               "dok": 2,
               "stem": "When Jack feels “like a flying polar bear,” it shows the hunter’s saying was ___.",
               "options": {
-                "A": "coming true in a magical way",
-                "B": "completely a lie",
-                "C": "a plain scientific fact",
-                "D": "a dangerous warning"
+                "A": "completely a lie",
+                "B": "a plain scientific fact",
+                "C": "a dangerous warning",
+                "D": "coming true in a magical way"
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "He felt like a flying polar bear."
               ],
@@ -12778,12 +12778,12 @@
               "dok": 1,
               "stem": "What amazing sight suddenly fills the Arctic sky?",
               "options": {
-                "A": "The northern lights — a giant swirl of color.",
-                "B": "A bright rainbow.",
-                "C": "A sudden snowstorm.",
+                "A": "A bright rainbow.",
+                "B": "A sudden snowstorm.",
+                "C": "The northern lights — a giant swirl of color.",
                 "D": "The rising sun."
               },
-              "answer": "A",
+              "answer": "C",
               "evidence": [
                 "the sky exploded."
               ],
@@ -12798,12 +12798,12 @@
               "dok": 1,
               "stem": "Jack stared at the polar bear “in awe.” “Awe” means ___.",
               "options": {
-                "A": "敬畏；惊叹",
-                "B": "害怕",
-                "C": "无聊",
-                "D": "生气"
+                "A": "害怕",
+                "B": "无聊",
+                "C": "生气",
+                "D": "敬畏；惊叹"
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "Jack stared at the polar bear in awe."
               ],
@@ -12818,12 +12818,12 @@
               "dok": 2,
               "stem": "Annie thinks the lights are the polar bear’s spirit, but Jack believes ___.",
               "options": {
-                "A": "there is a scientific reason for them",
-                "B": "they are dangerous",
+                "A": "they are dangerous",
+                "B": "there is a scientific reason for them",
                 "C": "Morgan created them",
                 "D": "the cubs made them"
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "There’s got to be a scientific reason"
               ],
@@ -12838,12 +12838,12 @@
               "dok": 2,
               "stem": "Which event happens LAST in this chapter?",
               "options": {
-                "A": "All the dancing lights suddenly vanish.",
-                "B": "The sky explodes with color.",
+                "A": "The sky explodes with color.",
+                "B": "All the dancing lights suddenly vanish.",
                 "C": "Jack and Annie bow to the polar bear.",
                 "D": "The bear rises up on her hind legs."
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "all the dancing lights were gone"
               ],
@@ -12865,12 +12865,12 @@
               "dok": 1,
               "stem": "What brings the seal hunter back to Jack and Annie?",
               "options": {
-                "A": "The dogsled, with howling huskies, comes into view.",
-                "B": "A rescue helicopter.",
-                "C": "Morgan le Fay.",
-                "D": "A friendly polar bear."
+                "A": "A rescue helicopter.",
+                "B": "Morgan le Fay.",
+                "C": "A friendly polar bear.",
+                "D": "The dogsled, with howling huskies, comes into view."
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "the dogsled came into view."
               ],
@@ -12905,12 +12905,12 @@
               "dok": 2,
               "stem": "What is the answer to Morgan’s fourth riddle?",
               "options": {
-                "A": "A mask.",
-                "B": "A polar bear.",
+                "A": "A polar bear.",
+                "B": "A mask.",
                 "C": "The ice.",
                 "D": "An igloo."
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "“A mask!” Jack and Annie said together."
               ],
@@ -12925,12 +12925,12 @@
               "dok": 1,
               "stem": "Annie’s words sounded “familiar” to Jack, meaning they ___.",
               "options": {
-                "A": "似曾相识；耳熟",
-                "B": "很奇怪",
-                "C": "很好笑",
+                "A": "很奇怪",
+                "B": "很好笑",
+                "C": "似曾相识；耳熟",
                 "D": "听不懂"
               },
-              "answer": "A",
+              "answer": "C",
               "evidence": [
                 "Annie’s words sounded familiar."
               ],
@@ -12945,12 +12945,12 @@
               "dok": 2,
               "stem": "Why does Jack give the bear masks back to the seal hunter?",
               "options": {
-                "A": "They belong to the hunter — Jack had taken them by mistake.",
-                "B": "They are broken.",
-                "C": "Annie no longer wants them.",
+                "A": "They are broken.",
+                "B": "Annie no longer wants them.",
+                "C": "They belong to the hunter — Jack had taken them by mistake.",
                 "D": "Morgan asked for them."
               },
-              "answer": "A",
+              "answer": "C",
               "evidence": [
                 "The hunter took the masks"
               ],
@@ -12972,12 +12972,12 @@
               "dok": 1,
               "stem": "What did Jack find in place of the fourth riddle on the scroll?",
               "options": {
-                "A": "One shimmering word: MASK.",
-                "B": "A blank scroll.",
+                "A": "A blank scroll.",
+                "B": "One shimmering word: MASK.",
                 "C": "A map of the Arctic.",
                 "D": "A drawing of a bear."
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "In its place was one shimmering word: MASK"
               ],
@@ -12992,12 +12992,12 @@
               "dok": 1,
               "stem": "Why won’t the tree house take them home at first?",
               "options": {
-                "A": "There is a fifth scroll with a new riddle to solve.",
-                "B": "The tree house is broken.",
-                "C": "The snow is too deep.",
+                "A": "The tree house is broken.",
+                "B": "The snow is too deep.",
+                "C": "There is a fifth scroll with a new riddle to solve.",
                 "D": "Morgan has taken the book."
               },
-              "answer": "A",
+              "answer": "C",
               "evidence": [
                 "a fifth scroll"
               ],
@@ -13012,12 +13012,12 @@
               "dok": 1,
               "stem": "Jack says they must “unscramble” the letters — that is, ___.",
               "options": {
-                "A": "把打乱的字母重新排好",
-                "B": "把字母擦掉",
-                "C": "大声念出字母",
-                "D": "把字母藏起来"
+                "A": "把字母擦掉",
+                "B": "大声念出字母",
+                "C": "把字母藏起来",
+                "D": "把打乱的字母重新排好"
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "unscramble those letters"
               ],
@@ -13052,12 +13052,12 @@
               "dok": 2,
               "stem": "Why is solving this last riddle so urgent?",
               "options": {
-                "A": "An icy blizzard is freezing them inside the tree house.",
-                "B": "The huskies are running away.",
-                "C": "Morgan is waiting outside.",
-                "D": "The cubs are crying."
+                "A": "The huskies are running away.",
+                "B": "Morgan is waiting outside.",
+                "C": "The cubs are crying.",
+                "D": "An icy blizzard is freezing them inside the tree house."
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "Icy winds battered the tree house."
               ],
@@ -13099,12 +13099,12 @@
               "dok": 1,
               "stem": "What are Jack and Annie now called?",
               "options": {
-                "A": "Master Librarians.",
-                "B": "Seal hunters.",
-                "C": "Arctic knights.",
-                "D": "Star explorers."
+                "A": "Seal hunters.",
+                "B": "Arctic knights.",
+                "C": "Star explorers.",
+                "D": "Master Librarians."
               },
-              "answer": "A",
+              "answer": "D",
               "evidence": [
                 "These are your Master Librarian cards"
               ],
@@ -13119,12 +13119,12 @@
               "dok": 1,
               "stem": "Morgan speaks in a “soothing” voice. “Soothing” means ___.",
               "options": {
-                "A": "抚慰的；令人安心的",
-                "B": "很大声的",
-                "C": "生气的",
+                "A": "很大声的",
+                "B": "生气的",
+                "C": "抚慰的；令人安心的",
                 "D": "冰冷的"
               },
-              "answer": "A",
+              "answer": "C",
               "evidence": [
                 "a soft, soothing voice."
               ],
@@ -13139,12 +13139,12 @@
               "dok": 2,
               "stem": "Annie says the darkness is “like a mask.” How does this echo the riddle?",
               "options": {
-                "A": "A mask hides the day but brings out your courage — just like the riddle’s answer.",
-                "B": "Masks are frightening in the dark.",
+                "A": "Masks are frightening in the dark.",
+                "B": "A mask hides the day but brings out your courage — just like the riddle’s answer.",
                 "C": "The darkness is really a polar bear.",
                 "D": "They lost their masks in the woods."
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "It hides the day, but it brings out your courage."
               ],
@@ -13159,12 +13159,12 @@
               "dok": 2,
               "stem": "Which best summarizes the whole book?",
               "options": {
-                "A": "In the Arctic Jack and Annie befriend a seal hunter and polar bears, solve the mask riddle, and become Master Librarians.",
-                "B": "Jack and Annie explore an African plain full of lions.",
+                "A": "Jack and Annie explore an African plain full of lions.",
+                "B": "In the Arctic Jack and Annie befriend a seal hunter and polar bears, solve the mask riddle, and become Master Librarians.",
                 "C": "Jack and Annie visit a Wild West ghost town.",
                 "D": "Jack and Annie dive deep under the ocean."
               },
-              "answer": "A",
+              "answer": "B",
               "evidence": [
                 "You are the newest me"
               ],

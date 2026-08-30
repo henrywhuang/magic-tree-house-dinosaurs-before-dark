@@ -115,7 +115,7 @@ let chapterRequestId=0;
 const pronunciationAudio=$('#pronunciationAudio');
 let activeTTS=null;
 let ttsRequestId=0;
-const DATA_VERSION='20260829-book11';
+const DATA_VERSION='20260830-book10-11-vocab';
 const jsonRequests=new Map();
 
 function currentBook(){return BOOKS[state.book]}
