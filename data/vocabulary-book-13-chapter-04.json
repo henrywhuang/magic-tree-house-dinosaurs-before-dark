@@ -1,0 +1,321 @@
+{
+  "book": 13,
+  "chapter": 4,
+  "title": "Scary Things",
+  "words": [
+    {
+      "id": "strong",
+      "word": "strong",
+      "forms": [
+        "strong"
+      ],
+      "tier": "core",
+      "phonetic": "/strɒŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "强壮的；坚固的",
+      "wordForms": "原文词形：strong",
+      "sentence": "Jack pulled out his book and found a picture of the strong men.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-04/strong.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "强壮的；坚固的",
+        "注视；凝视",
+        "寒冷；寒意"
+      ]
+    },
+    {
+      "id": "fight",
+      "word": "fight",
+      "forms": [
+        "fight"
+      ],
+      "tier": "core",
+      "phonetic": "/fait/",
+      "partOfSpeech": "n.",
+      "meaning": "打斗；搏斗",
+      "wordForms": "原文词形：fight",
+      "sentence": "They were forced to fight each other or wild animals like lions or bears.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-04/fight.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "打斗；搏斗",
+        "强壮的；坚固的",
+        "矛；枪"
+      ]
+    },
+    {
+      "id": "cheered",
+      "word": "cheer",
+      "forms": [
+        "cheer",
+        "cheered"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃiә/",
+      "partOfSpeech": "v.",
+      "meaning": "欢呼；喝彩",
+      "wordForms": "原文词形：cheered",
+      "sentence": "Men and women cheered as the gladiators marched inside.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-04/cheered.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "欢呼；喝彩",
+        "脊柱；脊背",
+        "寒冷；寒意"
+      ]
+    },
+    {
+      "id": "guard",
+      "word": "guard",
+      "forms": [
+        "guard"
+      ],
+      "tier": "core",
+      "phonetic": "/gɑ:d/",
+      "partOfSpeech": "n.",
+      "meaning": "卫兵；守卫",
+      "wordForms": "原文词形：guard",
+      "sentence": "Jack and Annie started to follow them, but a guard held up his spear.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-04/guard.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "卫兵；守卫",
+        "寒冷；寒意",
+        "欢呼；喝彩"
+      ]
+    },
+    {
+      "id": "spear",
+      "word": "spear",
+      "forms": [
+        "spear"
+      ],
+      "tier": "core",
+      "phonetic": "/spiә/",
+      "partOfSpeech": "n.",
+      "meaning": "矛；枪",
+      "wordForms": "原文词形：spear",
+      "sentence": "Jack and Annie started to follow them, but a guard held up his spear.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-04/spear.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "矛；枪",
+        "打斗；搏斗",
+        "注视；凝视"
+      ]
+    },
+    {
+      "id": "gaze",
+      "word": "gaze",
+      "forms": [
+        "gaze"
+      ],
+      "tier": "core",
+      "phonetic": "/geiz/",
+      "partOfSpeech": "n.",
+      "meaning": "注视；凝视",
+      "wordForms": "原文词形：gaze",
+      "sentence": "The woman fixed her gaze on Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-04/gaze.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "注视；凝视",
+        "卫兵；守卫",
+        "欢呼；喝彩"
+      ]
+    },
+    {
+      "id": "chill",
+      "word": "chill",
+      "forms": [
+        "chill"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃil/",
+      "partOfSpeech": "n.",
+      "meaning": "寒冷；寒意",
+      "wordForms": "原文词形：chill",
+      "sentence": "Jack felt a chill go down his spine.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-04/chill.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "寒冷；寒意",
+        "欢呼；喝彩",
+        "矛；枪"
+      ]
+    },
+    {
+      "id": "spine",
+      "word": "spine",
+      "forms": [
+        "spine"
+      ],
+      "tier": "core",
+      "phonetic": "/spain/",
+      "partOfSpeech": "n.",
+      "meaning": "脊柱；脊背",
+      "wordForms": "原文词形：spine",
+      "sentence": "Jack felt a chill go down his spine.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-04/spine.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "脊柱；脊背",
+        "矛；枪",
+        "寒冷；寒意"
+      ]
+    }
+  ]
+}

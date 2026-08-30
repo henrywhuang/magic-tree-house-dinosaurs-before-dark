@@ -1,5 +1,5 @@
-const CACHE='mth-reader-v32-book10-11-vocab';
-const CORE=['index.html','styles.css?v=20260730-mobile','app.js?v=20260830-book10-11-vocab','data/words.js?v=20260830-book12','manifest.webmanifest','assets/images/cover.jpg'];
+const CACHE='mth-reader-v33-book13';
+const CORE=['index.html','styles.css?v=20260730-mobile','app.js?v=20260830-book13','data/words.js?v=20260830-book13','manifest.webmanifest','assets/images/cover.jpg'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',e=>{

@@ -1,0 +1,338 @@
+{
+  "book": 13,
+  "chapter": 7,
+  "title": "The Sky Is Falling",
+  "words": [
+    {
+      "id": "trembling",
+      "word": "tremble",
+      "forms": [
+        "tremble",
+        "trembling"
+      ],
+      "tier": "core",
+      "phonetic": "/'trembl/",
+      "partOfSpeech": "v.",
+      "meaning": "颤抖；抖动",
+      "wordForms": "原文词形：trembling",
+      "sentence": "The patio stones were trembling.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-07/trembling.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "颤抖；抖动",
+        "屋顶；房顶",
+        "窗户；窗子"
+      ]
+    },
+    {
+      "id": "crashing",
+      "word": "crash",
+      "forms": [
+        "crash",
+        "crashing"
+      ],
+      "tier": "core",
+      "phonetic": "/kræʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "轰然倒下；猛撞",
+      "wordForms": "原文词形：crashing",
+      "sentence": "Everything was shaking and crashing down around them—pots, plants, the mermaid fountain.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-07/crashing.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "轰然倒下；猛撞",
+        "窗户；窗子",
+        "轻石；浮石"
+      ]
+    },
+    {
+      "id": "roof",
+      "word": "roof",
+      "forms": [
+        "roof"
+      ],
+      "tier": "core",
+      "phonetic": "/ru:f/",
+      "partOfSpeech": "n.",
+      "meaning": "屋顶；房顶",
+      "wordForms": "原文词形：roof",
+      "sentence": "They both jumped up just as roof tiles began falling into the garden.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-07/roof.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "屋顶；房顶",
+        "颤抖；抖动",
+        "灰泥；灰浆"
+      ]
+    },
+    {
+      "id": "cracks",
+      "word": "crack",
+      "forms": [
+        "crack",
+        "cracks"
+      ],
+      "tier": "core",
+      "phonetic": "/kræk/",
+      "partOfSpeech": "n.",
+      "meaning": "裂缝；裂纹",
+      "wordForms": "原文词形：cracks",
+      "sentence": "Giant cracks split the stone floor as Jack and Annie ran to a window and looked out.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-07/cracks.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "裂缝；裂纹",
+        "屋顶；房顶",
+        "灰泥；灰浆"
+      ]
+    },
+    {
+      "id": "window",
+      "word": "window",
+      "forms": [
+        "window"
+      ],
+      "tier": "core",
+      "phonetic": "/'windәu/",
+      "partOfSpeech": "n.",
+      "meaning": "窗户；窗子",
+      "wordForms": "原文词形：window",
+      "sentence": "Giant cracks split the stone floor as Jack and Annie ran to a window and looked out.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-07/window.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "窗户；窗子",
+        "熔岩；火山岩",
+        "轰然倒下；猛撞"
+      ]
+    },
+    {
+      "id": "lava",
+      "word": "lava",
+      "forms": [
+        "lava"
+      ],
+      "tier": "core",
+      "phonetic": "/'lɑ:vә/",
+      "partOfSpeech": "n.",
+      "meaning": "熔岩；火山岩",
+      "wordForms": "原文词形：lava",
+      "sentence": "Once it gets outside the volcano, it’s called“lava.”",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-07/lava.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "熔岩；火山岩",
+        "轰然倒下；猛撞",
+        "灰泥；灰浆"
+      ]
+    },
+    {
+      "id": "pumice",
+      "word": "pumice",
+      "forms": [
+        "pumice"
+      ],
+      "tier": "core",
+      "phonetic": "/'pʌmis/",
+      "partOfSpeech": "n.",
+      "meaning": "轻石；浮石",
+      "wordForms": "原文词形：pumice",
+      "sentence": "The magma from the volcano cooled so fast that it froze into small grayish white rocks called pumice (PUM-iss).",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-07/pumice.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "轻石；浮石",
+        "窗户；窗子",
+        "颤抖；抖动"
+      ]
+    },
+    {
+      "id": "plaster",
+      "word": "plaster",
+      "forms": [
+        "plaster"
+      ],
+      "tier": "core",
+      "phonetic": "/'plæstә/",
+      "partOfSpeech": "n.",
+      "meaning": "灰泥；灰浆",
+      "wordForms": "原文词形：plaster",
+      "sentence": "Chunks of plaster from the ceiling fell on the scrolls.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-07/plaster.mp3",
+      "phonics": [
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "灰泥；灰浆",
+        "熔岩；火山岩",
+        "窗户；窗子"
+      ]
+    }
+  ]
+}

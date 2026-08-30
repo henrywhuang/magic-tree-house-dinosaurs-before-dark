@@ -1,0 +1,351 @@
+{
+  "book": 13,
+  "chapter": 6,
+  "title": "The End Is Here",
+  "words": [
+    {
+      "id": "title",
+      "word": "title",
+      "forms": [
+        "title"
+      ],
+      "tier": "core",
+      "phonetic": "/'taitl/",
+      "partOfSpeech": "n.",
+      "meaning": "标题；题目",
+      "wordForms": "原文词形：title",
+      "sentence": "Jack pulled out the piece of paper with the Latin title on it:Vir Fortissimus in Mundo.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-06/title.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "标题；题目",
+        "正午；中午",
+        "卷轴；画卷"
+      ]
+    },
+    {
+      "id": "scroll",
+      "word": "scroll",
+      "forms": [
+        "scroll"
+      ],
+      "tier": "core",
+      "phonetic": "/skrәul/",
+      "partOfSpeech": "n.",
+      "meaning": "卷轴；画卷",
+      "wordForms": "原文词形：scroll",
+      "sentence": "“We have to find the scroll with this title.”",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-06/scroll.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "卷轴；画卷",
+        "标题；题目",
+        "火山"
+      ]
+    },
+    {
+      "id": "volcano",
+      "word": "volcano",
+      "forms": [
+        "volcano"
+      ],
+      "tier": "core",
+      "phonetic": "/vɒl'keinәu/",
+      "partOfSpeech": "n.",
+      "meaning": "火山",
+      "wordForms": "原文词形：volcano",
+      "sentence": "In the middle of the book, he found a picture of a volcano erupting over a town.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-06/volcano.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "火山",
+        "日晷",
+        "标题；题目"
+      ]
+    },
+    {
+      "id": "erupting",
+      "word": "erupt",
+      "forms": [
+        "erupt",
+        "erupting"
+      ],
+      "tier": "core",
+      "phonetic": "/i'rʌpt/",
+      "partOfSpeech": "v.",
+      "meaning": "（火山）喷发；爆发",
+      "wordForms": "原文词形：erupting",
+      "sentence": "In the middle of the book, he found a picture of a volcano erupting over a town.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-06/erupting.mp3",
+      "phonics": [
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pt",
+          "sound": "/pt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "（火山）喷发；爆发",
+        "正午；中午",
+        "日晷"
+      ]
+    },
+    {
+      "id": "noon",
+      "word": "noon",
+      "forms": [
+        "noon"
+      ],
+      "tier": "core",
+      "phonetic": "/nu:n/",
+      "partOfSpeech": "n.",
+      "meaning": "正午；中午",
+      "wordForms": "原文词形：noon",
+      "sentence": "Then, at noon on August 24, A.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-06/noon.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "正午；中午",
+        "标题；题目",
+        "影子；阴影"
+      ]
+    },
+    {
+      "id": "sundial",
+      "word": "sundial",
+      "forms": [
+        "sundial"
+      ],
+      "tier": "core",
+      "phonetic": "/'sʌndaiәl/",
+      "partOfSpeech": "n.",
+      "meaning": "日晷",
+      "wordForms": "原文词形：sundial",
+      "sentence": "“A sundial!”",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-06/sundial.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "日晷",
+        "卷轴；画卷",
+        "影子；阴影"
+      ]
+    },
+    {
+      "id": "shadow",
+      "word": "shadow",
+      "forms": [
+        "shadow"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃædәu/",
+      "partOfSpeech": "n.",
+      "meaning": "影子；阴影",
+      "wordForms": "原文词形：shadow",
+      "sentence": "Jack read the writing under the picture: The shadow on the sundial can hardly be seen at noon.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-06/shadow.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "影子；阴影",
+        "（火山）喷发；爆发",
+        "爆炸声；巨响"
+      ]
+    },
+    {
+      "id": "blast",
+      "word": "blast",
+      "forms": [
+        "blast"
+      ],
+      "tier": "core",
+      "phonetic": "/blæst/",
+      "partOfSpeech": "n.",
+      "meaning": "爆炸声；巨响",
+      "wordForms": "原文词形：blast",
+      "sentence": "Just then he heard a terrible blast.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-06/blast.mp3",
+      "phonics": [
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "爆炸声；巨响",
+        "火山",
+        "（火山）喷发；爆发"
+      ]
+    }
+  ]
+}

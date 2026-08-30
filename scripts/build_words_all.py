@@ -4,7 +4,7 @@
 "add to vocabulary" feature captures a usable definition and dictionary lemma.
 Source: ECDICT (including its ``exchange`` lemma mapping) + manual names.
 """
-import csv, glob, json, re, sys
+import argparse, csv, glob, json, re, sys
 from pathlib import Path
 sys.path.insert(0, 'scripts')
 from gen_vocab_book4 import base_forms
@@ -86,6 +86,26 @@ MANUAL = {
     "wh-wh-what's": ('/wʌts/', '结巴说出的 what’s：是什么'),
     "where'd": ('/wɛrd/', 'where did 的缩写：在哪里'),
     'whoo': ('/huː/', 'int. 猫头鹰的呼叫声'),
+    'pompeii': ('/pɒmˈpeɪiː/', 'n. 庞贝（古罗马城市）'),
+    'vesuvius': ('/vəˈsuːviəs/', 'n. 维苏威火山'),
+    'brutus': ('/ˈbruːtəs/', '布鲁图斯（古罗马人名）'),
+    'jupiter': ('/ˈdʒuːpɪtər/', 'n. 朱庇特（古罗马主神）'),
+    'hercules': ('/ˈhɜːrkjuliːz/', 'n. 赫拉克勒斯；大力神'),
+    'apollo': ('/əˈpɒloʊ/', 'n. 阿波罗（古希腊罗马神话人物）'),
+    'venus': ('/ˈviːnəs/', 'n. 维纳斯（古罗马神话人物）'),
+    'medusa': ('/mɪˈduːsə/', 'n. 美杜莎（古希腊神话人物）'),
+    'ml': ('/em el/', '字母 M–L，代表 Master Librarian'),
+    'vir': ('/vɪr/', '拉丁语：男人；英雄'),
+    'fortissimus': ('/fɔːrˈtɪsɪmʊs/', '拉丁语：最强大的'),
+    'mundo': ('/ˈmʊndoʊ/', '拉丁语：世界之中'),
+    'pom-pay': ('/pɒmˈpeɪ/', 'Pompeii 的读音提示'),
+    'vuh-soo-vee-us': ('/vəˈsuːviəs/', 'Vesuvius 的读音提示'),
+    'am-fuh-thee-uh-ter': ('/ˌæmfɪˈθiːətər/', 'amphitheater 的读音提示：圆形露天竞技场'),
+    'puh-pi-rus': ('/pəˈpaɪrəs/', 'papyrus 的读音提示：纸莎草纸'),
+    'pum-iss': ('/ˈpʌmɪs/', 'pumice 的读音提示：浮石'),
+    'gentle-looking': ('/ˈdʒentəl ˌlʊkɪŋ/', 'adj. 相貌温和的'),
+    'v-v-volcano': ('/vɒlˈkeɪnoʊ/', '结巴说出的 volcano：火山'),
+    "it's-it's": ('/ɪts/', '结巴说出的 it’s：它是'),
 }
 
 # ECDICT occasionally chooses an unrelated homograph or an obsolete spelling
@@ -128,10 +148,19 @@ def clean_meaning(translation):
             out.append('；'.join(uniq[:3]))                        # up to three senses each
     return ' / '.join(out)
 
-# 1) all reading-text words across every available book
+# 1) all reading-text words across every available book (or through --max-book)
+parser = argparse.ArgumentParser()
+parser.add_argument('--max-book', type=int, default=0,
+                    help='Only include reader data through this book number')
+args = parser.parse_args()
 words = set()
 for f in glob.glob(str(ROOT / 'data' / '*chapter-*.json')):
     if 'vocabulary' in f:
+        continue
+    name = Path(f).name
+    match = re.match(r'book-(\d+)-chapter-', name)
+    book = int(match.group(1)) if match else 1
+    if args.max_book and book > args.max_book:
         continue
     for w in json.loads(Path(f).read_text('utf-8')).get('words', []):
         n = norm(w['word'])

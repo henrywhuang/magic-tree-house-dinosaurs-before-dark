@@ -13175,6 +13175,1105 @@
           ]
         }
       ]
+    },
+    {
+      "book": 13,
+      "book_title": "Vacation Under the Volcano",
+      "book_title_cn": "庞贝城的末日",
+      "chapters": [
+        {
+          "book": 13,
+          "chapter": 1,
+          "chapter_title": "A Secret Code",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What two letters glowed on Jack’s secret library card?",
+              "options": {
+                "A": "The letters FC, for Frog Creek.",
+                "B": "The letters ML, for Master Librarian.",
+                "C": "The letters MF, for Morgan le Fay.",
+                "D": "The word POMPEII."
+              },
+              "answer": "B",
+              "evidence": [
+                "ran his finger over its shimmering letters: ML."
+              ],
+              "rationale": "原文直接写到：The letters ML, for Master Librarian.",
+              "id": "B13C1Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Morgan gives them “an important mission.” A “mission” is a ___.",
+              "options": {
+                "A": "假期；休假",
+                "B": "书本；图书",
+                "C": "梦；梦境",
+                "D": "任务；使命"
+              },
+              "answer": "D",
+              "evidence": [
+                "I have an important mission for you"
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“任务；使命”。",
+              "id": "B13C1Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does Morgan send Jack and Annie to the ancient Roman town?",
+              "options": {
+                "A": "To rescue a lost story before its library is lost forever.",
+                "B": "To take a relaxing vacation in the mountains.",
+                "C": "To find out what caused Annie’s nightmare.",
+                "D": "To deliver a new book to Camelot."
+              },
+              "answer": "A",
+              "evidence": [
+                "I need you to get it before the library becomes lost forever."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：To rescue a lost story before its library is lost forever.",
+              "id": "B13C1Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "Annie’s nightmare of fire and shaking ground is a hint that ___.",
+              "options": {
+                "A": "the trip will be calm and boring",
+                "B": "they will never find the tree house",
+                "C": "something dangerous will happen on this trip",
+                "D": "Morgan is angry with them"
+              },
+              "answer": "C",
+              "evidence": [
+                "I dreamed fires were burning,",
+                "Do you think it was a warning?"
+              ],
+              "rationale": "原文细节支持这一推断：something dangerous will happen on this trip",
+              "id": "B13C1Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "The magic tree house starts to spin and carries them off.",
+                "B": "Jack takes his secret library card from the drawer.",
+                "C": "Morgan hands Jack the book about Roman times.",
+                "D": "Annie tells Jack about her scary nightmare."
+              },
+              "answer": "A",
+              "evidence": [
+                "the tree house started to spin."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：The magic tree house starts to spin and carries them off.",
+              "id": "B13C1Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 13,
+          "chapter": 2,
+          "chapter_title": "The End Is Near",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What are Jack and Annie wearing when they wake up in the tree house?",
+              "options": {
+                "A": "Their own jeans, T-shirts, and sneakers.",
+                "B": "Warm parkas and fur boots.",
+                "C": "Tunics and lace-up sandals, like ancient Roman kids.",
+                "D": "Gladiator armor and helmets."
+              },
+              "answer": "C",
+              "evidence": [
+                "he had on a white tunic with a belt, sandals that laced up",
+                "look just like kids in an ancient Roman town."
+              ],
+              "rationale": "原文直接写到：Tunics and lace-up sandals, like ancient Roman kids.",
+              "id": "B13C2Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "The old woman “wore a black cloak.” A “cloak” is a kind of ___.",
+              "options": {
+                "A": "斗篷；披风",
+                "B": "帽子；头盔",
+                "C": "鞋子；凉鞋",
+                "D": "袋子；背包"
+              },
+              "answer": "A",
+              "evidence": [
+                "She wore a black cloak."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“斗篷；披风”。",
+              "id": "B13C2Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does Annie say they should go home right away?",
+              "options": {
+                "A": "She is cold and hungry.",
+                "B": "She has lost the story title.",
+                "C": "She wants to watch the gladiators fight.",
+                "D": "She feels the ground shake and senses something is wrong."
+              },
+              "answer": "D",
+              "evidence": [
+                "The ground shook. I heard it rumble, too,",
+                "I really think we should go home now."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：She feels the ground shake and senses something is wrong.",
+              "id": "B13C2Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "The grove being “strangely silent” with no birds is an early sign that ___.",
+              "options": {
+                "A": "it is the middle of the night",
+                "B": "nature is warning that danger is coming",
+                "C": "the birds are all resting at the beach",
+                "D": "Jack has frightened the birds away"
+              },
+              "answer": "B",
+              "evidence": [
+                "The grove was strangely silent."
+              ],
+              "rationale": "原文细节支持这一推断：nature is warning that danger is coming",
+              "id": "B13C2Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "Jack and Annie cross a small wooden bridge into town.",
+                "B": "Jack reads that the seaside town is called Pompeii.",
+                "C": "Jack and Annie wake up wearing Roman clothes.",
+                "D": "An old woman warns them, “Go home, strangers!”"
+              },
+              "answer": "D",
+              "evidence": [
+                "Go home, strangers!"
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：An old woman warns them, “Go home, strangers!”",
+              "id": "B13C2Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 13,
+          "chapter": 3,
+          "chapter_title": "Gladiators!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "The book says people who could see the future and warn others were “soothsayers.” A soothsayer is someone who ___.",
+              "options": {
+                "A": "能预见未来、向别人发出警告",
+                "B": "在公共澡堂里干活",
+                "C": "在集市上卖水果",
+                "D": "训练角斗士打斗"
+              },
+              "answer": "A",
+              "evidence": [
+                "there were people who could see into the future and warn others about what they saw.",
+                "These people were called soothsayers."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“能预见未来、向别人发出警告”。",
+              "id": "B13C3Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "The fancy building with large columns turned out to be ___.",
+              "options": {
+                "A": "the town library.",
+                "B": "the amphitheater.",
+                "C": "the house of Brutus.",
+                "D": "the Temple of Jupiter."
+              },
+              "answer": "D",
+              "evidence": [
+                "they came to a fancy building with large columns.",
+                "This is the Temple of Jupiter, their chief god."
+              ],
+              "rationale": "原文直接写到：the Temple of Jupiter.",
+              "id": "B13C3Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How do Annie and Jack differ about the soothsayer’s warning?",
+              "options": {
+                "A": "Both of them ignore the soothsayer completely.",
+                "B": "Annie believes the warning, while Jack thinks soothsayers are just from olden times.",
+                "C": "Both are certain the soothsayer is lying.",
+                "D": "Jack trusts her, but Annie is too scared to listen."
+              },
+              "answer": "B",
+              "evidence": [
+                "She was giving us a warning.",
+                "Soothsayers are from olden times."
+              ],
+              "rationale": "结合人物与事件的关系，正确的是：Annie believes the warning, while Jack thinks soothsayers are just from olden times.",
+              "id": "B13C3Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why do Jack and Annie keep walking past the Baths and the Temple?",
+              "options": {
+                "A": "They are afraid of the crowds inside.",
+                "B": "They are chasing after the soothsayer.",
+                "C": "They are searching for a library, and neither building is one.",
+                "D": "They are hunting for the gladiators."
+              },
+              "answer": "C",
+              "evidence": [
+                "We have to find the lost library.",
+                "Is that a library?"
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：They are searching for a library, and neither building is one.",
+              "id": "B13C3Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "When Jack sees the chained, shield-carrying warriors, he realizes they are not soldiers but ___.",
+              "options": {
+                "A": "guards",
+                "B": "gladiators",
+                "C": "soothsayers",
+                "D": "farmers"
+              },
+              "answer": "B",
+              "evidence": [
+                "Soldiers, thought Jack.",
+                "Gladiators!"
+              ],
+              "rationale": "原文细节支持这一推断：gladiators",
+              "id": "B13C3Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 13,
+          "chapter": 4,
+          "chapter_title": "Scary Things",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "According to Jack’s book, what were gladiators forced to do?",
+              "options": {
+                "A": "Guard the Temple of Jupiter day and night.",
+                "B": "Row the boats down in the harbor.",
+                "C": "Sell goods in the busy forum.",
+                "D": "Fight each other or wild animals like lions or bears."
+              },
+              "answer": "D",
+              "evidence": [
+                "They were forced to fight each other or wild animals like lions or bears."
+              ],
+              "rationale": "原文直接写到：Fight each other or wild animals like lions or bears.",
+              "id": "B13C4Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Jack “felt a chill go down his spine.” His “spine” is his ___.",
+              "options": {
+                "A": "手臂",
+                "B": "喉咙",
+                "C": "脊柱；脊背",
+                "D": "膝盖"
+              },
+              "answer": "C",
+              "evidence": [
+                "Jack felt a chill go down his spine."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“脊柱；脊背”。",
+              "id": "B13C4Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does the soothsayer finally decide to help Jack and Annie?",
+              "options": {
+                "A": "She sees the shimmering letters on Annie’s secret library card.",
+                "B": "Jack pays her a handful of coins.",
+                "C": "Annie promises to take her home with them.",
+                "D": "A guard orders her to help them."
+              },
+              "answer": "A",
+              "evidence": [
+                "She pulled out her secret library card.",
+                "The soothsayer stared for a moment at the card and the shimmering letters on it."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：She sees the shimmering letters on Annie’s secret library card.",
+              "id": "B13C4Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "The soothsayer says, “After today, there will be nothing left in Pompeii.” She means that ___.",
+              "options": {
+                "A": "everyone will leave on vacation tomorrow",
+                "B": "a terrible disaster will destroy the whole town today",
+                "C": "the shops will simply close for the night",
+                "D": "the library will be moved to Rome"
+              },
+              "answer": "B",
+              "evidence": [
+                "After today, there will be nothing left in Pompeii,",
+                "Nothing at all."
+              ],
+              "rationale": "原文细节支持这一推断：a terrible disaster will destroy the whole town today",
+              "id": "B13C4Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "Jack and Annie race off toward the vacation villa of Brutus.",
+                "B": "A guard blocks them from entering the amphitheater.",
+                "C": "The soothsayer lists the scary things happening in Pompeii.",
+                "D": "Annie pulls out her secret library card."
+              },
+              "answer": "A",
+              "evidence": [
+                "Then Annie and Jack started running to the vacation villa."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：Jack and Annie race off toward the vacation villa of Brutus.",
+              "id": "B13C4Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 13,
+          "chapter": 5,
+          "chapter_title": "Books? Books?",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What did Jack learn that Romans did while they ate in the dining room?",
+              "options": {
+                "A": "They stood around a tall table.",
+                "B": "They lay down on couches while they ate.",
+                "C": "They always ate outside in the garden.",
+                "D": "They sat cross-legged on the floor."
+              },
+              "answer": "B",
+              "evidence": [
+                "People from Roman times lay down on couches while they ate."
+              ],
+              "rationale": "原文直接写到：They lay down on couches while they ate.",
+              "id": "B13C5Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "The main hall had a large opening in the “ceiling.” The ceiling is the ___.",
+              "options": {
+                "A": "天花板；顶棚",
+                "B": "地板",
+                "C": "墙壁",
+                "D": "大门"
+              },
+              "answer": "A",
+              "evidence": [
+                "The main hall had a large opening in the ceiling."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“天花板；顶棚”。",
+              "id": "B13C5Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "Why does Jack think the rolls of paper on the shelves might hold the lost story?",
+              "options": {
+                "A": "The soothsayer told him to look on those shelves.",
+                "B": "The scrolls all have pictures of Hercules.",
+                "C": "His book says Romans wrote their “books” on scrolls of papyrus.",
+                "D": "Morgan drew an X on a map of the villa."
+              },
+              "answer": "C",
+              "evidence": [
+                "They wrote their \"books\" on scrolls of papyrus",
+                "I bet our ancient lost story is in there!"
+              ],
+              "rationale": "原文细节支持这一推断：His book says Romans wrote their “books” on scrolls of papyrus.",
+              "id": "B13C5Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does Annie keep rushing from room to room saying “Books? Books?”",
+              "options": {
+                "A": "She wants to buy the silver dishes.",
+                "B": "She is trying to catch the goldfish.",
+                "C": "She is looking for Brutus himself.",
+                "D": "She is in a hurry to find the books so they can leave the dangerous town."
+              },
+              "answer": "D",
+              "evidence": [
+                "We have to look in all the rooms for books!",
+                "No books in this whole villa."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：She is in a hurry to find the books so they can leave the dangerous town.",
+              "id": "B13C5Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "Jack and Annie slip into the empty main hall.",
+                "B": "Annie finds the room with rolls of paper on the shelves.",
+                "C": "Jack reads about papyrus and guesses the scrolls hold the lost story.",
+                "D": "Jack peeks into the dining room with its couches."
+              },
+              "answer": "C",
+              "evidence": [
+                "He found a section called WRITING."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：Jack reads about papyrus and guesses the scrolls hold the lost story.",
+              "id": "B13C5Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 13,
+          "chapter": 6,
+          "chapter_title": "The End Is Here",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Jack sees a picture of “a volcano erupting.” To “erupt” means to ___.",
+              "options": {
+                "A": "慢慢地冷却",
+                "B": "安静地睡着",
+                "C": "（火山）喷发；爆发",
+                "D": "缓缓地升起"
+              },
+              "answer": "C",
+              "evidence": [
+                "he found a picture of a volcano erupting over a town."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“（火山）喷发；爆发”。",
+              "id": "B13C6Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "How did Jack and Annie know they had found the right scroll?",
+              "options": {
+                "A": "It was the biggest scroll on the shelf.",
+                "B": "Its Latin title matched the words on Morgan’s paper.",
+                "C": "It had a picture of Hercules on it.",
+                "D": "It glowed with shimmering letters."
+              },
+              "answer": "B",
+              "evidence": [
+                "The words at the top matched the one on their paper."
+              ],
+              "rationale": "原文直接写到：Its Latin title matched the words on Morgan’s paper.",
+              "id": "B13C6Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does Jack suddenly panic after reading about Mount Vesuvius?",
+              "options": {
+                "A": "He has lost the ancient scroll.",
+                "B": "He cannot read the Latin story.",
+                "C": "A guard is chasing them through the villa.",
+                "D": "He realizes the deadly eruption happens on this very day."
+              },
+              "answer": "D",
+              "evidence": [
+                "it erupted into a deadly volcano.",
+                "Oh, man, what time is it?"
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：He realizes the deadly eruption happens on this very day.",
+              "id": "B13C6Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "How does Jack figure out that it is already noon?",
+              "options": {
+                "A": "The sundial’s shadow can hardly be seen, which the book says happens at noon.",
+                "B": "A clock inside the villa chimes twelve times.",
+                "C": "The soothsayer shouts the time to him.",
+                "D": "The sun is setting in the west."
+              },
+              "answer": "A",
+              "evidence": [
+                "The shadow on the sundial can hardly be seen at noon."
+              ],
+              "rationale": "原文细节支持这一推断：The sundial’s shadow can hardly be seen, which the book says happens at noon.",
+              "id": "B13C6Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "Annie finds the scroll with the matching title.",
+                "B": "Jack reads that Vesuvius erupted at noon.",
+                "C": "Jack and Annie race to the sundial in the garden.",
+                "D": "Jack hears a terrible blast, the loudest sound he has ever heard."
+              },
+              "answer": "D",
+              "evidence": [
+                "Just then he heard a terrible blast."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：Jack hears a terrible blast, the loudest sound he has ever heard.",
+              "id": "B13C6Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 13,
+          "chapter": 7,
+          "chapter_title": "The Sky Is Falling",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "The patio stones “were trembling.” “Trembling” means ___.",
+              "options": {
+                "A": "颤抖；抖动",
+                "B": "发光；闪耀",
+                "C": "静止不动",
+                "D": "变得温暖"
+              },
+              "answer": "A",
+              "evidence": [
+                "The patio stones were trembling."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“颤抖；抖动”。",
+              "id": "B13C7Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "According to Jack’s book, why was there no running lava from Mount Vesuvius?",
+              "options": {
+                "A": "The lava all flowed into the sea first.",
+                "B": "Heavy rain put the lava out.",
+                "C": "The magma cooled so fast that it froze into pumice rocks.",
+                "D": "The volcano was really much too cold."
+              },
+              "answer": "C",
+              "evidence": [
+                "The magma from the volcano cooled so fast that it froze into small grayish white rocks called pumice"
+              ],
+              "rationale": "原文直接写到：The magma cooled so fast that it froze into pumice rocks.",
+              "id": "B13C7Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why do Jack and Annie tie pillows onto their heads?",
+              "options": {
+                "A": "To keep their ears warm in the cold.",
+                "B": "To disguise themselves as Romans.",
+                "C": "To carry the scrolls more safely.",
+                "D": "To protect their heads from the falling ash and pumice."
+              },
+              "answer": "D",
+              "evidence": [
+                "We have to cover our heads!",
+                "Tie it around your head with your belt!"
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：To protect their heads from the falling ash and pumice.",
+              "id": "B13C7Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "Why does the sky turn dark and smoky gray in the middle of the day?",
+              "options": {
+                "A": "Night has simply fallen early.",
+                "B": "A huge cloud of pumice and ash is blocking out the sun.",
+                "C": "A heavy rainstorm is rolling in.",
+                "D": "Jack’s glasses have gotten dirty."
+              },
+              "answer": "B",
+              "evidence": [
+                "A thick black cloud was spreading over the earth like an umbrella.",
+                "That must be the cloud of pumice and ash!"
+              ],
+              "rationale": "原文细节支持这一推断：A huge cloud of pumice and ash is blocking out the sun.",
+              "id": "B13C7Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "Roof tiles begin falling into the garden.",
+                "B": "Jack and Annie run out into the dark, burning streets.",
+                "C": "Jack reads about magma and pumice.",
+                "D": "They tie pillows onto their heads with their belts."
+              },
+              "answer": "B",
+              "evidence": [
+                "They ran from the vacation villa into the dark, burning streets."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：Jack and Annie run out into the dark, burning streets.",
+              "id": "B13C7Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 13,
+          "chapter": 8,
+          "chapter_title": "Nightmare at Noon",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "The Temple’s “walls were crumbling.” “Crumbling” means ___.",
+              "options": {
+                "A": "闪闪发光",
+                "B": "缓缓升起",
+                "C": "牢牢立着",
+                "D": "崩塌；碎裂"
+              },
+              "answer": "D",
+              "evidence": [
+                "Its mighty columns had fallen, and its walls were crumbling."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“崩塌；碎裂”。",
+              "id": "B13C8Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Which way do Jack and Annie run, compared with everyone else?",
+              "options": {
+                "A": "Toward Mount Vesuvius, while others run away from it.",
+                "B": "Away from Mount Vesuvius, just like everyone else.",
+                "C": "Into the Public Baths to hide from the ash.",
+                "D": "Back to the house of Brutus."
+              },
+              "answer": "A",
+              "evidence": [
+                "So while others ran away from Mount Vesuvius, Jack and Annie ran toward it."
+              ],
+              "rationale": "原文直接写到：Toward Mount Vesuvius, while others run away from it.",
+              "id": "B13C8Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does Jack decide to run toward the erupting mountain?",
+              "options": {
+                "A": "He wants a closer look at the glowing lava.",
+                "B": "The tree house is in the olive grove, which lies in the direction of Vesuvius.",
+                "C": "The soothsayer told him to climb the mountain.",
+                "D": "He is trying to rescue the chained gladiators."
+              },
+              "answer": "B",
+              "evidence": [
+                "The tree house is in the olive grove!",
+                "Head in the direction of Mount Vesuvius!"
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：The tree house is in the olive grove, which lies in the direction of Vesuvius.",
+              "id": "B13C8Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "How does the erupting town connect to the nightmare Annie had in Chapter 1?",
+              "options": {
+                "A": "The nightmare has nothing to do with the eruption.",
+                "B": "Annie had dreamed of a peaceful beach, not fire.",
+                "C": "The dark, burning, shaking scene is exactly what Annie dreamed.",
+                "D": "It was really Jack who had the nightmare."
+              },
+              "answer": "C",
+              "evidence": [
+                "This is just like my nightmare!"
+              ],
+              "rationale": "结合人物与事件的关系，正确的是：The dark, burning, shaking scene is exactly what Annie dreamed.",
+              "id": "B13C8Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "The roof of the Public Baths caves in.",
+                "B": "The columns of the Temple of Jupiter fall.",
+                "C": "Jack and Annie discover that the bridge has vanished.",
+                "D": "Annie shouts “That way!” in the forum."
+              },
+              "answer": "C",
+              "evidence": [
+                "The bridge had vanished."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：Jack and Annie discover that the bridge has vanished.",
+              "id": "B13C8Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 13,
+          "chapter": 9,
+          "chapter_title": "Save Us!",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "The pumice “piled up in huge drifts, like snow.” Here “drifts” are ___.",
+              "options": {
+                "A": "小溪；水流",
+                "B": "（堆积成的）大堆；堆积物",
+                "C": "一串脚印",
+                "D": "飞舞的火花"
+              },
+              "answer": "B",
+              "evidence": [
+                "Pumice had piled up in huge drifts, like snow."
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“（堆积成的）大堆；堆积物”。",
+              "id": "B13C9Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "What did Annie do to try to save them when they were trapped in the pumice?",
+              "options": {
+                "A": "She dug a tunnel through the pumice.",
+                "B": "She called out for the soothsayer.",
+                "C": "She held up the ancient scroll and shouted, “Save us, story!”",
+                "D": "She climbed up onto Jack’s shoulders."
+              },
+              "answer": "C",
+              "evidence": [
+                "Annie grabbed it and pulled out the ancient scroll.",
+                "Save us, story!"
+              ],
+              "rationale": "原文直接写到：She held up the ancient scroll and shouted, “Save us, story!”",
+              "id": "B13C9Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "What makes the giant gladiator appear and rescue them?",
+              "options": {
+                "A": "Jack finally digs himself free.",
+                "B": "Morgan flies in on the magic tree house.",
+                "C": "The soothsayer pulls them out of the pumice.",
+                "D": "Annie holds up the ancient story and begs it to save them."
+              },
+              "answer": "D",
+              "evidence": [
+                "In your darkest hour, only the ancient story can save you!",
+                "Then someone lifted Jack up into the air."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：Annie holds up the ancient story and begs it to save them.",
+              "id": "B13C9Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.1",
+              "skill": "Evidence-based inference",
+              "dok": 2,
+              "stem": "The rescuer “looked like a gladiator—but even bigger than the ones they had seen earlier.” This suggests he is ___.",
+              "options": {
+                "A": "no ordinary man, but someone truly extraordinary",
+                "B": "one of the chained gladiators from the amphitheater",
+                "C": "the soothsayer wearing a disguise",
+                "D": "Jack’s own father"
+              },
+              "answer": "A",
+              "evidence": [
+                "The man looked like a gladiator—but even bigger than the ones they had seen earlier."
+              ],
+              "rationale": "原文细节支持这一推断：no ordinary man, but someone truly extraordinary",
+              "id": "B13C9Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.3",
+              "skill": "Sequence",
+              "dok": 2,
+              "stem": "Which event happens LAST in this chapter?",
+              "options": {
+                "A": "Jack and Annie sink into the deep pumice.",
+                "B": "The giant gladiator lifts them to the far bank.",
+                "C": "Annie holds up the ancient scroll to the sky.",
+                "D": "The tree house spins and everything becomes still."
+              },
+              "answer": "D",
+              "evidence": [
+                "Jack felt the tree house start to spin.",
+                "Then everything was still."
+              ],
+              "rationale": "按照本章事件先后顺序，最先/最后发生的是：The tree house spins and everything becomes still.",
+              "id": "B13C9Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        },
+        {
+          "book": 13,
+          "chapter": 10,
+          "chapter_title": "A Simple Explanation",
+          "questions": [
+            {
+              "number": 1,
+              "standard": "RL.5.4",
+              "skill": "Vocabulary in context",
+              "dok": 1,
+              "stem": "Morgan says Jack and Annie were “truly brave.” “Brave” means ___.",
+              "options": {
+                "A": "勇敢的；无畏的",
+                "B": "疲倦的",
+                "C": "害怕的",
+                "D": "诚实的"
+              },
+              "answer": "A",
+              "evidence": [
+                "But you were truly brave,"
+              ],
+              "rationale": "结合原句语境，这个词在这里最接近“勇敢的；无畏的”。",
+              "id": "B13C10Q1",
+              "difficulty": "基础"
+            },
+            {
+              "number": 2,
+              "standard": "RL.5.1",
+              "skill": "Explicit comprehension",
+              "dok": 1,
+              "stem": "Morgan reveals that the rescued scroll is a lost tale about which hero?",
+              "options": {
+                "A": "Jupiter, the chief god.",
+                "B": "Brutus, who owned the villa.",
+                "C": "Apollo, the sun god.",
+                "D": "Hercules, a son of Jupiter."
+              },
+              "answer": "D",
+              "evidence": [
+                "a lost tale about Hercules.",
+                "He was a son of Jupiter."
+              ],
+              "rationale": "原文直接写到：Hercules, a son of Jupiter.",
+              "id": "B13C10Q2",
+              "difficulty": "基础"
+            },
+            {
+              "number": 3,
+              "standard": "RL.5.3",
+              "skill": "Cause / purpose / result",
+              "dok": 2,
+              "stem": "Why does Morgan say she is “deeply grateful” to Jack and Annie?",
+              "options": {
+                "A": "They cleaned all the dust off the scroll.",
+                "B": "They defeated the gladiators in a fight.",
+                "C": "They risked everything to bring her the ancient story.",
+                "D": "They drew her a detailed map of Pompeii."
+              },
+              "answer": "C",
+              "evidence": [
+                "You risked everything to bring this to me."
+              ],
+              "rationale": "结合事件的原因、目的或结果，正确关系是：They risked everything to bring her the ancient story.",
+              "id": "B13C10Q3",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 4,
+              "standard": "RL.5.3",
+              "skill": "Character/event relationship",
+              "dok": 2,
+              "stem": "What is Annie’s “simple explanation” for how Hercules could save them?",
+              "options": {
+                "A": "Hercules is truly real everywhere and in every time.",
+                "B": "In Roman times people believed Hercules was real, so he was real to them there.",
+                "C": "The giant was really Morgan in disguise.",
+                "D": "They only imagined the whole rescue."
+              },
+              "answer": "B",
+              "evidence": [
+                "But in Roman times, lots of people believed he was real.",
+                "since we were in Roman times, he was real to us."
+              ],
+              "rationale": "结合人物与事件的关系，正确的是：In Roman times people believed Hercules was real, so he was real to them there.",
+              "id": "B13C10Q4",
+              "difficulty": "进阶"
+            },
+            {
+              "number": 5,
+              "standard": "RL.5.2",
+              "skill": "Summary",
+              "dok": 2,
+              "stem": "Which choice best summarizes the whole book?",
+              "options": {
+                "A": "Jack and Annie explore the frozen Arctic and make friends with polar bears.",
+                "B": "Jack and Annie travel to ancient Pompeii, rescue a lost scroll as Mount Vesuvius erupts, are saved by a Hercules-like giant, and bring the story safely home to Morgan.",
+                "C": "Jack and Annie visit a castle in Camelot and meet King Arthur.",
+                "D": "Jack and Annie sail the ocean hunting for a sunken treasure ship."
+              },
+              "answer": "B",
+              "evidence": [
+                "You witnessed a famous event in history.",
+                "most of the people of Pompeii did escape."
+              ],
+              "rationale": "这个选项同时保留了本章开端与后续的关键事件：Jack and Annie travel to ancient Pompeii, rescue a lost scroll as Mount Vesuvius erupts, are saved by a Hercules-like giant, and bring the story safely home to Morgan.",
+              "id": "B13C10Q5",
+              "difficulty": "进阶"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

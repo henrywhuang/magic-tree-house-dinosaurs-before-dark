@@ -1,0 +1,372 @@
+{
+  "book": 13,
+  "chapter": 5,
+  "title": "Books? Books?",
+  "words": [
+    {
+      "id": "empty",
+      "word": "empty",
+      "forms": [
+        "empty"
+      ],
+      "tier": "core",
+      "phonetic": "/'empti/",
+      "partOfSpeech": "adj.",
+      "meaning": "空的；空虚的",
+      "wordForms": "原文词形：empty",
+      "sentence": "The place seemed empty.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-05/empty.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "空的；空虚的",
+        "枕头；靠垫",
+        "露台；天井"
+      ]
+    },
+    {
+      "id": "ceiling",
+      "word": "ceiling",
+      "forms": [
+        "ceiling"
+      ],
+      "tier": "core",
+      "phonetic": "/'si:liŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "天花板；顶棚",
+      "wordForms": "原文词形：ceiling",
+      "sentence": "The main hall had a large opening in the ceiling.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-05/ceiling.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ei",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "天花板；顶棚",
+        "卷轴；画卷",
+        "空的；空虚的"
+      ]
+    },
+    {
+      "id": "pillows",
+      "word": "pillow",
+      "forms": [
+        "pillow",
+        "pillows"
+      ],
+      "tier": "core",
+      "phonetic": "/'pilәu/",
+      "partOfSpeech": "n.",
+      "meaning": "枕头；靠垫",
+      "wordForms": "原文词形：pillows",
+      "sentence": "The couches were covered with pillows.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-05/pillows.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "枕头；靠垫",
+        "卷轴；画卷",
+        "喷泉"
+      ]
+    },
+    {
+      "id": "garden",
+      "word": "garden",
+      "forms": [
+        "garden"
+      ],
+      "tier": "core",
+      "phonetic": "/'gɑ:dn/",
+      "partOfSpeech": "n.",
+      "meaning": "花园；果园",
+      "wordForms": "原文词形：garden",
+      "sentence": "She was in a garden off the dining room.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-05/garden.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "花园；果园",
+        "空的；空虚的",
+        "喷泉"
+      ]
+    },
+    {
+      "id": "patio",
+      "word": "patio",
+      "forms": [
+        "patio"
+      ],
+      "tier": "core",
+      "phonetic": "/'pɑ:tiәu/",
+      "partOfSpeech": "n.",
+      "meaning": "露台；天井",
+      "wordForms": "原文词形：patio",
+      "sentence": "It had a stone patio, palm trees, and grape vines.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-05/patio.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "露台；天井",
+        "喷泉",
+        "花园；果园"
+      ]
+    },
+    {
+      "id": "fountain",
+      "word": "fountain",
+      "forms": [
+        "fountain"
+      ],
+      "tier": "core",
+      "phonetic": "/'fauntin/",
+      "partOfSpeech": "n.",
+      "meaning": "喷泉",
+      "wordForms": "原文词形：fountain",
+      "sentence": "In the middle was a pond with a mermaid fountain.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-05/fountain.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "喷泉",
+        "枕头；靠垫",
+        "纸莎草纸；莎草纸"
+      ]
+    },
+    {
+      "id": "scrolls",
+      "word": "scroll",
+      "forms": [
+        "scroll",
+        "scrolls"
+      ],
+      "tier": "core",
+      "phonetic": "/skrәul/",
+      "partOfSpeech": "n.",
+      "meaning": "卷轴；画卷",
+      "wordForms": "原文词形：scrolls",
+      "sentence": "They wrote their “books” on scrolls of papyrus (puh-PI-rus) paper.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-05/scrolls.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "卷轴；画卷",
+        "喷泉",
+        "露台；天井"
+      ]
+    },
+    {
+      "id": "papyrus",
+      "word": "papyrus",
+      "forms": [
+        "papyrus"
+      ],
+      "tier": "core",
+      "phonetic": "/pә'paiәrәs/",
+      "partOfSpeech": "n.",
+      "meaning": "纸莎草纸；莎草纸",
+      "wordForms": "原文词形：papyrus",
+      "sentence": "They wrote their “books” on scrolls of papyrus (puh-PI-rus) paper.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-05/papyrus.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "纸莎草纸；莎草纸",
+        "喷泉",
+        "露台；天井"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "book": 13,
+  "chapter": 3,
+  "title": "Gladiators!",
+  "words": [
+    {
+      "id": "fruit",
+      "word": "fruit",
+      "forms": [
+        "fruit"
+      ],
+      "tier": "core",
+      "phonetic": "/fru:t/",
+      "partOfSpeech": "n.",
+      "meaning": "水果；果类",
+      "wordForms": "原文词形：fruit",
+      "sentence": "Jack and Annie hid behind a fruit stall.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-03/fruit.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ui",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "水果；果类",
+        "警告；提醒",
+        "凝视；仔细看"
+      ]
+    },
+    {
+      "id": "peered",
+      "word": "peer",
+      "forms": [
+        "peer",
+        "peered"
+      ],
+      "tier": "core",
+      "phonetic": "/piә/",
+      "partOfSpeech": "v.",
+      "meaning": "凝视；仔细看",
+      "wordForms": "原文词形：peered",
+      "sentence": "They waited for a moment, then peered around the corner.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-03/peered.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "凝视；仔细看",
+        "难以置信的",
+        "预言者；占卜者"
+      ]
+    },
+    {
+      "id": "warn",
+      "word": "warn",
+      "forms": [
+        "warn"
+      ],
+      "tier": "core",
+      "phonetic": "/wɒ:n/",
+      "partOfSpeech": "v.",
+      "meaning": "警告；提醒",
+      "wordForms": "原文词形：warn",
+      "sentence": "He read aloud: In Roman times, there were people who could see into the future and warn others about what they saw.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-03/warn.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "警告；提醒",
+        "圆柱；柱子",
+        "预言者；占卜者"
+      ]
+    },
+    {
+      "id": "soothsayers",
+      "word": "soothsayer",
+      "forms": [
+        "soothsayer",
+        "soothsayers"
+      ],
+      "tier": "core",
+      "phonetic": "/'su:θseiә/",
+      "partOfSpeech": "n.",
+      "meaning": "预言者；占卜者",
+      "wordForms": "原文词形：soothsayers",
+      "sentence": "These people were called soothsayers.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-03/soothsayers.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "预言者；占卜者",
+        "圆柱；柱子",
+        "盾；盾牌"
+      ]
+    },
+    {
+      "id": "columns",
+      "word": "column",
+      "forms": [
+        "column",
+        "columns"
+      ],
+      "tier": "core",
+      "phonetic": "/'kɒlәm/",
+      "partOfSpeech": "n.",
+      "meaning": "圆柱；柱子",
+      "wordForms": "原文词形：columns",
+      "sentence": "They kept walking, until soon they came to a fancy building with large columns.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-03/columns.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "圆柱；柱子",
+        "警告；提醒",
+        "水果；果类"
+      ]
+    },
+    {
+      "id": "temple",
+      "word": "temple",
+      "forms": [
+        "temple",
+        "Temple"
+      ],
+      "tier": "core",
+      "phonetic": "/templ/",
+      "partOfSpeech": "n.",
+      "meaning": "神庙；庙宇",
+      "wordForms": "原文词形：Temple",
+      "sentence": "This is the Temple of Jupiter, their chief god.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-03/temple.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "神庙；庙宇",
+        "难以置信的",
+        "凝视；仔细看"
+      ]
+    },
+    {
+      "id": "incredible",
+      "word": "incredible",
+      "forms": [
+        "incredible"
+      ],
+      "tier": "core",
+      "phonetic": "/in'kredәbl/",
+      "partOfSpeech": "adj.",
+      "meaning": "难以置信的",
+      "wordForms": "原文词形：incredible",
+      "sentence": "In front of them was an incredible sight.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-03/incredible.mp3",
+      "phonics": [
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "难以置信的",
+        "神庙；庙宇",
+        "凝视；仔细看"
+      ]
+    },
+    {
+      "id": "shields",
+      "word": "shield",
+      "forms": [
+        "shield",
+        "shields"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃi:ld/",
+      "partOfSpeech": "n.",
+      "meaning": "盾；盾牌",
+      "wordForms": "原文词形：shields",
+      "sentence": "They wore fancy helmets and carried heavy shields.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-03/shields.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "盾；盾牌",
+        "凝视；仔细看",
+        "警告；提醒"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "book": 13,
+  "chapter": 2,
+  "title": "The End Is Near",
+  "words": [
+    {
+      "id": "tunic",
+      "word": "tunic",
+      "forms": [
+        "tunic"
+      ],
+      "tier": "core",
+      "phonetic": "/'tju:nik/",
+      "partOfSpeech": "n.",
+      "meaning": "束腰外衣",
+      "wordForms": "原文词形：tunic",
+      "sentence": "Instead, he had on a white tunic with a belt, sandals that laced up, and a leather bag.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-02/tunic.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "束腰外衣",
+        "水流；小河",
+        "酒馆；客栈"
+      ]
+    },
+    {
+      "id": "grove",
+      "word": "grove",
+      "forms": [
+        "grove"
+      ],
+      "tier": "core",
+      "phonetic": "/grәuv/",
+      "partOfSpeech": "n.",
+      "meaning": "小树林",
+      "wordForms": "原文词形：grove",
+      "sentence": "They had landed in a grove of trees.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-02/grove.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "小树林",
+        "斗篷；披风",
+        "桥；桥梁"
+      ]
+    },
+    {
+      "id": "shivered",
+      "word": "shiver",
+      "forms": [
+        "shiver",
+        "shivered"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃivә/",
+      "partOfSpeech": "v.",
+      "meaning": "颤抖；哆嗦",
+      "wordForms": "原文词形：shivered",
+      "sentence": "Annie shivered.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-02/shivered.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "颤抖；哆嗦",
+        "斗篷；披风",
+        "酒馆；客栈"
+      ]
+    },
+    {
+      "id": "bridge",
+      "word": "bridge",
+      "forms": [
+        "bridge"
+      ],
+      "tier": "core",
+      "phonetic": "/bridʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "桥；桥梁",
+      "wordForms": "原文词形：bridge",
+      "sentence": "Come on —let’s go over that bridge.”",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-02/bridge.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dge",
+          "sound": "/dʒ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "桥；桥梁",
+        "小树林",
+        "商店；店铺"
+      ]
+    },
+    {
+      "id": "stream",
+      "word": "stream",
+      "forms": [
+        "stream"
+      ],
+      "tier": "core",
+      "phonetic": "/stri:m/",
+      "partOfSpeech": "n.",
+      "meaning": "水流；小河",
+      "wordForms": "原文词形：stream",
+      "sentence": "He led the way to a small wooden bridge that crossed a narrow stream.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-02/stream.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "水流；小河",
+        "斗篷；披风",
+        "桥；桥梁"
+      ]
+    },
+    {
+      "id": "tavern",
+      "word": "tavern",
+      "forms": [
+        "tavern"
+      ],
+      "tier": "core",
+      "phonetic": "/'tævәn/",
+      "partOfSpeech": "n.",
+      "meaning": "酒馆；客栈",
+      "wordForms": "原文词形：tavern",
+      "sentence": "They passed a noisy tavern where people were eating and drinking.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-02/tavern.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "酒馆；客栈",
+        "束腰外衣",
+        "水流；小河"
+      ]
+    },
+    {
+      "id": "shop",
+      "word": "shop",
+      "forms": [
+        "shop"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃɒp/",
+      "partOfSpeech": "n.",
+      "meaning": "商店；店铺",
+      "wordForms": "原文词形：shop",
+      "sentence": "“See, there’s a barbershop and a shoe shop,” said Jack, pointing.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-02/shop.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "商店；店铺",
+        "桥；桥梁",
+        "小树林"
+      ]
+    },
+    {
+      "id": "cloak",
+      "word": "cloak",
+      "forms": [
+        "cloak"
+      ],
+      "tier": "core",
+      "phonetic": "/klәuk/",
+      "partOfSpeech": "n.",
+      "meaning": "斗篷；披风",
+      "wordForms": "原文词形：cloak",
+      "sentence": "She wore a black cloak.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-02/cloak.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "斗篷；披风",
+        "小树林",
+        "颤抖；哆嗦"
+      ]
+    }
+  ]
+}

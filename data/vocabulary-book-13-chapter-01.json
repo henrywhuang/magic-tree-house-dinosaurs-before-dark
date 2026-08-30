@@ -1,0 +1,377 @@
+{
+  "book": 13,
+  "chapter": 1,
+  "title": "A Secret Code",
+  "words": [
+    {
+      "id": "secret",
+      "word": "secret",
+      "forms": [
+        "secret"
+      ],
+      "tier": "core",
+      "phonetic": "/'si:krit/",
+      "partOfSpeech": "adj.",
+      "meaning": "秘密的；机密的",
+      "wordForms": "原文词形：secret",
+      "sentence": "Jack reached into his drawer and took out his secret library card.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-01/secret.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "秘密的；机密的",
+        "任务；使命",
+        "梦魇；恶梦"
+      ]
+    },
+    {
+      "id": "library",
+      "word": "library",
+      "forms": [
+        "library"
+      ],
+      "tier": "core",
+      "phonetic": "/'laibrәri/",
+      "partOfSpeech": "n.",
+      "meaning": "图书馆；藏书",
+      "wordForms": "原文词形：library",
+      "sentence": "Jack reached into his drawer and took out his secret library card.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-01/library.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "图书馆；藏书",
+        "闪光的；微微发亮的",
+        "秘密的；机密的"
+      ]
+    },
+    {
+      "id": "shimmering",
+      "word": "shimmering",
+      "forms": [
+        "shimmering"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃɪmərɪŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "闪光的；微微发亮的",
+      "wordForms": "原文词形：shimmering",
+      "sentence": "He held the thin piece of wood and ran his finger over its shimmering letters: ML.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-01/shimmering.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "闪光的；微微发亮的",
+        "古代的；古老的",
+        "秘密的；机密的"
+      ]
+    },
+    {
+      "id": "whispered",
+      "word": "whisper",
+      "forms": [
+        "whisper",
+        "whispered"
+      ],
+      "tier": "core",
+      "phonetic": "/'hwispә/",
+      "partOfSpeech": "v.",
+      "meaning": "低声说；耳语",
+      "wordForms": "原文词形：whispered",
+      "sentence": "“Master Librarian,” he whispered.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-01/whispered.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "低声说；耳语",
+        "秘密的；机密的",
+        "闪光的；微微发亮的"
+      ]
+    },
+    {
+      "id": "wondered",
+      "word": "wonder",
+      "forms": [
+        "wonder",
+        "wondered"
+      ],
+      "tier": "core",
+      "phonetic": "/'wʌndә/",
+      "partOfSpeech": "v.",
+      "meaning": "想知道；纳闷",
+      "wordForms": "原文词形：wondered",
+      "sentence": "He wondered if he should pack the secret card to take on vacation.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-01/wondered.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "想知道；纳闷",
+        "古代的；古老的",
+        "闪光的；微微发亮的"
+      ]
+    },
+    {
+      "id": "nightmare",
+      "word": "nightmare",
+      "forms": [
+        "nightmare"
+      ],
+      "tier": "core",
+      "phonetic": "/'naitmєә/",
+      "partOfSpeech": "n.",
+      "meaning": "梦魇；恶梦",
+      "wordForms": "原文词形：nightmare",
+      "sentence": "“I had a nightmare last night,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-01/nightmare.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "梦魇；恶梦",
+        "图书馆；藏书",
+        "任务；使命"
+      ]
+    },
+    {
+      "id": "mission",
+      "word": "mission",
+      "forms": [
+        "mission"
+      ],
+      "tier": "core",
+      "phonetic": "/'miʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "任务；使命",
+      "wordForms": "原文词形：mission",
+      "sentence": "“I have an important mission for you,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-01/mission.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sion",
+          "sound": "/ʒən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "任务；使命",
+        "梦魇；恶梦",
+        "想知道；纳闷"
+      ]
+    },
+    {
+      "id": "ancient",
+      "word": "ancient",
+      "forms": [
+        "ancient"
+      ],
+      "tier": "core",
+      "phonetic": "/'einʃәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "古代的；古老的",
+      "wordForms": "原文词形：ancient",
+      "sentence": "It’s written in Latin, the language of the ancient Romans of Italy.”",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-01/ancient.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "古代的；古老的",
+        "图书馆；藏书",
+        "低声说；耳语"
+      ]
+    }
+  ]
+}

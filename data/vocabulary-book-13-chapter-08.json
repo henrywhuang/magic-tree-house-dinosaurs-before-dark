@@ -1,0 +1,329 @@
+{
+  "book": 13,
+  "chapter": 8,
+  "title": "Nightmare at Noon",
+  "words": [
+    {
+      "id": "fire",
+      "word": "fire",
+      "forms": [
+        "fire"
+      ],
+      "tier": "core",
+      "phonetic": "/'faiә/",
+      "partOfSpeech": "n.",
+      "meaning": "火；炉火",
+      "wordForms": "原文词形：fire",
+      "sentence": "In the distance, fire burst from Mount Vesuvius.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-08/fire.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "火；炉火",
+        "墙；墙壁",
+        "翻腾；滚滚升起"
+      ]
+    },
+    {
+      "id": "ash",
+      "word": "ash",
+      "forms": [
+        "ash"
+      ],
+      "tier": "recognition",
+      "phonetic": "/æʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "灰；灰烬",
+      "wordForms": "原文词形：ash",
+      "sentence": "Burning rocks and fiery ash fell from the sky.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-08/ash.mp3"
+    },
+    {
+      "id": "rushed",
+      "word": "rush",
+      "forms": [
+        "rush",
+        "rushed"
+      ],
+      "tier": "core",
+      "phonetic": "/rʌʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "冲；奔",
+      "wordForms": "原文词形：rushed",
+      "sentence": "The hot, dusty air smelled like rotten eggs as Jack and Annie rushed down the street.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-08/rushed.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "冲；奔",
+        "倒塌；坍塌",
+        "呼喊；喊叫"
+      ]
+    },
+    {
+      "id": "collapsed",
+      "word": "collapse",
+      "forms": [
+        "collapse",
+        "collapsed"
+      ],
+      "tier": "core",
+      "phonetic": "/kә'læps/",
+      "partOfSpeech": "v.",
+      "meaning": "倒塌；坍塌",
+      "wordForms": "原文词形：collapsed",
+      "sentence": "Stalls had collapsed.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-08/collapsed.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "倒塌；坍塌",
+        "呼喊；喊叫",
+        "墙；墙壁"
+      ]
+    },
+    {
+      "id": "shouted",
+      "word": "shout",
+      "forms": [
+        "shout",
+        "shouted"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃaut/",
+      "partOfSpeech": "v.",
+      "meaning": "呼喊；喊叫",
+      "wordForms": "原文词形：shouted",
+      "sentence": "shouted Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-08/shouted.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "呼喊；喊叫",
+        "冲；奔",
+        "墙；墙壁"
+      ]
+    },
+    {
+      "id": "walls",
+      "word": "wall",
+      "forms": [
+        "wall",
+        "walls"
+      ],
+      "tier": "core",
+      "phonetic": "/wɒ:l/",
+      "partOfSpeech": "n.",
+      "meaning": "墙；墙壁",
+      "wordForms": "原文词形：walls",
+      "sentence": "Its mighty columns had fallen, and its walls were crumbling.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-08/walls.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "墙；墙壁",
+        "倒塌；坍塌",
+        "火；炉火"
+      ]
+    },
+    {
+      "id": "crumbling",
+      "word": "crumble",
+      "forms": [
+        "crumble",
+        "crumbling"
+      ],
+      "tier": "core",
+      "phonetic": "/'krʌmbl/",
+      "partOfSpeech": "v.",
+      "meaning": "崩塌；碎裂",
+      "wordForms": "原文词形：crumbling",
+      "sentence": "Its mighty columns had fallen, and its walls were crumbling.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-08/crumbling.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "崩塌；碎裂",
+        "墙；墙壁",
+        "火；炉火"
+      ]
+    },
+    {
+      "id": "billowed",
+      "word": "billow",
+      "forms": [
+        "billow",
+        "billowed"
+      ],
+      "tier": "core",
+      "phonetic": "/'bilәu/",
+      "partOfSpeech": "v.",
+      "meaning": "翻腾；滚滚升起",
+      "wordForms": "原文词形：billowed",
+      "sentence": "A red-hot cloud billowed over it.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-08/billowed.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "翻腾；滚滚升起",
+        "冲；奔",
+        "崩塌；碎裂"
+      ]
+    }
+  ]
+}

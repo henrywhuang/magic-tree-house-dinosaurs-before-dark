@@ -1,0 +1,365 @@
+{
+  "book": 13,
+  "chapter": 10,
+  "title": "A Simple Explanation",
+  "words": [
+    {
+      "id": "mysterious",
+      "word": "mysterious",
+      "forms": [
+        "mysterious"
+      ],
+      "tier": "core",
+      "phonetic": "/mis'tiәriәs/",
+      "partOfSpeech": "adj.",
+      "meaning": "神秘的；难解的",
+      "wordForms": "原文词形：mysterious",
+      "sentence": "She looked as lovely and mysterious as ever.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-10/mysterious.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "神秘的；难解的",
+        "感谢的；感激的",
+        "神话；虚构的事"
+      ]
+    },
+    {
+      "id": "home",
+      "word": "home",
+      "forms": [
+        "home"
+      ],
+      "tier": "core",
+      "phonetic": "/hәum/",
+      "partOfSpeech": "n.",
+      "meaning": "家；家乡",
+      "wordForms": "原文词形：home",
+      "sentence": "“Happy to be home?”",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-10/home.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "家；家乡",
+        "感谢的；感激的",
+        "沙哑的；嘶哑的"
+      ]
+    },
+    {
+      "id": "hoarse",
+      "word": "hoarse",
+      "forms": [
+        "hoarse"
+      ],
+      "tier": "core",
+      "phonetic": "/hɒ:s/",
+      "partOfSpeech": "adj.",
+      "meaning": "沙哑的；嘶哑的",
+      "wordForms": "原文词形：hoarse",
+      "sentence": "“It—it was pretty scary,” he said in a hoarse voice.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-10/hoarse.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "沙哑的；嘶哑的",
+        "逃脱；逃走",
+        "家；家乡"
+      ]
+    },
+    {
+      "id": "brave",
+      "word": "brave",
+      "forms": [
+        "brave"
+      ],
+      "tier": "core",
+      "phonetic": "/breiv/",
+      "partOfSpeech": "adj.",
+      "meaning": "勇敢的；无畏的",
+      "wordForms": "原文词形：brave",
+      "sentence": "But you were truly brave,” said Morgan.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-10/brave.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "勇敢的；无畏的",
+        "沙哑的；嘶哑的",
+        "逃脱；逃走"
+      ]
+    },
+    {
+      "id": "famous",
+      "word": "famous",
+      "forms": [
+        "famous"
+      ],
+      "tier": "core",
+      "phonetic": "/'feimәs/",
+      "partOfSpeech": "adj.",
+      "meaning": "著名的；出名的",
+      "wordForms": "原文词形：famous",
+      "sentence": "“You witnessed a famous event in history.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-10/famous.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "著名的；出名的",
+        "家；家乡",
+        "神话；虚构的事"
+      ]
+    },
+    {
+      "id": "escape",
+      "word": "escape",
+      "forms": [
+        "escape"
+      ],
+      "tier": "core",
+      "phonetic": "/i'skeip/",
+      "partOfSpeech": "v.",
+      "meaning": "逃脱；逃走",
+      "wordForms": "原文词形：escape",
+      "sentence": "“But most of the people of Pompeii did escape.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-10/escape.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "逃脱；逃走",
+        "神秘的；难解的",
+        "勇敢的；无畏的"
+      ]
+    },
+    {
+      "id": "grateful",
+      "word": "grateful",
+      "forms": [
+        "grateful"
+      ],
+      "tier": "core",
+      "phonetic": "/'greitful/",
+      "partOfSpeech": "adj.",
+      "meaning": "感谢的；感激的",
+      "wordForms": "原文词形：grateful",
+      "sentence": "“I am deeply grateful,” she said softly.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-10/grateful.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ful",
+          "sound": "/fʊl/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "感谢的；感激的",
+        "逃脱；逃走",
+        "家；家乡"
+      ]
+    },
+    {
+      "id": "myth",
+      "word": "myth",
+      "forms": [
+        "myth"
+      ],
+      "tier": "core",
+      "phonetic": "/miθ/",
+      "partOfSpeech": "n.",
+      "meaning": "神话；虚构的事",
+      "wordForms": "原文词形：myth",
+      "sentence": "The story of Hercules is a myth.",
+      "sentenceAudio": "assets/audio/sentences/book-13-chapter-10/myth.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "神话；虚构的事",
+        "勇敢的；无畏的",
+        "逃脱；逃走"
+      ]
+    }
+  ]
+}

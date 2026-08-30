@@ -94,6 +94,14 @@ const BOOKS = [
     audioStarts:[0,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/book-12-chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/book-12-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-13', number:13, title:'Vacation Under the Volcano', cn:'庞贝城的末日', world:'古罗马·庞贝', badge:'🌋',
+    cardImage:'assets/images/book-13-scenes/chapter-07-scene-02.webp', cardAlt:'《庞贝城的末日》杰克和安妮目睹维苏威火山喷发',
+    chapters:['A Secret Code','The End Is Near','Gladiators!','Scary Things','Books? Books?','The End Is Here','The Sky Is Falling','Nightmare at Noon','Save Us!','A Simple Explanation'],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-13-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-13-chapter-${String(i+1).padStart(2,'0')}.json`
   }
 ];
 
@@ -115,7 +123,7 @@ let chapterRequestId=0;
 const pronunciationAudio=$('#pronunciationAudio');
 let activeTTS=null;
 let ttsRequestId=0;
-const DATA_VERSION='20260830-book10-11-vocab';
+const DATA_VERSION='20260830-book13';
 const jsonRequests=new Map();
 
 function currentBook(){return BOOKS[state.book]}
