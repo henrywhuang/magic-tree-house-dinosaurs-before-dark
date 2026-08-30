@@ -1,0 +1,282 @@
+{
+  "book": 12,
+  "chapter": 5,
+  "title": "You're It!",
+  "words": [
+    {
+      "id": "cub",
+      "word": "cub",
+      "forms": [
+        "cub"
+      ],
+      "tier": "recognition",
+      "phonetic": "/kʌb/",
+      "partOfSpeech": "n.",
+      "meaning": "幼兽；年轻人",
+      "wordForms": "原文词形：cub",
+      "sentence": "One roly-poly cub leaped onto the other.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-05/cub.mp3"
+    },
+    {
+      "id": "wrestling",
+      "word": "wrestle",
+      "forms": [
+        "wrestle",
+        "wrestles",
+        "wrestled",
+        "wrestling"
+      ],
+      "tier": "core",
+      "phonetic": "/'resl/",
+      "partOfSpeech": "v.",
+      "meaning": "扭打；摔跤",
+      "wordForms": "第三人称单数 wrestles · 过去式 wrestled · 现在分词 wrestling",
+      "sentence": "She was wrestling with the little bears in the snow.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-05/wrestling.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "扭打；摔跤",
+        "喘气；气喘吁吁",
+        "裂缝；爆裂声"
+      ]
+    },
+    {
+      "id": "tundra",
+      "word": "tundra",
+      "forms": [
+        "tundra"
+      ],
+      "tier": "core",
+      "phonetic": "/'tʌndrә/",
+      "partOfSpeech": "n.",
+      "meaning": "苔原；冻原",
+      "wordForms": "原文词形：tundra",
+      "sentence": "She was running with the cubs across the snowy tundra.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-05/tundra.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "苔原；冻原",
+        "裂缝；爆裂声",
+        "喘气；气喘吁吁"
+      ]
+    },
+    {
+      "id": "panting",
+      "word": "pant",
+      "forms": [
+        "pant",
+        "pants",
+        "panted",
+        "panting"
+      ],
+      "tier": "core",
+      "phonetic": "/pænt/",
+      "partOfSpeech": "v.",
+      "meaning": "喘气；气喘吁吁",
+      "wordForms": "第三人称单数 pants · 过去式 panted · 现在分词 panting",
+      "sentence": "Panting, Jack and Annie stared at them.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-05/panting.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "喘气；气喘吁吁",
+        "裂缝；爆裂声",
+        "扭打；摔跤"
+      ]
+    },
+    {
+      "id": "snowbank",
+      "word": "snowbank",
+      "forms": [
+        "snowbank"
+      ],
+      "tier": "core",
+      "phonetic": "/'snәubæŋk/",
+      "partOfSpeech": "n.",
+      "meaning": "雪堤",
+      "wordForms": "原文词形：snowbank",
+      "sentence": "The bear cubs had scooted up a snowbank.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-05/snowbank.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "雪堤",
+        "喷鼻息；打响鼻",
+        "裂缝；爆裂声"
+      ]
+    },
+    {
+      "id": "crack",
+      "word": "crack",
+      "forms": [
+        "crack",
+        "Crack"
+      ],
+      "tier": "core",
+      "phonetic": "/kræk/",
+      "partOfSpeech": "n.",
+      "meaning": "裂缝；爆裂声",
+      "wordForms": "原文词形：Crack",
+      "sentence": "Crack.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-05/crack.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "裂缝；爆裂声",
+        "苔原；冻原",
+        "扭打；摔跤"
+      ]
+    },
+    {
+      "id": "snorting",
+      "word": "snort",
+      "forms": [
+        "snort",
+        "snorts",
+        "snorted",
+        "snorting"
+      ],
+      "tier": "core",
+      "phonetic": "/snɒ:t/",
+      "partOfSpeech": "v.",
+      "meaning": "喷鼻息；打响鼻",
+      "wordForms": "第三人称单数 snorts · 过去式 snorted · 现在分词 snorting",
+      "sentence": "Just then, there was a new sound—a low, snorting sound.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-05/snorting.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "喷鼻息；打响鼻",
+        "苔原；冻原",
+        "裂缝；爆裂声"
+      ]
+    }
+  ]
+}

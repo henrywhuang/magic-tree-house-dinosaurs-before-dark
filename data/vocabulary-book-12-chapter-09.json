@@ -1,0 +1,345 @@
+{
+  "book": 12,
+  "chapter": 9,
+  "title": "Oh, No, One More!",
+  "words": [
+    {
+      "id": "snowstorm",
+      "word": "snowstorm",
+      "forms": [
+        "snowstorm"
+      ],
+      "tier": "core",
+      "phonetic": "/'snәustɒ:m/",
+      "partOfSpeech": "n.",
+      "meaning": "暴风雪",
+      "wordForms": "原文词形：snowstorm",
+      "sentence": "By the time the dogsled arrived at the tree house, the snowstorm had become a blizzard.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-09/snowstorm.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "暴风雪",
+        "注视；凝视",
+        "整理；解读（打乱的字母）"
+      ]
+    },
+    {
+      "id": "blizzard",
+      "word": "blizzard",
+      "forms": [
+        "blizzard"
+      ],
+      "tier": "core",
+      "phonetic": "/'blizәd/",
+      "partOfSpeech": "n.",
+      "meaning": "大风雪；暴风雪",
+      "wordForms": "原文词形：blizzard",
+      "sentence": "By the time the dogsled arrived at the tree house, the snowstorm had become a blizzard.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-09/blizzard.mp3",
+      "phonics": [
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "大风雪；暴风雪",
+        "猛击；连续拍打",
+        "注视；凝视"
+      ]
+    },
+    {
+      "id": "scroll",
+      "word": "scroll",
+      "forms": [
+        "scroll"
+      ],
+      "tier": "core",
+      "phonetic": "/skrәul/",
+      "partOfSpeech": "n.",
+      "meaning": "卷轴；画卷",
+      "wordForms": "原文词形：scroll",
+      "sentence": "Jack grabbed the scroll that held the riddle.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-09/scroll.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "卷轴；画卷",
+        "闪着微光的",
+        "猛击；连续拍打"
+      ]
+    },
+    {
+      "id": "shimmering",
+      "word": "shimmering",
+      "forms": [
+        "shimmering"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃɪmərɪŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "闪着微光的",
+      "wordForms": "原文词形：shimmering",
+      "sentence": "In its place was one shimmering word: MASK“We did it!”",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-09/shimmering.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "闪着微光的",
+        "整理；解读（打乱的字母）",
+        "大风雪；暴风雪"
+      ]
+    },
+    {
+      "id": "battered",
+      "word": "batter",
+      "forms": [
+        "batter",
+        "batters",
+        "battered",
+        "battering"
+      ],
+      "tier": "core",
+      "phonetic": "/'bætә/",
+      "partOfSpeech": "v.",
+      "meaning": "猛击；连续拍打",
+      "wordForms": "第三人称单数 batters · 过去式 battered · 现在分词 battering",
+      "sentence": "Icy winds battered the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-09/battered.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "猛击；连续拍打",
+        "卷轴；画卷",
+        "注视；凝视"
+      ]
+    },
+    {
+      "id": "gaze",
+      "word": "gaze",
+      "forms": [
+        "gaze"
+      ],
+      "tier": "core",
+      "phonetic": "/geiz/",
+      "partOfSpeech": "n.",
+      "meaning": "注视；凝视",
+      "wordForms": "原文词形：gaze",
+      "sentence": "His gaze rested on the scrolls in the corner.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-09/gaze.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "注视；凝视",
+        "大风雪；暴风雪",
+        "猛击；连续拍打"
+      ]
+    },
+    {
+      "id": "unscramble",
+      "word": "unscramble",
+      "forms": [
+        "unscramble",
+        "unscrambles",
+        "unscrambled",
+        "unscrambling"
+      ],
+      "tier": "core",
+      "phonetic": "/.ʌn'skræmbl/",
+      "partOfSpeech": "v.",
+      "meaning": "整理；解读（打乱的字母）",
+      "wordForms": "第三人称单数 unscrambles · 过去式 unscrambled · 现在分词 unscrambling",
+      "sentence": "“Yeah, but maybe we have to unscramble those letters,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-09/unscramble.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "整理；解读（打乱的字母）",
+        "暴风雪",
+        "猛击；连续拍打"
+      ]
+    }
+  ]
+}

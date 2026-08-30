@@ -1,0 +1,315 @@
+{
+  "book": 12,
+  "chapter": 3,
+  "title": "Mush!",
+  "words": [
+    {
+      "id": "puzzled",
+      "word": "puzzled",
+      "forms": [
+        "puzzled"
+      ],
+      "tier": "core",
+      "phonetic": "/'pʌzl/",
+      "partOfSpeech": "adj.",
+      "meaning": "困惑的；迷惑不解的",
+      "wordForms": "原文词形：puzzled",
+      "sentence": "The seal hunter looked puzzled.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-03/puzzled.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "困惑的；迷惑不解的",
+        "哈士奇；雪橇犬",
+        "连指手套"
+      ]
+    },
+    {
+      "id": "parkas",
+      "word": "parka",
+      "forms": [
+        "parka",
+        "parkas"
+      ],
+      "tier": "core",
+      "phonetic": "/'pɑ:kә/",
+      "partOfSpeech": "n.",
+      "meaning": "派克大衣；连帽皮大衣",
+      "wordForms": "原文词形：parkas",
+      "sentence": "He returned a moment later with two small parkas like his own.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-03/parkas.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "派克大衣；连帽皮大衣",
+        "飘落；漂移",
+        "困惑的；迷惑不解的"
+      ]
+    },
+    {
+      "id": "mittens",
+      "word": "mitten",
+      "forms": [
+        "mitten",
+        "mittens"
+      ],
+      "tier": "core",
+      "phonetic": "/'mitn/",
+      "partOfSpeech": "n.",
+      "meaning": "连指手套",
+      "wordForms": "原文词形：mittens",
+      "sentence": "Next the seal hunter gave each of them a pair of fur boots and mittens.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-03/mittens.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "连指手套",
+        "狗拉的雪撬",
+        "哈士奇；雪橇犬"
+      ]
+    },
+    {
+      "id": "dogsled",
+      "word": "dogsled",
+      "forms": [
+        "dogsled"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈdɒgsled/",
+      "partOfSpeech": "",
+      "meaning": "狗拉的雪撬",
+      "wordForms": "原文词形：dogsled",
+      "sentence": "The seal hunter was standing beside a dogsled.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-03/dogsled.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "狗拉的雪撬",
+        "困惑的；迷惑不解的",
+        "派克大衣；连帽皮大衣"
+      ]
+    },
+    {
+      "id": "huskies",
+      "word": "husky",
+      "forms": [
+        "husky",
+        "Huskies"
+      ],
+      "tier": "core",
+      "phonetic": "/'hʌski/",
+      "partOfSpeech": "n.",
+      "meaning": "哈士奇；雪橇犬",
+      "wordForms": "原文词形：Huskies",
+      "sentence": "Siberian Huskies often howl like wolves.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-03/huskies.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sk",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "哈士奇；雪橇犬",
+        "派克大衣；连帽皮大衣",
+        "困惑的；迷惑不解的"
+      ]
+    },
+    {
+      "id": "drifting",
+      "word": "drift",
+      "forms": [
+        "drift",
+        "drifts",
+        "drifted",
+        "drifting"
+      ],
+      "tier": "core",
+      "phonetic": "/drift/",
+      "partOfSpeech": "v.",
+      "meaning": "飘落；漂移",
+      "wordForms": "第三人称单数 drifts · 过去式 drifted · 现在分词 drifting",
+      "sentence": "The snow was still drifting down.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-03/drifting.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ft",
+          "sound": "/ft/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "飘落；漂移",
+        "派克大衣；连帽皮大衣",
+        "连指手套"
+      ]
+    },
+    {
+      "id": "whip",
+      "word": "whip",
+      "forms": [
+        "whip"
+      ],
+      "tier": "core",
+      "phonetic": "/hwip/",
+      "partOfSpeech": "n.",
+      "meaning": "鞭子；抽打",
+      "wordForms": "原文词形：whip",
+      "sentence": "The seal hunter cracked a long whip.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-03/whip.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鞭子；抽打",
+        "困惑的；迷惑不解的",
+        "哈士奇；雪橇犬"
+      ]
+    }
+  ]
+}

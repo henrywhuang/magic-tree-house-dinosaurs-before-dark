@@ -1,0 +1,307 @@
+{
+  "book": 12,
+  "chapter": 10,
+  "title": "Master Librarians",
+  "words": [
+    {
+      "id": "succeeded",
+      "word": "succeed",
+      "forms": [
+        "succeed",
+        "succeeds",
+        "succeeded",
+        "succeeding"
+      ],
+      "tier": "core",
+      "phonetic": "/sәk'si:d/",
+      "partOfSpeech": "v.",
+      "meaning": "成功；做到",
+      "wordForms": "第三人称单数 succeeds · 过去式 succeeded · 现在分词 succeeding",
+      "sentence": "“You have succeeded in your quest,” said a soft, soothing voice.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-10/succeeded.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "成功；做到",
+        "微微刺痛的；发麻的",
+        "任务；代表团"
+      ]
+    },
+    {
+      "id": "quest",
+      "word": "quest",
+      "forms": [
+        "quest"
+      ],
+      "tier": "core",
+      "phonetic": "/kwest/",
+      "partOfSpeech": "n.",
+      "meaning": "探索；追寻",
+      "wordForms": "原文词形：quest",
+      "sentence": "“You have succeeded in your quest,” said a soft, soothing voice.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-10/quest.mp3",
+      "phonics": [
+        {
+          "letters": "qu",
+          "sound": "/kw/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "est",
+          "sound": "/ɪst/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "探索；追寻",
+        "舒适的；安逸的",
+        "成功；做到"
+      ]
+    },
+    {
+      "id": "soothing",
+      "word": "soothing",
+      "forms": [
+        "soothing"
+      ],
+      "tier": "core",
+      "phonetic": "/'su:ðiŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "抚慰的；令人宽心的",
+      "wordForms": "原文词形：soothing",
+      "sentence": "“You have succeeded in your quest,” said a soft, soothing voice.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-10/soothing.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "抚慰的；令人宽心的",
+        "舒适的；安逸的",
+        "普通的；平常的"
+      ]
+    },
+    {
+      "id": "ordinary",
+      "word": "ordinary",
+      "forms": [
+        "ordinary"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɒ:dinәri/",
+      "partOfSpeech": "adj.",
+      "meaning": "普通的；平常的",
+      "wordForms": "原文词形：ordinary",
+      "sentence": "The wooden card was as thin and smooth as an ordinary library card.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-10/ordinary.mp3",
+      "phonics": [
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "普通的；平常的",
+        "探索；追寻",
+        "抚慰的；令人宽心的"
+      ]
+    },
+    {
+      "id": "mission",
+      "word": "mission",
+      "forms": [
+        "mission"
+      ],
+      "tier": "core",
+      "phonetic": "/'miʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "任务；代表团",
+      "wordForms": "原文词形：mission",
+      "sentence": "“Can we go on a mission right now?”",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-10/mission.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sion",
+          "sound": "/ʒən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "任务；代表团",
+        "微微刺痛的；发麻的",
+        "普通的；平常的"
+      ]
+    },
+    {
+      "id": "tingly",
+      "word": "tingly",
+      "forms": [
+        "tingly"
+      ],
+      "tier": "core",
+      "phonetic": "/'tiŋɡli/",
+      "partOfSpeech": "adj.",
+      "meaning": "微微刺痛的；发麻的",
+      "wordForms": "原文词形：tingly",
+      "sentence": "Jack reached for his magic library card When he felt its tingly warmth, he knew that amazing adventures lay ahead.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-10/tingly.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "微微刺痛的；发麻的",
+        "任务；代表团",
+        "普通的；平常的"
+      ]
+    },
+    {
+      "id": "cozy",
+      "word": "cozy",
+      "forms": [
+        "cozy"
+      ],
+      "tier": "core",
+      "phonetic": "/'kәuzi/",
+      "partOfSpeech": "adj.",
+      "meaning": "舒适的；安逸的",
+      "wordForms": "原文词形：cozy",
+      "sentence": "It looked warm and cozy.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-10/cozy.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "舒适的；安逸的",
+        "微微刺痛的；发麻的",
+        "探索；追寻"
+      ]
+    }
+  ]
+}

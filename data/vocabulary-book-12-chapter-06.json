@@ -1,0 +1,319 @@
+{
+  "book": 12,
+  "chapter": 6,
+  "title": "Flying Bears",
+  "words": [
+    {
+      "id": "whimpered",
+      "word": "whimper",
+      "forms": [
+        "whimper",
+        "whimpers",
+        "whimpered",
+        "whimpering"
+      ],
+      "tier": "core",
+      "phonetic": "/'hwimpә/",
+      "partOfSpeech": "v.",
+      "meaning": "呜咽；啜泣",
+      "wordForms": "第三人称单数 whimpers · 过去式 whimpered · 现在分词 whimpering",
+      "sentence": "The cubs whimpered louder.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-06/whimpered.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "呜咽；啜泣",
+        "低吼；呻吟",
+        "保护；防卫"
+      ]
+    },
+    {
+      "id": "growled",
+      "word": "growl",
+      "forms": [
+        "growl",
+        "growls",
+        "growled",
+        "growling"
+      ],
+      "tier": "core",
+      "phonetic": "/graul/",
+      "partOfSpeech": "v.",
+      "meaning": "咆哮；低吼",
+      "wordForms": "第三人称单数 growls · 过去式 growled · 现在分词 growling",
+      "sentence": "The big polar bear growled.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-06/growled.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "咆哮；低吼",
+        "踱步；来回走",
+        "悄悄地走；爬行"
+      ]
+    },
+    {
+      "id": "paced",
+      "word": "pace",
+      "forms": [
+        "pace",
+        "paces",
+        "paced",
+        "pacing"
+      ],
+      "tier": "core",
+      "phonetic": "/peis/",
+      "partOfSpeech": "v.",
+      "meaning": "踱步；来回走",
+      "wordForms": "第三人称单数 paces · 过去式 paced · 现在分词 pacing",
+      "sentence": "She paced back and forth, sniffing the air.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-06/paced.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "踱步；来回走",
+        "咆哮；低吼",
+        "悄悄地走；爬行"
+      ]
+    },
+    {
+      "id": "incredible",
+      "word": "incredible",
+      "forms": [
+        "incredible"
+      ],
+      "tier": "core",
+      "phonetic": "/in'kredәbl/",
+      "partOfSpeech": "adj.",
+      "meaning": "难以置信的",
+      "wordForms": "原文词形：incredible",
+      "sentence": "“Oh, man, that’s incredible,” whispered Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-06/incredible.mp3",
+      "phonics": [
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "难以置信的",
+        "保护；防卫",
+        "低吼；呻吟"
+      ]
+    },
+    {
+      "id": "crept",
+      "word": "creep",
+      "forms": [
+        "creep",
+        "creeps",
+        "crept",
+        "creeping"
+      ],
+      "tier": "core",
+      "phonetic": "/kri:p/",
+      "partOfSpeech": "v.",
+      "meaning": "悄悄地走；爬行",
+      "wordForms": "第三人称单数 creeps · 过去式 crept · 现在分词 creeping",
+      "sentence": "On large silent feet, she crept about at the edge of the frozen sea.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-06/crept.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "悄悄地走；爬行",
+        "踱步；来回走",
+        "低吼；呻吟"
+      ]
+    },
+    {
+      "id": "protect",
+      "word": "protect",
+      "forms": [
+        "protect",
+        "protects",
+        "protected",
+        "protecting"
+      ],
+      "tier": "core",
+      "phonetic": "/prә'tekt/",
+      "partOfSpeech": "v.",
+      "meaning": "保护；防卫",
+      "wordForms": "第三人称单数 protects · 过去式 protected · 现在分词 protecting",
+      "sentence": "“Maybe they’ll protect us,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-06/protect.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ct",
+          "sound": "/ct/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "保护；防卫",
+        "悄悄地走；爬行",
+        "低吼；呻吟"
+      ]
+    },
+    {
+      "id": "moan",
+      "word": "moan",
+      "forms": [
+        "moan"
+      ],
+      "tier": "core",
+      "phonetic": "/mәun/",
+      "partOfSpeech": "n.",
+      "meaning": "低吼；呻吟",
+      "wordForms": "原文词形：moan",
+      "sentence": "The polar bear looked at her cubs and let out a deep moan.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-06/moan.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "低吼；呻吟",
+        "咆哮；低吼",
+        "保护；防卫"
+      ]
+    }
+  ]
+}

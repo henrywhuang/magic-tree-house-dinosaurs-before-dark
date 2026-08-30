@@ -1,0 +1,320 @@
+{
+  "book": 12,
+  "chapter": 2,
+  "title": "The Howling",
+  "words": [
+    {
+      "id": "crisp",
+      "word": "crisp",
+      "forms": [
+        "crisp"
+      ],
+      "tier": "core",
+      "phonetic": "/krisp/",
+      "partOfSpeech": "adj.",
+      "meaning": "脆的；新鲜的",
+      "wordForms": "原文词形：crisp",
+      "sentence": "The air was crisp and cold.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-02/crisp.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "脆的；新鲜的",
+        "海豹皮",
+        "（牙齿）打战；喋喋不休"
+      ]
+    },
+    {
+      "id": "shivered",
+      "word": "shiver",
+      "forms": [
+        "shivered",
+        "shiver",
+        "shivers",
+        "shivering"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃivә/",
+      "partOfSpeech": "v.",
+      "meaning": "颤抖；哆嗦",
+      "wordForms": "第三人称单数 shivers · 过去式 shivered · 现在分词 shivering",
+      "sentence": "Jack and Annie shivered.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-02/shivered.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "颤抖；哆嗦",
+        "脆的；新鲜的",
+        "海豹皮"
+      ]
+    },
+    {
+      "id": "chattering",
+      "word": "chatter",
+      "forms": [
+        "chatter",
+        "chatters",
+        "chattered",
+        "chattering"
+      ],
+      "tier": "core",
+      "phonetic": "/'tʃætә/",
+      "partOfSpeech": "v.",
+      "meaning": "（牙齿）打战；喋喋不休",
+      "wordForms": "第三人称单数 chatters · 过去式 chattered · 现在分词 chattering",
+      "sentence": "“R-r-read the riddle,” said Annie, her teeth chattering.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-02/chattering.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "（牙齿）打战；喋喋不休",
+        "脆的；新鲜的",
+        "猎人；狩猎者"
+      ]
+    },
+    {
+      "id": "courage",
+      "word": "courage",
+      "forms": [
+        "courage"
+      ],
+      "tier": "core",
+      "phonetic": "/'kʌridʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "勇气；胆量",
+      "wordForms": "原文词形：courage",
+      "sentence": "But sometimes I bring out the courage in you.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-02/courage.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "勇气；胆量",
+        "猎人；狩猎者",
+        "海豹皮"
+      ]
+    },
+    {
+      "id": "hunter",
+      "word": "hunter",
+      "forms": [
+        "hunter"
+      ],
+      "tier": "core",
+      "phonetic": "/'hʌntә/",
+      "partOfSpeech": "n.",
+      "meaning": "猎人；狩猎者",
+      "wordForms": "原文词形：hunter",
+      "sentence": "He read aloud: This seal hunter wears sealskin clothing to protect him from icy winds.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-02/hunter.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "猎人；狩猎者",
+        "脆的；新鲜的",
+        "（牙齿）打战；喋喋不休"
+      ]
+    },
+    {
+      "id": "sealskin",
+      "word": "sealskin",
+      "forms": [
+        "sealskin"
+      ],
+      "tier": "core",
+      "phonetic": "/'si:lskin/",
+      "partOfSpeech": "n.",
+      "meaning": "海豹皮",
+      "wordForms": "原文词形：sealskin",
+      "sentence": "He read aloud: This seal hunter wears sealskin clothing to protect him from icy winds.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-02/sealskin.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sk",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "海豹皮",
+        "勇气；胆量",
+        "颤抖；哆嗦"
+      ]
+    },
+    {
+      "id": "howling",
+      "word": "howling",
+      "forms": [
+        "howling"
+      ],
+      "tier": "core",
+      "phonetic": "/'hauliŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "嗥叫；吠声",
+      "wordForms": "原文词形：howling",
+      "sentence": "A howling sound came from the distance.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-02/howling.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "嗥叫；吠声",
+        "海豹皮",
+        "勇气；胆量"
+      ]
+    }
+  ]
+}

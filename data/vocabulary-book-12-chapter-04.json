@@ -1,0 +1,370 @@
+{
+  "book": 12,
+  "chapter": 4,
+  "title": "Snow House",
+  "words": [
+    {
+      "id": "tundra",
+      "word": "tundra",
+      "forms": [
+        "tundra"
+      ],
+      "tier": "core",
+      "phonetic": "/'tʌndrә/",
+      "partOfSpeech": "n.",
+      "meaning": "苔原；冻原",
+      "wordForms": "原文词形：tundra",
+      "sentence": "The dogsled skimmed silently over the frozen tundra.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-04/tundra.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "苔原；冻原",
+        "台；平台",
+        "精神；心灵"
+      ]
+    },
+    {
+      "id": "igloo",
+      "word": "igloo",
+      "forms": [
+        "igloo"
+      ],
+      "tier": "core",
+      "phonetic": "/'iglu:/",
+      "partOfSpeech": "n.",
+      "meaning": "（爱斯基摩人的）圆顶雪屋；冰屋",
+      "wordForms": "原文词形：igloo",
+      "sentence": "The moonlight lit a small, rounded igloo in front of them.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-04/igloo.mp3",
+      "phonics": [
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "（爱斯基摩人的）圆顶雪屋；冰屋",
+        "典礼；仪式",
+        "精神；心灵"
+      ]
+    },
+    {
+      "id": "temperature",
+      "word": "temperature",
+      "forms": [
+        "temperature"
+      ],
+      "tier": "core",
+      "phonetic": "/'temprәtʃә/",
+      "partOfSpeech": "n.",
+      "meaning": "温度；发烧",
+      "wordForms": "原文词形：temperature",
+      "sentence": "The temperature inside an igloo can be 65 degrees warmer than the temperature outside.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-04/temperature.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ture",
+          "sound": "/tʃər/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "温度；发烧",
+        "苔原；冻原",
+        "台；平台"
+      ]
+    },
+    {
+      "id": "candle",
+      "word": "candle",
+      "forms": [
+        "candle"
+      ],
+      "tier": "core",
+      "phonetic": "/'kændl/",
+      "partOfSpeech": "n.",
+      "meaning": "蜡烛",
+      "wordForms": "原文词形：candle",
+      "sentence": "A fat candle burned brightly.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-04/candle.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蜡烛",
+        "（爱斯基摩人的）圆顶雪屋；冰屋",
+        "台；平台"
+      ]
+    },
+    {
+      "id": "platform",
+      "word": "platform",
+      "forms": [
+        "platform"
+      ],
+      "tier": "core",
+      "phonetic": "/'plætfɒ:m/",
+      "partOfSpeech": "n.",
+      "meaning": "台；平台",
+      "wordForms": "原文词形：platform",
+      "sentence": "Jack and Annie sat on a fur-covered platform.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-04/platform.mp3",
+      "phonics": [
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "台；平台",
+        "温度；发烧",
+        "苔原；冻原"
+      ]
+    },
+    {
+      "id": "ceremony",
+      "word": "ceremony",
+      "forms": [
+        "ceremony"
+      ],
+      "tier": "core",
+      "phonetic": "/'serimәni/",
+      "partOfSpeech": "n.",
+      "meaning": "典礼；仪式",
+      "wordForms": "原文词形：ceremony",
+      "sentence": "“Soon there will be a ceremony to honor the spirit of the polar bear,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-04/ceremony.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "典礼；仪式",
+        "蜡烛",
+        "（爱斯基摩人的）圆顶雪屋；冰屋"
+      ]
+    },
+    {
+      "id": "spirit",
+      "word": "spirit",
+      "forms": [
+        "spirit"
+      ],
+      "tier": "core",
+      "phonetic": "/'spirit/",
+      "partOfSpeech": "n.",
+      "meaning": "精神；心灵",
+      "wordForms": "原文词形：spirit",
+      "sentence": "“Soon there will be a ceremony to honor the spirit of the polar bear,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-04/spirit.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "精神；心灵",
+        "温度；发烧",
+        "（爱斯基摩人的）圆顶雪屋；冰屋"
+      ]
+    },
+    {
+      "id": "blunt",
+      "word": "blunt",
+      "forms": [
+        "blunt"
+      ],
+      "tier": "core",
+      "phonetic": "/blʌnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "钝的；坦率的",
+      "wordForms": "原文词形：blunt",
+      "sentence": "Each was carved in the shape of a polar bear’s face with a blunt nose and roundish ears.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-04/blunt.mp3",
+      "phonics": [
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "钝的；坦率的",
+        "典礼；仪式",
+        "台；平台"
+      ]
+    }
+  ]
+}

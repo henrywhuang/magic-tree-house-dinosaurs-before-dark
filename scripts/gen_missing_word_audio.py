@@ -15,7 +15,7 @@ AF = ("silenceremove=start_periods=1:start_silence=0.02:start_threshold=-45dB,ar
 
 def needed():
     words = set()
-    for f in glob.glob("data/vocabulary-book-0*-chapter-*.json"):
+    for f in glob.glob("data/vocabulary-book-*-chapter-*.json"):
         for w in json.load(open(f, encoding="utf-8"))["words"]:
             words.add(w["word"].lower())
     return sorted(w for w in words if not os.path.exists(f"{WORDS_DIR}/{w}.mp3"))

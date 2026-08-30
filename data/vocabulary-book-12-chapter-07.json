@@ -1,0 +1,345 @@
+{
+  "book": 12,
+  "chapter": 7,
+  "title": "Spirit Lights",
+  "words": [
+    {
+      "id": "awe",
+      "word": "awe",
+      "forms": [
+        "awe"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ɒ:/",
+      "partOfSpeech": "n.",
+      "meaning": "敬畏",
+      "wordForms": "原文词形：awe",
+      "sentence": "Jack stared at the polar bear in awe.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-07/awe.mp3"
+    },
+    {
+      "id": "bowing",
+      "word": "bow",
+      "forms": [
+        "bow",
+        "bows",
+        "bowed",
+        "bowing"
+      ],
+      "tier": "core",
+      "phonetic": "/bәu.bau/",
+      "partOfSpeech": "v.",
+      "meaning": "鞠躬；弯腰",
+      "wordForms": "第三人称单数 bows · 过去式 bowed · 现在分词 bowing",
+      "sentence": "“We thank you,” he said, bowing.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-07/bowing.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "鞠躬；弯腰",
+        "科学的；系统的",
+        "旋转；转动"
+      ]
+    },
+    {
+      "id": "twirled",
+      "word": "twirl",
+      "forms": [
+        "twirl",
+        "twirls",
+        "twirled",
+        "twirling"
+      ],
+      "tier": "core",
+      "phonetic": "/twә:l/",
+      "partOfSpeech": "v.",
+      "meaning": "旋转；转动",
+      "wordForms": "第三人称单数 twirls · 过去式 twirled · 现在分词 twirling",
+      "sentence": "Then she threw out her arms and twirled around.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-07/twirled.mp3",
+      "phonics": [
+        {
+          "letters": "tw",
+          "sound": "/tw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "旋转；转动",
+        "闪烁；发出微光",
+        "耀眼的；令人目眩的"
+      ]
+    },
+    {
+      "id": "exploded",
+      "word": "explode",
+      "forms": [
+        "explode",
+        "explodes",
+        "exploded",
+        "exploding"
+      ],
+      "tier": "core",
+      "phonetic": "/ik'splәud/",
+      "partOfSpeech": "v.",
+      "meaning": "爆发；炸开",
+      "wordForms": "第三人称单数 explodes · 过去式 exploded · 现在分词 exploding",
+      "sentence": "At that moment, the sky exploded.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-07/exploded.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "x",
+          "sound": "/ks/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "爆发；炸开",
+        "低声的；寂静的",
+        "旋转；转动"
+      ]
+    },
+    {
+      "id": "dazzling",
+      "word": "dazzling",
+      "forms": [
+        "dazzling"
+      ],
+      "tier": "core",
+      "phonetic": "/'dæzliŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "耀眼的；令人目眩的",
+      "wordForms": "原文词形：dazzling",
+      "sentence": "He stared in wonder as the dazzling lights lit the tundra.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-07/dazzling.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "耀眼的；令人目眩的",
+        "爆发；炸开",
+        "鞠躬；弯腰"
+      ]
+    },
+    {
+      "id": "hushed",
+      "word": "hushed",
+      "forms": [
+        "hushed"
+      ],
+      "tier": "core",
+      "phonetic": "/hʌʃt/",
+      "partOfSpeech": "adj.",
+      "meaning": "低声的；寂静的",
+      "wordForms": "原文词形：hushed",
+      "sentence": "Annie asked in a hushed voice.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-07/hushed.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "低声的；寂静的",
+        "耀眼的；令人目眩的",
+        "旋转；转动"
+      ]
+    },
+    {
+      "id": "shimmered",
+      "word": "shimmer",
+      "forms": [
+        "shimmer",
+        "shimmers",
+        "shimmered",
+        "shimmering"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃimә/",
+      "partOfSpeech": "v.",
+      "meaning": "闪烁；发出微光",
+      "wordForms": "第三人称单数 shimmers · 过去式 shimmered · 现在分词 shimmering",
+      "sentence": "As far as Jack could see, the sky and snow shimmered.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-07/shimmered.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "闪烁；发出微光",
+        "低声的；寂静的",
+        "爆发；炸开"
+      ]
+    },
+    {
+      "id": "scientific",
+      "word": "scientific",
+      "forms": [
+        "scientific"
+      ],
+      "tier": "core",
+      "phonetic": "/.saiәn'tifik/",
+      "partOfSpeech": "adj.",
+      "meaning": "科学的；系统的",
+      "wordForms": "原文词形：scientific",
+      "sentence": "“There’s got to be a scientific reason.",
+      "sentenceAudio": "assets/audio/sentences/book-12-chapter-07/scientific.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "科学的；系统的",
+        "耀眼的；令人目眩的",
+        "鞠躬；弯腰"
+      ]
+    }
+  ]
+}

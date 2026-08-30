@@ -86,6 +86,14 @@ const BOOKS = [
     audioStarts:[0,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/book-11-chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/book-11-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-12', number:12, title:'Polar Bears Past Bedtime', cn:'雪原上的北极熊', world:'北极冰原', badge:'🐻‍❄️',
+    cardImage:'assets/images/book-12-scenes/chapter-05-scene-01.webp', cardAlt:'《雪原上的北极熊》杰克和安妮在月光雪原上遇见两只北极熊宝宝',
+    chapters:['Are You Serious?','The Howling','Mush!','Snow House',"You're It!",'Flying Bears','Spirit Lights','Riddle Solved','Oh, No, One More!','Master Librarians'],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-12-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-12-chapter-${String(i+1).padStart(2,'0')}.json`
   }
 ];
 
