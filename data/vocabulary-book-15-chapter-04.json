@@ -1,0 +1,348 @@
+{
+  "book": 15,
+  "chapter": 4,
+  "title": "Books of Wonder",
+  "words": [
+    {
+      "id": "oven",
+      "word": "oven",
+      "forms": [
+        "oven"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʌvәn/",
+      "partOfSpeech": "n.",
+      "meaning": "烤箱；灶",
+      "wordForms": "原文词形：oven",
+      "sentence": "A monk was pulling flat bread from a low stone oven.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-04/oven.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "烤箱；灶",
+        "面包店",
+        "神话；传说"
+      ]
+    },
+    {
+      "id": "bakery",
+      "word": "bakery",
+      "forms": [
+        "bakery"
+      ],
+      "tier": "core",
+      "phonetic": "/'beikәri/",
+      "partOfSpeech": "n.",
+      "meaning": "面包店",
+      "wordForms": "原文词形：bakery",
+      "sentence": "“This is our bakery,” Brother Patrick said.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-04/bakery.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "面包店",
+        "羽毛笔；翎管",
+        "闪闪发光的；闪亮的"
+      ]
+    },
+    {
+      "id": "candles",
+      "word": "candle",
+      "forms": [
+        "candle",
+        "candles"
+      ],
+      "tier": "core",
+      "phonetic": "/'kændl/",
+      "partOfSpeech": "n.",
+      "meaning": "蜡烛",
+      "wordForms": "原文词形：candles",
+      "sentence": "It glowed with the golden light of many candles.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-04/candles.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蜡烛",
+        "神话；传说",
+        "图书馆；藏书"
+      ]
+    },
+    {
+      "id": "library",
+      "word": "library",
+      "forms": [
+        "library"
+      ],
+      "tier": "core",
+      "phonetic": "/'laibrәri/",
+      "partOfSpeech": "n.",
+      "meaning": "图书馆；藏书",
+      "wordForms": "原文词形：library",
+      "sentence": "“This is our library,” said Brother Patrick.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-04/library.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "图书馆；藏书",
+        "宝石；珠宝",
+        "面包店"
+      ]
+    },
+    {
+      "id": "myths",
+      "word": "myth",
+      "forms": [
+        "myth",
+        "myths"
+      ],
+      "tier": "core",
+      "phonetic": "/miθ/",
+      "partOfSpeech": "n.",
+      "meaning": "神话；传说",
+      "wordForms": "原文词形：myths",
+      "sentence": "“We record Christian stories as well as the old myths of Ireland.”",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-04/myths.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "神话；传说",
+        "蜡烛",
+        "烤箱；灶"
+      ]
+    },
+    {
+      "id": "gleaming",
+      "word": "gleaming",
+      "forms": [
+        "gleaming"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈgli:mɪŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "闪闪发光的；闪亮的",
+      "wordForms": "原文词形：gleaming",
+      "sentence": "It was decorated with gleaming red and blue jewels.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-04/gleaming.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "闪闪发光的；闪亮的",
+        "图书馆；藏书",
+        "神话；传说"
+      ]
+    },
+    {
+      "id": "jewels",
+      "word": "jewel",
+      "forms": [
+        "jewel",
+        "jewels"
+      ],
+      "tier": "core",
+      "phonetic": "/'dʒu:әl/",
+      "partOfSpeech": "n.",
+      "meaning": "宝石；珠宝",
+      "wordForms": "原文词形：jewels",
+      "sentence": "It was decorated with gleaming red and blue jewels.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-04/jewels.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ew",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "宝石；珠宝",
+        "闪闪发光的；闪亮的",
+        "图书馆；藏书"
+      ]
+    },
+    {
+      "id": "quill",
+      "word": "quill",
+      "forms": [
+        "quill"
+      ],
+      "tier": "core",
+      "phonetic": "/kwil/",
+      "partOfSpeech": "n.",
+      "meaning": "羽毛笔；翎管",
+      "wordForms": "原文词形：quill",
+      "sentence": "“I write on sheepskin and use goose quill pens,” said Brother Michael.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-04/quill.mp3",
+      "phonics": [
+        {
+          "letters": "qu",
+          "sound": "/kw/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "羽毛笔；翎管",
+        "烤箱；灶",
+        "神话；传说"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "book": 18,
+  "chapter": 4,
+  "title": "Good Manners",
+  "words": [
+    {
+      "id": "brave",
+      "word": "brave",
+      "forms": [
+        "brave"
+      ],
+      "tier": "core",
+      "phonetic": "/breiv/",
+      "partOfSpeech": "adj.",
+      "meaning": "勇敢的；无畏的",
+      "wordForms": "原文词形：brave",
+      "sentence": "Jack wondered how to appear brave.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-04/brave.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "勇敢的；无畏的",
+        "瞥一眼；匆匆一看",
+        "捶打；舂"
+      ]
+    },
+    {
+      "id": "glanced",
+      "word": "glance",
+      "forms": [
+        "glance",
+        "glances",
+        "glanced",
+        "glancing"
+      ],
+      "tier": "core",
+      "phonetic": "/'glɑ:ns/",
+      "partOfSpeech": "v.",
+      "meaning": "瞥一眼；匆匆一看",
+      "wordForms": "第三人称单数 glances · 过去式 glanced · 现在分词 glancing",
+      "sentence": "He glanced at Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-04/glanced.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "瞥一眼；匆匆一看",
+        "爪子",
+        "捶打；舂"
+      ]
+    },
+    {
+      "id": "beads",
+      "word": "bead",
+      "forms": [
+        "bead",
+        "beads"
+      ],
+      "tier": "core",
+      "phonetic": "/bi:d/",
+      "partOfSpeech": "n.",
+      "meaning": "珠子",
+      "wordForms": "原文词形：beads",
+      "sentence": "She was sewing beads onto a moccasin.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-04/beads.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "珠子",
+        "雕刻；削制",
+        "捶打；舂"
+      ]
+    },
+    {
+      "id": "moccasin",
+      "word": "moccasin",
+      "forms": [
+        "moccasin"
+      ],
+      "tier": "core",
+      "phonetic": "/'mɒkәsin/",
+      "partOfSpeech": "n.",
+      "meaning": "鹿皮软鞋",
+      "wordForms": "原文词形：moccasin",
+      "sentence": "She was sewing beads onto a moccasin.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-04/moccasin.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鹿皮软鞋",
+        "倒吸一口气；喘息",
+        "瞥一眼；匆匆一看"
+      ]
+    },
+    {
+      "id": "carved",
+      "word": "carve",
+      "forms": [
+        "carve",
+        "carves",
+        "carved",
+        "carving"
+      ],
+      "tier": "core",
+      "phonetic": "/kɑ:v/",
+      "partOfSpeech": "v.",
+      "meaning": "雕刻；削制",
+      "wordForms": "第三人称单数 carves · 过去式 carved · 现在分词 carving",
+      "sentence": "Men and boys carved bows.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-04/carved.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "雕刻；削制",
+        "珠子",
+        "瞥一眼；匆匆一看"
+      ]
+    },
+    {
+      "id": "pounded",
+      "word": "pound",
+      "forms": [
+        "pound",
+        "pounds",
+        "pounded",
+        "pounding"
+      ],
+      "tier": "core",
+      "phonetic": "/paund/",
+      "partOfSpeech": "v.",
+      "meaning": "捶打；舂",
+      "wordForms": "第三人称单数 pounds · 过去式 pounded · 现在分词 pounding",
+      "sentence": "Women and girls pounded meat and sewed clothes.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-04/pounded.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "捶打；舂",
+        "倒吸一口气；喘息",
+        "鹿皮软鞋"
+      ]
+    },
+    {
+      "id": "claws",
+      "word": "claw",
+      "forms": [
+        "claw",
+        "claws"
+      ],
+      "tier": "core",
+      "phonetic": "/klɒ:/",
+      "partOfSpeech": "n.",
+      "meaning": "爪子",
+      "wordForms": "原文词形：claws",
+      "sentence": "One girl was adding claws to a buckskin shirt.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-04/claws.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "aw",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "爪子",
+        "力量；力气",
+        "捶打；舂"
+      ]
+    },
+    {
+      "id": "strength",
+      "word": "strength",
+      "forms": [
+        "strength"
+      ],
+      "tier": "core",
+      "phonetic": "/streŋθ/",
+      "partOfSpeech": "n.",
+      "meaning": "力量；力气",
+      "wordForms": "原文词形：strength",
+      "sentence": "“The bear claws will give her the strength of the bear,” said Grandmother.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-04/strength.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "力量；力气",
+        "爪子",
+        "倒吸一口气；喘息"
+      ]
+    },
+    {
+      "id": "gasped",
+      "word": "gasp",
+      "forms": [
+        "gasp",
+        "gasps",
+        "gasped",
+        "gasping"
+      ],
+      "tier": "core",
+      "phonetic": "/gæsp/",
+      "partOfSpeech": "v.",
+      "meaning": "倒吸一口气；喘息",
+      "wordForms": "第三人称单数 gasps · 过去式 gasped · 现在分词 gasping",
+      "sentence": "They both gasped.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-04/gasped.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "倒吸一口气；喘息",
+        "珠子",
+        "瞥一眼；匆匆一看"
+      ]
+    }
+  ]
+}

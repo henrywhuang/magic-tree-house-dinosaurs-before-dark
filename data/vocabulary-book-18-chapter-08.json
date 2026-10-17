@@ -1,0 +1,434 @@
+{
+  "book": 18,
+  "chapter": 8,
+  "title": "Sacred Circle",
+  "words": [
+    {
+      "id": "sternly",
+      "word": "sternly",
+      "forms": [
+        "sternly"
+      ],
+      "tier": "core",
+      "phonetic": "/'stә:nli/",
+      "partOfSpeech": "adv.",
+      "meaning": "严厉地；严肃地",
+      "wordForms": "原文词形：sternly",
+      "sentence": "“Let this be a lesson to you,” Grandmother said sternly.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-08/sternly.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "严厉地；严肃地",
+        "勇气；胆量",
+        "信使；使者"
+      ]
+    },
+    {
+      "id": "pride",
+      "word": "pride",
+      "forms": [
+        "pride"
+      ],
+      "tier": "core",
+      "phonetic": "/praid/",
+      "partOfSpeech": "n.",
+      "meaning": "骄傲；自负",
+      "wordForms": "原文词形：pride",
+      "sentence": "“Your pride led you to show off.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-08/pride.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "骄傲；自负",
+        "使惊吓；吓唬",
+        "严厉地；严肃地"
+      ]
+    },
+    {
+      "id": "frightened",
+      "word": "frighten",
+      "forms": [
+        "frighten",
+        "frightens",
+        "frightened",
+        "frightening"
+      ],
+      "tier": "core",
+      "phonetic": "/'fraitn/",
+      "partOfSpeech": "v.",
+      "meaning": "使惊吓；吓唬",
+      "wordForms": "第三人称单数 frightens · 过去式 frightened · 现在分词 frightening",
+      "sentence": "Your foolishness frightened a buffalo.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-08/frightened.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "使惊吓；吓唬",
+        "鼓",
+        "神圣的"
+      ]
+    },
+    {
+      "id": "courage",
+      "word": "courage",
+      "forms": [
+        "courage"
+      ],
+      "tier": "core",
+      "phonetic": "/'kʌridʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "勇气；胆量",
+      "wordForms": "原文词形：courage",
+      "sentence": "“Buffalo Girl and Rides-Like-Wind showed great courage today,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-08/courage.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "勇气；胆量",
+        "骄傲；自负",
+        "暮色；黄昏"
+      ]
+    },
+    {
+      "id": "drum",
+      "word": "drum",
+      "forms": [
+        "drum"
+      ],
+      "tier": "core",
+      "phonetic": "/drʌm/",
+      "partOfSpeech": "n.",
+      "meaning": "鼓",
+      "wordForms": "原文词形：drum",
+      "sentence": "Someone began beating a drum.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-08/drum.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鼓",
+        "暮色；黄昏",
+        "神圣的"
+      ]
+    },
+    {
+      "id": "twilight",
+      "word": "twilight",
+      "forms": [
+        "twilight"
+      ],
+      "tier": "core",
+      "phonetic": "/'twailait/",
+      "partOfSpeech": "n.",
+      "meaning": "暮色；黄昏",
+      "wordForms": "原文词形：twilight",
+      "sentence": "A cool breeze blew sparks into the gray twilight.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-08/twilight.mp3",
+      "phonics": [
+        {
+          "letters": "tw",
+          "sound": "/tw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "暮色；黄昏",
+        "仪式；典礼",
+        "鼓"
+      ]
+    },
+    {
+      "id": "sacred",
+      "word": "sacred",
+      "forms": [
+        "sacred"
+      ],
+      "tier": "core",
+      "phonetic": "/'seikrid/",
+      "partOfSpeech": "adj.",
+      "meaning": "神圣的",
+      "wordForms": "原文词形：sacred",
+      "sentence": "“The smoke from the sacred pipe joins all things to the Great Spirit,” Grandmother said to Jack and Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-08/sacred.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "神圣的",
+        "勇气；胆量",
+        "严厉地；严肃地"
+      ]
+    },
+    {
+      "id": "messenger",
+      "word": "messenger",
+      "forms": [
+        "messenger"
+      ],
+      "tier": "core",
+      "phonetic": "/'mesindʒә/",
+      "partOfSpeech": "n.",
+      "meaning": "信使；使者",
+      "wordForms": "原文词形：messenger",
+      "sentence": "“She is a messenger of the Great Spirit,” said Grandmother.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-08/messenger.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "信使；使者",
+        "勇气；胆量",
+        "仪式；典礼"
+      ]
+    },
+    {
+      "id": "ceremony",
+      "word": "ceremony",
+      "forms": [
+        "ceremony"
+      ],
+      "tier": "core",
+      "phonetic": "/'serimәni/",
+      "partOfSpeech": "n.",
+      "meaning": "仪式；典礼",
+      "wordForms": "原文词形：ceremony",
+      "sentence": "The pipe-smoking ceremony was over.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-08/ceremony.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "仪式；典礼",
+        "神圣的",
+        "骄傲；自负"
+      ]
+    }
+  ]
+}

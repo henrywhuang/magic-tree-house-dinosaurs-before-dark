@@ -1,0 +1,346 @@
+{
+  "book": 15,
+  "chapter": 9,
+  "title": "Sea Monster!",
+  "words": [
+    {
+      "id": "scales",
+      "word": "scale",
+      "forms": [
+        "scale",
+        "scales"
+      ],
+      "tier": "core",
+      "phonetic": "/skeil/",
+      "partOfSpeech": "n.",
+      "meaning": "鳞；鳞片",
+      "wordForms": "原文词形：scales",
+      "sentence": "Its green scales were covered with sea slime.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-09/scales.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鳞；鳞片",
+        "怪物；恶人",
+        "昂起；高高扬起"
+      ]
+    },
+    {
+      "id": "slime",
+      "word": "slime",
+      "forms": [
+        "slime"
+      ],
+      "tier": "core",
+      "phonetic": "/slaim/",
+      "partOfSpeech": "n.",
+      "meaning": "黏液；黏滑物",
+      "wordForms": "原文词形：slime",
+      "sentence": "Its green scales were covered with sea slime.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-09/slime.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "黏液；黏滑物",
+        "俯冲；潜入",
+        "昂起；高高扬起"
+      ]
+    },
+    {
+      "id": "ducked",
+      "word": "duck",
+      "forms": [
+        "duck",
+        "ducks",
+        "ducked",
+        "ducking"
+      ],
+      "tier": "core",
+      "phonetic": "/dʌk/",
+      "partOfSpeech": "v.",
+      "meaning": "迅速低下头；躲闪",
+      "wordForms": "第三人称单数 ducks · 过去式 ducked · 现在分词 ducking",
+      "sentence": "Jack ducked.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-09/ducked.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "迅速低下头；躲闪",
+        "怪物；恶人",
+        "昂起；高高扬起"
+      ]
+    },
+    {
+      "id": "glittered",
+      "word": "glitter",
+      "forms": [
+        "glitter",
+        "glitters",
+        "glittered",
+        "glittering"
+      ],
+      "tier": "core",
+      "phonetic": "/'glitә/",
+      "partOfSpeech": "v.",
+      "meaning": "闪闪发光；闪耀",
+      "wordForms": "第三人称单数 glitters · 过去式 glittered · 现在分词 glittering",
+      "sentence": "The clouds lifted and the water glittered with sunlight.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-09/glittered.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "闪闪发光；闪耀",
+        "昂起；高高扬起",
+        "怪物；恶人"
+      ]
+    },
+    {
+      "id": "monster",
+      "word": "monster",
+      "forms": [
+        "monster"
+      ],
+      "tier": "core",
+      "phonetic": "/'mɒnstә/",
+      "partOfSpeech": "n.",
+      "meaning": "怪物；恶人",
+      "wordForms": "原文词形：monster",
+      "sentence": "Annie called to the serpent monster.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-09/monster.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "怪物；恶人",
+        "黏液；黏滑物",
+        "鳞；鳞片"
+      ]
+    },
+    {
+      "id": "rearing",
+      "word": "rear",
+      "forms": [
+        "rear",
+        "rears",
+        "reared",
+        "rearing"
+      ],
+      "tier": "core",
+      "phonetic": "/riә/",
+      "partOfSpeech": "v.",
+      "meaning": "昂起；高高扬起",
+      "wordForms": "第三人称单数 rears · 过去式 reared · 现在分词 rearing",
+      "sentence": "The great serpent was rearing its long neck into the air.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-09/rearing.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "昂起；高高扬起",
+        "倒吸气；喘息",
+        "黏液；黏滑物"
+      ]
+    },
+    {
+      "id": "dove",
+      "word": "dive",
+      "forms": [
+        "dive",
+        "dives",
+        "dived",
+        "diving"
+      ],
+      "tier": "core",
+      "phonetic": "/daiv/",
+      "partOfSpeech": "v.",
+      "meaning": "俯冲；潜入",
+      "wordForms": "第三人称单数 dives · 过去式 dived · 现在分词 diving",
+      "sentence": "Then he dove into the sea and was gone.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-09/dove.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "俯冲；潜入",
+        "昂起；高高扬起",
+        "怪物；恶人"
+      ]
+    },
+    {
+      "id": "gasped",
+      "word": "gasp",
+      "forms": [
+        "gasp",
+        "gasps",
+        "gasped",
+        "gasping"
+      ],
+      "tier": "core",
+      "phonetic": "/gæsp/",
+      "partOfSpeech": "v.",
+      "meaning": "倒吸气；喘息",
+      "wordForms": "第三人称单数 gasps · 过去式 gasped · 现在分词 gasping",
+      "sentence": "All of a sudden, Annie gasped.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-09/gasped.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "倒吸气；喘息",
+        "昂起；高高扬起",
+        "迅速低下头；躲闪"
+      ]
+    }
+  ]
+}

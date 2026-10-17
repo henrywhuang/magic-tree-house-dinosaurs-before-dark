@@ -1,0 +1,392 @@
+{
+  "book": 19,
+  "chapter": 2,
+  "title": "Kah and Ko",
+  "words": [
+    {
+      "id": "screeching",
+      "word": "screeching",
+      "forms": [
+        "screeching"
+      ],
+      "tier": "core",
+      "phonetic": "/sk'ri:tʃɪŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "尖叫声；刺耳的叫声",
+      "wordForms": "原文词形：screeching",
+      "sentence": "The wild screeching and cawing came from the forest’s tall, leafy trees.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-02/screeching.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "尖叫声；刺耳的叫声",
+        "生物；动物",
+        "闪烁；闪闪发亮"
+      ]
+    },
+    {
+      "id": "creatures",
+      "word": "creature",
+      "forms": [
+        "creature",
+        "creatures"
+      ],
+      "tier": "core",
+      "phonetic": "/'kri:tʃә/",
+      "partOfSpeech": "n.",
+      "meaning": "生物；动物",
+      "wordForms": "原文词形：creatures",
+      "sentence": "Just then, two creatures leaped onto the windowsill.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-02/creatures.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ture",
+          "sound": "/tʃər/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "生物；动物",
+        "闪烁；闪闪发亮",
+        "孔雀"
+      ]
+    },
+    {
+      "id": "peered",
+      "word": "peer",
+      "forms": [
+        "peer",
+        "peers",
+        "peered",
+        "peering"
+      ],
+      "tier": "core",
+      "phonetic": "/piә/",
+      "partOfSpeech": "v.",
+      "meaning": "凝视；盯着看",
+      "wordForms": "第三人称单数 peers · 过去式 peered · 现在分词 peering",
+      "sentence": "Two small monkeys peered at them.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-02/peered.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "凝视；盯着看",
+        "闪烁；闪闪发亮",
+        "蹦蹦跳跳地跑；奔跑"
+      ]
+    },
+    {
+      "id": "parkas",
+      "word": "parka",
+      "forms": [
+        "parka",
+        "parkas"
+      ],
+      "tier": "core",
+      "phonetic": "/'pɑ:kә/",
+      "partOfSpeech": "n.",
+      "meaning": "派克大衣；连帽防寒外套",
+      "wordForms": "原文词形：parkas",
+      "sentence": "They looked as if they were wearing tiny parkas.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-02/parkas.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "派克大衣；连帽防寒外套",
+        "闪烁；闪闪发亮",
+        "深长的划痕；深口子"
+      ]
+    },
+    {
+      "id": "chattered",
+      "word": "chatter",
+      "forms": [
+        "chatter",
+        "chatters",
+        "chattered",
+        "chattering"
+      ],
+      "tier": "core",
+      "phonetic": "/'tʃætә/",
+      "partOfSpeech": "v.",
+      "meaning": "（猴子）吱吱叫；喋喋不休",
+      "wordForms": "第三人称单数 chatters · 过去式 chattered · 现在分词 chattering",
+      "sentence": "Kah-ko, kah-ko, the monkeys chattered.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-02/chattered.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "（猴子）吱吱叫；喋喋不休",
+        "闪烁；闪闪发亮",
+        "尖叫声；刺耳的叫声"
+      ]
+    },
+    {
+      "id": "twinkled",
+      "word": "twinkle",
+      "forms": [
+        "twinkle",
+        "twinkles",
+        "twinkled",
+        "twinkling"
+      ],
+      "tier": "core",
+      "phonetic": "/'twiŋkl/",
+      "partOfSpeech": "v.",
+      "meaning": "闪烁；闪闪发亮",
+      "wordForms": "第三人称单数 twinkles · 过去式 twinkled · 现在分词 twinkling",
+      "sentence": "Their yellow eyes twinkled.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-02/twinkled.mp3",
+      "phonics": [
+        {
+          "letters": "tw",
+          "sound": "/tw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "闪烁；闪闪发亮",
+        "孔雀",
+        "蹦蹦跳跳地跑；奔跑"
+      ]
+    },
+    {
+      "id": "scampered",
+      "word": "scamper",
+      "forms": [
+        "scamper",
+        "scampers",
+        "scampered",
+        "scampering"
+      ],
+      "tier": "core",
+      "phonetic": "/'skæmpә/",
+      "partOfSpeech": "v.",
+      "meaning": "蹦蹦跳跳地跑；奔跑",
+      "wordForms": "第三人称单数 scampers · 过去式 scampered · 现在分词 scampering",
+      "sentence": "Ko pulled Annie, and Teddy scampered after them.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-02/scampered.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "蹦蹦跳跳地跑；奔跑",
+        "凝视；盯着看",
+        "闪烁；闪闪发亮"
+      ]
+    },
+    {
+      "id": "peacocks",
+      "word": "peacock",
+      "forms": [
+        "peacock",
+        "peacocks"
+      ],
+      "tier": "core",
+      "phonetic": "/'pi:kɒk/",
+      "partOfSpeech": "n.",
+      "meaning": "孔雀",
+      "wordForms": "原文词形：peacocks",
+      "sentence": "Blue peacocks spread their tails.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-02/peacocks.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "孔雀",
+        "深长的划痕；深口子",
+        "凝视；盯着看"
+      ]
+    },
+    {
+      "id": "gashes",
+      "word": "gash",
+      "forms": [
+        "gash",
+        "gashes"
+      ],
+      "tier": "core",
+      "phonetic": "/gæʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "深长的划痕；深口子",
+      "wordForms": "原文词形：gashes",
+      "sentence": "Jack noticed long, deep gashes in a tree as they walked by.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-02/gashes.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "深长的划痕；深口子",
+        "凝视；盯着看",
+        "生物；动物"
+      ]
+    }
+  ]
+}

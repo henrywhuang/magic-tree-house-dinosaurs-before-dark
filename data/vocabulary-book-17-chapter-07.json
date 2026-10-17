@@ -1,0 +1,431 @@
+{
+  "book": 17,
+  "chapter": 7,
+  "title": "The Gift",
+  "words": [
+    {
+      "id": "lifeboat",
+      "word": "lifeboat",
+      "forms": [
+        "lifeboat"
+      ],
+      "tier": "core",
+      "phonetic": "/'laifbәjt/",
+      "partOfSpeech": "n.",
+      "meaning": "救生艇",
+      "wordForms": "原文词形：lifeboat",
+      "sentence": "The lifeboat was waiting to go down.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-07/lifeboat.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "救生艇",
+        "穿制服的",
+        "缆索；缆绳"
+      ]
+    },
+    {
+      "id": "cables",
+      "word": "cable",
+      "forms": [
+        "cable",
+        "cables"
+      ],
+      "tier": "core",
+      "phonetic": "/'keibl/",
+      "partOfSpeech": "n.",
+      "meaning": "缆索；缆绳",
+      "wordForms": "原文词形：cables",
+      "sentence": "It looked tiny as it swung on cables at the side of the big ship.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-07/cables.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "缆索；缆绳",
+        "明亮地；鲜艳地",
+        "猛地一动；急拉"
+      ]
+    },
+    {
+      "id": "uniformed",
+      "word": "uniformed",
+      "forms": [
+        "uniformed"
+      ],
+      "tier": "core",
+      "phonetic": "/'ju:nifɔ:md/",
+      "partOfSpeech": "adj.",
+      "meaning": "穿制服的",
+      "wordForms": "原文词形：uniformed",
+      "sentence": "a uniformed man shouted.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-07/uniformed.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "穿制服的",
+        "银的；银色的",
+        "缆索；缆绳"
+      ]
+    },
+    {
+      "id": "brightly",
+      "word": "brightly",
+      "forms": [
+        "brightly"
+      ],
+      "tier": "core",
+      "phonetic": "/'braitli/",
+      "partOfSpeech": "adv.",
+      "meaning": "明亮地；鲜艳地",
+      "wordForms": "原文词形：brightly",
+      "sentence": "The brightly lit Titanic seemed so solid and safe compared to the little lifeboat.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-07/brightly.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "明亮地；鲜艳地",
+        "银的；银色的",
+        "缆索；缆绳"
+      ]
+    },
+    {
+      "id": "danger",
+      "word": "danger",
+      "forms": [
+        "danger"
+      ],
+      "tier": "core",
+      "phonetic": "/'deindʒә/",
+      "partOfSpeech": "n.",
+      "meaning": "危险；危难",
+      "wordForms": "原文词形：danger",
+      "sentence": "“You and William are in great danger.”",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-07/danger.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "危险；危难",
+        "缆索；缆绳",
+        "抛；扔"
+      ]
+    },
+    {
+      "id": "straightened",
+      "word": "straighten",
+      "forms": [
+        "straighten",
+        "straightens",
+        "straightened",
+        "straightening"
+      ],
+      "tier": "core",
+      "phonetic": "/'streitn/",
+      "partOfSpeech": "v.",
+      "meaning": "挺直；弄直",
+      "wordForms": "第三人称单数 straightens · 过去式 straightened · 现在分词 straightening",
+      "sentence": "Lucy straightened up and tried to smile.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-07/straightened.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "挺直；弄直",
+        "缆索；缆绳",
+        "猛地一动；急拉"
+      ]
+    },
+    {
+      "id": "silver",
+      "word": "silver",
+      "forms": [
+        "silver"
+      ],
+      "tier": "core",
+      "phonetic": "/'silvә/",
+      "partOfSpeech": "adj.",
+      "meaning": "银的；银色的",
+      "wordForms": "原文词形：silver",
+      "sentence": "She reached into her coat pocket and pulled out a silver watch on a chain.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-07/silver.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "银的；银色的",
+        "猛地一动；急拉",
+        "抛；扔"
+      ]
+    },
+    {
+      "id": "tossed",
+      "word": "toss",
+      "forms": [
+        "toss",
+        "tosses",
+        "tossed",
+        "tossing"
+      ],
+      "tier": "core",
+      "phonetic": "/tɒs/",
+      "partOfSpeech": "v.",
+      "meaning": "抛；扔",
+      "wordForms": "第三人称单数 tosses · 过去式 tossed · 现在分词 tossing",
+      "sentence": "And he tossed Annie into the lifeboat.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-07/tossed.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "抛；扔",
+        "银的；银色的",
+        "危险；危难"
+      ]
+    },
+    {
+      "id": "jerked",
+      "word": "jerk",
+      "forms": [
+        "jerk",
+        "jerks",
+        "jerked",
+        "jerking"
+      ],
+      "tier": "core",
+      "phonetic": "/dʒә:k/",
+      "partOfSpeech": "v.",
+      "meaning": "猛地一动；急拉",
+      "wordForms": "第三人称单数 jerks · 过去式 jerked · 现在分词 jerking",
+      "sentence": "The lifeboat jerked.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-07/jerked.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "猛地一动；急拉",
+        "银的；银色的",
+        "穿制服的"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "book": 20,
+  "chapter": 9,
+  "title": "What Boy?",
+  "words": [
+    {
+      "id": "lovely",
+      "word": "lovely",
+      "forms": [
+        "lovely"
+      ],
+      "tier": "core",
+      "phonetic": "/'lʌvli/",
+      "partOfSpeech": "adj.",
+      "meaning": "可爱的；美妙的",
+      "wordForms": "原文词形：lovely",
+      "sentence": "“Welcome back,” came a soft, lovely voice.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-09/lovely.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ely",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "可爱的；美妙的",
+        "宝贵的；珍贵的",
+        "明智地"
+      ]
+    },
+    {
+      "id": "wasted",
+      "word": "waste",
+      "forms": [
+        "waste",
+        "wastes",
+        "wasted",
+        "wasting"
+      ],
+      "tier": "core",
+      "phonetic": "/weist/",
+      "partOfSpeech": "v.",
+      "meaning": "浪费",
+      "wordForms": "第三人称单数 wastes · 过去式 wasted · 现在分词 wasting",
+      "sentence": "“Once upon a time, there was a boy who wasted time,” Morgan said.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-09/wasted.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "浪费",
+        "教训；功课",
+        "传统；习俗"
+      ]
+    },
+    {
+      "id": "precious",
+      "word": "precious",
+      "forms": [
+        "precious"
+      ],
+      "tier": "core",
+      "phonetic": "/'preʃәs/",
+      "partOfSpeech": "adj.",
+      "meaning": "宝贵的；珍贵的",
+      "wordForms": "原文词形：precious",
+      "sentence": "“This watch teaches him that time is very precious.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-09/precious.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "宝贵的；珍贵的",
+        "神秘；奥秘",
+        "浪费"
+      ]
+    },
+    {
+      "id": "wisely",
+      "word": "wisely",
+      "forms": [
+        "wisely"
+      ],
+      "tier": "core",
+      "phonetic": "/'waizli/",
+      "partOfSpeech": "adv.",
+      "meaning": "明智地",
+      "wordForms": "原文词形：wisely",
+      "sentence": "It must be used wisely.”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-09/wisely.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ely",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "明智地",
+        "浪费",
+        "神秘；奥秘"
+      ]
+    },
+    {
+      "id": "mystery",
+      "word": "mystery",
+      "forms": [
+        "mystery"
+      ],
+      "tier": "core",
+      "phonetic": "/'mistәri/",
+      "partOfSpeech": "n.",
+      "meaning": "神秘；奥秘",
+      "wordForms": "原文词形：mystery",
+      "sentence": "“This painting teaches him there is mystery, magic, and wisdom in the traditions of ancient peoples.”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-09/mystery.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "神秘；奥秘",
+        "旋风",
+        "宝贵的；珍贵的"
+      ]
+    },
+    {
+      "id": "traditions",
+      "word": "tradition",
+      "forms": [
+        "tradition",
+        "traditions"
+      ],
+      "tier": "core",
+      "phonetic": "/trә'diʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "传统；习俗",
+      "wordForms": "原文词形：traditions",
+      "sentence": "“This painting teaches him there is mystery, magic, and wisdom in the traditions of ancient peoples.”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-09/traditions.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tion",
+          "sound": "/ʃən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "传统；习俗",
+        "一阵飘动；（眨眼般的）一瞬",
+        "神秘；奥秘"
+      ]
+    },
+    {
+      "id": "lessons",
+      "word": "lesson",
+      "forms": [
+        "lesson",
+        "lessons"
+      ],
+      "tier": "core",
+      "phonetic": "/'lesn/",
+      "partOfSpeech": "n.",
+      "meaning": "教训；功课",
+      "wordForms": "原文词形：lessons",
+      "sentence": "“Thank you,” she said, “for helping this boy learn his lessons.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-09/lessons.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "教训；功课",
+        "浪费",
+        "明智地"
+      ]
+    },
+    {
+      "id": "flutter",
+      "word": "flutter",
+      "forms": [
+        "flutter"
+      ],
+      "tier": "core",
+      "phonetic": "/'flʌtә/",
+      "partOfSpeech": "n.",
+      "meaning": "一阵飘动；（眨眼般的）一瞬",
+      "wordForms": "原文词形：flutter",
+      "sentence": "In a flutter of time, in the spin of a whirlwind, Teddy was changed.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-09/flutter.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "一阵飘动；（眨眼般的）一瞬",
+        "旋风",
+        "明智地"
+      ]
+    },
+    {
+      "id": "whirlwind",
+      "word": "whirlwind",
+      "forms": [
+        "whirlwind"
+      ],
+      "tier": "core",
+      "phonetic": "/'hwә:lwind/",
+      "partOfSpeech": "n.",
+      "meaning": "旋风",
+      "wordForms": "原文词形：whirlwind",
+      "sentence": "In a flutter of time, in the spin of a whirlwind, Teddy was changed.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-09/whirlwind.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "旋风",
+        "传统；习俗",
+        "教训；功课"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "book": 18,
+  "chapter": 7,
+  "title": "White Buffalo Woman",
+  "words": [
+    {
+      "id": "medicine",
+      "word": "medicine",
+      "forms": [
+        "medicine"
+      ],
+      "tier": "core",
+      "phonetic": "/'medisin/",
+      "partOfSpeech": "n.",
+      "meaning": "（印第安文化中的）神力；药",
+      "wordForms": "原文词形：medicine",
+      "sentence": "“She has good medicine,” said Black Hawk.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-07/medicine.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（印第安文化中的）神力；药",
+        "灵魂；神灵",
+        "跳跃着跑；蹦跳"
+      ]
+    },
+    {
+      "id": "escape",
+      "word": "escape",
+      "forms": [
+        "escape",
+        "escapes",
+        "escaped",
+        "escaping"
+      ],
+      "tier": "core",
+      "phonetic": "/i'skeip/",
+      "partOfSpeech": "v.",
+      "meaning": "逃脱；逃离",
+      "wordForms": "第三人称单数 escapes · 过去式 escaped · 现在分词 escaping",
+      "sentence": "I couldn’t escape.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-07/escape.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "逃脱；逃离",
+        "跳跃着跑；蹦跳",
+        "消失；不见"
+      ]
+    },
+    {
+      "id": "disappeared",
+      "word": "disappear",
+      "forms": [
+        "disappear",
+        "disappears",
+        "disappeared",
+        "disappearing"
+      ],
+      "tier": "core",
+      "phonetic": "/.disә'piә/",
+      "partOfSpeech": "v.",
+      "meaning": "消失；不见",
+      "wordForms": "第三人称单数 disappears · 过去式 disappeared · 现在分词 disappearing",
+      "sentence": "Then she disappeared.”",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-07/disappeared.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "消失；不见",
+        "逃脱；逃离",
+        "舔"
+      ]
+    },
+    {
+      "id": "bounding",
+      "word": "bound",
+      "forms": [
+        "bound",
+        "bounds",
+        "bounded",
+        "bounding"
+      ],
+      "tier": "core",
+      "phonetic": "/baund/",
+      "partOfSpeech": "v.",
+      "meaning": "跳跃着跑；蹦跳",
+      "wordForms": "第三人称单数 bounds · 过去式 bounded · 现在分词 bounding",
+      "sentence": "The little dog came bounding out of the grass toward them.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-07/bounding.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "跳跃着跑；蹦跳",
+        "逃脱；逃离",
+        "鬼魂；幽灵"
+      ]
+    },
+    {
+      "id": "scooped",
+      "word": "scoop",
+      "forms": [
+        "scoop",
+        "scoops",
+        "scooped",
+        "scooping"
+      ],
+      "tier": "core",
+      "phonetic": "/sku:p/",
+      "partOfSpeech": "v.",
+      "meaning": "（用手）舀起；一把抱起",
+      "wordForms": "第三人称单数 scoops · 过去式 scooped · 现在分词 scooping",
+      "sentence": "Annie scooped him up.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-07/scooped.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（用手）舀起；一把抱起",
+        "（印第安文化中的）神力；药",
+        "灵魂；神灵"
+      ]
+    },
+    {
+      "id": "licked",
+      "word": "lick",
+      "forms": [
+        "lick",
+        "licks",
+        "licked",
+        "licking"
+      ],
+      "tier": "core",
+      "phonetic": "/lik/",
+      "partOfSpeech": "v.",
+      "meaning": "舔",
+      "wordForms": "第三人称单数 licks · 过去式 licked · 现在分词 licking",
+      "sentence": "Teddy licked her face all over.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-07/licked.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "舔",
+        "消失；不见",
+        "逃脱；逃离"
+      ]
+    },
+    {
+      "id": "spirit",
+      "word": "spirit",
+      "forms": [
+        "spirit"
+      ],
+      "tier": "core",
+      "phonetic": "/'spirit/",
+      "partOfSpeech": "n.",
+      "meaning": "灵魂；神灵",
+      "wordForms": "原文词形：spirit",
+      "sentence": "“You saw the spirit of White Buffalo Woman,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-07/spirit.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "灵魂；神灵",
+        "（用手）舀起；一把抱起",
+        "消失；不见"
+      ]
+    },
+    {
+      "id": "ghost",
+      "word": "ghost",
+      "forms": [
+        "ghost"
+      ],
+      "tier": "core",
+      "phonetic": "/gәust/",
+      "partOfSpeech": "n.",
+      "meaning": "鬼魂；幽灵",
+      "wordForms": "原文词形：ghost",
+      "sentence": "“You mean like a ghost?”",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-07/ghost.mp3",
+      "phonics": [
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "鬼魂；幽灵",
+        "消失；不见",
+        "平静地；安宁地"
+      ]
+    },
+    {
+      "id": "peacefully",
+      "word": "peacefully",
+      "forms": [
+        "peacefully"
+      ],
+      "tier": "core",
+      "phonetic": "/'pi:sful/",
+      "partOfSpeech": "adv.",
+      "meaning": "平静地；安宁地",
+      "wordForms": "原文词形：peacefully",
+      "sentence": "Behind them, the buffalo grazed peacefully on the plains.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-07/peacefully.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "平静地；安宁地",
+        "舔",
+        "灵魂；神灵"
+      ]
+    }
+  ]
+}

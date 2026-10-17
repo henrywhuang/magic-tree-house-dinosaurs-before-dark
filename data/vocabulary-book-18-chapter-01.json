@@ -1,0 +1,385 @@
+{
+  "book": 18,
+  "chapter": 1,
+  "title": "Teddy's Back!",
+  "words": [
+    {
+      "id": "floppy",
+      "word": "floppy",
+      "forms": [
+        "floppy"
+      ],
+      "tier": "core",
+      "phonetic": "/'flɒpi/",
+      "partOfSpeech": "adj.",
+      "meaning": "松软下垂的；耷拉着的",
+      "wordForms": "原文词形：floppy",
+      "sentence": "He had floppy ears and scruffy brown fur.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-01/floppy.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "松软下垂的；耷拉着的",
+        "摇动（尾巴）；摆动",
+        "魔咒；咒语"
+      ]
+    },
+    {
+      "id": "scruffy",
+      "word": "scruffy",
+      "forms": [
+        "scruffy"
+      ],
+      "tier": "core",
+      "phonetic": "/'skrʌfi/",
+      "partOfSpeech": "adj.",
+      "meaning": "脏兮兮的；邋遢的",
+      "wordForms": "原文词形：scruffy",
+      "sentence": "He had floppy ears and scruffy brown fur.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-01/scruffy.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "脏兮兮的；邋遢的",
+        "俯冲；猛扑",
+        "叹气；叹息"
+      ]
+    },
+    {
+      "id": "mission",
+      "word": "mission",
+      "forms": [
+        "mission"
+      ],
+      "tier": "core",
+      "phonetic": "/'miʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "任务；使命",
+      "wordForms": "原文词形：mission",
+      "sentence": "It was time for their second mission to help free the little dog from a spell.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-01/mission.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sion",
+          "sound": "/ʒən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "任务；使命",
+        "梯子",
+        "摇动（尾巴）；摆动"
+      ]
+    },
+    {
+      "id": "spell",
+      "word": "spell",
+      "forms": [
+        "spell"
+      ],
+      "tier": "core",
+      "phonetic": "/spel/",
+      "partOfSpeech": "n.",
+      "meaning": "魔咒；咒语",
+      "wordForms": "原文词形：spell",
+      "sentence": "It was time for their second mission to help free the little dog from a spell.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-01/spell.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "魔咒；咒语",
+        "俯冲；猛扑",
+        "松软下垂的；耷拉着的"
+      ]
+    },
+    {
+      "id": "wagged",
+      "word": "wag",
+      "forms": [
+        "wag",
+        "wags",
+        "wagged",
+        "wagging"
+      ],
+      "tier": "core",
+      "phonetic": "/wæg/",
+      "partOfSpeech": "v.",
+      "meaning": "摇动（尾巴）；摆动",
+      "wordForms": "第三人称单数 wags · 过去式 wagged · 现在分词 wagging",
+      "sentence": "The small dog wagged his tail joyfully.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-01/wagged.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "摇动（尾巴）；摆动",
+        "大草原",
+        "梯子"
+      ]
+    },
+    {
+      "id": "swooped",
+      "word": "swoop",
+      "forms": [
+        "swoop",
+        "swoops",
+        "swooped",
+        "swooping"
+      ],
+      "tier": "core",
+      "phonetic": "/swu:p/",
+      "partOfSpeech": "v.",
+      "meaning": "俯冲；猛扑",
+      "wordForms": "第三人称单数 swoops · 过去式 swooped · 现在分词 swooping",
+      "sentence": "Birds swooped from branch to branch.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-01/swooped.mp3",
+      "phonics": [
+        {
+          "letters": "sw",
+          "sound": "/sw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "俯冲；猛扑",
+        "脏兮兮的；邋遢的",
+        "松软下垂的；耷拉着的"
+      ]
+    },
+    {
+      "id": "ladder",
+      "word": "ladder",
+      "forms": [
+        "ladder"
+      ],
+      "tier": "core",
+      "phonetic": "/'lædә/",
+      "partOfSpeech": "n.",
+      "meaning": "梯子",
+      "wordForms": "原文词形：ladder",
+      "sentence": "Teddy stopped at a rope ladder that hung from the tallest oak tree in the woods.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-01/ladder.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "梯子",
+        "俯冲；猛扑",
+        "摇动（尾巴）；摆动"
+      ]
+    },
+    {
+      "id": "prairie",
+      "word": "prairie",
+      "forms": [
+        "prairie"
+      ],
+      "tier": "core",
+      "phonetic": "/'prєәri/",
+      "partOfSpeech": "n.",
+      "meaning": "大草原",
+      "wordForms": "原文词形：prairie",
+      "sentence": "A gift from the prairie blue,",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-01/prairie.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "大草原",
+        "俯冲；猛扑",
+        "脏兮兮的；邋遢的"
+      ]
+    },
+    {
+      "id": "sighed",
+      "word": "sigh",
+      "forms": [
+        "sigh",
+        "sighs",
+        "sighed",
+        "sighing"
+      ],
+      "tier": "core",
+      "phonetic": "/sai/",
+      "partOfSpeech": "v.",
+      "meaning": "叹气；叹息",
+      "wordForms": "第三人称单数 sighs · 过去式 sighed · 现在分词 sighing",
+      "sentence": "He sighed and pushed his glasses into place.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-01/sighed.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "叹气；叹息",
+        "大草原",
+        "任务；使命"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "book": 16,
+  "chapter": 6,
+  "title": "Mystery Man",
+  "words": [
+    {
+      "id": "cheering",
+      "word": "cheer",
+      "forms": [
+        "cheer",
+        "cheers",
+        "cheered",
+        "cheering"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃiә/",
+      "partOfSpeech": "v.",
+      "meaning": "欢呼；喝彩",
+      "wordForms": "第三人称单数 cheers · 过去式 cheered · 现在分词 cheering",
+      "sentence": "Everyone was shouting and cheering.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-06/cheering.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "欢呼；喝彩",
+        "盔甲；铠甲",
+        "士兵；军人"
+      ]
+    },
+    {
+      "id": "judges",
+      "word": "judge",
+      "forms": [
+        "judge",
+        "judges"
+      ],
+      "tier": "core",
+      "phonetic": "/dʒʌdʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "裁判；裁判员",
+      "wordForms": "原文词形：judges",
+      "sentence": "“I have seats next to the judges,” said Plato.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-06/judges.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dge",
+          "sound": "/dʒ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "裁判；裁判员",
+        "拳击手",
+        "青铜；铜像"
+      ]
+    },
+    {
+      "id": "parade",
+      "word": "parade",
+      "forms": [
+        "parade"
+      ],
+      "tier": "core",
+      "phonetic": "/pә'reid/",
+      "partOfSpeech": "n.",
+      "meaning": "游行；炫耀",
+      "wordForms": "原文词形：parade",
+      "sentence": "The Olympic parade had already started.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-06/parade.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "游行；炫耀",
+        "裁判；裁判员",
+        "士兵；军人"
+      ]
+    },
+    {
+      "id": "boxers",
+      "word": "boxer",
+      "forms": [
+        "boxer",
+        "boxers"
+      ],
+      "tier": "core",
+      "phonetic": "/'bɒksә/",
+      "partOfSpeech": "n.",
+      "meaning": "拳击手",
+      "wordForms": "原文词形：boxers",
+      "sentence": "“Behind the runners are the boxers,” said Plato.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-06/boxers.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "x",
+          "sound": "/ks/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "拳击手",
+        "裁判；裁判员",
+        "青铜；铜像"
+      ]
+    },
+    {
+      "id": "bronze",
+      "word": "bronze",
+      "forms": [
+        "bronze"
+      ],
+      "tier": "core",
+      "phonetic": "/brɒnz/",
+      "partOfSpeech": "n.",
+      "meaning": "青铜；铜像",
+      "wordForms": "原文词形：bronze",
+      "sentence": "“They’re wearing special gloves and bronze helmets.”",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-06/bronze.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "青铜；铜像",
+        "游行；炫耀",
+        "士兵；军人"
+      ]
+    },
+    {
+      "id": "wrestlers",
+      "word": "wrestler",
+      "forms": [
+        "wrestler",
+        "wrestlers"
+      ],
+      "tier": "core",
+      "phonetic": "/'reslә/",
+      "partOfSpeech": "n.",
+      "meaning": "摔跤手；摔跤选手",
+      "wordForms": "原文词形：wrestlers",
+      "sentence": "“Behind them are the wrestlers,” said Plato.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-06/wrestlers.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "摔跤手；摔跤选手",
+        "拳击手",
+        "欢呼；喝彩"
+      ]
+    },
+    {
+      "id": "soldier",
+      "word": "soldier",
+      "forms": [
+        "soldier"
+      ],
+      "tier": "core",
+      "phonetic": "/'sәuldʒә/",
+      "partOfSpeech": "n.",
+      "meaning": "士兵；军人",
+      "wordForms": "原文词形：soldier",
+      "sentence": "When Jack looked up again, he saw a soldier staring up at him from the sidelines.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-06/soldier.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "士兵；军人",
+        "欢呼；喝彩",
+        "游行；炫耀"
+      ]
+    },
+    {
+      "id": "armor",
+      "word": "armor",
+      "forms": [
+        "armor"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɑ:mә/",
+      "partOfSpeech": "n.",
+      "meaning": "盔甲；铠甲",
+      "wordForms": "原文词形：armor",
+      "sentence": "“Here come the discus and javelin throwers,” said Plato, “and then the men in armor.”",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-06/armor.mp3",
+      "phonics": [
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "盔甲；铠甲",
+        "摔跤手；摔跤选手",
+        "欢呼；喝彩"
+      ]
+    }
+  ]
+}

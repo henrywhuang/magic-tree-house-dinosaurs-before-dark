@@ -1,0 +1,282 @@
+{
+  "book": 15,
+  "chapter": 8,
+  "title": "Lost at Sea",
+  "words": [
+    {
+      "id": "deck",
+      "word": "deck",
+      "forms": [
+        "deck"
+      ],
+      "tier": "core",
+      "phonetic": "/dek/",
+      "partOfSpeech": "n.",
+      "meaning": "甲板",
+      "wordForms": "原文词形：deck",
+      "sentence": "Annie fell to the deck of the ship.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-08/deck.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "甲板",
+        "水流；潮流",
+        "雷；雷声"
+      ]
+    },
+    {
+      "id": "crew",
+      "word": "crew",
+      "forms": [
+        "crew"
+      ],
+      "tier": "core",
+      "phonetic": "/kru:/",
+      "partOfSpeech": "n.",
+      "meaning": "全体船员；船员",
+      "wordForms": "原文词形：crew",
+      "sentence": "When there was no wind, the crew would take down the sails and row with oars.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-08/crew.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ew",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "全体船员；船员",
+        "闪电",
+        "爬行；匍匐前进"
+      ]
+    },
+    {
+      "id": "row",
+      "word": "row",
+      "forms": [
+        "row",
+        "rows",
+        "rowed",
+        "rowing"
+      ],
+      "tier": "recognition",
+      "phonetic": "/rәu. rau/",
+      "partOfSpeech": "v.",
+      "meaning": "划（船）；划桨",
+      "wordForms": "第三人称单数 rows · 过去式 rowed · 现在分词 rowing",
+      "sentence": "When there was no wind, the crew would take down the sails and row with oars.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-08/row.mp3"
+    },
+    {
+      "id": "oar",
+      "word": "oar",
+      "forms": [
+        "oar"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ɒ:/",
+      "partOfSpeech": "n.",
+      "meaning": "桨；船桨",
+      "wordForms": "原文词形：oar",
+      "sentence": "“You get an oar, too.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-08/oar.mp3"
+    },
+    {
+      "id": "current",
+      "word": "current",
+      "forms": [
+        "current"
+      ],
+      "tier": "core",
+      "phonetic": "/'kʌrәnt/",
+      "partOfSpeech": "n.",
+      "meaning": "水流；潮流",
+      "wordForms": "原文词形：current",
+      "sentence": "But the current was so strong that the oar was ripped from his hands.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-08/current.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "水流；潮流",
+        "爬行；匍匐前进",
+        "闪电"
+      ]
+    },
+    {
+      "id": "thunder",
+      "word": "thunder",
+      "forms": [
+        "thunder"
+      ],
+      "tier": "core",
+      "phonetic": "/'θʌndә/",
+      "partOfSpeech": "n.",
+      "meaning": "雷；雷声",
+      "wordForms": "原文词形：thunder",
+      "sentence": "The black sky shook with thunder and flashed with lightning.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-08/thunder.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "雷；雷声",
+        "闪电",
+        "甲板"
+      ]
+    },
+    {
+      "id": "lightning",
+      "word": "lightning",
+      "forms": [
+        "lightning"
+      ],
+      "tier": "core",
+      "phonetic": "/'laitniŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "闪电",
+      "wordForms": "原文词形：lightning",
+      "sentence": "The black sky shook with thunder and flashed with lightning.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-08/lightning.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "闪电",
+        "水流；潮流",
+        "雷；雷声"
+      ]
+    },
+    {
+      "id": "crawled",
+      "word": "crawl",
+      "forms": [
+        "crawl",
+        "crawls",
+        "crawled",
+        "crawling"
+      ],
+      "tier": "core",
+      "phonetic": "/krɒ:l/",
+      "partOfSpeech": "v.",
+      "meaning": "爬行；匍匐前进",
+      "wordForms": "第三人称单数 crawls · 过去式 crawled · 现在分词 crawling",
+      "sentence": "Jack crawled to the side of the ship and pulled himself up.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-08/crawled.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "aw",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "爬行；匍匐前进",
+        "全体船员；船员",
+        "闪电"
+      ]
+    }
+  ]
+}

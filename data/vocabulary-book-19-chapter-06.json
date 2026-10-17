@@ -1,0 +1,405 @@
+{
+  "book": 19,
+  "chapter": 6,
+  "title": "Swamp Creature",
+  "words": [
+    {
+      "id": "muddy",
+      "word": "muddy",
+      "forms": [
+        "muddy"
+      ],
+      "tier": "core",
+      "phonetic": "/'mʌdi/",
+      "partOfSpeech": "adj.",
+      "meaning": "泥泞的；浑浊的",
+      "wordForms": "原文词形：muddy",
+      "sentence": "Through the haze, he saw that Saba was standing on a muddy stream bank.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-06/muddy.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "泥泞的；浑浊的",
+        "发出呼噜声；咕哝",
+        "微风；轻风"
+      ]
+    },
+    {
+      "id": "stream",
+      "word": "stream",
+      "forms": [
+        "stream"
+      ],
+      "tier": "core",
+      "phonetic": "/stri:m/",
+      "partOfSpeech": "n.",
+      "meaning": "小溪；溪流",
+      "wordForms": "原文词形：stream",
+      "sentence": "Through the haze, he saw that Saba was standing on a muddy stream bank.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-06/stream.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "小溪；溪流",
+        "奇怪的；怪异的",
+        "濒临灭绝的；濒危的"
+      ]
+    },
+    {
+      "id": "breeze",
+      "word": "breeze",
+      "forms": [
+        "breeze"
+      ],
+      "tier": "core",
+      "phonetic": "/bri:z/",
+      "partOfSpeech": "n.",
+      "meaning": "微风；轻风",
+      "wordForms": "原文词形：breeze",
+      "sentence": "Mossy hanging vines swayed in the breeze.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-06/breeze.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "微风；轻风",
+        "濒临灭绝的；濒危的",
+        "偷猎者"
+      ]
+    },
+    {
+      "id": "weird",
+      "word": "weird",
+      "forms": [
+        "weird"
+      ],
+      "tier": "core",
+      "phonetic": "/wiәd/",
+      "partOfSpeech": "adj.",
+      "meaning": "奇怪的；怪异的",
+      "wordForms": "原文词形：weird",
+      "sentence": "“There’s a weird creature out here,” he called to Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-06/weird.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ei",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "奇怪的；怪异的",
+        "沼泽",
+        "濒临灭绝的；濒危的"
+      ]
+    },
+    {
+      "id": "rhinoceros",
+      "word": "rhinoceros",
+      "forms": [
+        "rhinoceros"
+      ],
+      "tier": "core",
+      "phonetic": "/rai'nɒsәrәs/",
+      "partOfSpeech": "n.",
+      "meaning": "犀牛",
+      "wordForms": "原文词形：rhinoceros",
+      "sentence": "The one-horned rhinoceros, or “rhino”, washes in a forest stream.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-06/rhinoceros.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "犀牛",
+        "泥泞的；浑浊的",
+        "沼泽"
+      ]
+    },
+    {
+      "id": "endangered",
+      "word": "endangered",
+      "forms": [
+        "endangered"
+      ],
+      "tier": "core",
+      "phonetic": "/in'deindʒәd/",
+      "partOfSpeech": "adj.",
+      "meaning": "濒临灭绝的；濒危的",
+      "wordForms": "原文词形：endangered",
+      "sentence": "The Indian rhino is a very endangered animal.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-06/endangered.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "濒临灭绝的；濒危的",
+        "微风；轻风",
+        "奇怪的；怪异的"
+      ]
+    },
+    {
+      "id": "poachers",
+      "word": "poacher",
+      "forms": [
+        "poacher",
+        "poachers"
+      ],
+      "tier": "core",
+      "phonetic": "/'pәutʃә/",
+      "partOfSpeech": "n.",
+      "meaning": "偷猎者",
+      "wordForms": "原文词形：poachers",
+      "sentence": "People called poachers kill them and sell their body parts as medicine and good-luck charms.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-06/poachers.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "偷猎者",
+        "奇怪的；怪异的",
+        "小溪；溪流"
+      ]
+    },
+    {
+      "id": "swamp",
+      "word": "swamp",
+      "forms": [
+        "swamp"
+      ],
+      "tier": "core",
+      "phonetic": "/swɒmp/",
+      "partOfSpeech": "n.",
+      "meaning": "沼泽",
+      "wordForms": "原文词形：swamp",
+      "sentence": "He looked like an ancient swamp creature.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-06/swamp.mp3",
+      "phonics": [
+        {
+          "letters": "sw",
+          "sound": "/sw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "沼泽",
+        "奇怪的；怪异的",
+        "小溪；溪流"
+      ]
+    },
+    {
+      "id": "grunted",
+      "word": "grunt",
+      "forms": [
+        "grunt",
+        "grunts",
+        "grunted",
+        "grunting"
+      ],
+      "tier": "core",
+      "phonetic": "/grʌnt/",
+      "partOfSpeech": "v.",
+      "meaning": "发出呼噜声；咕哝",
+      "wordForms": "第三人称单数 grunts · 过去式 grunted · 现在分词 grunting",
+      "sentence": "He grunted.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-06/grunted.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "发出呼噜声；咕哝",
+        "奇怪的；怪异的",
+        "犀牛"
+      ]
+    }
+  ]
+}

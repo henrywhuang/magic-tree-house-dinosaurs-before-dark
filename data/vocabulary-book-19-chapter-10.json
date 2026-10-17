@@ -1,0 +1,425 @@
+{
+  "book": 19,
+  "chapter": 10,
+  "title": "Who Are You, Really?",
+  "words": [
+    {
+      "id": "blossom",
+      "word": "blossom",
+      "forms": [
+        "blossom"
+      ],
+      "tier": "core",
+      "phonetic": "/'blɒsәm/",
+      "partOfSpeech": "n.",
+      "meaning": "花朵；花",
+      "wordForms": "原文词形：blossom",
+      "sentence": "She put the lotus blossom beside the pocket watch from the Titanic and the eagle’s feather from the Lakota Indians.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-10/blossom.mp3",
+      "phonics": [
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "花朵；花",
+        "日光；天光",
+        "蟋蟀"
+      ]
+    },
+    {
+      "id": "shrugged",
+      "word": "shrug",
+      "forms": [
+        "shrug",
+        "shrugs",
+        "shrugged",
+        "shrugging"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃrʌg/",
+      "partOfSpeech": "v.",
+      "meaning": "耸肩",
+      "wordForms": "第三人称单数 shrugs · 过去式 shrugged · 现在分词 shrugging",
+      "sentence": "Annie shrugged.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-10/shrugged.mp3",
+      "phonics": [
+        {
+          "letters": "shr",
+          "sound": "/shr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "耸肩",
+        "日光；天光",
+        "松鼠"
+      ]
+    },
+    {
+      "id": "tilted",
+      "word": "tilt",
+      "forms": [
+        "tilt",
+        "tilts",
+        "tilted",
+        "tilting"
+      ],
+      "tier": "core",
+      "phonetic": "/tilt/",
+      "partOfSpeech": "v.",
+      "meaning": "倾斜；歪（头）",
+      "wordForms": "第三人称单数 tilts · 过去式 tilted · 现在分词 tilting",
+      "sentence": "The little dog tilted his head and stared back at Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-10/tilted.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lt",
+          "sound": "/lt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "倾斜；歪（头）",
+        "日光；天光",
+        "蟋蟀"
+      ]
+    },
+    {
+      "id": "secrets",
+      "word": "secret",
+      "forms": [
+        "secret",
+        "secrets"
+      ],
+      "tier": "core",
+      "phonetic": "/'si:krit/",
+      "partOfSpeech": "n.",
+      "meaning": "秘密",
+      "wordForms": "原文词形：secrets",
+      "sentence": "Teddy’s eyes twinkled, as if they held many secrets.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-10/secrets.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "秘密",
+        "温驯的；驯服的",
+        "倾斜；歪（头）"
+      ]
+    },
+    {
+      "id": "squirrels",
+      "word": "squirrel",
+      "forms": [
+        "squirrel",
+        "Squirrels"
+      ],
+      "tier": "core",
+      "phonetic": "/'skwә:rәl/",
+      "partOfSpeech": "n.",
+      "meaning": "松鼠",
+      "wordForms": "原文词形：Squirrels",
+      "sentence": "Squirrels scampered playfully through the leaves.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-10/squirrels.mp3",
+      "phonics": [
+        {
+          "letters": "squ",
+          "sound": "/skw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "松鼠",
+        "温驯的；驯服的",
+        "倾斜；歪（头）"
+      ]
+    },
+    {
+      "id": "tame",
+      "word": "tame",
+      "forms": [
+        "tame"
+      ],
+      "tier": "core",
+      "phonetic": "/teim/",
+      "partOfSpeech": "adj.",
+      "meaning": "温驯的；驯服的",
+      "wordForms": "原文词形：tame",
+      "sentence": "The Frog Creek woods were very tame after the forest in India.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-10/tame.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "温驯的；驯服的",
+        "啄木鸟",
+        "日光；天光"
+      ]
+    },
+    {
+      "id": "daylight",
+      "word": "daylight",
+      "forms": [
+        "daylight"
+      ],
+      "tier": "core",
+      "phonetic": "/'deilait/",
+      "partOfSpeech": "n.",
+      "meaning": "日光；天光",
+      "wordForms": "原文词形：daylight",
+      "sentence": "As they walked to their house, the last bit of daylight was slipping away.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-10/daylight.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "日光；天光",
+        "秘密",
+        "耸肩"
+      ]
+    },
+    {
+      "id": "woodpecker",
+      "word": "woodpecker",
+      "forms": [
+        "woodpecker"
+      ],
+      "tier": "core",
+      "phonetic": "/'wudpekә/",
+      "partOfSpeech": "n.",
+      "meaning": "啄木鸟",
+      "wordForms": "原文词形：woodpecker",
+      "sentence": "He heard a woodpecker pecking.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-10/woodpecker.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "啄木鸟",
+        "日光；天光",
+        "倾斜；歪（头）"
+      ]
+    },
+    {
+      "id": "crickets",
+      "word": "cricket",
+      "forms": [
+        "cricket",
+        "crickets"
+      ],
+      "tier": "core",
+      "phonetic": "/'krikit/",
+      "partOfSpeech": "n.",
+      "meaning": "蟋蟀",
+      "wordForms": "原文词形：crickets",
+      "sentence": "He heard crickets chirping.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-10/crickets.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蟋蟀",
+        "松鼠",
+        "秘密"
+      ]
+    }
+  ]
+}

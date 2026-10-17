@@ -1,0 +1,365 @@
+{
+  "book": 16,
+  "chapter": 9,
+  "title": "Fly Away Home",
+  "words": [
+    {
+      "id": "chariot",
+      "word": "chariot",
+      "forms": [
+        "chariot"
+      ],
+      "tier": "core",
+      "phonetic": "/'tʃæriәt/",
+      "partOfSpeech": "n.",
+      "meaning": "二轮战车",
+      "wordForms": "原文词形：chariot",
+      "sentence": "Jack and Annie had already climbed over the wall and into the waiting chariot.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-09/chariot.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "二轮战车",
+        "摆动的；不稳定的",
+        "翅膀；翼"
+      ]
+    },
+    {
+      "id": "reared",
+      "word": "rear",
+      "forms": [
+        "rear",
+        "rears",
+        "reared",
+        "rearing"
+      ],
+      "tier": "core",
+      "phonetic": "/riә/",
+      "partOfSpeech": "v.",
+      "meaning": "（马）用后腿直立；腾起",
+      "wordForms": "第三人称单数 rears · 过去式 reared · 现在分词 rearing",
+      "sentence": "The horse reared and pawed the air.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-09/reared.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（马）用后腿直立；腾起",
+        "抚摸；轻抚",
+        "翅膀；翼"
+      ]
+    },
+    {
+      "id": "feathery",
+      "word": "feathery",
+      "forms": [
+        "feathery"
+      ],
+      "tier": "core",
+      "phonetic": "/'feðәri/",
+      "partOfSpeech": "adj.",
+      "meaning": "生有羽毛的；柔软如羽毛的",
+      "wordForms": "原文词形：feathery",
+      "sentence": "The white horse had grown giant feathery wings and was pulling their chariot into the sky.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-09/feathery.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "生有羽毛的；柔软如羽毛的",
+        "（马）用后腿直立；腾起",
+        "摆动的；不稳定的"
+      ]
+    },
+    {
+      "id": "wings",
+      "word": "wing",
+      "forms": [
+        "wing",
+        "wings"
+      ],
+      "tier": "core",
+      "phonetic": "/wiŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "翅膀；翼",
+      "wordForms": "原文词形：wings",
+      "sentence": "The white horse had grown giant feathery wings and was pulling their chariot into the sky.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-09/wings.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "翅膀；翼",
+        "抚摸；轻抚",
+        "摆动的；不稳定的"
+      ]
+    },
+    {
+      "id": "wobbly",
+      "word": "wobbly",
+      "forms": [
+        "wobbly"
+      ],
+      "tier": "core",
+      "phonetic": "/'wɒbli/",
+      "partOfSpeech": "adj.",
+      "meaning": "摆动的；不稳定的",
+      "wordForms": "原文词形：wobbly",
+      "sentence": "Jack’s legs were so wobbly he could hardly walk.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-09/wobbly.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "摆动的；不稳定的",
+        "生有羽毛的；柔软如羽毛的",
+        "翅膀；翼"
+      ]
+    },
+    {
+      "id": "stroked",
+      "word": "stroke",
+      "forms": [
+        "stroke",
+        "strokes",
+        "stroked",
+        "stroking"
+      ],
+      "tier": "core",
+      "phonetic": "/strәuk/",
+      "partOfSpeech": "v.",
+      "meaning": "抚摸；轻抚",
+      "wordForms": "第三人称单数 strokes · 过去式 stroked · 现在分词 stroking",
+      "sentence": "Annie rushed to the horse and stroked his neck.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-09/stroked.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "抚摸；轻抚",
+        "生有羽毛的；柔软如羽毛的",
+        "二轮战车"
+      ]
+    },
+    {
+      "id": "disappeared",
+      "word": "disappear",
+      "forms": [
+        "disappeared",
+        "disappear",
+        "disappears",
+        "disappearing"
+      ],
+      "tier": "core",
+      "phonetic": "/.disә'piә/",
+      "partOfSpeech": "v.",
+      "meaning": "消失；不见",
+      "wordForms": "第三人称单数 disappears · 过去式 disappeared · 现在分词 disappearing",
+      "sentence": "Then he disappeared behind the clouds.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-09/disappeared.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "消失；不见",
+        "生有羽毛的；柔软如羽毛的",
+        "摆动的；不稳定的"
+      ]
+    },
+    {
+      "id": "tear",
+      "word": "tear",
+      "forms": [
+        "tear"
+      ],
+      "tier": "core",
+      "phonetic": "/tiә. tєә/",
+      "partOfSpeech": "n.",
+      "meaning": "泪滴；眼泪",
+      "wordForms": "原文词形：tear",
+      "sentence": "A tear rolled down her cheek.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-09/tear.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "泪滴；眼泪",
+        "生有羽毛的；柔软如羽毛的",
+        "摆动的；不稳定的"
+      ]
+    }
+  ]
+}

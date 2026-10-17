@@ -161,7 +161,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=0, help="Only generate first N pending words")
     parser.add_argument("--words", nargs="*", help="Generate only these words")
-    parser.add_argument("--book", type=int, choices=range(1, 15), help="Generate pending words for one book only")
+    parser.add_argument("--book", type=int, choices=range(1, 21), help="Generate pending words for one book only")
     parser.add_argument("--batch-size", type=int, default=8)
     parser.add_argument("--device", default="auto", choices=["auto", "mps", "cpu", "cuda:0"])
     parser.add_argument("--speaker", default=SPEAKER)

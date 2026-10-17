@@ -1,0 +1,324 @@
+{
+  "book": 16,
+  "chapter": 2,
+  "title": "Any Girls Here?",
+  "words": [
+    {
+      "id": "tunic",
+      "word": "tunic",
+      "forms": [
+        "tunic"
+      ],
+      "tier": "core",
+      "phonetic": "/'tju:nik/",
+      "partOfSpeech": "n.",
+      "meaning": "束腰外衣",
+      "wordForms": "原文词形：tunic",
+      "sentence": "His clothes were similar to the ones he’d worn in the Roman town of Pompeii: a tunic and sandals.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-02/tunic.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "束腰外衣",
+        "橄榄；橄榄树",
+        "斗篷；披风"
+      ]
+    },
+    {
+      "id": "olive",
+      "word": "olive",
+      "forms": [
+        "olive"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɒliv/",
+      "partOfSpeech": "n.",
+      "meaning": "橄榄；橄榄树",
+      "wordForms": "原文词形：olive",
+      "sentence": "“And we landed in an olive tree—just like Pompeii!”",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-02/olive.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "橄榄；橄榄树",
+        "钢盔；盔",
+        "人群；群众"
+      ]
+    },
+    {
+      "id": "crowds",
+      "word": "crowd",
+      "forms": [
+        "crowd",
+        "crowds"
+      ],
+      "tier": "core",
+      "phonetic": "/kraud/",
+      "partOfSpeech": "n.",
+      "meaning": "人群；群众",
+      "wordForms": "原文词形：crowds",
+      "sentence": "Beyond the field were red-brick buildings with columns and huge crowds of people.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-02/crowds.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "人群；群众",
+        "钢盔；盔",
+        "斗篷；披风"
+      ]
+    },
+    {
+      "id": "theater",
+      "word": "theater",
+      "forms": [
+        "theater"
+      ],
+      "tier": "core",
+      "phonetic": "/'θiәtә/",
+      "partOfSpeech": "n.",
+      "meaning": "剧场；戏院",
+      "wordForms": "原文词形：theater",
+      "sentence": "Then he saw an outdoor theater.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-02/theater.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "剧场；戏院",
+        "舞台；戏台",
+        "束腰外衣"
+      ]
+    },
+    {
+      "id": "stage",
+      "word": "stage",
+      "forms": [
+        "stage"
+      ],
+      "tier": "core",
+      "phonetic": "/steidʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "舞台；戏台",
+      "wordForms": "原文词形：stage",
+      "sentence": "A woman was standing on the stage.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-02/stage.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "舞台；戏台",
+        "剧场；戏院",
+        "钢盔；盔"
+      ]
+    },
+    {
+      "id": "cape",
+      "word": "cape",
+      "forms": [
+        "cape"
+      ],
+      "tier": "core",
+      "phonetic": "/keip/",
+      "partOfSpeech": "n.",
+      "meaning": "斗篷；披风",
+      "wordForms": "原文词形：cape",
+      "sentence": "He wore a long cape.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-02/cape.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "斗篷；披风",
+        "橄榄；橄榄树",
+        "剧场；戏院"
+      ]
+    },
+    {
+      "id": "helmet",
+      "word": "helmet",
+      "forms": [
+        "helmet"
+      ],
+      "tier": "core",
+      "phonetic": "/'helmit/",
+      "partOfSpeech": "n.",
+      "meaning": "钢盔；盔",
+      "wordForms": "原文词形：helmet",
+      "sentence": "A helmet with a red crest hid his face.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-02/helmet.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "钢盔；盔",
+        "剧场；戏院",
+        "人群；群众"
+      ]
+    },
+    {
+      "id": "wig",
+      "word": "wig",
+      "forms": [
+        "wig"
+      ],
+      "tier": "recognition",
+      "phonetic": "/wig/",
+      "partOfSpeech": "n.",
+      "meaning": "假发；假发套",
+      "wordForms": "原文词形：wig",
+      "sentence": "When Jack looked up, he saw the woman had pulled off her wig.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-02/wig.mp3"
+    }
+  ]
+}

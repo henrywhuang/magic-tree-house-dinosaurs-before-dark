@@ -1,0 +1,414 @@
+{
+  "book": 18,
+  "chapter": 9,
+  "title": "Lakota School",
+  "words": [
+    {
+      "id": "dawn",
+      "word": "dawn",
+      "forms": [
+        "dawn"
+      ],
+      "tier": "core",
+      "phonetic": "/dɒ:n/",
+      "partOfSpeech": "n.",
+      "meaning": "黎明；拂晓",
+      "wordForms": "原文词形：dawn",
+      "sentence": "In the cool light before dawn, everyone was taking down their tepees.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-09/dawn.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "aw",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "黎明；拂晓",
+        "生牛皮",
+        "旅程；旅行"
+      ]
+    },
+    {
+      "id": "strapped",
+      "word": "strap",
+      "forms": [
+        "strap",
+        "straps",
+        "strapped",
+        "strapping"
+      ],
+      "tier": "core",
+      "phonetic": "/stræp/",
+      "partOfSpeech": "v.",
+      "meaning": "用带子捆绑",
+      "wordForms": "第三人称单数 straps · 过去式 strapped · 现在分词 strapping",
+      "sentence": "They were loading them onto wooden platforms strapped to two poles.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-09/strapped.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "用带子捆绑",
+        "平台；托架",
+        "黎明；拂晓"
+      ]
+    },
+    {
+      "id": "poles",
+      "word": "pole",
+      "forms": [
+        "pole",
+        "poles"
+      ],
+      "tier": "core",
+      "phonetic": "/pәul/",
+      "partOfSpeech": "n.",
+      "meaning": "长杆；杆子",
+      "wordForms": "原文词形：poles",
+      "sentence": "They were loading them onto wooden platforms strapped to two poles.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-09/poles.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "长杆；杆子",
+        "旅程；旅行",
+        "用带子捆绑"
+      ]
+    },
+    {
+      "id": "platform",
+      "word": "platform",
+      "forms": [
+        "platform"
+      ],
+      "tier": "core",
+      "phonetic": "/'plætfɒ:m/",
+      "partOfSpeech": "n.",
+      "meaning": "平台；托架",
+      "wordForms": "原文词形：platform",
+      "sentence": "Grandmother and Black Hawk piled tools and clothes onto their platform.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-09/platform.mp3",
+      "phonics": [
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "平台；托架",
+        "旅程；旅行",
+        "长杆；杆子"
+      ]
+    },
+    {
+      "id": "stuffed",
+      "word": "stuff",
+      "forms": [
+        "stuff",
+        "stuffs",
+        "stuffed",
+        "stuffing"
+      ],
+      "tier": "core",
+      "phonetic": "/stʌf/",
+      "partOfSpeech": "v.",
+      "meaning": "塞进；填满",
+      "wordForms": "第三人称单数 stuffs · 过去式 stuffed · 现在分词 stuffing",
+      "sentence": "Annie stuffed buffalo meat into a rawhide bag.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-09/stuffed.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "塞进；填满",
+        "旅程；旅行",
+        "用带子捆绑"
+      ]
+    },
+    {
+      "id": "rawhide",
+      "word": "rawhide",
+      "forms": [
+        "rawhide"
+      ],
+      "tier": "core",
+      "phonetic": "/'rɒ:haid/",
+      "partOfSpeech": "n.",
+      "meaning": "生牛皮",
+      "wordForms": "原文词形：rawhide",
+      "sentence": "Annie stuffed buffalo meat into a rawhide bag.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-09/rawhide.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "aw",
+          "sound": "/ɔː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "生牛皮",
+        "消失；绝迹",
+        "属于"
+      ]
+    },
+    {
+      "id": "belongs",
+      "word": "belong",
+      "forms": [
+        "belong",
+        "belongs",
+        "belonged",
+        "belonging"
+      ],
+      "tier": "core",
+      "phonetic": "/bi'lɒŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "属于",
+      "wordForms": "第三人称单数 belongs · 过去式 belonged · 现在分词 belonging",
+      "sentence": "“The land belongs to the Great Spirit.”",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-09/belongs.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "属于",
+        "旅程；旅行",
+        "平台；托架"
+      ]
+    },
+    {
+      "id": "journey",
+      "word": "journey",
+      "forms": [
+        "journey"
+      ],
+      "tier": "core",
+      "phonetic": "/'dʒә:ni/",
+      "partOfSpeech": "n.",
+      "meaning": "旅程；旅行",
+      "wordForms": "原文词形：journey",
+      "sentence": "“We wish you a safe journey.”",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-09/journey.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ey",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "旅程；旅行",
+        "属于",
+        "用带子捆绑"
+      ]
+    },
+    {
+      "id": "vanish",
+      "word": "vanish",
+      "forms": [
+        "vanish",
+        "vanishes",
+        "vanished",
+        "vanishing"
+      ],
+      "tier": "core",
+      "phonetic": "/'væniʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "消失；绝迹",
+      "wordForms": "第三人称单数 vanishes · 过去式 vanished · 现在分词 vanishing",
+      "sentence": "“The buffalo will vanish.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-09/vanish.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "消失；绝迹",
+        "旅程；旅行",
+        "黎明；拂晓"
+      ]
+    }
+  ]
+}

@@ -13,6 +13,20 @@ sys.path.insert(0, str(ROOT / 'scripts'))
 import gen_vocab_book4 as base
 
 
+def paragraph_sentences(data):
+    """Reader text with a newline at every paragraph start, split into sentences
+    per paragraph — a heading/note line such as `Morgan` or `He read:` must not
+    run into the next paragraph's sentence."""
+    starts = {para['words'][0]['i'] for page in data['pages'] for para in page if para['words']}
+    words = [dict(w, before='\n' + w.get('before', '').strip()) if w['i'] in starts and w['i'] > 0 else w
+             for w in data['words']]
+    text, spans = base.build_text(words)
+    sentences = []
+    for para in re.finditer(r'[^\n]+', text):
+        sentences.extend((para.start() + s, para.start() + e) for s, e in base.sentence_spans(para.group()))
+    return text, spans, sentences
+
+
 def run(book, overrides):
     content = importlib.import_module(f'book{book}_content')
     titles = content.TITLES
@@ -20,8 +34,7 @@ def run(book, overrides):
     def build_chapter(chapter):
         data = json.loads((ROOT / f'data/book-{book:02d}-chapter-{chapter:02d}.json').read_text(encoding='utf-8'))
         words = data['words']
-        text, spans = base.build_text(words)
-        sentences = base.sentence_spans(text)
+        text, spans, sentences = paragraph_sentences(data)
         keyed = [(w['word'], spans[i]) for i, w in enumerate(words) if w.get('key')]
         seen, order = {}, []
         for surface, span in keyed:

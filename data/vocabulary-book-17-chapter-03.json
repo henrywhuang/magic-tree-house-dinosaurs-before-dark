@@ -1,0 +1,427 @@
+{
+  "book": 17,
+  "chapter": 3,
+  "title": "SOS",
+  "words": [
+    {
+      "id": "gushed",
+      "word": "gush",
+      "forms": [
+        "gush",
+        "gushes",
+        "gushed",
+        "gushing"
+      ],
+      "tier": "core",
+      "phonetic": "/gʌʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "喷涌；涌出",
+      "wordForms": "第三人称单数 gushes · 过去式 gushed · 现在分词 gushing",
+      "sentence": "Suddenly, steam gushed out of the ship’s smokestacks.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-03/gushed.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "喷涌；涌出",
+        "蹦跳；奔跑",
+        "船长；指挥官"
+      ]
+    },
+    {
+      "id": "engines",
+      "word": "engine",
+      "forms": [
+        "engine",
+        "engines"
+      ],
+      "tier": "core",
+      "phonetic": "/'endʒin/",
+      "partOfSpeech": "n.",
+      "meaning": "发动机；引擎",
+      "wordForms": "原文词形：engines",
+      "sentence": "Then the engines cut off.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-03/engines.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "发动机；引擎",
+        "船长；指挥官",
+        "耸肩"
+      ]
+    },
+    {
+      "id": "scampered",
+      "word": "scamper",
+      "forms": [
+        "scamper",
+        "scampers",
+        "scampered",
+        "scampering"
+      ],
+      "tier": "core",
+      "phonetic": "/'skæmpә/",
+      "partOfSpeech": "v.",
+      "meaning": "蹦跳；奔跑",
+      "wordForms": "第三人称单数 scampers · 过去式 scampered · 现在分词 scampering",
+      "sentence": "The little dog scampered after them.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-03/scampered.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "蹦跳；奔跑",
+        "喷涌；涌出",
+        "遇险；危难"
+      ]
+    },
+    {
+      "id": "shrugged",
+      "word": "shrug",
+      "forms": [
+        "shrug",
+        "shrugs",
+        "shrugged",
+        "shrugging"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃrʌg/",
+      "partOfSpeech": "v.",
+      "meaning": "耸肩",
+      "wordForms": "第三人称单数 shrugs · 过去式 shrugged · 现在分词 shrugging",
+      "sentence": "Jack shrugged.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-03/shrugged.mp3",
+      "phonics": [
+        {
+          "letters": "shr",
+          "sound": "/shr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "耸肩",
+        "制服",
+        "报务员；操作员"
+      ]
+    },
+    {
+      "id": "uniform",
+      "word": "uniform",
+      "forms": [
+        "uniform"
+      ],
+      "tier": "core",
+      "phonetic": "/'ju:nifɒ:m/",
+      "partOfSpeech": "n.",
+      "meaning": "制服",
+      "wordForms": "原文词形：uniform",
+      "sentence": "He had a white beard and wore a fancy uniform.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-03/uniform.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "制服",
+        "喷涌；涌出",
+        "发动机；引擎"
+      ]
+    },
+    {
+      "id": "captain",
+      "word": "captain",
+      "forms": [
+        "captain",
+        "Captain"
+      ],
+      "tier": "core",
+      "phonetic": "/'kæptin/",
+      "partOfSpeech": "n.",
+      "meaning": "船长；指挥官",
+      "wordForms": "原文词形：Captain",
+      "sentence": "“Yes, Captain,” said the man.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-03/captain.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pt",
+          "sound": "/pt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "船长；指挥官",
+        "喷涌；涌出",
+        "制服"
+      ]
+    },
+    {
+      "id": "operator",
+      "word": "operator",
+      "forms": [
+        "operator"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɒpәreitә/",
+      "partOfSpeech": "n.",
+      "meaning": "报务员；操作员",
+      "wordForms": "原文词形：operator",
+      "sentence": "He shined the flashlight on the book and found a picture of the radio operator.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-03/operator.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "报务员；操作员",
+        "遇险；危难",
+        "耸肩"
+      ]
+    },
+    {
+      "id": "distress",
+      "word": "distress",
+      "forms": [
+        "distress"
+      ],
+      "tier": "core",
+      "phonetic": "/di'stres/",
+      "partOfSpeech": "n.",
+      "meaning": "遇险；危难",
+      "wordForms": "原文词形：distress",
+      "sentence": "An SOS is the international distress signal in Morse code.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-03/distress.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "遇险；危难",
+        "报务员；操作员",
+        "信号；暗号"
+      ]
+    },
+    {
+      "id": "signal",
+      "word": "signal",
+      "forms": [
+        "signal"
+      ],
+      "tier": "core",
+      "phonetic": "/'signl/",
+      "partOfSpeech": "n.",
+      "meaning": "信号；暗号",
+      "wordForms": "原文词形：signal",
+      "sentence": "An SOS is the international distress signal in Morse code.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-03/signal.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "信号；暗号",
+        "蹦跳；奔跑",
+        "制服"
+      ]
+    }
+  ]
+}

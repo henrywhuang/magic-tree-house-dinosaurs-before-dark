@@ -1,0 +1,348 @@
+{
+  "book": 20,
+  "chapter": 1,
+  "title": "The Last Gift",
+  "words": [
+    {
+      "id": "faint",
+      "word": "faint",
+      "forms": [
+        "faint"
+      ],
+      "tier": "core",
+      "phonetic": "/feint/",
+      "partOfSpeech": "adj.",
+      "meaning": "微弱的；隐约的",
+      "wordForms": "原文词形：faint",
+      "sentence": "A faint bark came from the distance: Arf!",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-01/faint.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "微弱的；隐约的",
+        "特别的；特殊的",
+        "抓起；一把抓住"
+      ]
+    },
+    {
+      "id": "grabbed",
+      "word": "grab",
+      "forms": [
+        "grab",
+        "grabs",
+        "grabbed",
+        "grabbing"
+      ],
+      "tier": "core",
+      "phonetic": "/græb/",
+      "partOfSpeech": "v.",
+      "meaning": "抓起；一把抓住",
+      "wordForms": "第三人称单数 grabs · 过去式 grabbed · 现在分词 grabbing",
+      "sentence": "He stood up and grabbed his backpack.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-01/grabbed.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "抓起；一把抓住",
+        "抓；挠",
+        "袋鼠"
+      ]
+    },
+    {
+      "id": "oak",
+      "word": "oak",
+      "forms": [
+        "oak"
+      ],
+      "tier": "recognition",
+      "phonetic": "/әuk/",
+      "partOfSpeech": "n.",
+      "meaning": "橡树",
+      "wordForms": "原文词形：oak",
+      "sentence": "Soon they came to the tallest oak.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-01/oak.mp3"
+    },
+    {
+      "id": "special",
+      "word": "special",
+      "forms": [
+        "special"
+      ],
+      "tier": "core",
+      "phonetic": "/'speʃәl/",
+      "partOfSpeech": "adj.",
+      "meaning": "特别的；特殊的",
+      "wordForms": "原文词形：special",
+      "sentence": "To free him, you must be given four special things:",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-01/special.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "特别的；特殊的",
+        "抓；挠",
+        "微弱的；隐约的"
+      ]
+    },
+    {
+      "id": "kangaroo",
+      "word": "kangaroo",
+      "forms": [
+        "kangaroo"
+      ],
+      "tier": "core",
+      "phonetic": "/.kæŋgә'ru:/",
+      "partOfSpeech": "n.",
+      "meaning": "袋鼠",
+      "wordForms": "原文词形：kangaroo",
+      "sentence": "A gift from a kangaroo.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-01/kangaroo.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "袋鼠",
+        "旋转；打转",
+        "微弱的；隐约的"
+      ]
+    },
+    {
+      "id": "eagles",
+      "word": "eagle",
+      "forms": [
+        "eagle",
+        "eagle’s"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'i:gl/",
+      "partOfSpeech": "n.",
+      "meaning": "鹰；雕",
+      "wordForms": "原文词形：eagle’s",
+      "sentence": "Two, an eagle’s feather from the prairie skies.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-01/eagles.mp3"
+    },
+    {
+      "id": "scratched",
+      "word": "scratch",
+      "forms": [
+        "scratch",
+        "scratches",
+        "scratched",
+        "scratching"
+      ],
+      "tier": "core",
+      "phonetic": "/skrætʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "抓；挠",
+      "wordForms": "第三人称单数 scratches · 过去式 scratched · 现在分词 scratching",
+      "sentence": "Teddy whined and scratched at a book lying in the corner.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-01/scratched.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "抓；挠",
+        "旋转；打转",
+        "袋鼠"
+      ]
+    },
+    {
+      "id": "spin",
+      "word": "spin",
+      "forms": [
+        "spin",
+        "spins",
+        "spun",
+        "spinning"
+      ],
+      "tier": "core",
+      "phonetic": "/spin/",
+      "partOfSpeech": "v.",
+      "meaning": "旋转；打转",
+      "wordForms": "第三人称单数 spins · 过去式 spun · 现在分词 spinning",
+      "sentence": "The tree house started to spin.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-01/spin.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "旋转；打转",
+        "微弱的；隐约的",
+        "特别的；特殊的"
+      ]
+    },
+    {
+      "id": "absolutely",
+      "word": "absolutely",
+      "forms": [
+        "absolutely",
+        "Absolutely"
+      ],
+      "tier": "core",
+      "phonetic": "/'æbsәlu:tli/",
+      "partOfSpeech": "adv.",
+      "meaning": "完全地；绝对地",
+      "wordForms": "原文词形：Absolutely",
+      "sentence": "Absolutely still.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-01/absolutely.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ely",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "完全地；绝对地",
+        "微弱的；隐约的",
+        "抓；挠"
+      ]
+    }
+  ]
+}

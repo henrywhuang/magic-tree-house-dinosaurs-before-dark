@@ -1,0 +1,412 @@
+{
+  "book": 20,
+  "chapter": 3,
+  "title": "Big Foot",
+  "words": [
+    {
+      "id": "terrible",
+      "word": "terrible",
+      "forms": [
+        "terrible"
+      ],
+      "tier": "core",
+      "phonetic": "/'terәbl/",
+      "partOfSpeech": "adj.",
+      "meaning": "可怕的；吓人的",
+      "wordForms": "原文词形：terrible",
+      "sentence": "The terrible cackle came again.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-03/terrible.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "可怕的；吓人的",
+        "比赛；竞赛",
+        "（袋鼠的）育儿袋"
+      ]
+    },
+    {
+      "id": "beak",
+      "word": "beak",
+      "forms": [
+        "beak"
+      ],
+      "tier": "core",
+      "phonetic": "/bi:k/",
+      "partOfSpeech": "n.",
+      "meaning": "鸟嘴；喙",
+      "wordForms": "原文词形：beak",
+      "sentence": "The bird had brown feathers and a large head with a long beak.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-03/beak.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鸟嘴；喙",
+        "曲折前进；之字形行进",
+        "（袋鼠的）育儿袋"
+      ]
+    },
+    {
+      "id": "kookaburra",
+      "word": "kookaburra",
+      "forms": [
+        "kookaburra"
+      ],
+      "tier": "core",
+      "phonetic": "/'kukәbә:rә/",
+      "partOfSpeech": "n.",
+      "meaning": "笑翠鸟（澳洲鸟类）",
+      "wordForms": "原文词形：kookaburra",
+      "sentence": "The kookaburra is the best-known bird of Australia.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-03/kookaburra.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "笑翠鸟（澳洲鸟类）",
+        "模仿；照着做",
+        "可怕的；吓人的"
+      ]
+    },
+    {
+      "id": "stomach",
+      "word": "stomach",
+      "forms": [
+        "stomach"
+      ],
+      "tier": "core",
+      "phonetic": "/'stʌmәk/",
+      "partOfSpeech": "n.",
+      "meaning": "肚子；胃",
+      "wordForms": "原文词形：stomach",
+      "sentence": "It also had a very fat stomach.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-03/stomach.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "肚子；胃",
+        "笑翠鸟（澳洲鸟类）",
+        "曲折前进；之字形行进"
+      ]
+    },
+    {
+      "id": "pouch",
+      "word": "pouch",
+      "forms": [
+        "pouch"
+      ],
+      "tier": "core",
+      "phonetic": "/pautʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "（袋鼠的）育儿袋",
+      "wordForms": "原文词形：pouch",
+      "sentence": "“Oh, wow, it’s a kangaroo with her baby in her pouch!”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-03/pouch.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "（袋鼠的）育儿袋",
+        "模仿；照着做",
+        "笑翠鸟（澳洲鸟类）"
+      ]
+    },
+    {
+      "id": "stamp",
+      "word": "stamp",
+      "forms": [
+        "stamp"
+      ],
+      "tier": "core",
+      "phonetic": "/stæmp/",
+      "partOfSpeech": "n.",
+      "meaning": "跺脚",
+      "wordForms": "原文词形：stamp",
+      "sentence": "The mother kangaroo gave an angry stamp.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-03/stamp.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "跺脚",
+        "可怕的；吓人的",
+        "比赛；竞赛"
+      ]
+    },
+    {
+      "id": "copying",
+      "word": "copy",
+      "forms": [
+        "copy",
+        "copies",
+        "copied",
+        "copying"
+      ],
+      "tier": "core",
+      "phonetic": "/'kɒpi/",
+      "partOfSpeech": "v.",
+      "meaning": "模仿；照着做",
+      "wordForms": "第三人称单数 copies · 过去式 copied · 现在分词 copying",
+      "sentence": "Copying the kangaroo, Annie hopped toward the big animal.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-03/copying.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "模仿；照着做",
+        "可怕的；吓人的",
+        "比赛；竞赛"
+      ]
+    },
+    {
+      "id": "contest",
+      "word": "contest",
+      "forms": [
+        "contest"
+      ],
+      "tier": "core",
+      "phonetic": "/'kɒntest/",
+      "partOfSpeech": "n.",
+      "meaning": "比赛；竞赛",
+      "wordForms": "原文词形：contest",
+      "sentence": "“Forget the hopping contest, Annie!”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-03/contest.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "est",
+          "sound": "/ɪst/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "比赛；竞赛",
+        "曲折前进；之字形行进",
+        "跺脚"
+      ]
+    },
+    {
+      "id": "zigzagged",
+      "word": "zigzag",
+      "forms": [
+        "zigzag",
+        "zigzags",
+        "zigzagged",
+        "zigzagging"
+      ],
+      "tier": "core",
+      "phonetic": "/'zigzæg/",
+      "partOfSpeech": "v.",
+      "meaning": "曲折前进；之字形行进",
+      "wordForms": "第三人称单数 zigzags · 过去式 zigzagged · 现在分词 zigzagging",
+      "sentence": "She then zigzagged over rocks and bushes.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-03/zigzagged.mp3",
+      "phonics": [
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "曲折前进；之字形行进",
+        "可怕的；吓人的",
+        "比赛；竞赛"
+      ]
+    }
+  ]
+}

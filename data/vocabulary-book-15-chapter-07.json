@@ -1,0 +1,360 @@
+{
+  "book": 15,
+  "chapter": 7,
+  "title": "Fogbound",
+  "words": [
+    {
+      "id": "screeched",
+      "word": "screech",
+      "forms": [
+        "screech",
+        "screeches",
+        "screeched",
+        "screeching"
+      ],
+      "tier": "core",
+      "phonetic": "/skri:tʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "尖叫；发出尖厉声",
+      "wordForms": "第三人称单数 screeches · 过去式 screeched · 现在分词 screeching",
+      "sentence": "At the rocks, the sea gulls still screeched.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-07/screeched.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "尖叫；发出尖厉声",
+        "盾；盾牌",
+        "战士；勇士"
+      ]
+    },
+    {
+      "id": "pebbles",
+      "word": "pebble",
+      "forms": [
+        "pebble",
+        "pebbles"
+      ],
+      "tier": "core",
+      "phonetic": "/'pebl/",
+      "partOfSpeech": "n.",
+      "meaning": "鹅卵石；小圆石",
+      "wordForms": "原文词形：pebbles",
+      "sentence": "They listened as pebbles and rocks rolled down the cliff.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-07/pebbles.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鹅卵石；小圆石",
+        "头盔；钢盔",
+        "参差不齐的；锯齿状的"
+      ]
+    },
+    {
+      "id": "crept",
+      "word": "creep",
+      "forms": [
+        "creep",
+        "creeps",
+        "crept",
+        "creeping"
+      ],
+      "tier": "core",
+      "phonetic": "/kri:p/",
+      "partOfSpeech": "v.",
+      "meaning": "蹑手蹑脚地走；悄悄爬行",
+      "wordForms": "第三人称单数 creeps · 过去式 crept · 现在分词 creeping",
+      "sentence": "Jack and Annie crept closer to the ships.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-07/crept.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蹑手蹑脚地走；悄悄爬行",
+        "鹅卵石；小圆石",
+        "头盔；钢盔"
+      ]
+    },
+    {
+      "id": "jagged",
+      "word": "jagged",
+      "forms": [
+        "jagged"
+      ],
+      "tier": "core",
+      "phonetic": "/'dʒægd/",
+      "partOfSpeech": "adj.",
+      "meaning": "参差不齐的；锯齿状的",
+      "wordForms": "原文词形：jagged",
+      "sentence": "Each ship had been tied to a tall jagged rock.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-07/jagged.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "参差不齐的；锯齿状的",
+        "战士；勇士",
+        "鹅卵石；小圆石"
+      ]
+    },
+    {
+      "id": "shallow",
+      "word": "shallow",
+      "forms": [
+        "shallow"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃælәu/",
+      "partOfSpeech": "adj.",
+      "meaning": "浅的；不深的",
+      "wordForms": "原文词形：shallow",
+      "sentence": "They seemed deserted as they bobbed in the shallow waves.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-07/shallow.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "浅的；不深的",
+        "蹑手蹑脚地走；悄悄爬行",
+        "头盔；钢盔"
+      ]
+    },
+    {
+      "id": "warriors",
+      "word": "warrior",
+      "forms": [
+        "warrior",
+        "warriors"
+      ],
+      "tier": "core",
+      "phonetic": "/'wɒ:riә/",
+      "partOfSpeech": "n.",
+      "meaning": "战士；勇士",
+      "wordForms": "原文词形：warriors",
+      "sentence": "Through the mist, they saw a group of Viking warriors.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-07/warriors.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "战士；勇士",
+        "头盔；钢盔",
+        "浅的；不深的"
+      ]
+    },
+    {
+      "id": "helmets",
+      "word": "helmet",
+      "forms": [
+        "helmet",
+        "helmets"
+      ],
+      "tier": "core",
+      "phonetic": "/'helmit/",
+      "partOfSpeech": "n.",
+      "meaning": "头盔；钢盔",
+      "wordForms": "原文词形：helmets",
+      "sentence": "Their long yellow hair hung down from beneath their iron helmets.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-07/helmets.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "头盔；钢盔",
+        "盾；盾牌",
+        "浅的；不深的"
+      ]
+    },
+    {
+      "id": "shields",
+      "word": "shield",
+      "forms": [
+        "shield",
+        "shields"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃi:ld/",
+      "partOfSpeech": "n.",
+      "meaning": "盾；盾牌",
+      "wordForms": "原文词形：shields",
+      "sentence": "They carried round wooden shields and swords and axes.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-07/shields.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "盾；盾牌",
+        "鹅卵石；小圆石",
+        "战士；勇士"
+      ]
+    }
+  ]
+}

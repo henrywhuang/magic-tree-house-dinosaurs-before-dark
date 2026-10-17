@@ -22,6 +22,12 @@ python3 -m http.server 8080
 - `data/`：逐词时间戳、三场景分页正文与统一题库 `questions.json`。
 - `project-skills/`：标准、测评蓝图与具体命题规范。
 
+## Book 15–20 说明
+
+- 正文：Book 15–19 取自 OCR Word 版，逐章与有声书转写比对后在 `scripts/rebuild_bookNN.py` 的 `FIXES` 中修补 OCR 错字与错乱段落；Book 20 只有听写稿可用，正文由作者朗读的有声书转写校对而成（`scripts/book20_source.txt`）。
+- 音频：Book 15–16 来自 Books 9–16 合集逐轨（Book 16 第 10 章由 081+082 两轨拼接）；Book 17–20 由 Books 17–24 合集的整本音轨按章切分（`scripts/split_wholebook_audio.py`）。
+- 插图：暂为占位图，正式插图提示词见 `book-15-scene-prompts.md` … `book-20-scene-prompts.md`，生成后按文件名覆盖 `assets/images/book-NN-scenes/` 即可。
+
 ## Word 版直接下载
 
 - [Book 11 · Lions at Lunchtime（Word版）](https://github.com/pumo0926-cpu/magic-tree-house-dinosaurs-before-dark/releases/download/word-books-v1/Book-11-Lions-at-Lunchtime-Word.docx)

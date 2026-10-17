@@ -1,0 +1,408 @@
+{
+  "book": 18,
+  "chapter": 3,
+  "title": "Black Hawk",
+  "words": [
+    {
+      "id": "grazed",
+      "word": "graze",
+      "forms": [
+        "graze",
+        "grazes",
+        "grazed",
+        "grazing"
+      ],
+      "tier": "core",
+      "phonetic": "/greiz/",
+      "partOfSpeech": "v.",
+      "meaning": "吃草；放牧",
+      "wordForms": "第三人称单数 grazes · 过去式 grazed · 现在分词 grazing",
+      "sentence": "Horses and ponies grazed nearby.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-03/grazed.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "吃草；放牧",
+        "钦佩；欣赏",
+        "战士；勇士"
+      ]
+    },
+    {
+      "id": "tribe",
+      "word": "tribe",
+      "forms": [
+        "tribe"
+      ],
+      "tier": "core",
+      "phonetic": "/traib/",
+      "partOfSpeech": "n.",
+      "meaning": "部落；部族",
+      "wordForms": "原文词形：tribe",
+      "sentence": "The Lakota were the largest tribe.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-03/tribe.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "部落；部族",
+        "箭",
+        "战士；勇士"
+      ]
+    },
+    {
+      "id": "quiver",
+      "word": "quiver",
+      "forms": [
+        "quiver"
+      ],
+      "tier": "core",
+      "phonetic": "/'kwivә/",
+      "partOfSpeech": "n.",
+      "meaning": "箭袋；箭筒",
+      "wordForms": "原文词形：quiver",
+      "sentence": "Jack could only see the outline of a body with a bow and a quiver of arrows on his back.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-03/quiver.mp3",
+      "phonics": [
+        {
+          "letters": "qu",
+          "sound": "/kw/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "箭袋；箭筒",
+        "箭",
+        "钦佩；欣赏"
+      ]
+    },
+    {
+      "id": "arrows",
+      "word": "arrow",
+      "forms": [
+        "arrow",
+        "arrows"
+      ],
+      "tier": "core",
+      "phonetic": "/'ærәu/",
+      "partOfSpeech": "n.",
+      "meaning": "箭",
+      "wordForms": "原文词形：arrows",
+      "sentence": "Jack could only see the outline of a body with a bow and a quiver of arrows on his back.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-03/arrows.mp3",
+      "phonics": [
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "箭",
+        "钦佩；欣赏",
+        "箭袋；箭筒"
+      ]
+    },
+    {
+      "id": "warrior",
+      "word": "warrior",
+      "forms": [
+        "warrior",
+        "WARRIOR"
+      ],
+      "tier": "core",
+      "phonetic": "/'wɒ:riә/",
+      "partOfSpeech": "n.",
+      "meaning": "战士；勇士",
+      "wordForms": "原文词形：WARRIOR",
+      "sentence": "Below the picture it said LAKOTA WARRIOR.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-03/warrior.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "战士；勇士",
+        "沙沙作响",
+        "（马）飞奔；疾驰"
+      ]
+    },
+    {
+      "id": "rustled",
+      "word": "rustle",
+      "forms": [
+        "rustle",
+        "rustles",
+        "rustled",
+        "rustling"
+      ],
+      "tier": "core",
+      "phonetic": "/'rʌsl/",
+      "partOfSpeech": "v.",
+      "meaning": "沙沙作响",
+      "wordForms": "第三人称单数 rustles · 过去式 rustled · 现在分词 rustling",
+      "sentence": "The grass rustled as the warrior passed by them.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-03/rustled.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "沙沙作响",
+        "吃草；放牧",
+        "箭袋；箭筒"
+      ]
+    },
+    {
+      "id": "galloped",
+      "word": "gallop",
+      "forms": [
+        "gallop",
+        "gallops",
+        "galloped",
+        "galloping"
+      ],
+      "tier": "core",
+      "phonetic": "/'gælәp/",
+      "partOfSpeech": "v.",
+      "meaning": "（马）飞奔；疾驰",
+      "wordForms": "第三人称单数 gallops · 过去式 galloped · 现在分词 galloping",
+      "sentence": "He galloped toward them, grabbing his bow.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-03/galloped.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（马）飞奔；疾驰",
+        "战士；勇士",
+        "沙沙作响"
+      ]
+    },
+    {
+      "id": "halted",
+      "word": "halt",
+      "forms": [
+        "halt",
+        "halts",
+        "halted",
+        "halting"
+      ],
+      "tier": "core",
+      "phonetic": "/hɒ:lt/",
+      "partOfSpeech": "v.",
+      "meaning": "停下；停止",
+      "wordForms": "第三人称单数 halts · 过去式 halted · 现在分词 halting",
+      "sentence": "The rider halted.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-03/halted.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lt",
+          "sound": "/lt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "停下；停止",
+        "部落；部族",
+        "战士；勇士"
+      ]
+    },
+    {
+      "id": "admire",
+      "word": "admire",
+      "forms": [
+        "admire",
+        "admires",
+        "admired",
+        "admiring"
+      ],
+      "tier": "core",
+      "phonetic": "/әd'maiә/",
+      "partOfSpeech": "v.",
+      "meaning": "钦佩；欣赏",
+      "wordForms": "第三人称单数 admires · 过去式 admired · 现在分词 admiring",
+      "sentence": "The Lakota admire those who do not show fear.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-03/admire.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "钦佩；欣赏",
+        "停下；停止",
+        "箭袋；箭筒"
+      ]
+    }
+  ]
+}

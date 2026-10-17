@@ -1,0 +1,369 @@
+{
+  "book": 20,
+  "chapter": 4,
+  "title": "Joey",
+  "words": [
+    {
+      "id": "enemy",
+      "word": "enemy",
+      "forms": [
+        "enemy"
+      ],
+      "tier": "core",
+      "phonetic": "/'enimi/",
+      "partOfSpeech": "n.",
+      "meaning": "敌人；天敌",
+      "wordForms": "原文词形：enemy",
+      "sentence": "The biggest enemy of the kangaroo is the dingo, the wild dog of Australia.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-04/enemy.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "敌人；天敌",
+        "追赶；追逐",
+        "野火；森林大火"
+      ]
+    },
+    {
+      "id": "dingo",
+      "word": "dingo",
+      "forms": [
+        "dingo"
+      ],
+      "tier": "core",
+      "phonetic": "/'diŋgәu/",
+      "partOfSpeech": "n.",
+      "meaning": "澳洲野犬",
+      "wordForms": "原文词形：dingo",
+      "sentence": "The biggest enemy of the kangaroo is the dingo, the wild dog of Australia.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-04/dingo.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "澳洲野犬",
+        "幼袋鼠",
+        "重量；分量"
+      ]
+    },
+    {
+      "id": "chased",
+      "word": "chase",
+      "forms": [
+        "chase",
+        "chases",
+        "chased",
+        "chasing"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃeis/",
+      "partOfSpeech": "v.",
+      "meaning": "追赶；追逐",
+      "wordForms": "第三人称单数 chases · 过去式 chased · 现在分词 chasing",
+      "sentence": "When a mother kangaroo is chased by dingoes, she may throw her joey out of her pouch.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-04/chased.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "追赶；追逐",
+        "敌人；天敌",
+        "重量；分量"
+      ]
+    },
+    {
+      "id": "joey",
+      "word": "joey",
+      "forms": [
+        "joey"
+      ],
+      "tier": "core",
+      "phonetic": "/dʒәui/",
+      "partOfSpeech": "n.",
+      "meaning": "幼袋鼠",
+      "wordForms": "原文词形：joey",
+      "sentence": "When a mother kangaroo is chased by dingoes, she may throw her joey out of her pouch.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-04/joey.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oe",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "幼袋鼠",
+        "敌人；天敌",
+        "反着地；向后"
+      ]
+    },
+    {
+      "id": "weight",
+      "word": "weight",
+      "forms": [
+        "weight"
+      ],
+      "tier": "core",
+      "phonetic": "/weit/",
+      "partOfSpeech": "n.",
+      "meaning": "重量；分量",
+      "wordForms": "原文词形：weight",
+      "sentence": "Without the extra weight in her pouch, she can leap faster and farther.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-04/weight.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ei",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "重量；分量",
+        "澳洲野犬",
+        "幼袋鼠"
+      ]
+    },
+    {
+      "id": "shy",
+      "word": "shy",
+      "forms": [
+        "shy"
+      ],
+      "tier": "recognition",
+      "phonetic": "/ʃai/",
+      "partOfSpeech": "adj.",
+      "meaning": "害羞的；胆小的",
+      "wordForms": "原文词形：shy",
+      "sentence": "The shy little kangaroo stared at Jack with big brown eyes and trembled.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-04/shy.mp3"
+    },
+    {
+      "id": "backward",
+      "word": "backward",
+      "forms": [
+        "backward"
+      ],
+      "tier": "core",
+      "phonetic": "/'bækwәd/",
+      "partOfSpeech": "adv.",
+      "meaning": "反着地；向后",
+      "wordForms": "原文词形：backward",
+      "sentence": "Put it on backward.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-04/backward.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "反着地；向后",
+        "追赶；追逐",
+        "敌人；天敌"
+      ]
+    },
+    {
+      "id": "burst",
+      "word": "burst",
+      "forms": [
+        "burst",
+        "bursts",
+        "bursting"
+      ],
+      "tier": "core",
+      "phonetic": "/bә:st/",
+      "partOfSpeech": "v.",
+      "meaning": "突然（燃起）；爆发",
+      "wordForms": "第三人称单数 bursts · 过去式 burst · 现在分词 bursting",
+      "sentence": "In the distance, a tree suddenly burst into flames.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-04/burst.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "突然（燃起）；爆发",
+        "反着地；向后",
+        "追赶；追逐"
+      ]
+    },
+    {
+      "id": "wildfire",
+      "word": "wildfire",
+      "forms": [
+        "wildfire"
+      ],
+      "tier": "core",
+      "phonetic": "/'waildfaiә/",
+      "partOfSpeech": "n.",
+      "meaning": "野火；森林大火",
+      "wordForms": "原文词形：wildfire",
+      "sentence": "“We’re looking at a wildfire!”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-04/wildfire.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "野火；森林大火",
+        "幼袋鼠",
+        "敌人；天敌"
+      ]
+    }
+  ]
+}

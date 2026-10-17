@@ -1,0 +1,391 @@
+{
+  "book": 17,
+  "chapter": 10,
+  "title": "A Touch of Magic",
+  "words": [
+    {
+      "id": "cheeks",
+      "word": "cheek",
+      "forms": [
+        "cheek",
+        "cheeks"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃi:k/",
+      "partOfSpeech": "n.",
+      "meaning": "脸颊；面颊",
+      "wordForms": "原文词形：cheeks",
+      "sentence": "Jack could see tears on her cheeks.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-10/cheeks.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "脸颊；面颊",
+        "沉默的；安静的",
+        "抚摸；轻抚"
+      ]
+    },
+    {
+      "id": "whined",
+      "word": "whine",
+      "forms": [
+        "whine",
+        "whines",
+        "whined",
+        "whining"
+      ],
+      "tier": "core",
+      "phonetic": "/hwain/",
+      "partOfSpeech": "v.",
+      "meaning": "呜咽；哀鸣",
+      "wordForms": "第三人称单数 whines · 过去式 whined · 现在分词 whining",
+      "sentence": "Teddy whined.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-10/whined.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "呜咽；哀鸣",
+        "战栗；发抖",
+        "舒适的；安逸的"
+      ]
+    },
+    {
+      "id": "stroked",
+      "word": "stroke",
+      "forms": [
+        "stroke",
+        "strokes",
+        "stroked",
+        "stroking"
+      ],
+      "tier": "core",
+      "phonetic": "/strәuk/",
+      "partOfSpeech": "v.",
+      "meaning": "抚摸；轻抚",
+      "wordForms": "第三人称单数 strokes · 过去式 stroked · 现在分词 stroking",
+      "sentence": "Jack and Annie stroked his furry head and ears.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-10/stroked.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "抚摸；轻抚",
+        "沉默的；安静的",
+        "神话；虚构的事"
+      ]
+    },
+    {
+      "id": "furry",
+      "word": "furry",
+      "forms": [
+        "furry"
+      ],
+      "tier": "core",
+      "phonetic": "/'fә:ri/",
+      "partOfSpeech": "adj.",
+      "meaning": "毛茸茸的；覆盖着毛的",
+      "wordForms": "原文词形：furry",
+      "sentence": "Jack and Annie stroked his furry head and ears.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-10/furry.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "毛茸茸的；覆盖着毛的",
+        "舒适的；安逸的",
+        "战栗；发抖"
+      ]
+    },
+    {
+      "id": "silent",
+      "word": "silent",
+      "forms": [
+        "silent"
+      ],
+      "tier": "core",
+      "phonetic": "/'sailәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "沉默的；安静的",
+      "wordForms": "原文词形：silent",
+      "sentence": "Jack was silent.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-10/silent.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "沉默的；安静的",
+        "舒适的；安逸的",
+        "呜咽；哀鸣"
+      ]
+    },
+    {
+      "id": "myth",
+      "word": "myth",
+      "forms": [
+        "myth"
+      ],
+      "tier": "core",
+      "phonetic": "/miθ/",
+      "partOfSpeech": "n.",
+      "meaning": "神话；虚构的事",
+      "wordForms": "原文词形：myth",
+      "sentence": "It’s a true story, but it’s also like a myth now.”",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-10/myth.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "神话；虚构的事",
+        "呜咽；哀鸣",
+        "记忆；记忆力"
+      ]
+    },
+    {
+      "id": "shuddered",
+      "word": "shudder",
+      "forms": [
+        "shudder",
+        "shudders",
+        "shuddered",
+        "shuddering"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃʌdә/",
+      "partOfSpeech": "v.",
+      "meaning": "战栗；发抖",
+      "wordForms": "第三人称单数 shudders · 过去式 shuddered · 现在分词 shuddering",
+      "sentence": "Staring at the starry sky, he shuddered at the memory of the sinking ship.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-10/shuddered.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "战栗；发抖",
+        "毛茸茸的；覆盖着毛的",
+        "脸颊；面颊"
+      ]
+    },
+    {
+      "id": "memory",
+      "word": "memory",
+      "forms": [
+        "memory"
+      ],
+      "tier": "core",
+      "phonetic": "/'memәri/",
+      "partOfSpeech": "n.",
+      "meaning": "记忆；记忆力",
+      "wordForms": "原文词形：memory",
+      "sentence": "Staring at the starry sky, he shuddered at the memory of the sinking ship.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-10/memory.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "记忆；记忆力",
+        "神话；虚构的事",
+        "战栗；发抖"
+      ]
+    },
+    {
+      "id": "cozy",
+      "word": "cozy",
+      "forms": [
+        "cozy"
+      ],
+      "tier": "core",
+      "phonetic": "/'kәuzi/",
+      "partOfSpeech": "adj.",
+      "meaning": "舒适的；安逸的",
+      "wordForms": "原文词形：cozy",
+      "sentence": "Then he and Annie slipped quietly into their house, where it was cozy and dry and very safe.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-10/cozy.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "舒适的；安逸的",
+        "抚摸；轻抚",
+        "沉默的；安静的"
+      ]
+    }
+  ]
+}

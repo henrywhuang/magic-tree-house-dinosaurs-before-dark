@@ -1,0 +1,364 @@
+{
+  "book": 15,
+  "chapter": 3,
+  "title": "Brother Patrick",
+  "words": [
+    {
+      "id": "invader",
+      "word": "invader",
+      "forms": [
+        "invader"
+      ],
+      "tier": "core",
+      "phonetic": "/in'veidә/",
+      "partOfSpeech": "n.",
+      "meaning": "入侵者；侵略者",
+      "wordForms": "原文词形：invader",
+      "sentence": "“I—I’m not an invader,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-03/invader.mp3",
+      "phonics": [
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "入侵者；侵略者",
+        "船首",
+        "凶猛的；猛烈的"
+      ]
+    },
+    {
+      "id": "stammered",
+      "word": "stammer",
+      "forms": [
+        "stammered",
+        "stammer",
+        "stammers",
+        "stammering"
+      ],
+      "tier": "core",
+      "phonetic": "/'stæmә/",
+      "partOfSpeech": "v.",
+      "meaning": "口吃；结结巴巴地说",
+      "wordForms": "第三人称单数 stammers · 过去式 stammered · 现在分词 stammering",
+      "sentence": "“We—we come in peace,” stammered Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-03/stammered.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "口吃；结结巴巴地说",
+        "修道院",
+        "岛；岛屿"
+      ]
+    },
+    {
+      "id": "island",
+      "word": "island",
+      "forms": [
+        "island"
+      ],
+      "tier": "core",
+      "phonetic": "/'ailәnd/",
+      "partOfSpeech": "n.",
+      "meaning": "岛；岛屿",
+      "wordForms": "原文词形：island",
+      "sentence": "How in the world did you get on this island?”",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-03/island.mp3",
+      "phonics": [
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "岛；岛屿",
+        "船首",
+        "海岸；海滨"
+      ]
+    },
+    {
+      "id": "coast",
+      "word": "coast",
+      "forms": [
+        "coast"
+      ],
+      "tier": "core",
+      "phonetic": "/kәust/",
+      "partOfSpeech": "n.",
+      "meaning": "海岸；海滨",
+      "wordForms": "原文词形：coast",
+      "sentence": "“You’re on an island off the coast of Ireland,” the man said.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-03/coast.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "海岸；海滨",
+        "口吃；结结巴巴地说",
+        "入侵者；侵略者"
+      ]
+    },
+    {
+      "id": "serpent",
+      "word": "serpent",
+      "forms": [
+        "serpent"
+      ],
+      "tier": "core",
+      "phonetic": "/'sә:pәnt/",
+      "partOfSpeech": "n.",
+      "meaning": "（大）蛇；巨蛇",
+      "wordForms": "原文词形：serpent",
+      "sentence": "“When we see their serpent ships, we must hide or be taken as slaves.”",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-03/serpent.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "（大）蛇；巨蛇",
+        "修道院",
+        "岛；岛屿"
+      ]
+    },
+    {
+      "id": "prows",
+      "word": "prow",
+      "forms": [
+        "prow",
+        "prows"
+      ],
+      "tier": "core",
+      "phonetic": "/prau/",
+      "partOfSpeech": "n.",
+      "meaning": "船首",
+      "wordForms": "原文词形：prows",
+      "sentence": "“The prows of their ships are often carved in the shape of a serpent’s head,” said Brother Patrick.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-03/prows.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "船首",
+        "口吃；结结巴巴地说",
+        "修道院"
+      ]
+    },
+    {
+      "id": "fierce",
+      "word": "fierce",
+      "forms": [
+        "fierce"
+      ],
+      "tier": "core",
+      "phonetic": "/fiәs/",
+      "partOfSpeech": "adj.",
+      "meaning": "凶猛的；猛烈的",
+      "wordForms": "原文词形：fierce",
+      "sentence": "“I am afraid it stands for their fierce, cold-blooded ways.”",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-03/fierce.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "凶猛的；猛烈的",
+        "修道院",
+        "（大）蛇；巨蛇"
+      ]
+    },
+    {
+      "id": "monastery",
+      "word": "monastery",
+      "forms": [
+        "monastery"
+      ],
+      "tier": "core",
+      "phonetic": "/'mɒnәstәri/",
+      "partOfSpeech": "n.",
+      "meaning": "修道院",
+      "wordForms": "原文词形：monastery",
+      "sentence": "“I think you would like to visit our monastery,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-03/monastery.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "修道院",
+        "口吃；结结巴巴地说",
+        "船首"
+      ]
+    }
+  ]
+}

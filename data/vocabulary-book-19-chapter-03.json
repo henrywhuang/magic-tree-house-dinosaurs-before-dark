@@ -1,0 +1,410 @@
+{
+  "book": 19,
+  "chapter": 3,
+  "title": "Life or Death",
+  "words": [
+    {
+      "id": "fierce",
+      "word": "fierce",
+      "forms": [
+        "fierce"
+      ],
+      "tier": "core",
+      "phonetic": "/fiәs/",
+      "partOfSpeech": "adj.",
+      "meaning": "凶猛的；猛烈的",
+      "wordForms": "原文词形：fierce",
+      "sentence": "This time, a deep, fierce growl answered back.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-03/fierce.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "凶猛的；猛烈的",
+        "挤压；勒紧",
+        "蜿蜒滑行；爬行"
+      ]
+    },
+    {
+      "id": "growl",
+      "word": "growl",
+      "forms": [
+        "growl"
+      ],
+      "tier": "core",
+      "phonetic": "/graul/",
+      "partOfSpeech": "n.",
+      "meaning": "低吼声；咆哮声",
+      "wordForms": "原文词形：growl",
+      "sentence": "This time, a deep, fierce growl answered back.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-03/growl.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "低吼声；咆哮声",
+        "蜿蜒滑行；爬行",
+        "挤压；勒紧"
+      ]
+    },
+    {
+      "id": "twilight",
+      "word": "twilight",
+      "forms": [
+        "twilight"
+      ],
+      "tier": "core",
+      "phonetic": "/'twailait/",
+      "partOfSpeech": "n.",
+      "meaning": "暮色；黄昏",
+      "wordForms": "原文词形：twilight",
+      "sentence": "The bright orange had faded to a twilight gray.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-03/twilight.mp3",
+      "phonics": [
+        {
+          "letters": "tw",
+          "sound": "/tw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "暮色；黄昏",
+        "吞下；咽下",
+        "蟒蛇；巨蟒"
+      ]
+    },
+    {
+      "id": "slithering",
+      "word": "slither",
+      "forms": [
+        "slither",
+        "slithers",
+        "slithered",
+        "slithering"
+      ],
+      "tier": "core",
+      "phonetic": "/'sliðә/",
+      "partOfSpeech": "v.",
+      "meaning": "蜿蜒滑行；爬行",
+      "wordForms": "第三人称单数 slithers · 过去式 slithered · 现在分词 slithering",
+      "sentence": "The snake was slithering around the trunk.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-03/slithering.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "蜿蜒滑行；爬行",
+        "蟒蛇；巨蟒",
+        "暮色；黄昏"
+      ]
+    },
+    {
+      "id": "python",
+      "word": "python",
+      "forms": [
+        "python"
+      ],
+      "tier": "core",
+      "phonetic": "/'paiθɒn/",
+      "partOfSpeech": "n.",
+      "meaning": "蟒蛇；巨蟒",
+      "wordForms": "原文词形：python",
+      "sentence": "“A python,” breathed Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-03/python.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蟒蛇；巨蟒",
+        "蜿蜒滑行；爬行",
+        "凶猛的；猛烈的"
+      ]
+    },
+    {
+      "id": "poisonous",
+      "word": "poisonous",
+      "forms": [
+        "poisonous"
+      ],
+      "tier": "core",
+      "phonetic": "/'pɒizәnәs/",
+      "partOfSpeech": "adj.",
+      "meaning": "有毒的；恶毒的",
+      "wordForms": "原文词形：poisonous",
+      "sentence": "“Is it poisonous?”",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-03/poisonous.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oi",
+          "sound": "/ɔɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "有毒的；恶毒的",
+        "低吼声；咆哮声",
+        "凶猛的；猛烈的"
+      ]
+    },
+    {
+      "id": "prey",
+      "word": "prey",
+      "forms": [
+        "prey"
+      ],
+      "tier": "core",
+      "phonetic": "/prei/",
+      "partOfSpeech": "n.",
+      "meaning": "猎物",
+      "wordForms": "原文词形：prey",
+      "sentence": "To kill its prey, the python squeezes it to death, then swallows it whole.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-03/prey.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ey",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "猎物",
+        "吞下；咽下",
+        "蟒蛇；巨蟒"
+      ]
+    },
+    {
+      "id": "squeezes",
+      "word": "squeeze",
+      "forms": [
+        "squeeze",
+        "squeezes",
+        "squeezed",
+        "squeezing"
+      ],
+      "tier": "core",
+      "phonetic": "/skwi:z/",
+      "partOfSpeech": "v.",
+      "meaning": "挤压；勒紧",
+      "wordForms": "第三人称单数 squeezes · 过去式 squeezed · 现在分词 squeezing",
+      "sentence": "To kill its prey, the python squeezes it to death, then swallows it whole.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-03/squeezes.mp3",
+      "phonics": [
+        {
+          "letters": "squ",
+          "sound": "/skw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "挤压；勒紧",
+        "凶猛的；猛烈的",
+        "蟒蛇；巨蟒"
+      ]
+    },
+    {
+      "id": "swallow",
+      "word": "swallow",
+      "forms": [
+        "swallow",
+        "swallows",
+        "swallowed",
+        "swallowing"
+      ],
+      "tier": "core",
+      "phonetic": "/'swɒlәu/",
+      "partOfSpeech": "v.",
+      "meaning": "吞下；咽下",
+      "wordForms": "第三人称单数 swallows · 过去式 swallowed · 现在分词 swallowing",
+      "sentence": "A python can swallow an animal the size of a full-grown deer.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-03/swallow.mp3",
+      "phonics": [
+        {
+          "letters": "sw",
+          "sound": "/sw/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "吞下；咽下",
+        "猎物",
+        "低吼声；咆哮声"
+      ]
+    }
+  ]
+}

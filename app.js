@@ -110,6 +110,54 @@ const BOOKS = [
     audioStarts:[0,0,0,0,0,0,0,0,0,0],
     audio:i=>`assets/audio/book-14-chapter-${String(i+1).padStart(2,'0')}.mp3`,
     data:i=>`data/book-14-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-15', number:15, title:'Viking Ships at Sunrise', cn:'维京海盗船', world:'中世纪爱尔兰', badge:'⛵',
+    cardImage:'assets/images/book-15-scenes/chapter-05-scene-03.webp', cardAlt:'《维京海盗船》杰克和安妮在海边悬崖望见维京战船',
+    chapters:['Before Dawn','The Steep Climb','Brother Patrick','Books of Wonder','Warships on the Waves','The Vikings Are Coming!','Fogbound','Lost at Sea','Sea Monster!','Sunrise'],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-15-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-15-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-16', number:16, title:'Hour of the Olympics', cn:'古希腊奥运会', world:'古希腊·奥林匹亚', badge:'🏅',
+    cardImage:'assets/images/book-16-scenes/chapter-07-scene-01.webp', cardAlt:'《古希腊奥运会》杰克和安妮在古代奥林匹亚观看战车比赛',
+    chapters:['Just One More','Any Girls Here?','The Secret Poet','Not Fair!','Hi, Zeus','Mystery Man','Go! Go! Go!','Save Annie!','Fly Away Home',"They're All Here"],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-16-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-16-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-17', number:17, title:'Tonight on the Titanic', cn:'泰坦尼克号遇险记', world:'1912年·北大西洋', badge:'🚢',
+    cardImage:'assets/images/book-17-scenes/chapter-02-scene-03.webp', cardAlt:'《泰坦尼克号遇险记》杰克和安妮登上夜色中的泰坦尼克号',
+    chapters:['A New Mission','The Unsinkable Ship','SOS','Put on Your Life Belts!','William and Lucy','Women and Children First','The Gift','Every Man for Himself','Time Stops','A Touch of Magic'],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-17-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-17-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-18', number:18, title:'Buffalo Before Breakfast', cn:'野牛之地', world:'北美大平原', badge:'🦬',
+    cardImage:'assets/images/book-18-scenes/chapter-05-scene-03.webp', cardAlt:'《野牛之地》杰克和安妮在大平原上望见成群的野牛',
+    chapters:["Teddy's Back!",'Ocean of Grass','Black Hawk','Good Manners','Sunlight and Midnight','Stampede!','White Buffalo Woman','Sacred Circle','Lakota School','Good Medicine'],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-18-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-18-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-19', number:19, title:'Tigers at Twilight', cn:'丛林猛虎', world:'印度丛林', badge:'🐅',
+    cardImage:'assets/images/book-19-scenes/chapter-04-scene-02.webp', cardAlt:'《丛林猛虎》暮色丛林中一只老虎腾空扑来',
+    chapters:['How Far Away?','Kah and Ko','Life or Death','Swing Time','Night Walk','Swamp Creature','Trapped!','Wonder Dog','The Hermit','Who Are You, Really?'],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-19-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-19-chapter-${String(i+1).padStart(2,'0')}.json`
+  },
+  {
+    id:'book-20', number:20, title:'Dingoes at Dinnertime', cn:'澳洲大火', world:'澳大利亚丛林', badge:'🦘',
+    cardImage:'assets/images/book-20-scenes/chapter-04-scene-01.webp', cardAlt:'《澳洲大火》杰克和安妮在澳洲丛林里帮助袋鼠妈妈和小袋鼠',
+    chapters:['The Last Gift','Sleepyhead','Big Foot','Joey','Wildfire','Hand to Hand','Rain, Rain, Rain','The Rainbow Serpent','What Boy?','Dreamtime'],
+    audioStarts:[0,0,0,0,0,0,0,0,0,0],
+    audio:i=>`assets/audio/book-20-chapter-${String(i+1).padStart(2,'0')}.mp3`,
+    data:i=>`data/book-20-chapter-${String(i+1).padStart(2,'0')}.json`
   }
 ];
 
@@ -131,7 +179,7 @@ let chapterRequestId=0;
 const pronunciationAudio=$('#pronunciationAudio');
 let activeTTS=null;
 let ttsRequestId=0;
-const DATA_VERSION='20260830-book14';
+const DATA_VERSION='20261017-book20';
 const jsonRequests=new Map();
 
 function currentBook(){return BOOKS[state.book]}

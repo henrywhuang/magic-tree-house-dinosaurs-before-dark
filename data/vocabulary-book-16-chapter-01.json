@@ -1,0 +1,382 @@
+{
+  "book": 16,
+  "chapter": 1,
+  "title": "Just One More",
+  "words": [
+    {
+      "id": "ancient",
+      "word": "ancient",
+      "forms": [
+        "ancient"
+      ],
+      "tier": "core",
+      "phonetic": "/'einʃәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "古代的；古老的",
+      "wordForms": "原文词形：ancient",
+      "sentence": "“You must really be excited about going to ancient Greece,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-01/ancient.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "古代的；古老的",
+        "研究；调查",
+        "旅程；旅行"
+      ]
+    },
+    {
+      "id": "flashlight",
+      "word": "flashlight",
+      "forms": [
+        "flashlight"
+      ],
+      "tier": "core",
+      "phonetic": "/'flæʃlait/",
+      "partOfSpeech": "n.",
+      "meaning": "手电筒；闪光信号灯",
+      "wordForms": "原文词形：flashlight",
+      "sentence": "“I’ll carry the flashlight.”",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-01/flashlight.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "手电筒；闪光信号灯",
+        "任务；使命",
+        "勇敢的；无畏的"
+      ]
+    },
+    {
+      "id": "mission",
+      "word": "mission",
+      "forms": [
+        "mission"
+      ],
+      "tier": "core",
+      "phonetic": "/'miʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "任务；使命",
+      "wordForms": "原文词形：mission",
+      "sentence": "“Is this our last mission ever?”",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-01/mission.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sion",
+          "sound": "/ʒən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "任务；使命",
+        "勇敢的；无畏的",
+        "手电筒；闪光信号灯"
+      ]
+    },
+    {
+      "id": "brave",
+      "word": "brave",
+      "forms": [
+        "brave"
+      ],
+      "tier": "core",
+      "phonetic": "/breiv/",
+      "partOfSpeech": "adj.",
+      "meaning": "勇敢的；无畏的",
+      "wordForms": "原文词形：brave",
+      "sentence": "“You’re very brave to say that,” said Morgan.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-01/brave.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "勇敢的；无畏的",
+        "任务；使命",
+        "手电筒；闪光信号灯"
+      ]
+    },
+    {
+      "id": "journeys",
+      "word": "journey",
+      "forms": [
+        "journey",
+        "journeys"
+      ],
+      "tier": "core",
+      "phonetic": "/'dʒә:ni/",
+      "partOfSpeech": "n.",
+      "meaning": "旅程；旅行",
+      "wordForms": "原文词形：journeys",
+      "sentence": "“You’ve had three very hard journeys as Master Librarians.”",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-01/journeys.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ey",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "旅程；旅行",
+        "手电筒；闪光信号灯",
+        "颤抖；哆嗦"
+      ]
+    },
+    {
+      "id": "rustling",
+      "word": "rustle",
+      "forms": [
+        "rustle",
+        "rustles",
+        "rustled",
+        "rustling"
+      ],
+      "tier": "core",
+      "phonetic": "/'rʌsl/",
+      "partOfSpeech": "v.",
+      "meaning": "沙沙作响；发出沙沙声",
+      "wordForms": "第三人称单数 rustles · 过去式 rustled · 现在分词 rustling",
+      "sentence": "Jack heard a rustling sound.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-01/rustling.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "沙沙作响；发出沙沙声",
+        "旅程；旅行",
+        "古代的；古老的"
+      ]
+    },
+    {
+      "id": "research",
+      "word": "research",
+      "forms": [
+        "research"
+      ],
+      "tier": "core",
+      "phonetic": "/ri'sә:tʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "研究；调查",
+      "wordForms": "原文词形：research",
+      "sentence": "“For your research,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-01/research.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "研究；调查",
+        "旅程；旅行",
+        "颤抖；哆嗦"
+      ]
+    },
+    {
+      "id": "shivered",
+      "word": "shiver",
+      "forms": [
+        "shivered",
+        "shiver",
+        "shivers",
+        "shivering"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃivә/",
+      "partOfSpeech": "v.",
+      "meaning": "颤抖；哆嗦",
+      "wordForms": "第三人称单数 shivers · 过去式 shivered · 现在分词 shivering",
+      "sentence": "Jack shivered with excitement as he pointed at the book’s cover.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-01/shivered.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "颤抖；哆嗦",
+        "手电筒；闪光信号灯",
+        "旅程；旅行"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "book": 19,
+  "chapter": 7,
+  "title": "Trapped!",
+  "words": [
+    {
+      "id": "trap",
+      "word": "trap",
+      "forms": [
+        "trap"
+      ],
+      "tier": "core",
+      "phonetic": "/træp/",
+      "partOfSpeech": "n.",
+      "meaning": "陷阱；捕兽夹",
+      "wordForms": "原文词形：trap",
+      "sentence": "His front paw was caught in a trap.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-07/trap.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "陷阱；捕兽夹",
+        "灭绝；绝种",
+        "龇牙低吼；咆哮"
+      ]
+    },
+    {
+      "id": "struggling",
+      "word": "struggle",
+      "forms": [
+        "struggle",
+        "struggles",
+        "struggled",
+        "struggling"
+      ],
+      "tier": "core",
+      "phonetic": "/'strʌgl/",
+      "partOfSpeech": "v.",
+      "meaning": "挣扎；奋力",
+      "wordForms": "第三人称单数 struggles · 过去式 struggled · 现在分词 struggling",
+      "sentence": "“He’s worn out from struggling.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-07/struggling.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "挣扎；奋力",
+        "踮着脚走",
+        "杠杆；控制杆"
+      ]
+    },
+    {
+      "id": "steel",
+      "word": "steel",
+      "forms": [
+        "steel"
+      ],
+      "tier": "core",
+      "phonetic": "/sti:l/",
+      "partOfSpeech": "n.",
+      "meaning": "钢；钢铁",
+      "wordForms": "原文词形：steel",
+      "sentence": "Poachers catch Indian tigers with steel traps.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-07/steel.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "钢；钢铁",
+        "威严的；雄伟的",
+        "杠杆；控制杆"
+      ]
+    },
+    {
+      "id": "species",
+      "word": "species",
+      "forms": [
+        "species"
+      ],
+      "tier": "core",
+      "phonetic": "/'spi:ʃiz/",
+      "partOfSpeech": "n.",
+      "meaning": "物种；种类",
+      "wordForms": "原文词形：species",
+      "sentence": "Like the rhino, the tiger is a very endangered species.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-07/species.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "物种；种类",
+        "陷阱；捕兽夹",
+        "灭绝；绝种"
+      ]
+    },
+    {
+      "id": "extinction",
+      "word": "extinction",
+      "forms": [
+        "extinction"
+      ],
+      "tier": "core",
+      "phonetic": "/ik'stiŋkʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "灭绝；绝种",
+      "wordForms": "原文词形：extinction",
+      "sentence": "If the killing does not end, they both face extinction.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-07/extinction.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "x",
+          "sound": "/ks/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tion",
+          "sound": "/ʃən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "灭绝；绝种",
+        "威严的；雄伟的",
+        "杠杆；控制杆"
+      ]
+    },
+    {
+      "id": "majestic",
+      "word": "majestic",
+      "forms": [
+        "majestic"
+      ],
+      "tier": "core",
+      "phonetic": "/mә'dʒestik/",
+      "partOfSpeech": "adj.",
+      "meaning": "威严的；雄伟的",
+      "wordForms": "原文词形：majestic",
+      "sentence": "He was the most majestic creature Jack had ever seen.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-07/majestic.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "威严的；雄伟的",
+        "物种；种类",
+        "杠杆；控制杆"
+      ]
+    },
+    {
+      "id": "lever",
+      "word": "lever",
+      "forms": [
+        "lever"
+      ],
+      "tier": "core",
+      "phonetic": "/'levә/",
+      "partOfSpeech": "n.",
+      "meaning": "杠杆；控制杆",
+      "wordForms": "原文词形：lever",
+      "sentence": "Slowly, silently, Jack pushed down the lever.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-07/lever.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "杠杆；控制杆",
+        "挣扎；奋力",
+        "灭绝；绝种"
+      ]
+    },
+    {
+      "id": "tiptoeing",
+      "word": "tiptoe",
+      "forms": [
+        "tiptoe",
+        "tiptoes",
+        "tiptoed",
+        "tiptoeing"
+      ],
+      "tier": "core",
+      "phonetic": "/'tiptәu/",
+      "partOfSpeech": "v.",
+      "meaning": "踮着脚走",
+      "wordForms": "第三人称单数 tiptoes · 过去式 tiptoed · 现在分词 tiptoeing",
+      "sentence": "They started tiptoeing back toward the langurs.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-07/tiptoeing.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pt",
+          "sound": "/pt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oe",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "踮着脚走",
+        "灭绝；绝种",
+        "杠杆；控制杆"
+      ]
+    },
+    {
+      "id": "snarled",
+      "word": "snarl",
+      "forms": [
+        "snarl",
+        "snarls",
+        "snarled",
+        "snarling"
+      ],
+      "tier": "core",
+      "phonetic": "/snɑ:l/",
+      "partOfSpeech": "v.",
+      "meaning": "龇牙低吼；咆哮",
+      "wordForms": "第三人称单数 snarls · 过去式 snarled · 现在分词 snarling",
+      "sentence": "The tiger snarled at Jack and Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-07/snarled.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "龇牙低吼；咆哮",
+        "陷阱；捕兽夹",
+        "踮着脚走"
+      ]
+    }
+  ]
+}

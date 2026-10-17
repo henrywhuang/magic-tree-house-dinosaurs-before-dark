@@ -1,0 +1,394 @@
+{
+  "book": 18,
+  "chapter": 10,
+  "title": "Good Medicine",
+  "words": [
+    {
+      "id": "flooded",
+      "word": "flood",
+      "forms": [
+        "flood",
+        "floods",
+        "flooded",
+        "flooding"
+      ],
+      "tier": "core",
+      "phonetic": "/flʌd/",
+      "partOfSpeech": "v.",
+      "meaning": "（光线）涌入；充满",
+      "wordForms": "第三人称单数 floods · 过去式 flooded · 现在分词 flooding",
+      "sentence": "Bright sunlight flooded the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-10/flooded.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（光线）涌入；充满",
+        "相关的；有亲缘关系的",
+        "（风）猛刮；阵阵吹"
+      ]
+    },
+    {
+      "id": "feather",
+      "word": "feather",
+      "forms": [
+        "feather"
+      ],
+      "tier": "core",
+      "phonetic": "/'feðә/",
+      "partOfSpeech": "n.",
+      "meaning": "羽毛",
+      "wordForms": "原文词形：feather",
+      "sentence": "She took the eagle’s feather out of Jack’s backpack.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-10/feather.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "羽毛",
+        "远处；距离",
+        "树枝"
+      ]
+    },
+    {
+      "id": "tilted",
+      "word": "tilt",
+      "forms": [
+        "tilt",
+        "tilts",
+        "tilted",
+        "tilting"
+      ],
+      "tier": "core",
+      "phonetic": "/tilt/",
+      "partOfSpeech": "v.",
+      "meaning": "倾斜；歪（头）",
+      "wordForms": "第三人称单数 tilts · 过去式 tilted · 现在分词 tilting",
+      "sentence": "Teddy tilted his head and gave Jack a wise look.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-10/tilted.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lt",
+          "sound": "/lt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "倾斜；歪（头）",
+        "树枝",
+        "（光线）涌入；充满"
+      ]
+    },
+    {
+      "id": "distance",
+      "word": "distance",
+      "forms": [
+        "distance"
+      ],
+      "tier": "core",
+      "phonetic": "/'distәns/",
+      "partOfSpeech": "n.",
+      "meaning": "远处；距离",
+      "wordForms": "原文词形：distance",
+      "sentence": "A call came from the distance.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-10/distance.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "远处；距离",
+        "相关的；有亲缘关系的",
+        "（光线）涌入；充满"
+      ]
+    },
+    {
+      "id": "porch",
+      "word": "porch",
+      "forms": [
+        "porch"
+      ],
+      "tier": "core",
+      "phonetic": "/pɒ:tʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "门廊",
+      "wordForms": "原文词形：porch",
+      "sentence": "Their mom and their grandmother were standing on their porch.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-10/porch.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "门廊",
+        "倾斜；歪（头）",
+        "挥动；摇摆"
+      ]
+    },
+    {
+      "id": "gusted",
+      "word": "gust",
+      "forms": [
+        "gust",
+        "gusts",
+        "gusted",
+        "gusting"
+      ],
+      "tier": "core",
+      "phonetic": "/gʌst/",
+      "partOfSpeech": "v.",
+      "meaning": "（风）猛刮；阵阵吹",
+      "wordForms": "第三人称单数 gusts · 过去式 gusted · 现在分词 gusting",
+      "sentence": "As they started for home, a wind gusted through the trees.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-10/gusted.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "（风）猛刮；阵阵吹",
+        "（光线）涌入；充满",
+        "相关的；有亲缘关系的"
+      ]
+    },
+    {
+      "id": "branches",
+      "word": "branch",
+      "forms": [
+        "branch",
+        "Branches"
+      ],
+      "tier": "core",
+      "phonetic": "/bræntʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "树枝",
+      "wordForms": "原文词形：Branches",
+      "sentence": "Branches waved their leaves.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-10/branches.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "树枝",
+        "挥动；摇摆",
+        "相关的；有亲缘关系的"
+      ]
+    },
+    {
+      "id": "waved",
+      "word": "wave",
+      "forms": [
+        "wave",
+        "waves",
+        "waved",
+        "waving"
+      ],
+      "tier": "core",
+      "phonetic": "/weiv/",
+      "partOfSpeech": "v.",
+      "meaning": "挥动；摇摆",
+      "wordForms": "第三人称单数 waves · 过去式 waved · 现在分词 waving",
+      "sentence": "Branches waved their leaves.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-10/waved.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "挥动；摇摆",
+        "门廊",
+        "远处；距离"
+      ]
+    },
+    {
+      "id": "related",
+      "word": "related",
+      "forms": [
+        "related"
+      ],
+      "tier": "core",
+      "phonetic": "/ri'leitid/",
+      "partOfSpeech": "adj.",
+      "meaning": "相关的；有亲缘关系的",
+      "wordForms": "原文词形：related",
+      "sentence": "All things are related.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-10/related.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "相关的；有亲缘关系的",
+        "羽毛",
+        "（光线）涌入；充满"
+      ]
+    }
+  ]
+}

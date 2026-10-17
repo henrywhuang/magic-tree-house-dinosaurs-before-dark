@@ -1,0 +1,386 @@
+{
+  "book": 16,
+  "chapter": 5,
+  "title": "Hi, Zeus",
+  "words": [
+    {
+      "id": "chariot",
+      "word": "chariot",
+      "forms": [
+        "chariot"
+      ],
+      "tier": "core",
+      "phonetic": "/'tʃæriәt/",
+      "partOfSpeech": "n.",
+      "meaning": "二轮战车",
+      "wordForms": "原文词形：chariot",
+      "sentence": "“This is the very first day of the games,” Plato told Jack, “the day of the chariot races.”",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-05/chariot.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "二轮战车",
+        "神庙；庙宇",
+        "神圣的；神圣不可侵犯的"
+      ]
+    },
+    {
+      "id": "gymnasium",
+      "word": "gymnasium",
+      "forms": [
+        "gymnasium"
+      ],
+      "tier": "core",
+      "phonetic": "/dʒim'neiziәm/",
+      "partOfSpeech": "n.",
+      "meaning": "健身房；体育馆",
+      "wordForms": "原文词形：gymnasium",
+      "sentence": "“That is the gymnasium,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-05/gymnasium.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "健身房；体育馆",
+        "运动员；运动选手",
+        "王座；君主"
+      ]
+    },
+    {
+      "id": "athletes",
+      "word": "athlete",
+      "forms": [
+        "athlete",
+        "athletes"
+      ],
+      "tier": "core",
+      "phonetic": "/'æθli:t/",
+      "partOfSpeech": "n.",
+      "meaning": "运动员；运动选手",
+      "wordForms": "原文词形：athletes",
+      "sentence": "“It is where our athletes train.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-05/athletes.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "运动员；运动选手",
+        "神庙；庙宇",
+        "健身房；体育馆"
+      ]
+    },
+    {
+      "id": "sacred",
+      "word": "sacred",
+      "forms": [
+        "sacred"
+      ],
+      "tier": "core",
+      "phonetic": "/'seikrid/",
+      "partOfSpeech": "adj.",
+      "meaning": "神圣的；神圣不可侵犯的",
+      "wordForms": "原文词形：sacred",
+      "sentence": "“The olive tree is our sacred tree,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-05/sacred.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "神圣的；神圣不可侵犯的",
+        "神庙；庙宇",
+        "王座；君主"
+      ]
+    },
+    {
+      "id": "statue",
+      "word": "statue",
+      "forms": [
+        "statue"
+      ],
+      "tier": "core",
+      "phonetic": "/'stætju/",
+      "partOfSpeech": "n.",
+      "meaning": "雕像；塑像",
+      "wordForms": "原文词形：statue",
+      "sentence": "Next they passed a beautiful statue of a winged lady.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-05/statue.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ue",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "雕像；塑像",
+        "二轮战车",
+        "健身房；体育馆"
+      ]
+    },
+    {
+      "id": "victory",
+      "word": "victory",
+      "forms": [
+        "victory"
+      ],
+      "tier": "core",
+      "phonetic": "/'viktәri/",
+      "partOfSpeech": "n.",
+      "meaning": "胜利；战胜",
+      "wordForms": "原文词形：victory",
+      "sentence": "“She’s Nike, the goddess of victory,” said Plato.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-05/victory.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ct",
+          "sound": "/ct/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "胜利；战胜",
+        "二轮战车",
+        "神圣的；神圣不可侵犯的"
+      ]
+    },
+    {
+      "id": "temple",
+      "word": "temple",
+      "forms": [
+        "temple"
+      ],
+      "tier": "core",
+      "phonetic": "/templ/",
+      "partOfSpeech": "n.",
+      "meaning": "神庙；庙宇",
+      "wordForms": "原文词形：temple",
+      "sentence": "It was a temple.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-05/temple.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "神庙；庙宇",
+        "运动员；运动选手",
+        "胜利；战胜"
+      ]
+    },
+    {
+      "id": "throne",
+      "word": "throne",
+      "forms": [
+        "throne"
+      ],
+      "tier": "core",
+      "phonetic": "/'θrәun/",
+      "partOfSpeech": "n.",
+      "meaning": "王座；君主",
+      "wordForms": "原文词形：throne",
+      "sentence": "It was a bearded man sitting on a throne.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-05/throne.mp3",
+      "phonics": [
+        {
+          "letters": "thr",
+          "sound": "/θr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "王座；君主",
+        "运动员；运动选手",
+        "二轮战车"
+      ]
+    }
+  ]
+}

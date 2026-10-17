@@ -1,0 +1,441 @@
+{
+  "book": 17,
+  "chapter": 4,
+  "title": "Put on Your Life Belts!",
+  "words": [
+    {
+      "id": "stairway",
+      "word": "stairway",
+      "forms": [
+        "stairway"
+      ],
+      "tier": "core",
+      "phonetic": "/'stєәwei/",
+      "partOfSpeech": "n.",
+      "meaning": "楼梯；阶梯",
+      "wordForms": "原文词形：stairway",
+      "sentence": "They were at the top of the empty grand stairway.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-04/stairway.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "楼梯；阶梯",
+        "（轮船的）客舱；特等舱",
+        "平滑的；有光泽的"
+      ]
+    },
+    {
+      "id": "glossy",
+      "word": "glossy",
+      "forms": [
+        "glossy"
+      ],
+      "tier": "core",
+      "phonetic": "/'glɒ:si/",
+      "partOfSpeech": "adj.",
+      "meaning": "平滑的；有光泽的",
+      "wordForms": "原文词形：glossy",
+      "sentence": "It was made of dark, glossy wood.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-04/glossy.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "平滑的；有光泽的",
+        "长袍；睡袍",
+        "优雅的；端庄的"
+      ]
+    },
+    {
+      "id": "hallway",
+      "word": "hallway",
+      "forms": [
+        "hallway"
+      ],
+      "tier": "core",
+      "phonetic": "/'hɔ:lwei/",
+      "partOfSpeech": "n.",
+      "meaning": "走廊；过道",
+      "wordForms": "原文词形：hallway",
+      "sentence": "They hurried down the carpeted steps and into the first-class hallway.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-04/hallway.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ay",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "走廊；过道",
+        "平滑的；有光泽的",
+        "倾斜；歪斜"
+      ]
+    },
+    {
+      "id": "staterooms",
+      "word": "stateroom",
+      "forms": [
+        "stateroom",
+        "staterooms"
+      ],
+      "tier": "core",
+      "phonetic": "/'steitru:m/",
+      "partOfSpeech": "n.",
+      "meaning": "（轮船的）客舱；特等舱",
+      "wordForms": "原文词形：staterooms",
+      "sentence": "“These are the staterooms,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-04/staterooms.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（轮船的）客舱；特等舱",
+        "长袍；睡袍",
+        "倾斜；歪斜"
+      ]
+    },
+    {
+      "id": "slanting",
+      "word": "slant",
+      "forms": [
+        "slant",
+        "slants",
+        "slanted",
+        "slanting"
+      ],
+      "tier": "core",
+      "phonetic": "/slænt/",
+      "partOfSpeech": "v.",
+      "meaning": "倾斜；歪斜",
+      "wordForms": "第三人称单数 slants · 过去式 slanted · 现在分词 slanting",
+      "sentence": "“The floor’s slanting down.”",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-04/slanting.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "倾斜；歪斜",
+        "楼梯；阶梯",
+        "走廊；过道"
+      ]
+    },
+    {
+      "id": "elegant",
+      "word": "elegant",
+      "forms": [
+        "elegant"
+      ],
+      "tier": "core",
+      "phonetic": "/'eligәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "优雅的；端庄的",
+      "wordForms": "原文词形：elegant",
+      "sentence": "They wore elegant robes made of shiny cloth and velvet.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-04/elegant.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "优雅的；端庄的",
+        "走廊；过道",
+        "楼梯；阶梯"
+      ]
+    },
+    {
+      "id": "robes",
+      "word": "robe",
+      "forms": [
+        "robe",
+        "robes"
+      ],
+      "tier": "core",
+      "phonetic": "/rәub/",
+      "partOfSpeech": "n.",
+      "meaning": "长袍；睡袍",
+      "wordForms": "原文词形：robes",
+      "sentence": "They wore elegant robes made of shiny cloth and velvet.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-04/robes.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "长袍；睡袍",
+        "走廊；过道",
+        "平滑的；有光泽的"
+      ]
+    },
+    {
+      "id": "velvet",
+      "word": "velvet",
+      "forms": [
+        "velvet"
+      ],
+      "tier": "core",
+      "phonetic": "/'velvit/",
+      "partOfSpeech": "n.",
+      "meaning": "天鹅绒",
+      "wordForms": "原文词形：velvet",
+      "sentence": "They wore elegant robes made of shiny cloth and velvet.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-04/velvet.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "天鹅绒",
+        "高兴地；愉快地",
+        "走廊；过道"
+      ]
+    },
+    {
+      "id": "cheerfully",
+      "word": "cheerfully",
+      "forms": [
+        "cheerfully"
+      ],
+      "tier": "core",
+      "phonetic": "/'tʃiәfuli/",
+      "partOfSpeech": "adv.",
+      "meaning": "高兴地；愉快地",
+      "wordForms": "原文词形：cheerfully",
+      "sentence": "“There’s been a little accident,” the man in the uniform said cheerfully.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-04/cheerfully.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "高兴地；愉快地",
+        "倾斜；歪斜",
+        "优雅的；端庄的"
+      ]
+    }
+  ]
+}

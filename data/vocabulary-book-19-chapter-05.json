@@ -1,0 +1,408 @@
+{
+  "book": 19,
+  "chapter": 5,
+  "title": "Night Walk",
+  "words": [
+    {
+      "id": "escape",
+      "word": "escape",
+      "forms": [
+        "escape",
+        "escapes",
+        "escaped",
+        "escaping"
+      ],
+      "tier": "core",
+      "phonetic": "/i'skeip/",
+      "partOfSpeech": "v.",
+      "meaning": "逃脱；逃离",
+      "wordForms": "第三人称单数 escapes · 过去式 escaped · 现在分词 escaping",
+      "sentence": "“I know how to escape the tiger,” said Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-05/escape.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "逃脱；逃离",
+        "呻吟声；哀鸣",
+        "萤火虫"
+      ]
+    },
+    {
+      "id": "rumbling",
+      "word": "rumbling",
+      "forms": [
+        "rumbling"
+      ],
+      "tier": "core",
+      "phonetic": "/'rʌmb(ә)liŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "隆隆作响的",
+      "wordForms": "原文词形：rumbling",
+      "sentence": "The elephant let out a low rumbling sound and shifted her weight.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-05/rumbling.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "隆隆作响的",
+        "逃脱；逃离",
+        "脊柱；脊梁"
+      ]
+    },
+    {
+      "id": "wrinkled",
+      "word": "wrinkled",
+      "forms": [
+        "wrinkled"
+      ],
+      "tier": "core",
+      "phonetic": "/'riŋkld/",
+      "partOfSpeech": "adj.",
+      "meaning": "有皱纹的；起皱的",
+      "wordForms": "原文词形：wrinkled",
+      "sentence": "Her skin was rough and wrinkled.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-05/wrinkled.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "有皱纹的；起皱的",
+        "隆隆作响的",
+        "逃脱；逃离"
+      ]
+    },
+    {
+      "id": "fireflies",
+      "word": "firefly",
+      "forms": [
+        "firefly",
+        "Fireflies"
+      ],
+      "tier": "core",
+      "phonetic": "/'faiәflai/",
+      "partOfSpeech": "n.",
+      "meaning": "萤火虫",
+      "wordForms": "原文词形：Fireflies",
+      "sentence": "Fireflies blinked.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-05/fireflies.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "萤火虫",
+        "寒意；凉意",
+        "逃脱；逃离"
+      ]
+    },
+    {
+      "id": "chill",
+      "word": "chill",
+      "forms": [
+        "chill"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃil/",
+      "partOfSpeech": "n.",
+      "meaning": "寒意；凉意",
+      "wordForms": "原文词形：chill",
+      "sentence": "A chill went down Jack’s spine.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-05/chill.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "寒意；凉意",
+        "呻吟声；哀鸣",
+        "脊柱；脊梁"
+      ]
+    },
+    {
+      "id": "spine",
+      "word": "spine",
+      "forms": [
+        "spine"
+      ],
+      "tier": "core",
+      "phonetic": "/spain/",
+      "partOfSpeech": "n.",
+      "meaning": "脊柱；脊梁",
+      "wordForms": "原文词形：spine",
+      "sentence": "A chill went down Jack’s spine.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-05/spine.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "脊柱；脊梁",
+        "有皱纹的；起皱的",
+        "逃脱；逃离"
+      ]
+    },
+    {
+      "id": "moaning",
+      "word": "moaning",
+      "forms": [
+        "moaning"
+      ],
+      "tier": "core",
+      "phonetic": "/'məʊnɪŋ/",
+      "partOfSpeech": "n.",
+      "meaning": "呻吟声；哀鸣",
+      "wordForms": "原文词形：moaning",
+      "sentence": "The yowling turned into steady moaning.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-05/moaning.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "呻吟声；哀鸣",
+        "寒意；凉意",
+        "萤火虫"
+      ]
+    },
+    {
+      "id": "rhythm",
+      "word": "rhythm",
+      "forms": [
+        "rhythm"
+      ],
+      "tier": "core",
+      "phonetic": "/'riðәm/",
+      "partOfSpeech": "n.",
+      "meaning": "节奏；节拍",
+      "wordForms": "原文词形：rhythm",
+      "sentence": "Jack rocked in sleepy rhythm with Saba’s walk.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-05/rhythm.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "节奏；节拍",
+        "呻吟声；哀鸣",
+        "寒意；凉意"
+      ]
+    },
+    {
+      "id": "drifting",
+      "word": "drift",
+      "forms": [
+        "drift",
+        "drifts",
+        "drifted",
+        "drifting"
+      ],
+      "tier": "core",
+      "phonetic": "/drift/",
+      "partOfSpeech": "v.",
+      "meaning": "漂流；（意识）恍惚飘移",
+      "wordForms": "第三人称单数 drifts · 过去式 drifted · 现在分词 drifting",
+      "sentence": "He began drifting in and out of dreams—dreams of rocking in a boat under the dark treetops.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-05/drifting.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ft",
+          "sound": "/ft/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "漂流；（意识）恍惚飘移",
+        "呻吟声；哀鸣",
+        "节奏；节拍"
+      ]
+    }
+  ]
+}

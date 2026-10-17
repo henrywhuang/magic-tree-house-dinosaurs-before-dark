@@ -1,0 +1,376 @@
+{
+  "book": 19,
+  "chapter": 4,
+  "title": "Swing Time",
+  "words": [
+    {
+      "id": "vine",
+      "word": "vine",
+      "forms": [
+        "vine"
+      ],
+      "tier": "core",
+      "phonetic": "/vain/",
+      "partOfSpeech": "n.",
+      "meaning": "藤蔓；藤条",
+      "wordForms": "原文词形：vine",
+      "sentence": "Annie grabbed a vine.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-04/vine.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "藤蔓；藤条",
+        "匕首；短剑",
+        "大声咀嚼；津津有味地嚼"
+      ]
+    },
+    {
+      "id": "roar",
+      "word": "roar",
+      "forms": [
+        "roar"
+      ],
+      "tier": "core",
+      "phonetic": "/rɒ:/",
+      "partOfSpeech": "n.",
+      "meaning": "吼叫声；咆哮",
+      "wordForms": "原文词形：roar",
+      "sentence": "Suddenly, the forest shook with a great roar.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-04/roar.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "吼叫声；咆哮",
+        "（兽）群",
+        "昏暗；幽暗"
+      ]
+    },
+    {
+      "id": "flame",
+      "word": "flame",
+      "forms": [
+        "flame"
+      ],
+      "tier": "core",
+      "phonetic": "/fleim/",
+      "partOfSpeech": "n.",
+      "meaning": "火焰；火舌",
+      "wordForms": "原文词形：flame",
+      "sentence": "Like a flame, a tiger leaped up from the bushes!",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-04/flame.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "火焰；火舌",
+        "（眼睛）冒火；闪耀",
+        "嘎吱嘎吱地嚼"
+      ]
+    },
+    {
+      "id": "blazed",
+      "word": "blaze",
+      "forms": [
+        "blaze",
+        "blazes",
+        "blazed",
+        "blazing"
+      ],
+      "tier": "core",
+      "phonetic": "/bleiz/",
+      "partOfSpeech": "v.",
+      "meaning": "（眼睛）冒火；闪耀",
+      "wordForms": "第三人称单数 blazes · 过去式 blazed · 现在分词 blazing",
+      "sentence": "His yellow eyes blazed.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-04/blazed.mp3",
+      "phonics": [
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（眼睛）冒火；闪耀",
+        "匕首；短剑",
+        "大声咀嚼；津津有味地嚼"
+      ]
+    },
+    {
+      "id": "daggers",
+      "word": "dagger",
+      "forms": [
+        "dagger",
+        "daggers"
+      ],
+      "tier": "core",
+      "phonetic": "/'dægә/",
+      "partOfSpeech": "n.",
+      "meaning": "匕首；短剑",
+      "wordForms": "原文词形：daggers",
+      "sentence": "His teeth shone like daggers.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-04/daggers.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "匕首；短剑",
+        "嘎吱嘎吱地嚼",
+        "吼叫声；咆哮"
+      ]
+    },
+    {
+      "id": "crunching",
+      "word": "crunch",
+      "forms": [
+        "crunch",
+        "crunches",
+        "crunched",
+        "crunching"
+      ],
+      "tier": "core",
+      "phonetic": "/krʌntʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "嘎吱嘎吱地嚼",
+      "wordForms": "第三人称单数 crunches · 过去式 crunched · 现在分词 crunching",
+      "sentence": "From below came loud sounds of chewing, smacking, and crunching.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-04/crunching.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "嘎吱嘎吱地嚼",
+        "吼叫声；咆哮",
+        "匕首；短剑"
+      ]
+    },
+    {
+      "id": "gloom",
+      "word": "gloom",
+      "forms": [
+        "gloom"
+      ],
+      "tier": "core",
+      "phonetic": "/glu:m/",
+      "partOfSpeech": "n.",
+      "meaning": "昏暗；幽暗",
+      "wordForms": "原文词形：gloom",
+      "sentence": "In the gray gloom, they saw a herd of elephants.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-04/gloom.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "昏暗；幽暗",
+        "大声咀嚼；津津有味地嚼",
+        "（兽）群"
+      ]
+    },
+    {
+      "id": "herd",
+      "word": "herd",
+      "forms": [
+        "herd"
+      ],
+      "tier": "core",
+      "phonetic": "/hә:d/",
+      "partOfSpeech": "n.",
+      "meaning": "（兽）群",
+      "wordForms": "原文词形：herd",
+      "sentence": "In the gray gloom, they saw a herd of elephants.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-04/herd.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（兽）群",
+        "嘎吱嘎吱地嚼",
+        "大声咀嚼；津津有味地嚼"
+      ]
+    },
+    {
+      "id": "munched",
+      "word": "munch",
+      "forms": [
+        "munch",
+        "munches",
+        "munched",
+        "munching"
+      ],
+      "tier": "core",
+      "phonetic": "/mʌntʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "大声咀嚼；津津有味地嚼",
+      "wordForms": "第三人称单数 munches · 过去式 munched · 现在分词 munching",
+      "sentence": "Others munched grass.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-04/munched.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "大声咀嚼；津津有味地嚼",
+        "匕首；短剑",
+        "吼叫声；咆哮"
+      ]
+    }
+  ]
+}

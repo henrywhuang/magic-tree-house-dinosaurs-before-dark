@@ -41,6 +41,10 @@ def rule_past(w):
     if re.search(r'[^aeiou][aeiou][^aeiouwxy]$', w) and len(w) <= 5: return w + w[-1] + 'ed'
     return w + 'ed'
 
+# ECDICT merges homographs' inflections (bound "to leap" gets bind's past "bound").
+FORM_FIXES = {'bound': ('bounds', 'bounded', 'bounding')}
+
+
 def is_verb(pos):
     return pos.strip().lower().startswith('v')
 
@@ -121,7 +125,14 @@ def main():
             if not is_verb(w['partOfSpeech']):
                 continue
             surface = w['word']
-            lemma = resolve_lemma(surface, ec)
+            # A headword a per-book OVERRIDE already set to a base verb (it differs
+            # from the text surface) is authoritative: ECDICT would turn
+            # bound("bounding") into bind.
+            original = (w.get('forms') or [surface])[-1].lower()
+            if surface.lower() != original and is_base_verb(surface.lower(), ec):
+                lemma = surface.lower()
+            else:
+                lemma = resolve_lemma(surface, ec)
             if not lemma:
                 skipped.append(surface)
                 continue
@@ -129,6 +140,7 @@ def main():
             third = le.get('3') or rule_third(lemma)
             past = le.get('p') or rule_past(lemma)
             ing = le.get('i') or rule_ing(lemma)
+            third, past, ing = FORM_FIXES.get(lemma, (third, past, ing))
             w['word'] = lemma
             ph = get_phonetic(lemma, ec)
             if ph:

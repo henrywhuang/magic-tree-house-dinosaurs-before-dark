@@ -1,0 +1,400 @@
+{
+  "book": 18,
+  "chapter": 2,
+  "title": "Ocean of Grass",
+  "words": [
+    {
+      "id": "buckskin",
+      "word": "buckskin",
+      "forms": [
+        "buckskin"
+      ],
+      "tier": "core",
+      "phonetic": "/'bʌkskin/",
+      "partOfSpeech": "n.",
+      "meaning": "鹿皮；鹿皮衣",
+      "wordForms": "原文词形：buckskin",
+      "sentence": "Jack had on a buckskin shirt and pants.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-02/buckskin.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "sk",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "鹿皮；鹿皮衣",
+        "使发痒；挠痒",
+        "起伏的；泛起波纹的"
+      ]
+    },
+    {
+      "id": "fringed",
+      "word": "fringed",
+      "forms": [
+        "fringed"
+      ],
+      "tier": "core",
+      "phonetic": "/frindʒd/",
+      "partOfSpeech": "adj.",
+      "meaning": "带流苏的；有缘饰的",
+      "wordForms": "原文词形：fringed",
+      "sentence": "Annie wore a fringed buckskin dress.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-02/fringed.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "带流苏的；有缘饰的",
+        "海洋；一大片",
+        "使发痒；挠痒"
+      ]
+    },
+    {
+      "id": "vast",
+      "word": "vast",
+      "forms": [
+        "vast"
+      ],
+      "tier": "core",
+      "phonetic": "/vɑ:st/",
+      "partOfSpeech": "adj.",
+      "meaning": "广阔的；巨大的",
+      "wordForms": "原文词形：vast",
+      "sentence": "The tree house sat in a lone tree in a vast golden prairie.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-02/vast.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "广阔的；巨大的",
+        "打喷嚏",
+        "带流苏的；有缘饰的"
+      ]
+    },
+    {
+      "id": "whispered",
+      "word": "whisper",
+      "forms": [
+        "whisper",
+        "whispers",
+        "whispered",
+        "whispering"
+      ],
+      "tier": "core",
+      "phonetic": "/'hwispә/",
+      "partOfSpeech": "v.",
+      "meaning": "（风）沙沙作响；低声说",
+      "wordForms": "第三人称单数 whispers · 过去式 whispered · 现在分词 whispering",
+      "sentence": "Wind whispered through the tall yellow grass.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-02/whispered.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "（风）沙沙作响；低声说",
+        "海洋；一大片",
+        "使发痒；挠痒"
+      ]
+    },
+    {
+      "id": "ocean",
+      "word": "ocean",
+      "forms": [
+        "ocean"
+      ],
+      "tier": "core",
+      "phonetic": "/'әuʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "海洋；一大片",
+      "wordForms": "原文词形：ocean",
+      "sentence": "Some called it “an ocean of grass.”",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-02/ocean.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "海洋；一大片",
+        "广阔的；巨大的",
+        "（风）沙沙作响；低声说"
+      ]
+    },
+    {
+      "id": "tickled",
+      "word": "tickle",
+      "forms": [
+        "tickle",
+        "tickles",
+        "tickled",
+        "tickling"
+      ],
+      "tier": "core",
+      "phonetic": "/'tikl/",
+      "partOfSpeech": "v.",
+      "meaning": "使发痒；挠痒",
+      "wordForms": "第三人称单数 tickles · 过去式 tickled · 现在分词 tickling",
+      "sentence": "It tickled his nose.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-02/tickled.mp3",
+      "phonics": [
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "使发痒；挠痒",
+        "打喷嚏",
+        "广阔的；巨大的"
+      ]
+    },
+    {
+      "id": "sneezed",
+      "word": "sneeze",
+      "forms": [
+        "sneeze",
+        "sneezes",
+        "sneezed",
+        "sneezing"
+      ],
+      "tier": "core",
+      "phonetic": "/sni:z/",
+      "partOfSpeech": "v.",
+      "meaning": "打喷嚏",
+      "wordForms": "第三人称单数 sneezes · 过去式 sneezed · 现在分词 sneezing",
+      "sentence": "he sneezed.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-02/sneezed.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "打喷嚏",
+        "海洋；一大片",
+        "带流苏的；有缘饰的"
+      ]
+    },
+    {
+      "id": "rippling",
+      "word": "rippling",
+      "forms": [
+        "rippling"
+      ],
+      "tier": "core",
+      "phonetic": "/'ripliŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "起伏的；泛起波纹的",
+      "wordForms": "原文词形：rippling",
+      "sentence": "But he kept going through the tall, rippling grass.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-02/rippling.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "起伏的；泛起波纹的",
+        "广阔的；巨大的",
+        "带流苏的；有缘饰的"
+      ]
+    },
+    {
+      "id": "slope",
+      "word": "slope",
+      "forms": [
+        "slope"
+      ],
+      "tier": "core",
+      "phonetic": "/slәup/",
+      "partOfSpeech": "n.",
+      "meaning": "斜坡；山坡",
+      "wordForms": "原文词形：slope",
+      "sentence": "They went down a small slope, then up a small rise.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-02/slope.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "斜坡；山坡",
+        "打喷嚏",
+        "海洋；一大片"
+      ]
+    }
+  ]
+}

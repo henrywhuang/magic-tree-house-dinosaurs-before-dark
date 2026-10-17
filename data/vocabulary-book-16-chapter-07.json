@@ -1,0 +1,360 @@
+{
+  "book": 16,
+  "chapter": 7,
+  "title": "Go! Go! Go!",
+  "words": [
+    {
+      "id": "horror",
+      "word": "horror",
+      "forms": [
+        "horror"
+      ],
+      "tier": "core",
+      "phonetic": "/'hɒrә/",
+      "partOfSpeech": "n.",
+      "meaning": "惊骇；恐怖",
+      "wordForms": "原文词形：horror",
+      "sentence": "Jack stared in horror at Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-07/horror.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "惊骇；恐怖",
+        "二轮战车",
+        "辫子；发辫"
+      ]
+    },
+    {
+      "id": "costume",
+      "word": "costume",
+      "forms": [
+        "costume"
+      ],
+      "tier": "core",
+      "phonetic": "/'kɒstju:m/",
+      "partOfSpeech": "n.",
+      "meaning": "装束；服装",
+      "wordForms": "原文词形：costume",
+      "sentence": "She must have borrowed a costume from the theater!",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-07/costume.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "装束；服装",
+        "惊骇；恐怖",
+        "喇叭；小号"
+      ]
+    },
+    {
+      "id": "glared",
+      "word": "glare",
+      "forms": [
+        "glare",
+        "glares",
+        "glared",
+        "glaring"
+      ],
+      "tier": "core",
+      "phonetic": "/glєә/",
+      "partOfSpeech": "v.",
+      "meaning": "怒视；瞪眼",
+      "wordForms": "第三人称单数 glares · 过去式 glared · 现在分词 glaring",
+      "sentence": "He glared at Annie’s back.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-07/glared.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "怒视；瞪眼",
+        "惊骇；恐怖",
+        "二轮战车"
+      ]
+    },
+    {
+      "id": "trumpet",
+      "word": "trumpet",
+      "forms": [
+        "trumpet"
+      ],
+      "tier": "core",
+      "phonetic": "/'trʌmpit/",
+      "partOfSpeech": "n.",
+      "meaning": "喇叭；小号",
+      "wordForms": "原文词形：trumpet",
+      "sentence": "Just then the trumpet sounded.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-07/trumpet.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "喇叭；小号",
+        "怒视；瞪眼",
+        "二轮战车"
+      ]
+    },
+    {
+      "id": "chariot",
+      "word": "chariot",
+      "forms": [
+        "chariot"
+      ],
+      "tier": "core",
+      "phonetic": "/'tʃæriәt/",
+      "partOfSpeech": "n.",
+      "meaning": "二轮战车",
+      "wordForms": "原文词形：chariot",
+      "sentence": "Each chariot was pulled by four horses.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-07/chariot.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "二轮战车",
+        "卫兵；警卫",
+        "喇叭；小号"
+      ]
+    },
+    {
+      "id": "dust",
+      "word": "dust",
+      "forms": [
+        "dust"
+      ],
+      "tier": "core",
+      "phonetic": "/dʌst/",
+      "partOfSpeech": "n.",
+      "meaning": "灰尘；尘埃",
+      "wordForms": "原文词形：dust",
+      "sentence": "Clouds of dust rose up as the chariots raced around the track.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-07/dust.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "灰尘；尘埃",
+        "惊骇；恐怖",
+        "二轮战车"
+      ]
+    },
+    {
+      "id": "pigtails",
+      "word": "pigtail",
+      "forms": [
+        "pigtail",
+        "pigtails"
+      ],
+      "tier": "core",
+      "phonetic": "/'pigteil/",
+      "partOfSpeech": "n.",
+      "meaning": "辫子；发辫",
+      "wordForms": "原文词形：pigtails",
+      "sentence": "Her pigtails flew up and down as she jumped and shouted, “Go!",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-07/pigtails.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "辫子；发辫",
+        "惊骇；恐怖",
+        "怒视；瞪眼"
+      ]
+    },
+    {
+      "id": "guards",
+      "word": "guard",
+      "forms": [
+        "guard",
+        "guards"
+      ],
+      "tier": "core",
+      "phonetic": "/gɑ:d/",
+      "partOfSpeech": "n.",
+      "meaning": "卫兵；警卫",
+      "wordForms": "原文词形：guards",
+      "sentence": "Someone shouted for the guards.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-07/guards.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "卫兵；警卫",
+        "装束；服装",
+        "喇叭；小号"
+      ]
+    }
+  ]
+}

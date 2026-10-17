@@ -1,0 +1,399 @@
+{
+  "book": 20,
+  "chapter": 6,
+  "title": "Hand to Hand",
+  "words": [
+    {
+      "id": "thump",
+      "word": "thump",
+      "forms": [
+        "thump",
+        "thumps",
+        "thumped",
+        "thumping"
+      ],
+      "tier": "core",
+      "phonetic": "/θʌmp/",
+      "partOfSpeech": "v.",
+      "meaning": "重重地撞；砰地敲击",
+      "wordForms": "第三人称单数 thumps · 过去式 thumped · 现在分词 thumping",
+      "sentence": "Suddenly Jack felt something thump against his leg.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-06/thump.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "重重地撞；砰地敲击",
+        "倾盆的；瓢泼的",
+        "隆隆声；轰响"
+      ]
+    },
+    {
+      "id": "howl",
+      "word": "howl",
+      "forms": [
+        "howl"
+      ],
+      "tier": "core",
+      "phonetic": "/haul/",
+      "partOfSpeech": "n.",
+      "meaning": "嚎叫；长嗥",
+      "wordForms": "原文词形：howl",
+      "sentence": "Teddy let out a howl.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-06/howl.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "嚎叫；长嗥",
+        "倾盆的；瓢泼的",
+        "隆隆声；轰响"
+      ]
+    },
+    {
+      "id": "amazing",
+      "word": "amazing",
+      "forms": [
+        "amazing"
+      ],
+      "tier": "core",
+      "phonetic": "/ә'meiziŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "惊人的；令人惊奇的",
+      "wordForms": "原文词形：amazing",
+      "sentence": "As he howled, an amazing thing happened.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-06/amazing.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "惊人的；令人惊奇的",
+        "手印",
+        "呼啸的；发出哨声的"
+      ]
+    },
+    {
+      "id": "handprints",
+      "word": "handprint",
+      "forms": [
+        "handprint",
+        "handprints"
+      ],
+      "tier": "core",
+      "phonetic": "/'hændprint/",
+      "partOfSpeech": "n.",
+      "meaning": "手印",
+      "wordForms": "原文词形：handprints",
+      "sentence": "Then glowing handprints appeared below the snake.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-06/handprints.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "手印",
+        "隆隆声；轰响",
+        "嚎叫；长嗥"
+      ]
+    },
+    {
+      "id": "despite",
+      "word": "despite",
+      "forms": [
+        "despite",
+        "Despite"
+      ],
+      "tier": "core",
+      "phonetic": "/di'spait/",
+      "partOfSpeech": "prep.",
+      "meaning": "尽管；虽然",
+      "wordForms": "原文词形：Despite",
+      "sentence": "Despite the glowing painting, the rock felt smooth and cool.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-06/despite.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "尽管；虽然",
+        "隆隆声；轰响",
+        "倾盆的；瓢泼的"
+      ]
+    },
+    {
+      "id": "breathe",
+      "word": "breathe",
+      "forms": [
+        "breathe",
+        "breathes",
+        "breathed",
+        "breathing"
+      ],
+      "tier": "core",
+      "phonetic": "/bri:ð/",
+      "partOfSpeech": "v.",
+      "meaning": "呼吸",
+      "wordForms": "第三人称单数 breathes · 过去式 breathed · 现在分词 breathing",
+      "sentence": "It almost seemed to breathe.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-06/breathe.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "呼吸",
+        "尽管；虽然",
+        "惊人的；令人惊奇的"
+      ]
+    },
+    {
+      "id": "whistling",
+      "word": "whistling",
+      "forms": [
+        "whistling"
+      ],
+      "tier": "core",
+      "phonetic": "/'hwisliŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "呼啸的；发出哨声的",
+      "wordForms": "原文词形：whistling",
+      "sentence": "A ghostlike whistling sound came through the darkness.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-06/whistling.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "呼啸的；发出哨声的",
+        "惊人的；令人惊奇的",
+        "手印"
+      ]
+    },
+    {
+      "id": "boom",
+      "word": "boom",
+      "forms": [
+        "boom"
+      ],
+      "tier": "core",
+      "phonetic": "/bu:m/",
+      "partOfSpeech": "n.",
+      "meaning": "隆隆声；轰响",
+      "wordForms": "原文词形：boom",
+      "sentence": "Then a loud boom.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-06/boom.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "隆隆声；轰响",
+        "呼吸",
+        "惊人的；令人惊奇的"
+      ]
+    },
+    {
+      "id": "pouring",
+      "word": "pouring",
+      "forms": [
+        "pouring"
+      ],
+      "tier": "core",
+      "phonetic": "/'pɔ:riŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "倾盆的；瓢泼的",
+      "wordForms": "原文词形：pouring",
+      "sentence": "Annie pulled Jack toward the mouth of the cave and out into a pouring rain.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-06/pouring.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "倾盆的；瓢泼的",
+        "尽管；虽然",
+        "手印"
+      ]
+    }
+  ]
+}

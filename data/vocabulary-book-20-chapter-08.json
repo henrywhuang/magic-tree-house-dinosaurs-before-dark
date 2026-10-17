@@ -1,0 +1,378 @@
+{
+  "book": 20,
+  "chapter": 8,
+  "title": "The Rainbow Serpent",
+  "words": [
+    {
+      "id": "nod",
+      "word": "nod",
+      "forms": [
+        "nod"
+      ],
+      "tier": "recognition",
+      "phonetic": "/nɒd/",
+      "partOfSpeech": "n.",
+      "meaning": "点头",
+      "wordForms": "原文词形：nod",
+      "sentence": "The kangaroo gave a little nod.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-08/nod.mp3"
+    },
+    {
+      "id": "studied",
+      "word": "study",
+      "forms": [
+        "study",
+        "studies",
+        "studied",
+        "studying"
+      ],
+      "tier": "core",
+      "phonetic": "/'stʌdi/",
+      "partOfSpeech": "v.",
+      "meaning": "仔细察看；端详",
+      "wordForms": "第三人称单数 studies · 过去式 studied · 现在分词 studying",
+      "sentence": "The rain stopped as Jack studied the piece of bark.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-08/studied.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "仔细察看；端详",
+        "湿热的；水汽弥漫的",
+        "艺术家；画家"
+      ]
+    },
+    {
+      "id": "myths",
+      "word": "myth",
+      "forms": [
+        "myth",
+        "myths"
+      ],
+      "tier": "core",
+      "phonetic": "/miθ/",
+      "partOfSpeech": "n.",
+      "meaning": "神话；传说",
+      "wordForms": "原文词形：myths",
+      "sentence": "Their myths take place in a time they call Dreamtime.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-08/myths.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "神话；传说",
+        "扭动；扭动着钻出",
+        "仔细察看；端详"
+      ]
+    },
+    {
+      "id": "artists",
+      "word": "artist",
+      "forms": [
+        "artist",
+        "artists"
+      ],
+      "tier": "core",
+      "phonetic": "/'ɑ:tist/",
+      "partOfSpeech": "n.",
+      "meaning": "艺术家；画家",
+      "wordForms": "原文词形：artists",
+      "sentence": "Aborigine artists paint the Rainbow Serpent on cave walls or on pieces of bark.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-08/artists.mp3",
+      "phonics": [
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "艺术家；画家",
+        "神话；传说",
+        "湿热的；水汽弥漫的"
+      ]
+    },
+    {
+      "id": "ceremony",
+      "word": "ceremony",
+      "forms": [
+        "ceremony"
+      ],
+      "tier": "core",
+      "phonetic": "/'serimәni/",
+      "partOfSpeech": "n.",
+      "meaning": "仪式；典礼",
+      "wordForms": "原文词形：ceremony",
+      "sentence": "“It was like a special ceremony.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-08/ceremony.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "仪式；典礼",
+        "皱眉",
+        "神话；传说"
+      ]
+    },
+    {
+      "id": "frowned",
+      "word": "frown",
+      "forms": [
+        "frown",
+        "frowns",
+        "frowned",
+        "frowning"
+      ],
+      "tier": "core",
+      "phonetic": "/fraun/",
+      "partOfSpeech": "v.",
+      "meaning": "皱眉",
+      "wordForms": "第三人称单数 frowns · 过去式 frowned · 现在分词 frowning",
+      "sentence": "Jack frowned.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-08/frowned.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "皱眉",
+        "扭动；扭动着钻出",
+        "艺术家；画家"
+      ]
+    },
+    {
+      "id": "explain",
+      "word": "explain",
+      "forms": [
+        "explain",
+        "explains",
+        "explained",
+        "explaining"
+      ],
+      "tier": "core",
+      "phonetic": "/ik'splein/",
+      "partOfSpeech": "v.",
+      "meaning": "解释；说明",
+      "wordForms": "第三人称单数 explains · 过去式 explained · 现在分词 explaining",
+      "sentence": "“And how do you explain that?”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-08/explain.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "x",
+          "sound": "/ks/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "pl",
+          "sound": "/pl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "解释；说明",
+        "仪式；典礼",
+        "艺术家；画家"
+      ]
+    },
+    {
+      "id": "steamy",
+      "word": "steamy",
+      "forms": [
+        "steamy"
+      ],
+      "tier": "core",
+      "phonetic": "/'sti:mi/",
+      "partOfSpeech": "adj.",
+      "meaning": "湿热的；水汽弥漫的",
+      "wordForms": "原文词形：steamy",
+      "sentence": "Then they all headed through the wet, steamy forest in the direction of the tree house.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-08/steamy.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "湿热的；水汽弥漫的",
+        "仔细察看；端详",
+        "神话；传说"
+      ]
+    },
+    {
+      "id": "wiggled",
+      "word": "wiggle",
+      "forms": [
+        "wiggle",
+        "wiggles",
+        "wiggled",
+        "wiggling"
+      ],
+      "tier": "core",
+      "phonetic": "/'wigl/",
+      "partOfSpeech": "v.",
+      "meaning": "扭动；扭动着钻出",
+      "wordForms": "第三人称单数 wiggles · 过去式 wiggled · 现在分词 wiggling",
+      "sentence": "Inside the tree house, Teddy wiggled out of the pack.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-08/wiggled.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "扭动；扭动着钻出",
+        "仔细察看；端详",
+        "皱眉"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "book": 19,
+  "chapter": 1,
+  "title": "How Far Away?",
+  "words": [
+    {
+      "id": "brave",
+      "word": "brave",
+      "forms": [
+        "brave"
+      ],
+      "tier": "core",
+      "phonetic": "/breiv/",
+      "partOfSpeech": "adj.",
+      "meaning": "勇敢的；无畏的",
+      "wordForms": "原文词形：brave",
+      "sentence": "“Yeah,” said Jack, “and brave.”",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-01/brave.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "勇敢的；无畏的",
+        "研究；资料查找",
+        "魔咒；咒语"
+      ]
+    },
+    {
+      "id": "peeking",
+      "word": "peek",
+      "forms": [
+        "peek",
+        "peeks",
+        "peeked",
+        "peeking"
+      ],
+      "tier": "core",
+      "phonetic": "/pi:k/",
+      "partOfSpeech": "v.",
+      "meaning": "偷看；探出头来",
+      "wordForms": "第三人称单数 peeks · 过去式 peeked · 现在分词 peeking",
+      "sentence": "A small dog with tan-colored fur was peeking out from the bushes.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-01/peeking.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "偷看；探出头来",
+        "打喷嚏",
+        "魔咒；咒语"
+      ]
+    },
+    {
+      "id": "glowed",
+      "word": "glow",
+      "forms": [
+        "glow",
+        "glows",
+        "glowed",
+        "glowing"
+      ],
+      "tier": "core",
+      "phonetic": "/glәu/",
+      "partOfSpeech": "v.",
+      "meaning": "发光；发亮",
+      "wordForms": "第三人称单数 glows · 过去式 glowed · 现在分词 glowing",
+      "sentence": "The Frog Creek woods glowed with late afternoon sunlight.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-01/glowed.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "发光；发亮",
+        "魔咒；咒语",
+        "研究；资料查找"
+      ]
+    },
+    {
+      "id": "ladder",
+      "word": "ladder",
+      "forms": [
+        "ladder"
+      ],
+      "tier": "core",
+      "phonetic": "/'lædә/",
+      "partOfSpeech": "n.",
+      "meaning": "梯子",
+      "wordForms": "原文词形：ladder",
+      "sentence": "The dog ran between the trees and finally stopped at a rope ladder.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-01/ladder.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "梯子",
+        "研究；资料查找",
+        "发光；发亮"
+      ]
+    },
+    {
+      "id": "sneezed",
+      "word": "sneeze",
+      "forms": [
+        "sneeze",
+        "sneezes",
+        "sneezed",
+        "sneezing"
+      ],
+      "tier": "core",
+      "phonetic": "/sni:z/",
+      "partOfSpeech": "v.",
+      "meaning": "打喷嚏",
+      "wordForms": "第三人称单数 sneezes · 过去式 sneezed · 现在分词 sneezing",
+      "sentence": "Teddy sneezed, as if to say, Of course!",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-01/sneezed.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "打喷嚏",
+        "魔咒；咒语",
+        "羽毛"
+      ]
+    },
+    {
+      "id": "spell",
+      "word": "spell",
+      "forms": [
+        "spell"
+      ],
+      "tier": "core",
+      "phonetic": "/spel/",
+      "partOfSpeech": "n.",
+      "meaning": "魔咒；咒语",
+      "wordForms": "原文词形：spell",
+      "sentence": "This little dog is under a spell and needs your help.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-01/spell.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "魔咒；咒语",
+        "研究；资料查找",
+        "勇敢的；无畏的"
+      ]
+    },
+    {
+      "id": "prairie",
+      "word": "prairie",
+      "forms": [
+        "prairie"
+      ],
+      "tier": "core",
+      "phonetic": "/'prєәri/",
+      "partOfSpeech": "n.",
+      "meaning": "大草原；草甸",
+      "wordForms": "原文词形：prairie",
+      "sentence": "A gift from the prairie blue,",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-01/prairie.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "大草原；草甸",
+        "打喷嚏",
+        "勇敢的；无畏的"
+      ]
+    },
+    {
+      "id": "feather",
+      "word": "feather",
+      "forms": [
+        "feather"
+      ],
+      "tier": "core",
+      "phonetic": "/'feðә/",
+      "partOfSpeech": "n.",
+      "meaning": "羽毛",
+      "wordForms": "原文词形：feather",
+      "sentence": "Jack touched the first two gifts, which they had already gotten: a pocket watch from the Titanic and an eagle’s feather from the Lakota Indians of the Great Plains.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-01/feather.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "羽毛",
+        "梯子",
+        "勇敢的；无畏的"
+      ]
+    },
+    {
+      "id": "research",
+      "word": "research",
+      "forms": [
+        "research"
+      ],
+      "tier": "core",
+      "phonetic": "/ri'sә:tʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "研究；资料查找",
+      "wordForms": "原文词形：research",
+      "sentence": "She and Jack looked around the tree house for one of the research books that Morgan always left them.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-01/research.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "研究；资料查找",
+        "偷看；探出头来",
+        "羽毛"
+      ]
+    }
+  ]
+}

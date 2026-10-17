@@ -1,0 +1,395 @@
+{
+  "book": 18,
+  "chapter": 6,
+  "title": "Stampede!",
+  "words": [
+    {
+      "id": "herd",
+      "word": "herd",
+      "forms": [
+        "herd"
+      ],
+      "tier": "core",
+      "phonetic": "/hә:d/",
+      "partOfSpeech": "n.",
+      "meaning": "（兽）群",
+      "wordForms": "原文词形：herd",
+      "sentence": "He found a picture of a buffalo herd.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-06/herd.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（兽）群",
+        "美洲野牛",
+        "呻吟般的；低鸣的"
+      ]
+    },
+    {
+      "id": "bison",
+      "word": "bison",
+      "forms": [
+        "bison"
+      ],
+      "tier": "core",
+      "phonetic": "/'baisәn/",
+      "partOfSpeech": "n.",
+      "meaning": "美洲野牛",
+      "wordForms": "原文词形：bison",
+      "sentence": "The true name of the buffalo is “bison.”",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-06/bison.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "美洲野牛",
+        "悄悄爬行；蹑手蹑脚地走",
+        "猛冲；冲锋"
+      ]
+    },
+    {
+      "id": "creeping",
+      "word": "creep",
+      "forms": [
+        "creep",
+        "creeps",
+        "crept",
+        "creeping"
+      ],
+      "tier": "core",
+      "phonetic": "/kri:p/",
+      "partOfSpeech": "v.",
+      "meaning": "悄悄爬行；蹑手蹑脚地走",
+      "wordForms": "第三人称单数 creeps · 过去式 crept · 现在分词 creeping",
+      "sentence": "He began creeping on all fours toward the buffalo.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-06/creeping.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "悄悄爬行；蹑手蹑脚地走",
+        "（兽群）受惊狂奔",
+        "毛发蓬乱的；毛茸茸的"
+      ]
+    },
+    {
+      "id": "alarmed",
+      "word": "alarmed",
+      "forms": [
+        "alarmed"
+      ],
+      "tier": "core",
+      "phonetic": "/ә'lɑ:m/",
+      "partOfSpeech": "adj.",
+      "meaning": "受惊的；惊恐的",
+      "wordForms": "原文词形：alarmed",
+      "sentence": "If one becomes alarmed by a hunter, he might start running and set off a terrifying stampede.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-06/alarmed.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "受惊的；惊恐的",
+        "悄悄爬行；蹑手蹑脚地走",
+        "（兽群）受惊狂奔"
+      ]
+    },
+    {
+      "id": "stampede",
+      "word": "stampede",
+      "forms": [
+        "stampede"
+      ],
+      "tier": "core",
+      "phonetic": "/stæm'pi:d/",
+      "partOfSpeech": "n.",
+      "meaning": "（兽群）受惊狂奔",
+      "wordForms": "原文词形：stampede",
+      "sentence": "If one becomes alarmed by a hunter, he might start running and set off a terrifying stampede.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-06/stampede.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "mp",
+          "sound": "/mp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（兽群）受惊狂奔",
+        "呻吟般的；低鸣的",
+        "（兽）群"
+      ]
+    },
+    {
+      "id": "moaning",
+      "word": "moaning",
+      "forms": [
+        "moaning"
+      ],
+      "tier": "core",
+      "phonetic": "/'məʊnɪŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "呻吟般的；低鸣的",
+      "wordForms": "原文词形：moaning",
+      "sentence": "It made a low, moaning sound.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-06/moaning.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "呻吟般的；低鸣的",
+        "猛冲；冲锋",
+        "毛发蓬乱的；毛茸茸的"
+      ]
+    },
+    {
+      "id": "charged",
+      "word": "charge",
+      "forms": [
+        "charge",
+        "charges",
+        "charged",
+        "charging"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃɑ:dʒ/",
+      "partOfSpeech": "v.",
+      "meaning": "猛冲；冲锋",
+      "wordForms": "第三人称单数 charges · 过去式 charged · 现在分词 charging",
+      "sentence": "Then it pointed its horns and charged!",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-06/charged.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "猛冲；冲锋",
+        "受惊的；惊恐的",
+        "（兽群）受惊狂奔"
+      ]
+    },
+    {
+      "id": "shaggy",
+      "word": "shaggy",
+      "forms": [
+        "shaggy"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃægi/",
+      "partOfSpeech": "adj.",
+      "meaning": "毛发蓬乱的；毛茸茸的",
+      "wordForms": "原文词形：shaggy",
+      "sentence": "A ripple went through the herd as other shaggy animals looked up.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-06/shaggy.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "毛发蓬乱的；毛茸茸的",
+        "躲闪；避开",
+        "猛冲；冲锋"
+      ]
+    },
+    {
+      "id": "dodging",
+      "word": "dodge",
+      "forms": [
+        "dodge",
+        "dodges",
+        "dodged",
+        "dodging"
+      ],
+      "tier": "core",
+      "phonetic": "/dɒdʒ/",
+      "partOfSpeech": "v.",
+      "meaning": "躲闪；避开",
+      "wordForms": "第三人称单数 dodges · 过去式 dodged · 现在分词 dodging",
+      "sentence": "The boy was still dodging the running buffalo.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-06/dodging.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dge",
+          "sound": "/dʒ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "躲闪；避开",
+        "悄悄爬行；蹑手蹑脚地走",
+        "猛冲；冲锋"
+      ]
+    }
+  ]
+}

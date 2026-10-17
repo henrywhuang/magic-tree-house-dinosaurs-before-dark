@@ -1,0 +1,362 @@
+{
+  "book": 15,
+  "chapter": 2,
+  "title": "The Steep Climb",
+  "words": [
+    {
+      "id": "leather",
+      "word": "leather",
+      "forms": [
+        "leather"
+      ],
+      "tier": "core",
+      "phonetic": "/'leðә/",
+      "partOfSpeech": "n.",
+      "meaning": "皮革",
+      "wordForms": "原文词形：leather",
+      "sentence": "He also wore leather slippers.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-02/leather.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "皮革",
+        "悬崖；绝壁",
+        "笔记本；手册"
+      ]
+    },
+    {
+      "id": "vanished",
+      "word": "vanish",
+      "forms": [
+        "vanished",
+        "vanish",
+        "vanishes",
+        "vanishing"
+      ],
+      "tier": "core",
+      "phonetic": "/'væniʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "消失；不见",
+      "wordForms": "第三人称单数 vanishes · 过去式 vanished · 现在分词 vanishing",
+      "sentence": "He opened it and read aloud: The early Middle Ages were once known as the “Dark Ages” because learning and culture nearly vanished throughout Europe.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-02/vanished.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "消失；不见",
+        "悬崖；绝壁",
+        "陡峭的；险峻的"
+      ]
+    },
+    {
+      "id": "monks",
+      "word": "monk",
+      "forms": [
+        "monk",
+        "monks"
+      ],
+      "tier": "core",
+      "phonetic": "/mʌŋk/",
+      "partOfSpeech": "n.",
+      "meaning": "修道士；僧侣",
+      "wordForms": "原文词形：monks",
+      "sentence": "Scholars today praise the brave Irish monks who helped keep Western civilization alive.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-02/monks.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "修道士；僧侣",
+        "皮革",
+        "陡峭的；险峻的"
+      ]
+    },
+    {
+      "id": "notebook",
+      "word": "notebook",
+      "forms": [
+        "notebook"
+      ],
+      "tier": "core",
+      "phonetic": "/'nәutbuk/",
+      "partOfSpeech": "n.",
+      "meaning": "笔记本；手册",
+      "wordForms": "原文词形：notebook",
+      "sentence": "Jack pulled out his notebook.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-02/notebook.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "笔记本；手册",
+        "修道士；僧侣",
+        "陡峭的；险峻的"
+      ]
+    },
+    {
+      "id": "cliff",
+      "word": "cliff",
+      "forms": [
+        "cliff"
+      ],
+      "tier": "core",
+      "phonetic": "/klif/",
+      "partOfSpeech": "n.",
+      "meaning": "悬崖；绝壁",
+      "wordForms": "原文词形：cliff",
+      "sentence": "“Hey, we’re on a cliff!”",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-02/cliff.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "悬崖；绝壁",
+        "笔记本；手册",
+        "消失；不见"
+      ]
+    },
+    {
+      "id": "glided",
+      "word": "glide",
+      "forms": [
+        "glide",
+        "glides",
+        "glided",
+        "gliding"
+      ],
+      "tier": "core",
+      "phonetic": "/glaid/",
+      "partOfSpeech": "v.",
+      "meaning": "滑翔；滑行",
+      "wordForms": "第三人称单数 glides · 过去式 glided · 现在分词 gliding",
+      "sentence": "Sea gulls swooped and glided above the sea.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-02/glided.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "滑翔；滑行",
+        "皮革",
+        "滑的；光滑的"
+      ]
+    },
+    {
+      "id": "steep",
+      "word": "steep",
+      "forms": [
+        "steep"
+      ],
+      "tier": "core",
+      "phonetic": "/sti:p/",
+      "partOfSpeech": "adj.",
+      "meaning": "陡峭的；险峻的",
+      "wordForms": "原文词形：steep",
+      "sentence": "She pointed to steep steps cut into the cliff.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-02/steep.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "陡峭的；险峻的",
+        "滑的；光滑的",
+        "皮革"
+      ]
+    },
+    {
+      "id": "slippery",
+      "word": "slippery",
+      "forms": [
+        "slippery"
+      ],
+      "tier": "core",
+      "phonetic": "/'slipәri/",
+      "partOfSpeech": "adj.",
+      "meaning": "滑的；光滑的",
+      "wordForms": "原文词形：slippery",
+      "sentence": "“They might be slippery.”",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-02/slippery.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "滑的；光滑的",
+        "陡峭的；险峻的",
+        "悬崖；绝壁"
+      ]
+    }
+  ]
+}

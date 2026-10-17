@@ -1,0 +1,388 @@
+{
+  "book": 16,
+  "chapter": 4,
+  "title": "Not Fair!",
+  "words": [
+    {
+      "id": "trouble",
+      "word": "trouble",
+      "forms": [
+        "trouble"
+      ],
+      "tier": "core",
+      "phonetic": "/'trʌbl/",
+      "partOfSpeech": "n.",
+      "meaning": "烦恼；麻烦",
+      "wordForms": "原文词形：trouble",
+      "sentence": "“But she will get in trouble if it is read in our land.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-04/trouble.mp3",
+      "phonics": [
+        {
+          "letters": "tr",
+          "sound": "/tr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "烦恼；麻烦",
+        "抱怨；发牢骚",
+        "民主政治；民主主义"
+      ]
+    },
+    {
+      "id": "promise",
+      "word": "promise",
+      "forms": [
+        "promise",
+        "promises",
+        "promised",
+        "promising"
+      ],
+      "tier": "core",
+      "phonetic": "/'prɒmis/",
+      "partOfSpeech": "v.",
+      "meaning": "承诺；保证",
+      "wordForms": "第三人称单数 promises · 过去式 promised · 现在分词 promising",
+      "sentence": "“I promise.”",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-04/promise.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "承诺；保证",
+        "烦恼；麻烦",
+        "鞠躬；弯腰"
+      ]
+    },
+    {
+      "id": "bowed",
+      "word": "bow",
+      "forms": [
+        "bow",
+        "bows",
+        "bowed",
+        "bowing"
+      ],
+      "tier": "core",
+      "phonetic": "/bәu.bau/",
+      "partOfSpeech": "v.",
+      "meaning": "鞠躬；弯腰",
+      "wordForms": "第三人称单数 bows · 过去式 bowed · 现在分词 bowing",
+      "sentence": "She bowed, then hurried out of the courtyard.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-04/bowed.mp3",
+      "phonics": [
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "鞠躬；弯腰",
+        "抱怨；发牢骚",
+        "自由；坦率"
+      ]
+    },
+    {
+      "id": "grumbled",
+      "word": "grumble",
+      "forms": [
+        "grumble",
+        "grumbles",
+        "grumbled",
+        "grumbling"
+      ],
+      "tier": "core",
+      "phonetic": "/'grʌmbl/",
+      "partOfSpeech": "v.",
+      "meaning": "抱怨；发牢骚",
+      "wordForms": "第三人称单数 grumbles · 过去式 grumbled · 现在分词 grumbling",
+      "sentence": "“Girls can’t write stories,” grumbled Annie.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-04/grumbled.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "抱怨；发牢骚",
+        "承诺；保证",
+        "自由；坦率"
+      ]
+    },
+    {
+      "id": "sighed",
+      "word": "sigh",
+      "forms": [
+        "sigh",
+        "sighs",
+        "sighed",
+        "sighing"
+      ],
+      "tier": "core",
+      "phonetic": "/sai/",
+      "partOfSpeech": "v.",
+      "meaning": "叹气；叹息",
+      "wordForms": "第三人称单数 sighs · 过去式 sighed · 现在分词 sighing",
+      "sentence": "Annie sighed.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-04/sighed.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "叹气；叹息",
+        "鞠躬；弯腰",
+        "公民；市民"
+      ]
+    },
+    {
+      "id": "democracy",
+      "word": "democracy",
+      "forms": [
+        "democracy"
+      ],
+      "tier": "core",
+      "phonetic": "/di'mɒkrәsi/",
+      "partOfSpeech": "n.",
+      "meaning": "民主政治；民主主义",
+      "wordForms": "原文词形：democracy",
+      "sentence": "“My country is a democracy.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-04/democracy.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "民主政治；民主主义",
+        "烦恼；麻烦",
+        "自由；坦率"
+      ]
+    },
+    {
+      "id": "freedom",
+      "word": "freedom",
+      "forms": [
+        "freedom"
+      ],
+      "tier": "core",
+      "phonetic": "/'fri:dәm/",
+      "partOfSpeech": "n.",
+      "meaning": "自由；坦率",
+      "wordForms": "原文词形：freedom",
+      "sentence": "We believe in freedom for our citizens.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-04/freedom.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "自由；坦率",
+        "民主政治；民主主义",
+        "承诺；保证"
+      ]
+    },
+    {
+      "id": "citizens",
+      "word": "citizen",
+      "forms": [
+        "citizen",
+        "citizens"
+      ],
+      "tier": "core",
+      "phonetic": "/'sitizn/",
+      "partOfSpeech": "n.",
+      "meaning": "公民；市民",
+      "wordForms": "原文词形：citizens",
+      "sentence": "We believe in freedom for our citizens.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-04/citizens.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "公民；市民",
+        "烦恼；麻烦",
+        "民主政治；民主主义"
+      ]
+    }
+  ]
+}

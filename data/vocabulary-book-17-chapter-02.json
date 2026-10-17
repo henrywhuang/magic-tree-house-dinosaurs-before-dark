@@ -1,0 +1,452 @@
+{
+  "book": 17,
+  "chapter": 2,
+  "title": "The Unsinkable Ship",
+  "words": [
+    {
+      "id": "cloak",
+      "word": "cloak",
+      "forms": [
+        "cloak"
+      ],
+      "tier": "core",
+      "phonetic": "/klәuk/",
+      "partOfSpeech": "n.",
+      "meaning": "斗篷；披风",
+      "wordForms": "原文词形：cloak",
+      "sentence": "Instead of pajamas and a poncho, she wore a sailor dress and a long wool cloak.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-02/cloak.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "斗篷；披风",
+        "震动；颠簸",
+        "闪烁；闪耀"
+      ]
+    },
+    {
+      "id": "overcoat",
+      "word": "overcoat",
+      "forms": [
+        "overcoat"
+      ],
+      "tier": "core",
+      "phonetic": "/'әuvәkәut/",
+      "partOfSpeech": "n.",
+      "meaning": "外套大衣",
+      "wordForms": "原文词形：overcoat",
+      "sentence": "Jack had on an overcoat and knee-length pants with long socks.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-02/overcoat.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "外套大衣",
+        "震动；颠簸",
+        "航行；航海"
+      ]
+    },
+    {
+      "id": "glittered",
+      "word": "glitter",
+      "forms": [
+        "glitter",
+        "glitters",
+        "glittered",
+        "glittering"
+      ],
+      "tier": "core",
+      "phonetic": "/'glitә/",
+      "partOfSpeech": "v.",
+      "meaning": "闪烁；闪耀",
+      "wordForms": "第三人称单数 glitters · 过去式 glittered · 现在分词 glittering",
+      "sentence": "The moonless sky glittered with stars.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-02/glittered.mp3",
+      "phonics": [
+        {
+          "letters": "gl",
+          "sound": "/gl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "闪烁；闪耀",
+        "外套大衣",
+        "航行；航海"
+      ]
+    },
+    {
+      "id": "smokestacks",
+      "word": "smokestack",
+      "forms": [
+        "smokestack",
+        "smokestacks"
+      ],
+      "tier": "core",
+      "phonetic": "/'smәukstæk/",
+      "partOfSpeech": "n.",
+      "meaning": "烟囱",
+      "wordForms": "原文词形：smokestacks",
+      "sentence": "“We must have landed on the ship between the smokestacks,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-02/smokestacks.mp3",
+      "phonics": [
+        {
+          "letters": "sm",
+          "sound": "/sm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "烟囱",
+        "航行；航海",
+        "冰山"
+      ]
+    },
+    {
+      "id": "voyage",
+      "word": "voyage",
+      "forms": [
+        "voyage"
+      ],
+      "tier": "core",
+      "phonetic": "/'vɒiidʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "航行；航海",
+      "wordForms": "原文词形：voyage",
+      "sentence": "Late at night, on April 14, 1912, an English ocean liner was making her first voyage across the Atlantic Ocean.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-02/voyage.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oy",
+          "sound": "/ɔɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "航行；航海",
+        "乘客；旅客",
+        "斗篷；披风"
+      ]
+    },
+    {
+      "id": "passengers",
+      "word": "passenger",
+      "forms": [
+        "passenger",
+        "passengers"
+      ],
+      "tier": "core",
+      "phonetic": "/'pæsindʒә/",
+      "partOfSpeech": "n.",
+      "meaning": "乘客；旅客",
+      "wordForms": "原文词形：passengers",
+      "sentence": "Carrying 2,200 passengers, the ship was four city blocks long.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-02/passengers.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "乘客；旅客",
+        "斗篷；披风",
+        "闪烁；闪耀"
+      ]
+    },
+    {
+      "id": "unsinkable",
+      "word": "unsinkable",
+      "forms": [
+        "unsinkable"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʌn'siŋkәbl/",
+      "partOfSpeech": "adj.",
+      "meaning": "不会下沉的；不会沉底的",
+      "wordForms": "原文词形：unsinkable",
+      "sentence": "Most people believed the ship was unsinkable.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-02/unsinkable.mp3",
+      "phonics": [
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "不会下沉的；不会沉底的",
+        "冰山",
+        "航行；航海"
+      ]
+    },
+    {
+      "id": "iceberg",
+      "word": "iceberg",
+      "forms": [
+        "iceberg",
+        "Iceberg"
+      ],
+      "tier": "core",
+      "phonetic": "/'aisbә:g/",
+      "partOfSpeech": "n.",
+      "meaning": "冰山",
+      "wordForms": "原文词形：Iceberg",
+      "sentence": "Just then, a shout came from the lookouts’ nest: “Iceberg ahead!”",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-02/iceberg.mp3",
+      "phonics": [
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "冰山",
+        "烟囱",
+        "斗篷；披风"
+      ]
+    },
+    {
+      "id": "jolt",
+      "word": "jolt",
+      "forms": [
+        "jolt"
+      ],
+      "tier": "core",
+      "phonetic": "/dʒәult/",
+      "partOfSpeech": "n.",
+      "meaning": "震动；颠簸",
+      "wordForms": "原文词形：jolt",
+      "sentence": "Jack felt a jolt.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-02/jolt.mp3",
+      "phonics": [
+        {
+          "letters": "j",
+          "sound": "/dʒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "lt",
+          "sound": "/lt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "震动；颠簸",
+        "航行；航海",
+        "不会下沉的；不会沉底的"
+      ]
+    }
+  ]
+}

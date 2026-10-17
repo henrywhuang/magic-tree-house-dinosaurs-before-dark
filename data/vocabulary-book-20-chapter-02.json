@@ -1,0 +1,362 @@
+{
+  "book": 20,
+  "chapter": 2,
+  "title": "Sleepyhead",
+  "words": [
+    {
+      "id": "drought",
+      "word": "drought",
+      "forms": [
+        "drought"
+      ],
+      "tier": "core",
+      "phonetic": "/draut/",
+      "partOfSpeech": "n.",
+      "meaning": "干旱；旱灾",
+      "wordForms": "原文词形：drought",
+      "sentence": "Australia’s forests go through times of drought.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-02/drought.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "干旱；旱灾",
+        "刺耳的；粗厉的",
+        "嗅；闻"
+      ]
+    },
+    {
+      "id": "sniffed",
+      "word": "sniff",
+      "forms": [
+        "sniff",
+        "sniffs",
+        "sniffed",
+        "sniffing"
+      ],
+      "tier": "core",
+      "phonetic": "/snif/",
+      "partOfSpeech": "v.",
+      "meaning": "嗅；闻",
+      "wordForms": "第三人称单数 sniffs · 过去式 sniffed · 现在分词 sniffing",
+      "sentence": "Jack sniffed the air.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-02/sniffed.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "嗅；闻",
+        "威胁；危险",
+        "口渴的"
+      ]
+    },
+    {
+      "id": "emu",
+      "word": "emu",
+      "forms": [
+        "emu"
+      ],
+      "tier": "recognition",
+      "phonetic": "/'i:mju:/",
+      "partOfSpeech": "n.",
+      "meaning": "鸸鹋（澳洲大鸟，不会飞）",
+      "wordForms": "原文词形：emu",
+      "sentence": "The emu is a large bird that doesn’t fly.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-02/emu.mp3"
+    },
+    {
+      "id": "koala",
+      "word": "koala",
+      "forms": [
+        "koala"
+      ],
+      "tier": "core",
+      "phonetic": "/kә'ɑ:lә/",
+      "partOfSpeech": "n.",
+      "meaning": "考拉；树袋熊",
+      "wordForms": "原文词形：koala",
+      "sentence": "“It’s a koala bear,” said Jack.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-02/koala.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "考拉；树袋熊",
+        "口渴的",
+        "水分；湿气"
+      ]
+    },
+    {
+      "id": "marsupial",
+      "word": "marsupial",
+      "forms": [
+        "marsupial"
+      ],
+      "tier": "core",
+      "phonetic": "/mɑ:'sju:piәl/",
+      "partOfSpeech": "n.",
+      "meaning": "有袋动物",
+      "wordForms": "原文词形：marsupial",
+      "sentence": "It’s a marsupial, like a kangaroo.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-02/marsupial.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "有袋动物",
+        "考拉；树袋熊",
+        "口渴的"
+      ]
+    },
+    {
+      "id": "threat",
+      "word": "threat",
+      "forms": [
+        "threat"
+      ],
+      "tier": "core",
+      "phonetic": "/θret/",
+      "partOfSpeech": "n.",
+      "meaning": "威胁；危险",
+      "wordForms": "原文词形：threat",
+      "sentence": "Wildfires are also a threat.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-02/threat.mp3",
+      "phonics": [
+        {
+          "letters": "thr",
+          "sound": "/θr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "威胁；危险",
+        "有袋动物",
+        "嗅；闻"
+      ]
+    },
+    {
+      "id": "moisture",
+      "word": "moisture",
+      "forms": [
+        "moisture"
+      ],
+      "tier": "core",
+      "phonetic": "/'mɒistʃә/",
+      "partOfSpeech": "n.",
+      "meaning": "水分；湿气",
+      "wordForms": "原文词形：moisture",
+      "sentence": "They get moisture from the leaves they eat.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-02/moisture.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oi",
+          "sound": "/ɔɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ture",
+          "sound": "/tʃər/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "水分；湿气",
+        "口渴的",
+        "干旱；旱灾"
+      ]
+    },
+    {
+      "id": "thirsty",
+      "word": "thirsty",
+      "forms": [
+        "thirsty"
+      ],
+      "tier": "core",
+      "phonetic": "/'θә:sti/",
+      "partOfSpeech": "adj.",
+      "meaning": "口渴的",
+      "wordForms": "原文词形：thirsty",
+      "sentence": "“Speaking of water,” he said, “I’m thirsty.”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-02/thirsty.mp3",
+      "phonics": [
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "口渴的",
+        "考拉；树袋熊",
+        "刺耳的；粗厉的"
+      ]
+    },
+    {
+      "id": "harsh",
+      "word": "harsh",
+      "forms": [
+        "harsh"
+      ],
+      "tier": "core",
+      "phonetic": "/hɑ:ʃ/",
+      "partOfSpeech": "adj.",
+      "meaning": "刺耳的；粗厉的",
+      "wordForms": "原文词形：harsh",
+      "sentence": "Suddenly there was a loud, harsh cackle.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-02/harsh.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "刺耳的；粗厉的",
+        "嗅；闻",
+        "干旱；旱灾"
+      ]
+    }
+  ]
+}

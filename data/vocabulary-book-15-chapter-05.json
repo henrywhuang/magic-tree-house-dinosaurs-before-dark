@@ -1,0 +1,347 @@
+{
+  "book": 15,
+  "chapter": 5,
+  "title": "Warships on the Waves",
+  "words": [
+    {
+      "id": "horizon",
+      "word": "horizon",
+      "forms": [
+        "horizon"
+      ],
+      "tier": "core",
+      "phonetic": "/hә'raizәn/",
+      "partOfSpeech": "n.",
+      "meaning": "地平线；眼界",
+      "wordForms": "原文词形：horizon",
+      "sentence": "The horizon glowed pink and purple.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-05/horizon.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "地平线；眼界",
+        "闪耀；发出光辉",
+        "抓紧；紧握"
+      ]
+    },
+    {
+      "id": "fiery",
+      "word": "fiery",
+      "forms": [
+        "fiery"
+      ],
+      "tier": "core",
+      "phonetic": "/'faiәri/",
+      "partOfSpeech": "adj.",
+      "meaning": "炽热的；热烈的",
+      "wordForms": "原文词形：fiery",
+      "sentence": "No one spoke as the great, fiery ball rose slowly over the ocean.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-05/fiery.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "炽热的；热烈的",
+        "海鸥",
+        "岩架；突出的岩石"
+      ]
+    },
+    {
+      "id": "ocean",
+      "word": "ocean",
+      "forms": [
+        "ocean"
+      ],
+      "tier": "core",
+      "phonetic": "/'әuʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "海洋；大海",
+      "wordForms": "原文词形：ocean",
+      "sentence": "No one spoke as the great, fiery ball rose slowly over the ocean.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-05/ocean.mp3",
+      "phonics": [
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "海洋；大海",
+        "闪耀；发出光辉",
+        "炽热的；热烈的"
+      ]
+    },
+    {
+      "id": "voyage",
+      "word": "voyage",
+      "forms": [
+        "voyage"
+      ],
+      "tier": "core",
+      "phonetic": "/'vɒiidʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "航行；航海",
+      "wordForms": "原文词形：voyage",
+      "sentence": "“Now go, and may God be with you on your voyage home.”",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-05/voyage.mp3",
+      "phonics": [
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oy",
+          "sound": "/ɔɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "航行；航海",
+        "抓紧；紧握",
+        "闪耀；发出光辉"
+      ]
+    },
+    {
+      "id": "gulls",
+      "word": "gull",
+      "forms": [
+        "gull",
+        "gulls"
+      ],
+      "tier": "core",
+      "phonetic": "/gʌl/",
+      "partOfSpeech": "n.",
+      "meaning": "海鸥",
+      "wordForms": "原文词形：gulls",
+      "sentence": "Overhead, flocks of gulls circled in the purple sky.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-05/gulls.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "海鸥",
+        "岩架；突出的岩石",
+        "炽热的；热烈的"
+      ]
+    },
+    {
+      "id": "clutching",
+      "word": "clutch",
+      "forms": [
+        "clutch",
+        "clutches",
+        "clutched",
+        "clutching"
+      ],
+      "tier": "core",
+      "phonetic": "/klʌtʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "抓紧；紧握",
+      "wordForms": "第三人称单数 clutches · 过去式 clutched · 现在分词 clutching",
+      "sentence": "Clutching the rope, she started down the steps.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-05/clutching.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "抓紧；紧握",
+        "地平线；眼界",
+        "炽热的；热烈的"
+      ]
+    },
+    {
+      "id": "ledge",
+      "word": "ledge",
+      "forms": [
+        "ledge"
+      ],
+      "tier": "core",
+      "phonetic": "/ledʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "岩架；突出的岩石",
+      "wordForms": "原文词形：ledge",
+      "sentence": "Jack reached the rocky ledge and let go of the rope.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-05/ledge.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "dge",
+          "sound": "/dʒ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "岩架；突出的岩石",
+        "地平线；眼界",
+        "抓紧；紧握"
+      ]
+    },
+    {
+      "id": "blazed",
+      "word": "blaze",
+      "forms": [
+        "blaze",
+        "blazes",
+        "blazed",
+        "blazing"
+      ],
+      "tier": "core",
+      "phonetic": "/bleiz/",
+      "partOfSpeech": "v.",
+      "meaning": "闪耀；发出光辉",
+      "wordForms": "第三人称单数 blazes · 过去式 blazed · 现在分词 blazing",
+      "sentence": "As the ships came into view, their bright sails were filled with wind and their serpent prows blazed in the new sunlight.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-05/blazed.mp3",
+      "phonics": [
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "闪耀；发出光辉",
+        "抓紧；紧握",
+        "岩架；突出的岩石"
+      ]
+    }
+  ]
+}

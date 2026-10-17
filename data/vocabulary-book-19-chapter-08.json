@@ -1,0 +1,418 @@
+{
+  "book": 19,
+  "chapter": 8,
+  "title": "Wonder Dog",
+  "words": [
+    {
+      "id": "clapped",
+      "word": "clap",
+      "forms": [
+        "clap",
+        "claps",
+        "clapped",
+        "clapping"
+      ],
+      "tier": "core",
+      "phonetic": "/klæp/",
+      "partOfSpeech": "v.",
+      "meaning": "拍（手）；鼓掌",
+      "wordForms": "第三人称单数 claps · 过去式 clapped · 现在分词 clapping",
+      "sentence": "Jack clapped his hands.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-08/clapped.mp3",
+      "phonics": [
+        {
+          "letters": "cl",
+          "sound": "/kl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "拍（手）；鼓掌",
+        "闪烁微光；粼粼发光",
+        "消失；不见"
+      ]
+    },
+    {
+      "id": "silence",
+      "word": "silence",
+      "forms": [
+        "silence"
+      ],
+      "tier": "core",
+      "phonetic": "/'sailәns/",
+      "partOfSpeech": "n.",
+      "meaning": "寂静；沉默",
+      "wordForms": "原文词形：silence",
+      "sentence": "Then suddenly, there was silence.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-08/silence.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "寂静；沉默",
+        "奇怪的；陌生的",
+        "脏兮兮的；邋遢的"
+      ]
+    },
+    {
+      "id": "strange",
+      "word": "strange",
+      "forms": [
+        "strange"
+      ],
+      "tier": "core",
+      "phonetic": "/streindʒ/",
+      "partOfSpeech": "adj.",
+      "meaning": "奇怪的；陌生的",
+      "wordForms": "原文词形：strange",
+      "sentence": "A strange silence.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-08/strange.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "奇怪的；陌生的",
+        "拍（手）；鼓掌",
+        "脏兮兮的；邋遢的"
+      ]
+    },
+    {
+      "id": "disappeared",
+      "word": "disappear",
+      "forms": [
+        "disappear",
+        "disappears",
+        "disappeared",
+        "disappearing"
+      ],
+      "tier": "core",
+      "phonetic": "/.disә'piә/",
+      "partOfSpeech": "v.",
+      "meaning": "消失；不见",
+      "wordForms": "第三人称单数 disappears · 过去式 disappeared · 现在分词 disappearing",
+      "sentence": "He disappeared between the trees.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-08/disappeared.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "消失；不见",
+        "闪烁微光；粼粼发光",
+        "寂静；沉默"
+      ]
+    },
+    {
+      "id": "wonder",
+      "word": "wonder",
+      "forms": [
+        "wonder"
+      ],
+      "tier": "core",
+      "phonetic": "/'wʌndә/",
+      "partOfSpeech": "n.",
+      "meaning": "奇迹；令人惊叹的人或物",
+      "wordForms": "原文词形：wonder",
+      "sentence": "“Teddy, you’re a wonder dog!”",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-08/wonder.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "奇迹；令人惊叹的人或物",
+        "野生的；野性的",
+        "（用手）舀起；一把抱起"
+      ]
+    },
+    {
+      "id": "scruffy",
+      "word": "scruffy",
+      "forms": [
+        "scruffy"
+      ],
+      "tier": "core",
+      "phonetic": "/'skrʌfi/",
+      "partOfSpeech": "adj.",
+      "meaning": "脏兮兮的；邋遢的",
+      "wordForms": "原文词形：scruffy",
+      "sentence": "Teddy was just like a small scruffy dog again.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-08/scruffy.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "脏兮兮的；邋遢的",
+        "寂静；沉默",
+        "闪烁微光；粼粼发光"
+      ]
+    },
+    {
+      "id": "scooped",
+      "word": "scoop",
+      "forms": [
+        "scoop",
+        "scoops",
+        "scooped",
+        "scooping"
+      ],
+      "tier": "core",
+      "phonetic": "/sku:p/",
+      "partOfSpeech": "v.",
+      "meaning": "（用手）舀起；一把抱起",
+      "wordForms": "第三人称单数 scoops · 过去式 scooped · 现在分词 scooping",
+      "sentence": "Annie scooped him into her arms.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-08/scooped.mp3",
+      "phonics": [
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（用手）舀起；一把抱起",
+        "奇怪的；陌生的",
+        "消失；不见"
+      ]
+    },
+    {
+      "id": "wild",
+      "word": "wild",
+      "forms": [
+        "wild"
+      ],
+      "tier": "core",
+      "phonetic": "/waild/",
+      "partOfSpeech": "adj.",
+      "meaning": "野生的；野性的",
+      "wordForms": "原文词形：wild",
+      "sentence": "“Did you turn into a wild dog?”",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-08/wild.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ld",
+          "sound": "/ld/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "野生的；野性的",
+        "消失；不见",
+        "奇怪的；陌生的"
+      ]
+    },
+    {
+      "id": "shimmered",
+      "word": "shimmer",
+      "forms": [
+        "shimmer",
+        "shimmers",
+        "shimmered",
+        "shimmering"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃimә/",
+      "partOfSpeech": "v.",
+      "meaning": "闪烁微光；粼粼发光",
+      "wordForms": "第三人称单数 shimmers · 过去式 shimmered · 现在分词 shimmering",
+      "sentence": "The water shimmered in the early light.",
+      "sentenceAudio": "assets/audio/sentences/book-19-chapter-08/shimmered.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "闪烁微光；粼粼发光",
+        "脏兮兮的；邋遢的",
+        "消失；不见"
+      ]
+    }
+  ]
+}

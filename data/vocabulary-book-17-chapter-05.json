@@ -1,0 +1,470 @@
+{
+  "book": 17,
+  "chapter": 5,
+  "title": "William and Lucy",
+  "words": [
+    {
+      "id": "nightshirt",
+      "word": "nightshirt",
+      "forms": [
+        "nightshirt"
+      ],
+      "tier": "core",
+      "phonetic": "/'naitʃә:t/",
+      "partOfSpeech": "n.",
+      "meaning": "衬衫式长睡衣",
+      "wordForms": "原文词形：nightshirt",
+      "sentence": "The boy wore a nightshirt.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-05/nightshirt.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "衬衫式长睡衣",
+        "想睡地；困倦地",
+        "背包"
+      ]
+    },
+    {
+      "id": "freckles",
+      "word": "freckle",
+      "forms": [
+        "freckle",
+        "freckles"
+      ],
+      "tier": "core",
+      "phonetic": "/'frekl/",
+      "partOfSpeech": "n.",
+      "meaning": "雀斑",
+      "wordForms": "原文词形：freckles",
+      "sentence": "He had red hair and freckles.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-05/freckles.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "雀斑",
+        "紧急状况；紧急事件",
+        "想睡地；困倦地"
+      ]
+    },
+    {
+      "id": "sleepily",
+      "word": "sleepily",
+      "forms": [
+        "sleepily"
+      ],
+      "tier": "core",
+      "phonetic": "/'sli:pili/",
+      "partOfSpeech": "adv.",
+      "meaning": "想睡地；困倦地",
+      "wordForms": "原文词形：sleepily",
+      "sentence": "He rubbed his eyes sleepily.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-05/sleepily.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "想睡地；困倦地",
+        "亲吻；吻",
+        "衬衫式长睡衣"
+      ]
+    },
+    {
+      "id": "emergency",
+      "word": "emergency",
+      "forms": [
+        "emergency"
+      ],
+      "tier": "core",
+      "phonetic": "/i'mә:dʒәnsi/",
+      "partOfSpeech": "n.",
+      "meaning": "紧急状况；紧急事件",
+      "wordForms": "原文词形：emergency",
+      "sentence": "“It’s an emergency!”",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-05/emergency.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "紧急状况；紧急事件",
+        "困惑的；迷惑不解的",
+        "想睡地；困倦地"
+      ]
+    },
+    {
+      "id": "nightgown",
+      "word": "nightgown",
+      "forms": [
+        "nightgown"
+      ],
+      "tier": "core",
+      "phonetic": "",
+      "partOfSpeech": "n.",
+      "meaning": "女式睡衣；孩子穿的睡衣",
+      "wordForms": "原文词形：nightgown",
+      "sentence": "A girl in a long white nightgown peeked out.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-05/nightgown.mp3",
+      "phonics": [
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "女式睡衣；孩子穿的睡衣",
+        "困惑的；迷惑不解的",
+        "背包"
+      ]
+    },
+    {
+      "id": "confused",
+      "word": "confused",
+      "forms": [
+        "confused"
+      ],
+      "tier": "core",
+      "phonetic": "/kәn'fju:zd/",
+      "partOfSpeech": "adj.",
+      "meaning": "困惑的；迷惑不解的",
+      "wordForms": "原文词形：confused",
+      "sentence": "Lucy looked confused.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-05/confused.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "困惑的；迷惑不解的",
+        "背包",
+        "雀斑"
+      ]
+    },
+    {
+      "id": "knapsack",
+      "word": "knapsack",
+      "forms": [
+        "knapsack"
+      ],
+      "tier": "core",
+      "phonetic": "/'næpsæk/",
+      "partOfSpeech": "n.",
+      "meaning": "背包",
+      "wordForms": "原文词形：knapsack",
+      "sentence": "“Wait—can Teddy fit in your knapsack?”",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-05/knapsack.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "背包",
+        "衬衫式长睡衣",
+        "冰冷的；严寒的"
+      ]
+    },
+    {
+      "id": "kissed",
+      "word": "kiss",
+      "forms": [
+        "kiss",
+        "kisses",
+        "kissed",
+        "kissing"
+      ],
+      "tier": "core",
+      "phonetic": "/kis/",
+      "partOfSpeech": "v.",
+      "meaning": "亲吻；吻",
+      "wordForms": "第三人称单数 kisses · 过去式 kissed · 现在分词 kissing",
+      "sentence": "She kissed Teddy on the nose.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-05/kissed.mp3",
+      "phonics": [
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "亲吻；吻",
+        "雀斑",
+        "冰冷的；严寒的"
+      ]
+    },
+    {
+      "id": "freezing",
+      "word": "freezing",
+      "forms": [
+        "freezing"
+      ],
+      "tier": "core",
+      "phonetic": "/'fri:ziŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "冰冷的；严寒的",
+      "wordForms": "原文词形：freezing",
+      "sentence": "Suddenly, he felt freezing water brush against his shoes.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-05/freezing.mp3",
+      "phonics": [
+        {
+          "letters": "fr",
+          "sound": "/fr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "冰冷的；严寒的",
+        "想睡地；困倦地",
+        "衬衫式长睡衣"
+      ]
+    }
+  ]
+}

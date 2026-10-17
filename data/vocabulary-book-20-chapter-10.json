@@ -1,0 +1,404 @@
+{
+  "book": 20,
+  "chapter": 10,
+  "title": "Dreamtime",
+  "words": [
+    {
+      "id": "helper",
+      "word": "helper",
+      "forms": [
+        "helper"
+      ],
+      "tier": "core",
+      "phonetic": "/'helpә/",
+      "partOfSpeech": "n.",
+      "meaning": "助手；帮手",
+      "wordForms": "原文词形：helper",
+      "sentence": "“Meet my young helper from Camelot,” said Morgan.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-10/helper.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "助手；帮手",
+        "恰好；正是",
+        "寻找；搜寻"
+      ]
+    },
+    {
+      "id": "sheepishly",
+      "word": "sheepishly",
+      "forms": [
+        "sheepishly"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃi:pɪʃlɪ/",
+      "partOfSpeech": "adv.",
+      "meaning": "不好意思地；腼腆地",
+      "wordForms": "原文词形：sheepishly",
+      "sentence": "The boy grinned sheepishly.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-10/sheepishly.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ee",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "不好意思地；腼腆地",
+        "罕见的；难得的",
+        "令人兴奋的；刺激的"
+      ]
+    },
+    {
+      "id": "exciting",
+      "word": "exciting",
+      "forms": [
+        "exciting"
+      ],
+      "tier": "core",
+      "phonetic": "/ik'saitiŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "令人兴奋的；刺激的",
+      "wordForms": "原文词形：exciting",
+      "sentence": "“But at least I got to have exciting adventures as a dog,” he said.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-10/exciting.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "x",
+          "sound": "/ks/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "令人兴奋的；刺激的",
+        "罕见的；难得的",
+        "不好意思地；腼腆地"
+      ]
+    },
+    {
+      "id": "shock",
+      "word": "shock",
+      "forms": [
+        "shock"
+      ],
+      "tier": "core",
+      "phonetic": "/ʃɒk/",
+      "partOfSpeech": "n.",
+      "meaning": "震惊；惊愕",
+      "wordForms": "原文词形：shock",
+      "sentence": "He was still in shock.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-10/shock.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "震惊；惊愕",
+        "（鸟）群",
+        "罕见的；难得的"
+      ]
+    },
+    {
+      "id": "rare",
+      "word": "rare",
+      "forms": [
+        "rare"
+      ],
+      "tier": "core",
+      "phonetic": "/rєә/",
+      "partOfSpeech": "adj.",
+      "meaning": "罕见的；难得的",
+      "wordForms": "原文词形：rare",
+      "sentence": "“He has a rare gift for magic.”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-10/rare.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "罕见的；难得的",
+        "（鸟）群",
+        "助手；帮手"
+      ]
+    },
+    {
+      "id": "flock",
+      "word": "flock",
+      "forms": [
+        "flock"
+      ],
+      "tier": "core",
+      "phonetic": "/flɒk/",
+      "partOfSpeech": "n.",
+      "meaning": "（鸟）群",
+      "wordForms": "原文词形：flock",
+      "sentence": "A flock of blackbirds flew through the silvery pink sky.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-10/flock.mp3",
+      "phonics": [
+        {
+          "letters": "fl",
+          "sound": "/fl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "（鸟）群",
+        "银色的；银白的",
+        "寻找；搜寻"
+      ]
+    },
+    {
+      "id": "silvery",
+      "word": "silvery",
+      "forms": [
+        "silvery"
+      ],
+      "tier": "core",
+      "phonetic": "/'silvәri/",
+      "partOfSpeech": "adj.",
+      "meaning": "银色的；银白的",
+      "wordForms": "原文词形：silvery",
+      "sentence": "A flock of blackbirds flew through the silvery pink sky.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-10/silvery.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "银色的；银白的",
+        "震惊；惊愕",
+        "恰好；正是"
+      ]
+    },
+    {
+      "id": "searched",
+      "word": "search",
+      "forms": [
+        "search",
+        "searches",
+        "searched",
+        "searching"
+      ],
+      "tier": "core",
+      "phonetic": "/sә:tʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "寻找；搜寻",
+      "wordForms": "第三人称单数 searches · 过去式 searched · 现在分词 searching",
+      "sentence": "He searched for the right words.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-10/searched.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "寻找；搜寻",
+        "令人兴奋的；刺激的",
+        "恰好；正是"
+      ]
+    },
+    {
+      "id": "exactly",
+      "word": "exactly",
+      "forms": [
+        "exactly"
+      ],
+      "tier": "core",
+      "phonetic": "/i^'zæktli/",
+      "partOfSpeech": "adv.",
+      "meaning": "恰好；正是",
+      "wordForms": "原文词形：exactly",
+      "sentence": "“That was exactly what it was like.”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-10/exactly.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "x",
+          "sound": "/ks/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ct",
+          "sound": "/ct/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ly",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "恰好；正是",
+        "不好意思地；腼腆地",
+        "震惊；惊愕"
+      ]
+    }
+  ]
+}

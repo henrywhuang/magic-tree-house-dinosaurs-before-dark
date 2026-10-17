@@ -1,0 +1,405 @@
+{
+  "book": 16,
+  "chapter": 3,
+  "title": "The Secret Poet",
+  "words": [
+    {
+      "id": "philosopher",
+      "word": "philosopher",
+      "forms": [
+        "philosopher"
+      ],
+      "tier": "core",
+      "phonetic": "/fi'lɒsәfә/",
+      "partOfSpeech": "n.",
+      "meaning": "哲学家；启蒙思想家",
+      "wordForms": "原文词形：philosopher",
+      "sentence": "“I am a philosopher.”",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-03/philosopher.mp3",
+      "phonics": [
+        {
+          "letters": "ph",
+          "sound": "/f/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ph",
+          "sound": "/f/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "哲学家；启蒙思想家",
+        "智慧；明智行为",
+        "才华横溢的；杰出的"
+      ]
+    },
+    {
+      "id": "wisdom",
+      "word": "wisdom",
+      "forms": [
+        "wisdom"
+      ],
+      "tier": "core",
+      "phonetic": "/'wizdәm/",
+      "partOfSpeech": "n.",
+      "meaning": "智慧；明智行为",
+      "wordForms": "原文词形：wisdom",
+      "sentence": "“A lover of wisdom,” said Plato.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-03/wisdom.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "智慧；明智行为",
+        "哲学家；启蒙思想家",
+        "才华横溢的；杰出的"
+      ]
+    },
+    {
+      "id": "puzzled",
+      "word": "puzzled",
+      "forms": [
+        "puzzled"
+      ],
+      "tier": "core",
+      "phonetic": "/'pʌzl/",
+      "partOfSpeech": "adj.",
+      "meaning": "困惑的；迷惑不解的",
+      "wordForms": "原文词形：puzzled",
+      "sentence": "Plato looked puzzled.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-03/puzzled.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "困惑的；迷惑不解的",
+        "诗人",
+        "卷轴；画卷"
+      ]
+    },
+    {
+      "id": "secret",
+      "word": "secret",
+      "forms": [
+        "secret"
+      ],
+      "tier": "core",
+      "phonetic": "/'si:krit/",
+      "partOfSpeech": "n.",
+      "meaning": "秘密；机密",
+      "wordForms": "原文词形：secret",
+      "sentence": "He reached into his bag and took out the secret library cards.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-03/secret.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "秘密；机密",
+        "诗人",
+        "困惑的；迷惑不解的"
+      ]
+    },
+    {
+      "id": "brilliant",
+      "word": "brilliant",
+      "forms": [
+        "brilliant"
+      ],
+      "tier": "core",
+      "phonetic": "/'briljәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "才华横溢的；杰出的",
+      "wordForms": "原文词形：brilliant",
+      "sentence": "“This was written by a brilliant poet—a friend of mine, in fact.”",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-03/brilliant.mp3",
+      "phonics": [
+        {
+          "letters": "br",
+          "sound": "/br/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "才华横溢的；杰出的",
+        "诗人",
+        "困惑的；迷惑不解的"
+      ]
+    },
+    {
+      "id": "poet",
+      "word": "poet",
+      "forms": [
+        "poet"
+      ],
+      "tier": "core",
+      "phonetic": "/'pәuit/",
+      "partOfSpeech": "n.",
+      "meaning": "诗人",
+      "wordForms": "原文词形：poet",
+      "sentence": "“This was written by a brilliant poet—a friend of mine, in fact.”",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-03/poet.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oe",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "诗人",
+        "卷轴；画卷",
+        "庭院；天井"
+      ]
+    },
+    {
+      "id": "courtyard",
+      "word": "courtyard",
+      "forms": [
+        "courtyard"
+      ],
+      "tier": "core",
+      "phonetic": "/'kɒ:tjɑ:d/",
+      "partOfSpeech": "n.",
+      "meaning": "庭院；天井",
+      "wordForms": "原文词形：courtyard",
+      "sentence": "He opened the door and led Jack and Annie into an empty courtyard.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-03/courtyard.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "庭院；天井",
+        "卷轴；画卷",
+        "哲学家；启蒙思想家"
+      ]
+    },
+    {
+      "id": "scroll",
+      "word": "scroll",
+      "forms": [
+        "scroll"
+      ],
+      "tier": "core",
+      "phonetic": "/skrәul/",
+      "partOfSpeech": "n.",
+      "meaning": "卷轴；画卷",
+      "wordForms": "原文词形：scroll",
+      "sentence": "She was holding a scroll.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-03/scroll.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "卷轴；画卷",
+        "困惑的；迷惑不解的",
+        "哲学家；启蒙思想家"
+      ]
+    }
+  ]
+}

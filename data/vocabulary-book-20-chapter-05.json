@@ -1,0 +1,373 @@
+{
+  "book": 20,
+  "chapter": 5,
+  "title": "Wildfire",
+  "words": [
+    {
+      "id": "choice",
+      "word": "choice",
+      "forms": [
+        "choice"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃɒis/",
+      "partOfSpeech": "n.",
+      "meaning": "选择",
+      "wordForms": "原文词形：choice",
+      "sentence": "“We don’t have a choice!”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-05/choice.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "oi",
+          "sound": "/ɔɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "选择",
+        "呛；窒息",
+        "跌跌撞撞地走；绊倒"
+      ]
+    },
+    {
+      "id": "spreading",
+      "word": "spread",
+      "forms": [
+        "spread",
+        "spreads",
+        "spreading"
+      ],
+      "tier": "core",
+      "phonetic": "/spred/",
+      "partOfSpeech": "v.",
+      "meaning": "蔓延；扩散",
+      "wordForms": "第三人称单数 spreads · 过去式 spread · 现在分词 spreading",
+      "sentence": "The fire was spreading quickly.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-05/spreading.mp3",
+      "phonics": [
+        {
+          "letters": "spr",
+          "sound": "/spr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "蔓延；扩散",
+        "选择",
+        "刺痛；蜇"
+      ]
+    },
+    {
+      "id": "stung",
+      "word": "sting",
+      "forms": [
+        "sting",
+        "stings",
+        "stung",
+        "stinging"
+      ],
+      "tier": "core",
+      "phonetic": "/stiŋ/",
+      "partOfSpeech": "v.",
+      "meaning": "刺痛；蜇",
+      "wordForms": "第三人称单数 stings · 过去式 stung · 现在分词 stinging",
+      "sentence": "Jack’s eyes stung.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-05/stung.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "刺痛；蜇",
+        "烟雾；薄雾",
+        "猛冲；飞奔"
+      ]
+    },
+    {
+      "id": "dashed",
+      "word": "dash",
+      "forms": [
+        "dash",
+        "dashes",
+        "dashed",
+        "dashing"
+      ],
+      "tier": "core",
+      "phonetic": "/dæʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "猛冲；飞奔",
+      "wordForms": "第三人称单数 dashes · 过去式 dashed · 现在分词 dashing",
+      "sentence": "But Annie had dashed off in the other direction.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-05/dashed.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "猛冲；飞奔",
+        "选择",
+        "烟雾；薄雾"
+      ]
+    },
+    {
+      "id": "choked",
+      "word": "choke",
+      "forms": [
+        "choke",
+        "chokes",
+        "choked",
+        "choking"
+      ],
+      "tier": "core",
+      "phonetic": "/tʃәuk/",
+      "partOfSpeech": "v.",
+      "meaning": "呛；窒息",
+      "wordForms": "第三人称单数 chokes · 过去式 choked · 现在分词 choking",
+      "sentence": "Jack choked on the smoke.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-05/choked.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "呛；窒息",
+        "选择",
+        "跌跌撞撞地走；绊倒"
+      ]
+    },
+    {
+      "id": "coughed",
+      "word": "cough",
+      "forms": [
+        "cough",
+        "coughs",
+        "coughed",
+        "coughing"
+      ],
+      "tier": "core",
+      "phonetic": "/kɒf/",
+      "partOfSpeech": "v.",
+      "meaning": "咳嗽",
+      "wordForms": "第三人称单数 coughs · 过去式 coughed · 现在分词 coughing",
+      "sentence": "He coughed and rubbed his eyes.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-05/coughed.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "咳嗽",
+        "跌跌撞撞地走；绊倒",
+        "选择"
+      ]
+    },
+    {
+      "id": "stumbled",
+      "word": "stumble",
+      "forms": [
+        "stumble",
+        "stumbles",
+        "stumbled",
+        "stumbling"
+      ],
+      "tier": "core",
+      "phonetic": "/'stʌmbl/",
+      "partOfSpeech": "v.",
+      "meaning": "跌跌撞撞地走；绊倒",
+      "wordForms": "第三人称单数 stumbles · 过去式 stumbled · 现在分词 stumbling",
+      "sentence": "He stumbled blindly through the brush.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-05/stumbled.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "bl",
+          "sound": "/bl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "跌跌撞撞地走；绊倒",
+        "咳嗽",
+        "猛冲；飞奔"
+      ]
+    },
+    {
+      "id": "haze",
+      "word": "haze",
+      "forms": [
+        "haze"
+      ],
+      "tier": "core",
+      "phonetic": "/heiz/",
+      "partOfSpeech": "n.",
+      "meaning": "烟雾；薄雾",
+      "wordForms": "原文词形：haze",
+      "sentence": "Annie appeared through the haze of the hot smoke.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-05/haze.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "烟雾；薄雾",
+        "刺痛；蜇",
+        "跌跌撞撞地走；绊倒"
+      ]
+    },
+    {
+      "id": "smoky",
+      "word": "smoky",
+      "forms": [
+        "smoky"
+      ],
+      "tier": "core",
+      "phonetic": "/'smәuki/",
+      "partOfSpeech": "adj.",
+      "meaning": "烟雾弥漫的",
+      "wordForms": "原文词形：smoky",
+      "sentence": "They followed Teddy’s barking through the smoky, fire-filled forest.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-05/smoky.mp3",
+      "phonics": [
+        {
+          "letters": "sm",
+          "sound": "/sm/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "烟雾弥漫的",
+        "咳嗽",
+        "跌跌撞撞地走；绊倒"
+      ]
+    }
+  ]
+}

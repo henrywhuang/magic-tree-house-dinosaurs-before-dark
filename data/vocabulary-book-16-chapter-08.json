@@ -1,0 +1,349 @@
+{
+  "book": 16,
+  "chapter": 8,
+  "title": "Save Annie!",
+  "words": [
+    {
+      "id": "angry",
+      "word": "angry",
+      "forms": [
+        "angry"
+      ],
+      "tier": "core",
+      "phonetic": "/'æŋgri/",
+      "partOfSpeech": "adj.",
+      "meaning": "生气的；愤怒的",
+      "wordForms": "原文词形：angry",
+      "sentence": "Then she looked angry.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-08/angry.mp3",
+      "phonics": [
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ng",
+          "sound": "/ŋ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "生气的；愤怒的",
+        "卷轴；画卷",
+        "沉默的；安静的"
+      ]
+    },
+    {
+      "id": "arrest",
+      "word": "arrest",
+      "forms": [
+        "arrest",
+        "arrests",
+        "arrested",
+        "arresting"
+      ],
+      "tier": "core",
+      "phonetic": "/ә'rest/",
+      "partOfSpeech": "v.",
+      "meaning": "逮捕；拘捕",
+      "wordForms": "第三人称单数 arrests · 过去式 arrested · 现在分词 arresting",
+      "sentence": "“Arrest her!",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-08/arrest.mp3",
+      "phonics": [
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "est",
+          "sound": "/ɪst/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "逮捕；拘捕",
+        "低声说；私语",
+        "奇迹；惊奇"
+      ]
+    },
+    {
+      "id": "scroll",
+      "word": "scroll",
+      "forms": [
+        "scroll"
+      ],
+      "tier": "core",
+      "phonetic": "/skrәul/",
+      "partOfSpeech": "n.",
+      "meaning": "卷轴；画卷",
+      "wordForms": "原文词形：scroll",
+      "sentence": "He reached into his bag and pulled out the poet’s scroll.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-08/scroll.mp3",
+      "phonics": [
+        {
+          "letters": "scr",
+          "sound": "/skr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "卷轴；画卷",
+        "逮捕；拘捕",
+        "吼；咆哮"
+      ]
+    },
+    {
+      "id": "roar",
+      "word": "roar",
+      "forms": [
+        "roar"
+      ],
+      "tier": "core",
+      "phonetic": "/rɒ:/",
+      "partOfSpeech": "n.",
+      "meaning": "吼；咆哮",
+      "wordForms": "原文词形：roar",
+      "sentence": "But Jack’s voice was again lost in the roar of the race as the four-horse chariots barreled through the dust.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-08/roar.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oa",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "吼；咆哮",
+        "奇迹；惊奇",
+        "低声说；私语"
+      ]
+    },
+    {
+      "id": "silent",
+      "word": "silent",
+      "forms": [
+        "silent"
+      ],
+      "tier": "core",
+      "phonetic": "/'sailәnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "沉默的；安静的",
+      "wordForms": "原文词形：silent",
+      "sentence": "Then suddenly the crowd fell silent.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-08/silent.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "沉默的；安静的",
+        "逮捕；拘捕",
+        "疾驰；飞奔"
+      ]
+    },
+    {
+      "id": "galloped",
+      "word": "gallop",
+      "forms": [
+        "gallop",
+        "gallops",
+        "galloped",
+        "galloping"
+      ],
+      "tier": "core",
+      "phonetic": "/'gælәp/",
+      "partOfSpeech": "v.",
+      "meaning": "疾驰；飞奔",
+      "wordForms": "第三人称单数 gallops · 过去式 galloped · 现在分词 galloping",
+      "sentence": "All heads turned to watch as a huge white horse galloped out of the dust.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-08/galloped.mp3",
+      "phonics": [
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "疾驰；飞奔",
+        "沉默的；安静的",
+        "吼；咆哮"
+      ]
+    },
+    {
+      "id": "murmured",
+      "word": "murmur",
+      "forms": [
+        "murmur",
+        "murmurs",
+        "murmured",
+        "murmuring"
+      ],
+      "tier": "core",
+      "phonetic": "/'mә:mә/",
+      "partOfSpeech": "v.",
+      "meaning": "低声说；私语",
+      "wordForms": "第三人称单数 murmurs · 过去式 murmured · 现在分词 murmuring",
+      "sentence": "The crowd murmured with excitement and wonder.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-08/murmured.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "低声说；私语",
+        "逮捕；拘捕",
+        "卷轴；画卷"
+      ]
+    },
+    {
+      "id": "wonder",
+      "word": "wonder",
+      "forms": [
+        "wonder"
+      ],
+      "tier": "core",
+      "phonetic": "/'wʌndә/",
+      "partOfSpeech": "n.",
+      "meaning": "奇迹；惊奇",
+      "wordForms": "原文词形：wonder",
+      "sentence": "The crowd murmured with excitement and wonder.",
+      "sentenceAudio": "assets/audio/sentences/book-16-chapter-08/wonder.mp3",
+      "phonics": [
+        {
+          "letters": "w",
+          "sound": "/w/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "奇迹；惊奇",
+        "疾驰；飞奔",
+        "低声说；私语"
+      ]
+    }
+  ]
+}

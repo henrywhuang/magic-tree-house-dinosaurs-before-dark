@@ -1,0 +1,393 @@
+{
+  "book": 20,
+  "chapter": 7,
+  "title": "Rain, Rain, Rain",
+  "words": [
+    {
+      "id": "steam",
+      "word": "steam",
+      "forms": [
+        "steam"
+      ],
+      "tier": "core",
+      "phonetic": "/sti:m/",
+      "partOfSpeech": "n.",
+      "meaning": "水汽；蒸汽",
+      "wordForms": "原文词形：steam",
+      "sentence": "When Jack looked back at the woods, misty steam was rising from the charred ground and burning bushes.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-07/steam.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "水汽；蒸汽",
+        "幸运的",
+        "啪啪地拍打；啪嗒啪嗒地走"
+      ]
+    },
+    {
+      "id": "charred",
+      "word": "charred",
+      "forms": [
+        "charred"
+      ],
+      "tier": "core",
+      "phonetic": "/ˈtʃɑ:d/",
+      "partOfSpeech": "adj.",
+      "meaning": "烧焦的；烧黑的",
+      "wordForms": "原文词形：charred",
+      "sentence": "When Jack looked back at the woods, misty steam was rising from the charred ground and burning bushes.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-07/charred.mp3",
+      "phonics": [
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "烧焦的；烧黑的",
+        "毛毛雨；细雨",
+        "水汽；蒸汽"
+      ]
+    },
+    {
+      "id": "pretend",
+      "word": "pretend",
+      "forms": [
+        "pretend",
+        "pretends",
+        "pretended",
+        "pretending"
+      ],
+      "tier": "core",
+      "phonetic": "/pri'tend/",
+      "partOfSpeech": "v.",
+      "meaning": "假装；假想",
+      "wordForms": "第三人称单数 pretends · 过去式 pretended · 现在分词 pretending",
+      "sentence": "“Pretend the fire was all a dream.”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-07/pretend.mp3",
+      "phonics": [
+        {
+          "letters": "pr",
+          "sound": "/pr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nd",
+          "sound": "/nd/",
+          "rule": "辅音连缀"
+        }
+      ],
+      "options": [
+        "假装；假想",
+        "微微动弹；扭动",
+        "打扰；惊动"
+      ]
+    },
+    {
+      "id": "disturbed",
+      "word": "disturb",
+      "forms": [
+        "disturb",
+        "disturbs",
+        "disturbed",
+        "disturbing"
+      ],
+      "tier": "core",
+      "phonetic": "/dis'tә:b/",
+      "partOfSpeech": "v.",
+      "meaning": "打扰；惊动",
+      "wordForms": "第三人称单数 disturbs · 过去式 disturbed · 现在分词 disturbing",
+      "sentence": "Then he closed his eyes and went to sleep, as if he’d never been disturbed at all.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-07/disturbed.mp3",
+      "phonics": [
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ur",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "b",
+          "sound": "/b/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "打扰；惊动",
+        "假装；假想",
+        "水汽；蒸汽"
+      ]
+    },
+    {
+      "id": "lucky",
+      "word": "lucky",
+      "forms": [
+        "lucky"
+      ],
+      "tier": "core",
+      "phonetic": "/'lʌki/",
+      "partOfSpeech": "adj.",
+      "meaning": "幸运的",
+      "wordForms": "原文词形：lucky",
+      "sentence": "“Man,” he said, “we were lucky that a storm came.”",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-07/lucky.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "u",
+          "sound": "/ʌ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "幸运的",
+        "微微动弹；扭动",
+        "毛毛雨；细雨"
+      ]
+    },
+    {
+      "id": "stirred",
+      "word": "stir",
+      "forms": [
+        "stir",
+        "stirs",
+        "stirred",
+        "stirring"
+      ],
+      "tier": "core",
+      "phonetic": "/stә:/",
+      "partOfSpeech": "v.",
+      "meaning": "微微动弹；扭动",
+      "wordForms": "第三人称单数 stirs · 过去式 stirred · 现在分词 stirring",
+      "sentence": "Joey stirred in his pack.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-07/stirred.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "微微动弹；扭动",
+        "假装；假想",
+        "水汽；蒸汽"
+      ]
+    },
+    {
+      "id": "drizzle",
+      "word": "drizzle",
+      "forms": [
+        "drizzle"
+      ],
+      "tier": "core",
+      "phonetic": "/'drizl/",
+      "partOfSpeech": "n.",
+      "meaning": "毛毛雨；细雨",
+      "wordForms": "原文词形：drizzle",
+      "sentence": "The rain turned to a drizzle.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-07/drizzle.mp3",
+      "phonics": [
+        {
+          "letters": "dr",
+          "sound": "/dr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "毛毛雨；细雨",
+        "打扰；惊动",
+        "小雨；零星小雨"
+      ]
+    },
+    {
+      "id": "sprinkle",
+      "word": "sprinkle",
+      "forms": [
+        "sprinkle"
+      ],
+      "tier": "core",
+      "phonetic": "/'spriŋkl/",
+      "partOfSpeech": "n.",
+      "meaning": "小雨；零星小雨",
+      "wordForms": "原文词形：sprinkle",
+      "sentence": "Then the drizzle turned to a light sprinkle.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-07/sprinkle.mp3",
+      "phonics": [
+        {
+          "letters": "spr",
+          "sound": "/spr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nk",
+          "sound": "/ŋk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "小雨；零星小雨",
+        "水汽；蒸汽",
+        "微微动弹；扭动"
+      ]
+    },
+    {
+      "id": "slapping",
+      "word": "slap",
+      "forms": [
+        "slap",
+        "slaps",
+        "slapped",
+        "slapping"
+      ],
+      "tier": "core",
+      "phonetic": "/slæp/",
+      "partOfSpeech": "v.",
+      "meaning": "啪啪地拍打；啪嗒啪嗒地走",
+      "wordForms": "第三人称单数 slaps · 过去式 slapped · 现在分词 slapping",
+      "sentence": "It was the sound of big feet slapping through mud.",
+      "sentenceAudio": "assets/audio/sentences/book-20-chapter-07/slapping.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "啪啪地拍打；啪嗒啪嗒地走",
+        "打扰；惊动",
+        "烧焦的；烧黑的"
+      ]
+    }
+  ]
+}

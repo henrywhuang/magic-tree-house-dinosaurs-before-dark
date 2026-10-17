@@ -1,0 +1,368 @@
+{
+  "book": 18,
+  "chapter": 5,
+  "title": "Sunlight and Midnight",
+  "words": [
+    {
+      "id": "snarled",
+      "word": "snarl",
+      "forms": [
+        "snarl",
+        "snarls",
+        "snarled",
+        "snarling"
+      ],
+      "tier": "core",
+      "phonetic": "/snɑ:l/",
+      "partOfSpeech": "v.",
+      "meaning": "龇牙低吼；咆哮",
+      "wordForms": "第三人称单数 snarls · 过去式 snarled · 现在分词 snarling",
+      "sentence": "Teddy snarled and barked.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-05/snarled.mp3",
+      "phonics": [
+        {
+          "letters": "sn",
+          "sound": "/sn/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "龇牙低吼；咆哮",
+        "凶猛的；猛烈的",
+        "（马的）鬃毛"
+      ]
+    },
+    {
+      "id": "fierce",
+      "word": "fierce",
+      "forms": [
+        "fierce"
+      ],
+      "tier": "core",
+      "phonetic": "/fiәs/",
+      "partOfSpeech": "adj.",
+      "meaning": "凶猛的；猛烈的",
+      "wordForms": "原文词形：fierce",
+      "sentence": "The fierce wolf was Black Hawk wearing a wolf’s hide!",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-05/fierce.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ie",
+          "sound": "/aɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "凶猛的；猛烈的",
+        "（马的）鬃毛",
+        "狭长的开口；裂缝"
+      ]
+    },
+    {
+      "id": "hide",
+      "word": "hide",
+      "forms": [
+        "hide"
+      ],
+      "tier": "core",
+      "phonetic": "/haid/",
+      "partOfSpeech": "n.",
+      "meaning": "兽皮",
+      "wordForms": "原文词形：hide",
+      "sentence": "The fierce wolf was Black Hawk wearing a wolf’s hide!",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-05/hide.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "兽皮",
+        "强大的；有力的",
+        "凶猛的；猛烈的"
+      ]
+    },
+    {
+      "id": "slit",
+      "word": "slit",
+      "forms": [
+        "slit"
+      ],
+      "tier": "core",
+      "phonetic": "/slit/",
+      "partOfSpeech": "n.",
+      "meaning": "狭长的开口；裂缝",
+      "wordForms": "原文词形：slit",
+      "sentence": "His head came out through a slit near the wolf’s neck.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-05/slit.mp3",
+      "phonics": [
+        {
+          "letters": "sl",
+          "sound": "/sl/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "狭长的开口；裂缝",
+        "（马的）鬃毛",
+        "高喊；欢呼声"
+      ]
+    },
+    {
+      "id": "powerful",
+      "word": "powerful",
+      "forms": [
+        "powerful"
+      ],
+      "tier": "core",
+      "phonetic": "/'pauәful/",
+      "partOfSpeech": "adj.",
+      "meaning": "强大的；有力的",
+      "wordForms": "原文词形：powerful",
+      "sentence": "“The wolf is the most powerful hunter of the buffalo,” said Black Hawk.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-05/powerful.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ful",
+          "sound": "/fʊl/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "强大的；有力的",
+        "龇牙低吼；咆哮",
+        "狭长的开口；裂缝"
+      ]
+    },
+    {
+      "id": "grip",
+      "word": "grip",
+      "forms": [
+        "grip",
+        "grips",
+        "gripped",
+        "gripping"
+      ],
+      "tier": "core",
+      "phonetic": "/grip/",
+      "partOfSpeech": "v.",
+      "meaning": "夹紧；紧握",
+      "wordForms": "第三人称单数 grips · 过去式 gripped · 现在分词 gripping",
+      "sentence": "“Just hold on to their manes,” she said, “and grip with your legs.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-05/grip.mp3",
+      "phonics": [
+        {
+          "letters": "gr",
+          "sound": "/gr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "夹紧；紧握",
+        "高喊；欢呼声",
+        "凶猛的；猛烈的"
+      ]
+    },
+    {
+      "id": "whoop",
+      "word": "whoop",
+      "forms": [
+        "whoop"
+      ],
+      "tier": "core",
+      "phonetic": "/hwu:p/",
+      "partOfSpeech": "n.",
+      "meaning": "高喊；欢呼声",
+      "wordForms": "原文词形：whoop",
+      "sentence": "Black Hawk let out a wild whoop and took off, too.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-05/whoop.mp3",
+      "phonics": [
+        {
+          "letters": "wh",
+          "sound": "/w/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "高喊；欢呼声",
+        "狭长的开口；裂缝",
+        "兽皮"
+      ]
+    },
+    {
+      "id": "mane",
+      "word": "mane",
+      "forms": [
+        "mane"
+      ],
+      "tier": "core",
+      "phonetic": "/mein/",
+      "partOfSpeech": "n.",
+      "meaning": "（马的）鬃毛",
+      "wordForms": "原文词形：mane",
+      "sentence": "He gripped the pony’s mane.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-05/mane.mp3",
+      "phonics": [
+        {
+          "letters": "m",
+          "sound": "/m/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "（马的）鬃毛",
+        "夹紧；紧握",
+        "狭长的开口；裂缝"
+      ]
+    },
+    {
+      "id": "shadows",
+      "word": "shadow",
+      "forms": [
+        "shadow",
+        "Shadows"
+      ],
+      "tier": "core",
+      "phonetic": "/'ʃædәu/",
+      "partOfSpeech": "n.",
+      "meaning": "影子；阴影",
+      "wordForms": "原文词形：Shadows",
+      "sentence": "Shadows of clouds swept over the plains.",
+      "sentenceAudio": "assets/audio/sentences/book-18-chapter-05/shadows.mp3",
+      "phonics": [
+        {
+          "letters": "sh",
+          "sound": "/ʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "影子；阴影",
+        "高喊；欢呼声",
+        "强大的；有力的"
+      ]
+    }
+  ]
+}

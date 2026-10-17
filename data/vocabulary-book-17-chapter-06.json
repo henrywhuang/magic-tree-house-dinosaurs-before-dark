@@ -1,0 +1,403 @@
+{
+  "book": 17,
+  "chapter": 6,
+  "title": "Women and Children First",
+  "words": [
+    {
+      "id": "staircase",
+      "word": "staircase",
+      "forms": [
+        "staircase"
+      ],
+      "tier": "core",
+      "phonetic": "/'stєәkeis/",
+      "partOfSpeech": "n.",
+      "meaning": "楼梯；梯子",
+      "wordForms": "原文词形：staircase",
+      "sentence": "Halfway up the staircase, Teddy let out a yelp.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-06/staircase.mp3",
+      "phonics": [
+        {
+          "letters": "st",
+          "sound": "/st/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ai",
+          "sound": "/eɪ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "楼梯；梯子",
+        "火箭；烟火",
+        "人群；一群人"
+      ]
+    },
+    {
+      "id": "yelp",
+      "word": "yelp",
+      "forms": [
+        "yelp"
+      ],
+      "tier": "core",
+      "phonetic": "/jelp/",
+      "partOfSpeech": "n.",
+      "meaning": "尖声急叫；狺吠",
+      "wordForms": "原文词形：yelp",
+      "sentence": "Halfway up the staircase, Teddy let out a yelp.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-06/yelp.mp3",
+      "phonics": [
+        {
+          "letters": "y",
+          "sound": "/y/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "尖声急叫；狺吠",
+        "人群；一群人",
+        "欢快的；活泼的"
+      ]
+    },
+    {
+      "id": "rescued",
+      "word": "rescue",
+      "forms": [
+        "rescue",
+        "rescues",
+        "rescued",
+        "rescuing"
+      ],
+      "tier": "core",
+      "phonetic": "/'reskju:/",
+      "partOfSpeech": "v.",
+      "meaning": "营救；解救",
+      "wordForms": "第三人称单数 rescues · 过去式 rescued · 现在分词 rescuing",
+      "sentence": "There’s plenty of time for everyone on board to be rescued.”",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-06/rescued.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "sc",
+          "sound": "/sk/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ue",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        }
+      ],
+      "options": [
+        "营救；解救",
+        "烟火具；烟火",
+        "楼梯；梯子"
+      ]
+    },
+    {
+      "id": "soothing",
+      "word": "soothing",
+      "forms": [
+        "soothing"
+      ],
+      "tier": "core",
+      "phonetic": "/'su:ðiŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "抚慰的；使人平静的",
+      "wordForms": "原文词形：soothing",
+      "sentence": "Many ships are on their way right now,” another man said in a soothing voice.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-06/soothing.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "oo",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "th",
+          "sound": "/θ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "抚慰的；使人平静的",
+        "营救；解救",
+        "火箭；烟火"
+      ]
+    },
+    {
+      "id": "crowd",
+      "word": "crowd",
+      "forms": [
+        "crowd"
+      ],
+      "tier": "core",
+      "phonetic": "/kraud/",
+      "partOfSpeech": "n.",
+      "meaning": "人群；一群人",
+      "wordForms": "原文词形：crowd",
+      "sentence": "The crowd on the third-class deck had grown.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-06/crowd.mp3",
+      "phonics": [
+        {
+          "letters": "cr",
+          "sound": "/kr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ow",
+          "sound": "/oʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "d",
+          "sound": "/d/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "人群；一群人",
+        "火箭；烟火",
+        "抚慰的；使人平静的"
+      ]
+    },
+    {
+      "id": "lively",
+      "word": "lively",
+      "forms": [
+        "lively"
+      ],
+      "tier": "core",
+      "phonetic": "/'laivli/",
+      "partOfSpeech": "adj.",
+      "meaning": "欢快的；活泼的",
+      "wordForms": "原文词形：lively",
+      "sentence": "A band played lively music.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-06/lively.mp3",
+      "phonics": [
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ely",
+          "sound": "/li/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "欢快的；活泼的",
+        "烟火具；烟火",
+        "火箭；烟火"
+      ]
+    },
+    {
+      "id": "rocket",
+      "word": "rocket",
+      "forms": [
+        "rocket"
+      ],
+      "tier": "core",
+      "phonetic": "/'rɒkit/",
+      "partOfSpeech": "n.",
+      "meaning": "火箭；烟火",
+      "wordForms": "原文词形：rocket",
+      "sentence": "With a hiss and rush of light, a rocket streaked into the sky.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-06/rocket.mp3",
+      "phonics": [
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ck",
+          "sound": "/k/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "t",
+          "sound": "/t/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "火箭；烟火",
+        "抚慰的；使人平静的",
+        "营救；解救"
+      ]
+    },
+    {
+      "id": "streaked",
+      "word": "streak",
+      "forms": [
+        "streak",
+        "streaks",
+        "streaked",
+        "streaking"
+      ],
+      "tier": "core",
+      "phonetic": "/stri:k/",
+      "partOfSpeech": "v.",
+      "meaning": "飞驰；掠过",
+      "wordForms": "第三人称单数 streaks · 过去式 streaked · 现在分词 streaking",
+      "sentence": "With a hiss and rush of light, a rocket streaked into the sky.",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-06/streaked.mp3",
+      "phonics": [
+        {
+          "letters": "str",
+          "sound": "/str/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ea",
+          "sound": "/iː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "飞驰；掠过",
+        "尖声急叫；狺吠",
+        "人群；一群人"
+      ]
+    },
+    {
+      "id": "fireworks",
+      "word": "fireworks",
+      "forms": [
+        "fireworks",
+        "Fireworks"
+      ],
+      "tier": "core",
+      "phonetic": "/'faiәwә:ks/",
+      "partOfSpeech": "n.",
+      "meaning": "烟火具；烟火",
+      "wordForms": "原文词形：Fireworks",
+      "sentence": "“Fireworks!”",
+      "sentenceAudio": "assets/audio/sentences/book-17-chapter-06/fireworks.mp3",
+      "phonics": [
+        {
+          "letters": "f",
+          "sound": "/f/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ir",
+          "sound": "/ɜːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ew",
+          "sound": "/uː/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "烟火具；烟火",
+        "抚慰的；使人平静的",
+        "欢快的；活泼的"
+      ]
+    }
+  ]
+}

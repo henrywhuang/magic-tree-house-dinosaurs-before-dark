@@ -1,0 +1,394 @@
+{
+  "book": 15,
+  "chapter": 10,
+  "title": "Sunrise",
+  "words": [
+    {
+      "id": "enchantress",
+      "word": "enchantress",
+      "forms": [
+        "enchantress"
+      ],
+      "tier": "core",
+      "phonetic": "/in'tʃæntris/",
+      "partOfSpeech": "n.",
+      "meaning": "女巫；女魔法师",
+      "wordForms": "原文词形：enchantress",
+      "sentence": "The enchantress sighed.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-10/enchantress.mp3",
+      "phonics": [
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "n",
+          "sound": "/n/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "nt",
+          "sound": "/nt/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "女巫；女魔法师",
+        "英雄；勇士",
+        "勇气；胆量"
+      ]
+    },
+    {
+      "id": "sighed",
+      "word": "sigh",
+      "forms": [
+        "sigh",
+        "sighs",
+        "sighed",
+        "sighing"
+      ],
+      "tier": "core",
+      "phonetic": "/sai/",
+      "partOfSpeech": "v.",
+      "meaning": "叹气；叹息",
+      "wordForms": "第三人称单数 sighs · 过去式 sighed · 现在分词 sighing",
+      "sentence": "The enchantress sighed.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-10/sighed.mp3",
+      "phonics": [
+        {
+          "letters": "s",
+          "sound": "/s/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "gh",
+          "sound": "/g/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "叹气；叹息",
+        "非常激动的；兴奋的",
+        "勇气；胆量"
+      ]
+    },
+    {
+      "id": "sparkling",
+      "word": "sparkling",
+      "forms": [
+        "sparkling"
+      ],
+      "tier": "core",
+      "phonetic": "/'spɑ:liŋ/",
+      "partOfSpeech": "adj.",
+      "meaning": "闪闪发光的；闪耀的",
+      "wordForms": "原文词形：sparkling",
+      "sentence": "She ran her hand over the sparkling cover.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-10/sparkling.mp3",
+      "phonics": [
+        {
+          "letters": "sp",
+          "sound": "/sp/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "ar",
+          "sound": "/ɑːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "k",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ing",
+          "sound": "/ɪŋ/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "闪闪发光的；闪耀的",
+        "文明；教化",
+        "英雄；勇士"
+      ]
+    },
+    {
+      "id": "heroes",
+      "word": "hero",
+      "forms": [
+        "hero",
+        "heroes"
+      ],
+      "tier": "core",
+      "phonetic": "/'hiәrәu/",
+      "partOfSpeech": "n.",
+      "meaning": "英雄；勇士",
+      "wordForms": "原文词形：heroes",
+      "sentence": "“Sometimes monsters can be heroes,” she said.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-10/heroes.mp3",
+      "phonics": [
+        {
+          "letters": "h",
+          "sound": "/h/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "er",
+          "sound": "/ər/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "o",
+          "sound": "/ɒ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "英雄；勇士",
+        "叹气；叹息",
+        "文明；教化"
+      ]
+    },
+    {
+      "id": "civilization",
+      "word": "civilization",
+      "forms": [
+        "civilization"
+      ],
+      "tier": "core",
+      "phonetic": "/si.vilai'zeiʃәn/",
+      "partOfSpeech": "n.",
+      "meaning": "文明；教化",
+      "wordForms": "原文词形：civilization",
+      "sentence": "They actually added a lot to civilization.”",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-10/civilization.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "v",
+          "sound": "/v/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "z",
+          "sound": "/z/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "tion",
+          "sound": "/ʃən/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "文明；教化",
+        "叹气；叹息",
+        "闪闪发光的；闪耀的"
+      ]
+    },
+    {
+      "id": "courage",
+      "word": "courage",
+      "forms": [
+        "courage"
+      ],
+      "tier": "core",
+      "phonetic": "/'kʌridʒ/",
+      "partOfSpeech": "n.",
+      "meaning": "勇气；胆量",
+      "wordForms": "原文词形：courage",
+      "sentence": "“Thank you also for your great courage,” Morgan said.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-10/courage.mp3",
+      "phonics": [
+        {
+          "letters": "c",
+          "sound": "/k/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ou",
+          "sound": "/aʊ/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "r",
+          "sound": "/r/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "a",
+          "sound": "/æ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "g",
+          "sound": "/g/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "e",
+          "sound": "/ɛ/",
+          "rule": "字母音"
+        }
+      ],
+      "options": [
+        "勇气；胆量",
+        "闪闪发光的；闪耀的",
+        "非常激动的；兴奋的"
+      ]
+    },
+    {
+      "id": "thrilled",
+      "word": "thrilled",
+      "forms": [
+        "thrilled"
+      ],
+      "tier": "core",
+      "phonetic": "/θrɪld/",
+      "partOfSpeech": "adj.",
+      "meaning": "非常激动的；兴奋的",
+      "wordForms": "原文词形：thrilled",
+      "sentence": "Jack was thrilled.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-10/thrilled.mp3",
+      "phonics": [
+        {
+          "letters": "thr",
+          "sound": "/θr/",
+          "rule": "辅音连缀"
+        },
+        {
+          "letters": "i",
+          "sound": "/ɪ/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "l",
+          "sound": "/l/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "ed",
+          "sound": "/d/",
+          "rule": "常见词尾"
+        }
+      ],
+      "options": [
+        "非常激动的；兴奋的",
+        "叹气；叹息",
+        "勇气；胆量"
+      ]
+    },
+    {
+      "id": "porch",
+      "word": "porch",
+      "forms": [
+        "porch"
+      ],
+      "tier": "core",
+      "phonetic": "/pɒ:tʃ/",
+      "partOfSpeech": "n.",
+      "meaning": "门廊；走廊",
+      "wordForms": "原文词形：porch",
+      "sentence": "The sun was rising when they got to their front porch.",
+      "sentenceAudio": "assets/audio/sentences/book-15-chapter-10/porch.mp3",
+      "phonics": [
+        {
+          "letters": "p",
+          "sound": "/p/",
+          "rule": "字母音"
+        },
+        {
+          "letters": "or",
+          "sound": "/ɔːr/",
+          "rule": "元音组合"
+        },
+        {
+          "letters": "ch",
+          "sound": "/tʃ/",
+          "rule": "辅音组合"
+        }
+      ],
+      "options": [
+        "门廊；走廊",
+        "女巫；女魔法师",
+        "勇气；胆量"
+      ]
+    }
+  ]
+}
