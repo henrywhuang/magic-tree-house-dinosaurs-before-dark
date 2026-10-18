@@ -26,7 +26,8 @@ python3 -m http.server 8080
 
 - 正文：Book 15–19 取自 OCR Word 版，逐章与有声书转写比对后在 `scripts/rebuild_bookNN.py` 的 `FIXES` 中修补 OCR 错字与错乱段落；Book 20 只有听写稿可用，正文由作者朗读的有声书转写校对而成（`scripts/book20_source.txt`）。
 - 音频：Book 15–16 来自 Books 9–16 合集逐轨（Book 16 第 10 章由 081+082 两轨拼接）；Book 17–20 由 Books 17–24 合集的整本音轨按章切分（`scripts/split_wholebook_audio.py`）。
-- 插图：暂为占位图，正式插图提示词见 `book-15-scene-prompts.md` … `book-20-scene-prompts.md`，生成后按文件名覆盖 `assets/images/book-NN-scenes/` 即可。
+- 插图：Book 15–20 已补齐正式剧情插图，每册 30 张，共 180 张。使用内置 `imagegen`，沿用前 14 册的水彩／水粉风格及 Jack、Annie、Morgan 的人物形象，逐册审图后统一为 1600×900 WebP，已按原文件名保存于 `assets/images/book-NN-scenes/`。分册场景提示词见 `book-15-scene-prompts.md` … `book-20-scene-prompts.md`。
+- 网页图片优化：直接从原始 PNG 编码为 WebP（quality 80、sharp YUV），保留 1600×900 尺寸。180 张合计从 77.7 MB 减至 46.5 MB，缩减 40.2%；缓存版本已更新，访问时会刷新旧占位图。
 
 ## Word 版直接下载
 
